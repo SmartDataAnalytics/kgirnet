@@ -43,7 +43,7 @@ else:
 
 if args.use_bert:
     # make imports
-    from models.KG_IR_Net_bert_incar import KGIRNet
+    from models.KG_IR_Net_bert import KGIRNet
     if args.dataset == 'incar':
         # from models.KG_IR_Net_bert_incar import KGIRNet
         from utils.batcher.incar_batcher_sep_vocab_bert import InCarBatcher

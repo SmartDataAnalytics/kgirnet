@@ -121,7 +121,7 @@ class KGIRNet(nn.Module):
         if use_teacher_forcing:
             for t in range(max_target_length):
                 decoder_vocab, decoder_hidden, _ = self.decoder(decoder_input, decoder_hidden, encoder_outputs, input_mask)  # B X H & TUPLE
-                decoder_vocab = decoder_vocab * input_graph
+                decoder_vocab = decoder_vocab
                 all_decoder_outputs_vocab[t] = decoder_vocab
                 decoder_input = response_out[t].long()  # Next input is current target
         else:
