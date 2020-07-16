@@ -14,6 +14,7 @@ from evaluators.bleu import get_moses_multi_bleu
 # from evaluators.eval_WE_WPI_multi import
 # from evaluators.gleu import corpus_gleu
 # from nltk.translate.meteor_score import meteor_score
+import os
 
 # Get arguments
 args = get_args()
@@ -22,7 +23,7 @@ print (args)
 np.random.seed(args.randseed)
 torch.manual_seed(args.randseed)
 wewpi_eval=0.0 # initialize with int and only once
-fasttext_emb='/home/debanjan/kgirnet_conll/data/wiki.simple.bin'
+fasttext_emb= os.getcwd()+'/data/wiki.simple.bin'
 # fasttext_emb='data/wiki.simple.bin'
 if args.gpu:
     torch.cuda.manual_seed(args.randseed)

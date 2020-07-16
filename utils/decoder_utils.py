@@ -19,7 +19,7 @@ class DecodeSentences:
         self.domain = domain
         self.stop = set(stopwords.words('english'))
         self.punc = string.punctuation
-        self.soccer_conv_map = np.load('/home/debanjan/submission_soccer/data/convfile2kg_mapping.npy', allow_pickle=True).item()  #  Load conv mapper for soccer dialogues
+        self.soccer_conv_map = np.load(os.getcwd()+'/data/convfile2kg_mapping.npy', allow_pickle=True).item()  #  Load conv mapper for soccer dialogues
         # self.er_dict, self.global_ent, self.eo_dict, self.e_r_l = self.chat_data.get_kg(self.data_path + 'KG/',
         # dat=self.domain)
 
