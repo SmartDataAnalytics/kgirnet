@@ -22,12 +22,12 @@ print (args)
 np.random.seed(args.randseed)
 torch.manual_seed(args.randseed)
 wewpi_eval=0.0 # initialize with int and only once
-fasttext_emb='/home/debanjan/submission_soccer/data/wiki.simple.bin'
+fasttext_emb='data/wiki.simple.bin'
 # fasttext_emb='data/wiki.simple.bin'
 if args.gpu:
     torch.cuda.manual_seed(args.randseed)
     # fasttext_emb='/data/home1/dchaudhuri/deep/soccerbot_acl/vocab/cc.en.300.bin'
-    fasttext_emb='/home/dchaudhuri/deep/submission_soccer/data/wiki.simple.bin'
+    fasttext_emb='data/wiki.simple.bin'
 
 
 # Define variables

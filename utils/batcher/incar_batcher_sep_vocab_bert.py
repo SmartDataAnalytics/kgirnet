@@ -19,9 +19,9 @@ class InCarBatcher:
     '''
     Class for handling soccer batches
     '''
-    def __init__(self, data_path='/home/debanjan/submission_soccer/data/incar/',
+    def __init__(self, data_path='data/incar/',
                  pretrained_weights='bert-base-uncased', use_bert=True,
-                 fasttext_model='/home/debanjan/acl_submissions/soccerbot_acl/vocab/wiki.simple.bin',
+                 fasttext_model='data/wiki.simple.bin',
                  batch_size=32, max_sent_len=20, vec_dim=300, max_resp_len=15, gpu=False, domain='incar'):
                  # fasttext_model='/home/debanjan/acl_submissions/soccerbot_acl/vocab/wiki.simple.bin',
         self.args = get_args()

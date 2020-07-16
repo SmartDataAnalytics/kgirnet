@@ -1,6 +1,5 @@
 import torch
 import numpy as np
-import random
 # from utils.utils_graph import gen_adjacency_mat, get_degree_matrix, getER_vec
 # from collections import defaultdict
 # import pandas as pd
@@ -19,9 +18,9 @@ class SoccerBatcher:
     '''
     Class for handling soccer batches
     '''
-    def __init__(self, data_path='/home/debanjan/submission_soccer/data/soccer/',
+    def __init__(self, data_path='data/soccer/',
                  pretrained_weights='bert-base-uncased', use_bert=True, min_vocab_freq=1.0,
-                 fasttext_model='/home/debanjan/acl_submissions/soccerbot_acl/vocab/wiki.simple.bin',
+                 fasttext_model='data/wiki.simple.bin',
                  batch_size=32, max_sent_len=20, vec_dim=300, max_resp_len=15, gpu=False, domain='soccer'):
                  # fasttext_model='/home/debanjan/acl_submissions/soccerbot_acl/vocab/wiki.simple.bin',
         self.args = get_args()
