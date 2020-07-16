@@ -22,11 +22,11 @@ print (args)
 np.random.seed(args.randseed)
 torch.manual_seed(args.randseed)
 wewpi_eval=0.0 # initialize with int and only once
-fasttext_emb='data/wiki.simple.bin'
+fasttext_emb='/home/debanjan/kgirnet_conll/data/wiki.simple.bin'
 # fasttext_emb='data/wiki.simple.bin'
 if args.gpu:
     torch.cuda.manual_seed(args.randseed)
-    # fasttext_emb='/data/home1/dchaudhuri/deep/soccerbot_acl/vocab/cc.en.300.bin'
+    # fasttext_emb='/data/home1/deep/soccerbot_acl/vocab/cc.en.300.bin'
     fasttext_emb='data/wiki.simple.bin'
 
 
@@ -288,8 +288,8 @@ def _test(model, k=10):
 
 
 if __name__ == '__main__':
-    if args.evaluate:
+    if not args.evaluate:
         train()
         _test(model)
-    else: # Only evaluate the model
+    else:  # Only evaluate the model
         _test(model)
