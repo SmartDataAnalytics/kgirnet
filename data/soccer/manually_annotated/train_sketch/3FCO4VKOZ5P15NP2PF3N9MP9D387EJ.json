@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "bvb dortmund fans are just great , are n't they \\?",
+        "a1": "among the best in the world , loyal , vocal and show up in serious numbers home and away !",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "among the best in the world , loyal , vocal and show up in serious numbers home and away !",
+        "a1_v2": "among the best in the world , loyal , vocal and show up in serious numbers home and away !",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "what makes bvb dortmund 's fans so great \\?",
+        "a2": "they hype up the crowd",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they hype up the crowd",
+        "a2_v2": "they hype up the crowd",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bvb dortmund"
+    },
+    {
+        "q3": "how many fans to dortmund take to a home game \\?",
+        "a3": "last year their average attendance was 79653",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "last year their average attendance was 79653",
+        "a3_v2": "last year their average attendance was 79653",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "woah , that alot 's of fans what 's do the fans chant the most during home games \\?",
+        "a4": "immer fur dich da",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "immer fur dich da",
+        "a4_v2": "immer fur dich da",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "what colors they play in \\?",
+        "a5": "bvb dortmund colors are black and yellow",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "bvb dortmund colors are black and @object",
+        "a5_v2": "bvb dortmund colors are black and @jersey_color",
+        "corr_rel5": "jersey color",
+        "obj5": "yellow",
+        "input_ent5": "bvb dortmund"
+    }
+]

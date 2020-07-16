@@ -1,0 +1,188 @@
+[
+    {
+        "q1": "i love senegal",
+        "a1": "me too i love sadio mane and balde diao ",
+        "kgER1": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "me too i love @object and balde diao ",
+        "a1_v2": "me too i love sadio mane and balde diao ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "senegal"
+    },
+    {
+        "q2": "sadio mane plays for liverpool?",
+        "a2": "yes, he plays for liverpool in the premier league. ",
+        "kgER2": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "sadio mane": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes, he plays for @entity in the premier league. ",
+        "a2_v2": "yes, he plays for liverpool in the premier league. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "sadio mane"
+    },
+    {
+        "q3": "he is a great player, a good future awaits him ",
+        "a3": "i love watching mane play. who else do you think stands out as being an excellent player on the national team?",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "sadio mane": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i love watching mane play. who else do you think stands out as being an excellent player on the national team?",
+        "a3_v2": "i love watching mane play. who else do you think stands out as being an excellent player on the national team?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "loris karius",
+        "a4": "should more players stay in the african league rather than moving to big paying clubs? ",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "sadio mane": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "should more players stay in the african league rather than moving to big paying clubs? ",
+        "a4_v2": "should more players stay in the african league rather than moving to big paying clubs? ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "loris karius is staying on ?",
+        "a5": "yep, karius believes in hometown loyalty and will be staying in africa.",
+        "kgER5": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "sadio mane": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yep, karius believes in hometown loyalty and will be staying in africa.",
+        "a5_v2": "yep, karius believes in hometown loyalty and will be staying in africa.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,160 @@
+[
+    {
+        "q1": "what is the name of f.c. porto's stadium?",
+        "a1": "est\u00e1dio do drag\u00e3o",
+        "kgER1": {
+            "emirates stadium": [
+                "ground",
+                "capacity"
+            ],
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "est\u00e1dio do drag\u00e3o",
+        "a1_v2": "est\u00e1dio do drag\u00e3o",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "est\u00e1dio do drag\u00e3o is the stadium of fc porto or barcelona?",
+        "a2": "that is f.c. porto's stadium, barcelona is camp nou ",
+        "kgER2": {
+            "emirates stadium": [
+                "ground",
+                "capacity"
+            ],
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "that is f.c. porto's stadium, @entity is camp nou ",
+        "a2_v2": "that is f.c. porto's stadium, barcelona is camp nou ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "have they ever won the champions? ",
+        "a3": "yes,their coach was jose mourinho at that time.",
+        "kgER3": {
+            "emirates stadium": [
+                "ground",
+                "capacity"
+            ],
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "yes,their @relation was @object at that time.",
+        "a3_v2": "yes,their coach was jose mourinho at that time.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ever banega"
+    },
+    {
+        "q4": "who is their most valuable goalkeeper?",
+        "a4": "i'd say vana.",
+        "kgER4": {
+            "emirates stadium": [
+                "ground",
+                "capacity"
+            ],
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "i'd say vana.",
+        "a4_v2": "i'd say vana.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "goalkeeper"
+    },
+    {
+        "q5": "how old is vana?",
+        "a5": "he isn't that old.",
+        "kgER5": {
+            "emirates stadium": [
+                "ground",
+                "capacity"
+            ],
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "he isn't that old.",
+        "a5_v2": "he isn't that old.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "old trafford"
+    }
+]

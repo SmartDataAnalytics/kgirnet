@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is the captain of columbia?",
+        "a1": "radamel falcao",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@captain",
+        "corr_rel1": "captain",
+        "obj1": "radamel falcao",
+        "input_ent1": "colombia"
+    },
+    {
+        "q2": "how long has he been the captain?",
+        "a2": "he's been captain since 2015.",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "he's been @relation since 2015.",
+        "a2_v2": "he's been captain since 2015.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "will columbia ever beat japan?",
+        "a3": "yes, they're a better team. japan just got lucky. ",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes, they're a better team. japan just got lucky. ",
+        "a3_v2": "yes, they're a better team. japan just got lucky. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ever banega"
+    },
+    {
+        "q4": "if the world cup field doesn't expand for 2022 will colombia even make it?",
+        "a4": "i think so, they have a strong team.",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i think so, they have a strong team.",
+        "a4_v2": "i think so, they have a strong team.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "colombia"
+    },
+    {
+        "q5": "can columbia win the copa america? ",
+        "a5": "i think they have a good chance.",
+        "kgER5": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think they have a good chance.",
+        "a5_v2": "i think they have a good chance.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "emre can"
+    }
+]

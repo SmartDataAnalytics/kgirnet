@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "will it be stormy in redwood_city on wednesday",
+        "a1": "no wednesday it will be hot in redwood_city",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "wednesday",
+        "obj1": "hot",
+        "input_ent1": "redwood_city",
+        "kvr_entlist_qa1": [
+            "hot",
+            "redwood_city",
+            "wednesday"
+        ]
+    },
+    {
+        "q2": "thank you",
+        "a2": "anytime",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

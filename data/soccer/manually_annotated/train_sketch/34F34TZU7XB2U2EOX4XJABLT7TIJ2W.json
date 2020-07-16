@@ -1,0 +1,111 @@
+[
+    {
+        "q1": "who is the best player for f.c. porto in your opinion?",
+        "a1": "torres",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "torres",
+        "a1_v2": "torres",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "i agree. torres is exciting to watch. ",
+        "a2": "he's a great player!",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "he's a great player!",
+        "a2_v2": "he's a great player!",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "oliver torres"
+    },
+    {
+        "q3": "how many goals has torres scored this season?",
+        "a3": "he hasn't scored any yet",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "he hasn't scored any yet",
+        "a3_v2": "he hasn't scored any yet",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "oliver torres"
+    },
+    {
+        "q4": "what is the strength of torres?",
+        "a4": "he is great offensively! has great speed",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "he is great offensively! has great speed",
+        "a4_v2": "he is great offensively! has great speed",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "oliver torres"
+    },
+    {
+        "q5": "what are the other specialities of torres?",
+        "a5": "he is decent defense as well",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "he is decent @relation as well",
+        "a5_v2": "he is decent defense as well",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "oliver torres"
+    }
+]

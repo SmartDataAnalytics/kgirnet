@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "what s the weather supposed to be like in new_york city on monday",
+        "a1": "the weather on monday in new_york city is clear_skies with the highs in 80s and lows in the 60s",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "monday",
+        "obj1": "clear,skies",
+        "input_ent1": "new_york",
+        "kvr_entlist_qa1": [
+            "monday",
+            "new_york",
+            "clear_skies"
+        ]
+    },
+    {
+        "q2": "thank you",
+        "a2": "no problem",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

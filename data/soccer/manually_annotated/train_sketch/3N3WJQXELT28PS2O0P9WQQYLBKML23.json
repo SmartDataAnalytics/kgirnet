@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "what is the name of barcelona's goal keeper ?",
+        "a1": "ter steigan",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "ter steigan",
+        "a1_v2": "ter steigan",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "do barcelona need to find a backup to suarez?",
+        "a2": "how many members in barcelona",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "how many members in @entity",
+        "a2_v2": "how many members in barcelona",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "barcelona"
+    },
+    {
+        "q3": "the barcelona have enough suplents for suarez, actually they only have to have a griezmann and already with that they have a too strong and solid template.",
+        "a3": "suarez is one of the best in the world",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "suarez is one of the best in the world",
+        "a3_v2": "suarez is one of the best in the world",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "barcelona"
+    },
+    {
+        "q4": "who is barcelona's 2nd best player?",
+        "a4": "lionel messi is first so luis suarez is second in my opinion",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object is first so @object is second in my opinion",
+        "a4_v2": "lionel messi is first so luis suarez is second in my opinion",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "yes, i totally agree",
+        "a5": "i agree as well.",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i agree as well.",
+        "a5_v2": "i agree as well.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

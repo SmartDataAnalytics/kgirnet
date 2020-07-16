@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "what time is dinner and who is attending",
+        "a1": "there are dinners on the_10th and on friday for which one are you looking for",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "date",
+        "obj1": "the_10th",
+        "input_ent1": "dinner",
+        "kvr_entlist_qa1": [
+            "the_10th",
+            "friday"
+        ]
+    },
+    {
+        "q2": "the one on the_10th",
+        "a2": "the dinner on the_10th is at 8pm with your aunt",
+        "input_rel2": "date",
+        "corr_rel2": "party",
+        "obj2": "aunt",
+        "input_ent2": "the_10th",
+        "kvr_entlist_qa2": [
+            "dinner",
+            "aunt",
+            "8pm",
+            "the_10th"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "my pleasure",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

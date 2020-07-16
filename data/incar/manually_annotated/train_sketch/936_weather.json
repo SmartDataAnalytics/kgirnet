@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "check the weather for the 7 day forecast",
+        "a1": "what city would you like to hear the 7 day weather forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i need to know if it is going to be raining in the next 7 days for grand_rapids",
+        "a2": "it will be raining on monday saturday and sunday in grand_rapids this week",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "saturday,sunday,monday",
+        "obj2": "rain",
+        "input_ent2": "grand_rapids",
+        "kvr_entlist_qa2": [
+            "grand_rapids",
+            "monday",
+            "sunday",
+            "saturday",
+            "week"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "q1": "who is your favorite player on chelsea \\?",
+        "a1": "willien",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "willien",
+        "a1_v2": "willien",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "who is the manager of chelsea \\?",
+        "a2": "mauricio zarri",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "mauricio zarri",
+        "corr_rel2": "coach",
+        "obj2": "maurizio sarri",
+        "input_ent2": "chelsea"
+    },
+    {
+        "q3": "what color are chelsea 's jerseys \\?",
+        "a3": "they play in blue",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "they play in @object",
+        "a3_v2": "they play in @jersey_color",
+        "corr_rel3": "jersey color",
+        "obj3": "blue",
+        "input_ent3": "chelsea"
+    },
+    {
+        "q4": "how long has chelsea played in blue \\?",
+        "a4": "for a good number of years now",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "blue": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "for a good number of years now",
+        "a4_v2": "for a good number of years now",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "chelsea"
+    }
+]

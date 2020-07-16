@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "get me directions to the nearest shopping mall",
+        "a1": "the nearest shopping mall is stanford_shopping_center it s located 3_miles away and there is no_traffic to reach it",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "distance",
+        "obj1": "stanford_shopping_center,3_miles",
+        "input_ent1": "midtown_shopping_center",
+        "kvr_entlist_qa1": [
+            "no_traffic",
+            "stanford_shopping_center",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "sounds great thanks",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

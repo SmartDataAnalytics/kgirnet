@@ -1,0 +1,54 @@
+[
+    {
+        "q1": "where is there a pizza place near me",
+        "a1": "pizza_my_heart is 4_miles away but a car collision is being reported",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "pizza_my_heart",
+        "input_ent1": "pizza_restaurant",
+        "kvr_entlist_qa1": [
+            "4_miles",
+            "pizza_my_heart"
+        ]
+    },
+    {
+        "q2": "okay where is pizza_my_heart",
+        "a2": "its address is 528_anton_ct i sent the directions on your screen",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "528_anton_ct",
+        "input_ent2": "pizza_my_heart",
+        "kvr_entlist_qa2": [
+            "528_anton_ct"
+        ]
+    },
+    {
+        "q3": "please highlight a quick route on the map for me",
+        "a3": "here is a quick route to pizza_my_heart",
+        "input_rel3": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel3": "",
+        "obj3": "none",
+        "input_ent3": "high",
+        "kvr_entlist_qa3": [
+            "pizza_my_heart"
+        ]
+    },
+    {
+        "q4": "thank you very much car",
+        "a4": "you are welcome driver",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    },
+    {
+        "q5": "great",
+        "a5": "have a safe trip",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

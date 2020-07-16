@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "all i have to say this is one of my favorite team to play",
+        "a1": "mexico is my favorite to play.",
+        "kgER1": {},
+        "a1_skt": "@entity is my favorite to play.",
+        "a1_v2": "mexico is my favorite to play.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "belguim can beat mexico.",
+        "a2": "belgium can, they have talent and play strcutured",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity can, they have talent and play strcutured",
+        "a2_v2": "belgium can, they have talent and play strcutured",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "mexico"
+    },
+    {
+        "q3": "i think lukaku will score for them.",
+        "a3": "does anyone else think they have cool uniforms?",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "does anyone else think they have cool uniforms?",
+        "a3_v2": "does anyone else think they have cool uniforms?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "romelu lukaku"
+    },
+    {
+        "q4": "will lukaku develop into an even better player?",
+        "a4": "if he stays with belgium he will.",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "if he stays with @entity he will.",
+        "a4_v2": "if he stays with belgium he will.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "romelu lukaku"
+    },
+    {
+        "q5": "how many appearances does lukaku have for belgium? ",
+        "a5": "75 in total",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object in total",
+        "a5_v2": "75 in total",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "belgium"
+    }
+]

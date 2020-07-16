@@ -1,0 +1,155 @@
+[
+    {
+        "q1": "i like this good team ",
+        "a1": "they are ok.",
+        "kgER1": {
+            "olivier giroud": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a1_skt": "they are ok.",
+        "a1_v2": "they are ok.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "how did uruguay do in the 2018 world cup?",
+        "a2": "uruguay won 4 out of 5 matches.",
+        "kgER2": {
+            "olivier giroud": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity won @object out of @object matches.",
+        "a2_v2": "uruguay won 4 out of 5 matches.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2018"
+    },
+    {
+        "q3": "he did it quite well, he got considerably far ",
+        "a3": "this year was not their best year in the world cup in 1954 and 1970 they placed 4th",
+        "kgER3": {
+            "olivier giroud": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "this year was not their best year in the world cup in @object and @object they placed 4th",
+        "a3_v2": "this year was not their best year in the world cup in 1954 and 1970 they placed 4th",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "when did uruguay last win a world cup?",
+        "a4": "uruguay won its last world cup in 1950",
+        "kgER4": {
+            "olivier giroud": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity won its last world cup in @object",
+        "a4_v2": "@entity won its last world cup in @world_cup_champions",
+        "corr_rel4": "world cup champions",
+        "obj4": "1950",
+        "input_ent4": "uruguay"
+    },
+    {
+        "q5": "do you think they will win again?",
+        "a5": "they can if suarez play better",
+        "kgER5": {
+            "olivier giroud": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they can if suarez play better",
+        "a5_v2": "they can if suarez play better",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

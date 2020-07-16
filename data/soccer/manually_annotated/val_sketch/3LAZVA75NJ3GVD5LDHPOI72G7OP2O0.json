@@ -1,0 +1,148 @@
+[
+    {
+        "q1": "why does argentina underachieve in big tournaments?",
+        "a1": "they just don't have good leadership",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they just don't have good leadership",
+        "a1_v2": "they just don't have good leadership",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "in which continent argentina plays?",
+        "a2": "they play in south america. it's a great continent for football",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they play in south america. it's a great continent for football",
+        "a2_v2": "they play in south america. it's a great continent for football",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "argentina"
+    },
+    {
+        "q3": "are they the best side there in terms of strength? ",
+        "a3": "not they are not, brazil is.",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "not they are not, @entity is.",
+        "a3_v2": "not they are not, brazil is.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "do you think argentina is better than brazil?",
+        "a4": "no, i think brazil is better",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "no, i think @entity is better",
+        "a4_v2": "no, i think brazil is better",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "argentina"
+    },
+    {
+        "q5": "which team is better argentina or portugal?",
+        "a5": "i personally like portugal better",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i personally like @entity better",
+        "a5_v2": "i personally like portugal better",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "argentina"
+    }
+]

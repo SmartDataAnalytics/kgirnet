@@ -1,0 +1,82 @@
+[
+    {
+        "q1": "who is your favorite player on chelsea?",
+        "a1": "eden hazard",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "eden hazard",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "is hazard the best in the world ?",
+        "a2": "eden hazard is one of the top players but i wouldn't say he's the best.",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "@object is one of the top players but i wouldn't say he's the best.",
+        "a2_v2": "eden hazard is one of the top players but i wouldn't say he's the best.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "eden hazard"
+    },
+    {
+        "q3": "who would you say is the best, then?",
+        "a3": "the best in the world might be ronaldo, currently.",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "the best in the world might be ronaldo, currently.",
+        "a3_v2": "the best in the world might be ronaldo, currently.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "the team's shirt is what color ?",
+        "a4": "it is blue.",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "it is @object",
+        "a4_v2": "it is @jersey_color",
+        "corr_rel4": "jersey color",
+        "obj4": "blue",
+        "input_ent4": "chelsea"
+    }
+]

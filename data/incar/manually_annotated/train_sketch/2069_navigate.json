@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "please give me the address and directions via a route with no_traffic to a nearby grocery_store",
+        "a1": "sigona_farmers_market is located at 638_amherst_st 6_miles away in heavy_traffic would you like directions there",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "sigona_farmers_market",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "638_amherst_st",
+            "6_miles",
+            "sigona_farmers_market",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q2": "yes please",
+        "a2": "setting navigation to sigona_farmers_market now",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "sigona_farmers_market"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

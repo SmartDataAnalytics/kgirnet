@@ -1,0 +1,124 @@
+[
+    {
+        "q1": "i like the team bayern munich",
+        "a1": "they're a good team but have a lot of old players and will probably be going through a transition soon.",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they're a good team but have a lot of old players and will probably be going through a transition soon.",
+        "a1_v2": "they're a good team but have a lot of old players and will probably be going through a transition soon.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "yes this is very true",
+        "a2": "who is their top scorer?",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "who is their top scorer?",
+        "a2_v2": "who is their top scorer?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "top scorer robert lewandowski",
+        "a3": "robert lewandowski is the top scorer for bayern m",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "robert lewandowski": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "@object is the top scorer for bayern m",
+        "a3_v2": "robert lewandowski is the top scorer for bayern m",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "robert lewandowski"
+    },
+    {
+        "q4": "name the best goaly ever?",
+        "a4": "the best goalkeeper is squares",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "robert lewandowski": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "the best @relation is squares",
+        "a4_v2": "the best goalkeeper is squares",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ever banega"
+    },
+    {
+        "q5": "who is bayern munich's biggest rival?",
+        "a5": "baden",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "robert lewandowski": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "baden",
+        "a5_v2": "baden",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bayern munich"
+    }
+]

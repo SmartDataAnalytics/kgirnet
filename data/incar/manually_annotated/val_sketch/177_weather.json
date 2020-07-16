@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "what s the weather forecast for the next_week",
+        "a1": "what city are you inquiring about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "san_francisco",
+        "a2": "in the next_week in san_francisco it will be dry on monday raining on tuesday hail on wednesday and thursday hot on friday overcast on saturday frost on sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "next_week,hail,frost,hot,overcast,san_francisco,dry",
+        "input_ent2": "san_francisco",
+        "kvr_entlist_qa2": [
+            "saturday",
+            "monday",
+            "next_week",
+            "sunday",
+            "hail",
+            "tuesday",
+            "frost",
+            "hot",
+            "overcast",
+            "san_francisco",
+            "wednesday",
+            "friday",
+            "dry",
+            "thursday"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

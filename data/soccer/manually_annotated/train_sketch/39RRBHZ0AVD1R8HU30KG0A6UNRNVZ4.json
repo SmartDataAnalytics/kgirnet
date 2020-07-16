@@ -1,0 +1,150 @@
+[
+    {
+        "q1": "how far did they go in the world cup?",
+        "a1": "they reached the final but lost.",
+        "kgER1": {
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "they reached the final but lost.",
+        "a1_v2": "they reached the final but lost.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "will croatia do it again in 2018?",
+        "a2": "they just did do it in 2018",
+        "kgER2": {
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they just did do it in @object",
+        "a2_v2": "they just did do it in 2018",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2018"
+    },
+    {
+        "q3": "world cup",
+        "a3": "how far will croatia make it at the next world cup?",
+        "kgER3": {
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "how far will @entity make it at the next world cup?",
+        "a3_v2": "how far will croatia make it at the next world cup?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "they will come in second.",
+        "a4": "i think they will come in 3rd. ",
+        "kgER4": {
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i think they will come in 3rd. ",
+        "a4_v2": "i think they will come in 3rd. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "who is the best player on croatia?",
+        "a5": "luka modric who plays for spanish club real madrid and is also the captain of the croatian team.",
+        "kgER5": {
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object who plays for spanish club @entity and is also the @relation of the @entity team.",
+        "a5_v2": "luka modric who plays for spanish club real madrid and is also the captain of the croatian team.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "croatia"
+    }
+]

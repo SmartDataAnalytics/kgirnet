@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "find me the nearest gas_station",
+        "a1": "the nearest gas_station is located 5_miles away need more info",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "distance",
+        "obj1": "5_miles",
+        "input_ent1": "valero",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "gas_station"
+        ]
+    },
+    {
+        "q2": "please pick the quickest route to get there thank you",
+        "a2": "setting gps for quickest route to valero gas_station now",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "gas_station",
+            "valero"
+        ]
+    },
+    {
+        "q3": "display address on screen please",
+        "a3": "valero is located at 200_alester_ave",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel3": "address",
+        "obj3": "200_alester_ave",
+        "input_ent3": "valero",
+        "kvr_entlist_qa3": [
+            "200_alester_ave",
+            "valero"
+        ]
+    },
+    {
+        "q4": "thanks for the information",
+        "a4": "you re welcome glad i could help",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

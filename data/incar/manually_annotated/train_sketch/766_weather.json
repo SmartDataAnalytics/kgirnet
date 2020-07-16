@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "is it going to rain this week",
+        "a1": "for what location do you want to know if it will rain",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "rain"
+        ]
+    },
+    {
+        "q2": "san_jose",
+        "a2": "this week in san_jose it is predicted to rain today and drizzle on saturday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday,saturday",
+        "obj2": "rain,drizzle",
+        "input_ent2": "san_jose",
+        "kvr_entlist_qa2": [
+            "san_jose",
+            "saturday",
+            "rain",
+            "today",
+            "drizzle",
+            "week"
+        ]
+    },
+    {
+        "q3": "thanks car",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

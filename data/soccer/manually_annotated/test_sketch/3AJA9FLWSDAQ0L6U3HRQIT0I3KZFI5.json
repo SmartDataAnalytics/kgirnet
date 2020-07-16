@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i love belgium",
+        "a1": "i think eden hazard is a great forward.",
+        "kgER1": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i think @object is a great @relation",
+        "a1_v2": "i think eden hazard is a great forward.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "belgium"
+    },
+    {
+        "q2": "what position does hazard play in this team? i'm not familiar.",
+        "a2": "i'm familiar, i think it's a good forward",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i'm familiar, i think it's a good @object",
+        "a2_v2": "i'm familiar, i think it's a good @position",
+        "corr_rel2": "position",
+        "obj2": "forward",
+        "input_ent2": "belgium"
+    },
+    {
+        "q3": "got it, did he score many goals this world cup? ",
+        "a3": "yes, he scored",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes, he scored",
+        "a3_v2": "yes, he scored",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who played for belgium this year?",
+        "a4": "eden hazard.",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "eden hazard.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "belgium"
+    },
+    {
+        "q5": "who else played for belgium?",
+        "a5": "de bruyne",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "de bruyne",
+        "a5_v2": "de bruyne",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "belgium"
+    }
+]

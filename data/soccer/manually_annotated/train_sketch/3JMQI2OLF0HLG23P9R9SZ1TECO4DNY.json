@@ -1,0 +1,239 @@
+[
+    {
+        "q1": "what do you think about portugal's performance in the world cup? cristiano ronaldo had a lot to prove. ",
+        "a1": "i think portugal could have gone all the way. perhaps they rely on ronaldo too much. ",
+        "kgER1": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i think @entity could have gone all the way. perhaps they rely on ronaldo too much. ",
+        "a1_v2": "i think portugal could have gone all the way. perhaps they rely on ronaldo too much. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "cristiano ronaldo"
+    },
+    {
+        "q2": "he is is the oneof the player who is working hard",
+        "a2": "there just isn't enough quality in the rest of the team.",
+        "kgER2": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "there just isn't enough quality in the rest of the team.",
+        "a2_v2": "there just isn't enough quality in the rest of the team.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "do you think ronaldo will retire from international football now?",
+        "a3": "no, i think that ronaldo will try to make it to the next world cup. he just signed a new contract with juventus and wants to keep playing four more seasons.",
+        "kgER3": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "no, i think that ronaldo will try to make it to the next world cup. he just signed a new contract with @entity and wants to keep playing four more seasons.",
+        "a3_v2": "no, i think that ronaldo will try to make it to the next world cup. he just signed a new contract with juventus and wants to keep playing four more seasons.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "cristiano ronaldo"
+    },
+    {
+        "q4": "how long do you think he will stay at juventus?",
+        "a4": "long enough..",
+        "kgER4": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "long enough..",
+        "a4_v2": "long enough..",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "juventus"
+    },
+    {
+        "q5": "do you think he can make it to the next would cup with out getting dangerously injured during a game?",
+        "a5": "yes the cue team is portugal but it is more about ronaldo",
+        "kgER5": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "yes the cue team is @entity but it is more about ronaldo",
+        "a5_v2": "yes the cue team is portugal but it is more about ronaldo",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "emre can"
+    },
+    {
+        "q6": "are you a portugal fan?",
+        "a6": "i'm not really a fan though i do enjoy watching ronaldo.  been nice talking to you.  take care.",
+        "kgER6": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a6_skt": "i'm not really a fan though i do enjoy watching ronaldo.  been nice talking to you.  take care.",
+        "a6_v2": "i'm not really a fan though i do enjoy watching ronaldo.  been nice talking to you.  take care.",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "portugal"
+    }
+]

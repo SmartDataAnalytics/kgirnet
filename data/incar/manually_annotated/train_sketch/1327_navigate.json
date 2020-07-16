@@ -1,0 +1,48 @@
+[
+    {
+        "q1": "where can i find tea around me",
+        "a1": "the nearest tea places are phils in 5_miles and teavana in 6_miles there is heavy_traffic to reach phils and no_traffic on the route to teavana",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "teavana",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "teavana",
+            "5_miles",
+            "no_traffic",
+            "6_miles",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q2": "let s try teavana since it has no_traffic",
+        "a2": "teavana is 6_miles away at 145_amherst_st we should be there soon",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "145_amherst_st",
+        "input_ent2": "teavana",
+        "kvr_entlist_qa2": [
+            "teavana",
+            "6_miles",
+            "145_amherst_st"
+        ]
+    },
+    {
+        "q3": "please set the gps to teavana",
+        "a3": "i sent the info on your map drive carefully",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thanks so much",
+        "a4": "you re very welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "q1": "what is the name of the arena where bayern munich plays?",
+        "a1": "fc bayern plays in the allianz arena",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "fc bayern plays in the @object",
+        "a1_v2": "fc bayern plays in the allianz arena",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "and what is the capacity ?",
+        "a2": "75,000 people",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object people",
+        "a2_v2": "@capacity people",
+        "corr_rel2": "capacity",
+        "obj2": "75,000",
+        "input_ent2": "bayern munich"
+    },
+    {
+        "q3": "will bayern munich win the bundasliga",
+        "a3": "i think they might be the favoriet",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think they might be the favoriet",
+        "a3_v2": "i think they might be the favoriet",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "what is the captain of the bayern called ",
+        "a4": "the bayern munich captain is philipp lahm.",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "the @entity @relation is philipp lahm.",
+        "a4_v2": "the bayern munich captain is philipp lahm.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "well, actually phillip retired, didn't he?",
+        "a5": "he is not yet the captain",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "he is not yet the @relation",
+        "a5_v2": "he is not yet the captain",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "of course yes",
+        "kgER1": {},
+        "a1_skt": "of course yes",
+        "a1_v2": "of course yes",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "with the amount of young talent and the disappointment of the 2018 world cup, i think they will be hungry for the next world cup.",
+        "a2": "germany will make changes for 2022 after their terrible 2018 world cup.",
+        "kgER2": {},
+        "a2_skt": "@entity will make changes for @object after their terrible @object world cup.",
+        "a2_v2": "germany will make changes for 2022 after their terrible 2018 world cup.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2018"
+    },
+    {
+        "q3": "can germany win it all next fifa world cup?",
+        "a3": "now that they replaced their old players, i think they will definitely play much better.",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "now that they replaced their old players, i think they will definitely play much better.",
+        "a3_v2": "now that they replaced their old players, i think they will definitely play much better.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "germany"
+    },
+    {
+        "q4": "does germany have the most wc wins?",
+        "a4": "no, brazil has more than germany.",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "no, @entity has more than @entity",
+        "a4_v2": "no, brazil has more than germany.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "germany"
+    }
+]

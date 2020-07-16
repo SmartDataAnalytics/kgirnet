@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "can you give me the address and the quickest route directions to a gas_station within two miles of here",
+        "a1": "the only gas_station is shell at 4_miles away but a roadblock is being reported",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi, traffic_info",
+        "obj1": "shell,4_miles",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "shell",
+            "4_miles",
+            "gas_station"
+        ]
+    },
+    {
+        "q2": "ok please give me the address and directions via the shortest distance",
+        "a2": "the address is 53_university_av and i am setting gps presently",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "address",
+        "obj2": "53_university_av",
+        "input_ent2": "shell",
+        "kvr_entlist_qa2": [
+            "53_university_av"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome drive carefully",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

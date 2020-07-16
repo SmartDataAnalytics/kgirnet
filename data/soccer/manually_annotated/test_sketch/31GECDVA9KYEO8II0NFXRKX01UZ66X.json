@@ -1,0 +1,133 @@
+[
+    {
+        "q1": "how did spain do in the world cup?",
+        "a1": "not good enough that was expected. ",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "not good enough that was expected. ",
+        "a1_v2": "not good enough that was expected. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "spain"
+    },
+    {
+        "q2": "who will step up for the spain national team in the next world cup?",
+        "a2": "that depends on which league players participate. ",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "that depends on which league players participate. ",
+        "a2_v2": "that depends on which league players participate. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "spain"
+    },
+    {
+        "q3": "who would you personally like to see participate?",
+        "a3": "isco",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "isco",
+        "a3_v2": "isco",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is your favourite defender in the  spanish national team?",
+        "a4": "my favorite defender is sergio ramos, but puyol is the best of the best",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a4_skt": "my favorite @relation is @object but puyol is the best of the best",
+        "a4_v2": "my favorite defender is sergio ramos, but puyol is the best of the best",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "defender"
+    },
+    {
+        "q5": "i think we sergio ramos because puyol is a legend",
+        "a5": "i think pique is better than sergio ramos and puyol was the best defense ",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ],
+            "sergio ramos": [
+                "captain",
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "i think pique is better than @object and puyol was the best @relation ",
+        "a5_v2": "i think pique is better than sergio ramos and puyol was the best defense ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "sergio ramos"
+    }
+]

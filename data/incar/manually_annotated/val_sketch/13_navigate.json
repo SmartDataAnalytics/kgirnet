@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "car i m desiring to eat pizza please pick a restaurant around here and avoid all heavy_traffic",
+        "a1": "only dominos is here and there is heavy_traffic",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "heavy_traffic",
+            "dominos"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "domino s address is 776_arastradero_rd",
+        "input_rel2": "car_collision_nearby,moderate_traffic,poi,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "address",
+        "obj2": "776_arastradero_rd",
+        "input_ent2": "dominos",
+        "kvr_entlist_qa2": [
+            "776_arastradero_rd"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

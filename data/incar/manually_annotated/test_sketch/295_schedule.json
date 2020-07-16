@@ -1,0 +1,26 @@
+[
+    {
+        "q1": "tell me all the events and meeting scheduled on my calendar for today",
+        "a1": "today you have a 7pm meeting with hr to discuss_the_merger",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,agenda",
+        "obj1": "7pm,discuss_the_merger",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "today",
+            "discuss_the_merger",
+            "7pm",
+            "meeting",
+            "hr"
+        ]
+    },
+    {
+        "q2": "thank you",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

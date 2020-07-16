@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "please let me know the weather forecast for tomorrow",
+        "a1": "for what city would you like the forecast",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "will it be overcast in manhattan tomorrow",
+        "a2": "it will not be overcast in manhattan tomorrow",
+        "input_rel2": "party",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "manhattan",
+        "kvr_entlist_qa2": [
+            "manhattan",
+            "overcast",
+            "tomorrow"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

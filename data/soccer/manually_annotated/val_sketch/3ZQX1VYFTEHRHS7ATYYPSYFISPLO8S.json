@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "love bayern munich",
+        "a1": "its a great team!",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "its a great team!",
+        "a1_v2": "its a great team!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "who's your favourite player?",
+        "a2": "my favorite player is thiago",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "my favorite player is @object",
+        "a2_v2": "my favorite player is thiago",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "yes it is but i like james too",
+        "a3": "is bayern munich better than france?",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "is @entity better than @entity",
+        "a3_v2": "is bayern munich better than france?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "james rodriguez"
+    },
+    {
+        "q4": "one is a national side and one is a national club so i can't answer that ",
+        "a4": "i think they play very strategically",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i think they play very strategically",
+        "a4_v2": "i think they play very strategically",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "white and red"
+    },
+    {
+        "q5": "munich will do well this coming season?",
+        "a5": "no way.",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "no way.",
+        "a5_v2": "no way.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bayern munich"
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "q1": "why can't brazil win a world cup on european soil?",
+        "a1": "they did n't perform well in european soil.",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they did n't perform well in european soil.",
+        "a1_v2": "they did n't perform well in european soil.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "can they win on middle eastern soil, 2022 world cup in qatar?",
+        "a2": "we will see",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "we will see",
+        "a2_v2": "we will see",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "how many world cup's brazil won?",
+        "a3": "brazil has won 5 world cups in 2002, 1994, 1970, 1962, 1958",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity has won @object world cups in 2002, 1994, 1970, 1962, 1958",
+        "a3_v2": "@entity has won @number_of_world_cup_champion world cups in 2002, 1994, 1970, 1962, 1958",
+        "corr_rel3": "number of world cup champion",
+        "obj3": "5",
+        "input_ent3": "brazil"
+    }
+]

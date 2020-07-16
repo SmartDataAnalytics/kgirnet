@@ -1,0 +1,165 @@
+[
+    {
+        "q1": "how many goals ahmed musa scored in russia 2018 world cup \\?",
+        "a1": "2",
+        "kgER1": {
+            "ahmed musa": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@goals",
+        "corr_rel1": "goals",
+        "obj1": "2",
+        "input_ent1": "ahmed musa"
+    },
+    {
+        "q2": "do you think that nigeria will do better at the next world cup \\?",
+        "a2": "yes they have the young talent to go on a run at the next world cup",
+        "kgER2": {
+            "ahmed musa": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes they have the young talent to go on a run at the next world cup",
+        "a2_v2": "yes they have the young talent to go on a run at the next world cup",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "who 's their most promising player right now \\?",
+        "a3": "probably musa he 's still only 25",
+        "kgER3": {
+            "ahmed musa": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "probably musa he 's still only @object",
+        "a3_v2": "probably musa he 's still only 25",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "in which club does musa currently play \\?",
+        "a4": "musa is playing for the saudi arabian club al nassr",
+        "kgER4": {
+            "ahmed musa": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "musa is playing for the saudi arabian club al nassr",
+        "a4_v2": "musa is playing for the saudi arabian club al nassr",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ahmed musa"
+    },
+    {
+        "q5": "has musa come to the end of his career by playing in saudi arabia \\?",
+        "a5": "he 's only 25 he has a long ways to go",
+        "kgER5": {
+            "ahmed musa": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "he 's only @object he has a long ways to go",
+        "a5_v2": "he 's only 25 he has a long ways to go",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ahmed musa"
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "i like the team iceland",
+        "a1": "iceland are great for such a small place , they do so well",
+        "kgER1": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity are great for such a small place , they do so well",
+        "a1_v2": "iceland are great for such a small place , they do so well",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "iceland"
+    },
+    {
+        "q2": "what is the jersey number of icelands best football player \\?",
+        "a2": "sigurdsson is probably their best player he wears number 10",
+        "kgER2": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "sigurdsson is probably their @relation he wears number @object",
+        "a2_v2": "sigurdsson is probably their best player he wears number 10",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "does iceland have any retired jersey numbers \\?",
+        "a3": "as far as i know , none until now",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "as far as i know , none until now",
+        "a3_v2": "as far as i know , none until now",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "iceland"
+    },
+    {
+        "q4": "whos icelands goal keeper \\?",
+        "a4": "hannes thor halldorsson",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "@goalkeeper",
+        "corr_rel4": "goalkeeper",
+        "obj4": "hannes thor halldorsson",
+        "input_ent4": "iceland"
+    },
+    {
+        "q5": "what is the name of the center forward of iceland \\?",
+        "a5": "they have several center forwards",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a5_skt": "they have several center @relation",
+        "a5_v2": "they have several center forwards",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "forward"
+    }
+]

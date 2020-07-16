@@ -1,0 +1,127 @@
+[
+    {
+        "q1": "who is the best player in real madrid?",
+        "a1": "gareth bale",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "gareth bale",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "and the second best is?",
+        "a2": "marcelo",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "marcelo",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "white and red"
+    },
+    {
+        "q3": "why is bale better than marcelo?",
+        "a3": "he provides more for the team.",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "marcelo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ]
+        },
+        "a3_skt": "he provides more for the team.",
+        "a3_v2": "he provides more for the team.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "marcelo"
+    },
+    {
+        "q4": "i do not agree with this, marcelo is good at his position and he is good at his. ",
+        "a4": "i agree. ",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "marcelo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ]
+        },
+        "a4_skt": "i agree. ",
+        "a4_v2": "i agree. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "marcelo"
+    },
+    {
+        "q5": "are they they most expensive players in real madrid? ",
+        "a5": "i think so",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "marcelo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ]
+        },
+        "a5_skt": "i think so",
+        "a5_v2": "i think so",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "where is the nearest rest_stop",
+        "a1": "nearest rest_stop is 3_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi,distance",
+        "obj1": "rest_stop,3_miles",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "rest_stop",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "how is the traffic there",
+        "a2": "there is moderate_traffic",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "moderate_traffic",
+        "input_ent2": "hotel_keen",
+        "kvr_entlist_qa2": [
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q3": "what is the address",
+        "a3": "the address is 578_arbol_dr",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "578_arbol_dr",
+        "input_ent3": "hotel_keen",
+        "kvr_entlist_qa3": [
+            "578_arbol_dr"
+        ]
+    },
+    {
+        "q4": "thanks",
+        "a4": "no problem",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

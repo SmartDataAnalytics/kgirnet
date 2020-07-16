@@ -1,0 +1,101 @@
+[
+    {
+        "q1": "what league does bayern munich play in?",
+        "a1": "uefa champions league, bundesliga, dfb-pokal, dfl-supercup, uefa super cup",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "uefa champions league, bundesliga, dfb-pokal, dfl-supercup, uefa super cup",
+        "a1_v2": "uefa champions league, bundesliga, dfb-pokal, dfl-supercup, uefa super cup",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "when was the last time they won the uefa champions league?",
+        "a2": "who is the bayern munich coach?",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "who is the @entity @relation",
+        "a2_v2": "who is the bayern munich coach?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "kovacs took over after juppe heynckes  retired ",
+        "a3": "bayern munich seems to be doing good under him?",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "@entity seems to be doing good under him?",
+        "a3_v2": "bayern munich seems to be doing good under him?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is the best player in the bayern munich team?",
+        "a4": "james rodr\u00edguez best player of bayern munich in january ",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "@object @relation of @entity in january ",
+        "a4_v2": "james rodr\u00edguez best player of bayern munich in january ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "who was the coach before kovacs?",
+        "a5": "jupp heynckes was the coach before kovacs.",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "jupp heynckes was the @relation before kovacs.",
+        "a5_v2": "jupp heynckes was the coach before kovacs.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

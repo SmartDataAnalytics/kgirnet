@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "when the last time germany became the world champion",
+        "a1": "it was in 2014",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "it was in @object",
+        "a1_v2": "it was in @world_cup_champions",
+        "corr_rel1": "world cup champions",
+        "obj1": "2014",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "do you think that they have a chance to become world champions again in the next two years \\?",
+        "a2": "no because the next tournament is only in 2022",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no because the next tournament is only in @object",
+        "a2_v2": "no because the next tournament is only in 2022",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "besides , there 's a lot of teams that are playing at the pair with germany it would be hard",
+        "a3": "for everyone it is difficult , they should strive",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "for everyone it is difficult , they should strive",
+        "a3_v2": "for everyone it is difficult , they should strive",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "germany"
+    },
+    {
+        "q4": "who is germanys most valuable player \\?",
+        "a4": "toni kroos",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "toni kroos",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "i think it is toni kroos",
+        "a5": "who is germany 's biggest competition \\?",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "toni kroos": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "who is @entity 's biggest competition \\?",
+        "a5_v2": "who is germany 's biggest competition \\?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "toni kroos"
+    }
+]

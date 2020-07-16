@@ -1,0 +1,142 @@
+[
+    {
+        "q1": "who did real madrid transfer to juventus recently?",
+        "a1": "real madrid sold ronaldo to juventus.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "@entity sold ronaldo to @entity",
+        "a1_v2": "real madrid sold ronaldo to juventus.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "did real madrid get a good player in return?",
+        "a2": "that is debatable ",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "that is debatable ",
+        "a2_v2": "that is debatable ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "it is very debatable, i doubt there is anyone who takes the place of ronaldo christian ",
+        "a3": "cristiano ronaldo is the best player in the world ",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "@object is the @relation in the world ",
+        "a3_v2": "cristiano ronaldo is the best player in the world ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "christian benteke"
+    },
+    {
+        "q4": "is he the best ever?",
+        "a4": "for real madrid yes.",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "for @entity yes.",
+        "a4_v2": "for real madrid yes.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ever banega"
+    },
+    {
+        "q5": "who is the manager for real madrid?",
+        "a5": "julen lopetgui",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "julen lopetgui",
+        "a5_v2": "julen lopetgui",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

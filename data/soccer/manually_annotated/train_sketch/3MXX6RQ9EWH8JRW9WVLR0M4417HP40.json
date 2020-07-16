@@ -1,0 +1,124 @@
+[
+    {
+        "q1": "is ac milan better than inter milan?",
+        "a1": "no, inter milan is ranked 11th and ac milan is 17th.",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "no, inter milan is ranked 11th and ac milan is 17th.",
+        "a1_v2": "no, inter milan is ranked 11th and ac milan is 17th.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "but surely ac milan's record in the european cup and champions league must make a difference ?",
+        "a2": "the ranking system is very complicated - i've never understood it ",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "the ranking system is very complicated - i've never understood it ",
+        "a2_v2": "the ranking system is very complicated - i've never understood it ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "if they should do it",
+        "a3": "who is the best player in ac milan",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "who is the @relation in ac milan",
+        "a3_v2": "who is the best player in ac milan",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "many would say gonzalo higua\u00edn, who is currently playing with ac milan, on loan from juventus.",
+        "a4": "suso",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "suso",
+        "a4_v2": "suso",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "gonzalo higuain"
+    },
+    {
+        "q5": "where did milan sign suso from?",
+        "a5": "juagn al gran futbol ac milan ",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "suso": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "juagn al gran futbol ac milan ",
+        "a5_v2": "juagn al gran futbol ac milan ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "suso"
+    }
+]

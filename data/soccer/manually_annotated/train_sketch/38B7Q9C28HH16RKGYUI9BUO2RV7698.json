@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "why did italy fail to qualify for the 2018 world cup \\?",
+        "a1": "possibly they got complacent and did not realise that they were not infallible",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "possibly they got complacent and did not realise that they were not infallible",
+        "a1_v2": "possibly they got complacent and did not realise that they were not infallible",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "2018"
+    },
+    {
+        "q2": "just were not good enough",
+        "a2": "they became too focused on their style and are unwilling or incapable of incorporating good players like insigne",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they became too focused on their style and are unwilling or incapable of incorporating good players like insigne",
+        "a2_v2": "they became too focused on their style and are unwilling or incapable of incorporating good players like insigne",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "is it possible that other teams have improved their skill and developed better players over the last four years , leaving no room for italy in the contest \\?",
+        "a3": "anything 's possible , but i think it 's a core issue with italy 's strategy",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "anything 's possible , but i think it 's a core issue with @entity 's strategy",
+        "a3_v2": "anything 's possible , but i think it 's a core issue with italy 's strategy",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "italy"
+    },
+    {
+        "q4": "what year was the team founded \\?",
+        "a4": "italys team founded in 1898",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "italys team @relation in @object",
+        "a4_v2": "italys team founded in 1898",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who are the captain \\?",
+        "a5": "giorgio chiellini",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@captain",
+        "corr_rel5": "captain",
+        "obj5": "giorgio chiellini",
+        "input_ent5": "italy"
+    }
+]

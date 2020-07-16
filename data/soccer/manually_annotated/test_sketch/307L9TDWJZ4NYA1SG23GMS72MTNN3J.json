@@ -1,0 +1,91 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "yes, with the heart they showed in 2018, i think they will",
+        "kgER1": {},
+        "a1_skt": "yes, with the heart they showed in @object i think they will",
+        "a1_v2": "yes, with the heart they showed in 2018, i think they will",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "it will be tough for them though with the teams they have in their group",
+        "a2": "i agree, iceland is always an underdog and it sometimes hurts their mentality.",
+        "kgER2": {},
+        "a2_skt": "i agree, @entity is always an underdog and it sometimes hurts their mentality.",
+        "a2_v2": "i agree, iceland is always an underdog and it sometimes hurts their mentality.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "iceland will be better for the next world cup",
+        "a3": "will iceland qualify for the euro?",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "will @entity qualify for the euro?",
+        "a3_v2": "will iceland qualify for the euro?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "iceland"
+    },
+    {
+        "q4": "i think they will",
+        "a4": "if they breathe it",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "if they breathe it",
+        "a4_v2": "if they breathe it",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "breathe what?",
+        "a5": "what is breathe for iceland",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "what is breathe for @entity",
+        "a5_v2": "what is breathe for iceland",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

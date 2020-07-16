@@ -1,0 +1,27 @@
+[
+    {
+        "q1": "where and on what day is my meeting and what is the agenda",
+        "a1": "you currently have 3 meeting scheduled the first is on tuesday in conference room 10 to dicu the company picnic the second i on saturday in 100_conference_room to go over the budget the last is on the_8th in conference_room_100 to discuss the dress code",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "room,date",
+        "obj1": "the_8th,conference_room_100,meeting,conference",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "the_8th",
+            "saturday",
+            "tuesday",
+            "conference_room_100",
+            "meeting",
+            "conference"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

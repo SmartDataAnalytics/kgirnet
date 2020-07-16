@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "will it be misty in san_jose today and tomorrow",
+        "a1": "the forecast calls for fog today and it will be overcast tomorrow in san_jose",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday",
+        "obj1": "overcast",
+        "input_ent1": "san_jose",
+        "kvr_entlist_qa1": [
+            "san_jose",
+            "today",
+            "overcast",
+            "tomorrow"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "anytime",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

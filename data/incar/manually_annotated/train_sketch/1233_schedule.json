@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "what time is the football game and who will be there",
+        "a1": "your football_activity with jeff is at 11am",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "time,party",
+        "obj1": "11am,jeff",
+        "input_ent1": "football_activity",
+        "kvr_entlist_qa1": [
+            "football_activity",
+            "11am",
+            "jeff"
+        ]
+    },
+    {
+        "q2": "that s great thanks",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

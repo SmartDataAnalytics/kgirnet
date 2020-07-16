@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "is it going to rain in the next 7 days",
+        "a1": "what city would you like the forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "danville",
+        "a2": "yes rain is predicted in danville today",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "rain",
+        "input_ent2": "danville",
+        "kvr_entlist_qa2": [
+            "rain",
+            "danville",
+            "today"
+        ]
+    },
+    {
+        "q3": "ouch let s hope to not get wet thanks",
+        "a3": "let s hope not and you re welcome have a good day",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "show me directions to the nearest grocery_store",
+        "a1": "the nearest grocery_store is whole_foods 2_miles away at 819 alameda st",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "whole_foods",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "alameda",
+            "whole_foods",
+            "grocery_store",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "ok please set that as the next destination",
+        "a2": "there is heavy_traffic now but you should be able to reach there fast enough",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "grocery_store",
+        "kvr_entlist_qa2": [
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "ok please give me directions to get there by the quickest way",
+        "a3": "setting directions to 819_alma_st now",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel3": "address",
+        "obj3": "819_alma_st",
+        "input_ent3": "grocery_store",
+        "kvr_entlist_qa3": [
+            "819_alma_st"
+        ]
+    },
+    {
+        "q4": "thank you",
+        "a4": "no problem",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

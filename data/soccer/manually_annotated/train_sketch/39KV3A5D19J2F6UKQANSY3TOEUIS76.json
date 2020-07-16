@@ -1,0 +1,151 @@
+[
+    {
+        "q1": "i love the team germany",
+        "a1": "germany is a solid team, i'm surprised they lost so early this year",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity is a solid team, i'm surprised they lost so early this year",
+        "a1_v2": "germany is a solid team, i'm surprised they lost so early this year",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "youngster donald love and paddy mcnair left old trafford to join which premier league side?  sunderland",
+        "a2": "why did germany choke in the wc?",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "old trafford": [
+                "ground",
+                "capacity"
+            ]
+        },
+        "a2_skt": "why did @entity choke in the wc?",
+        "a2_v2": "why did germany choke in the wc?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "old trafford"
+    },
+    {
+        "q3": "yes big time, there usually so consistent",
+        "a3": "which player was doing best in this league?",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "old trafford": [
+                "ground",
+                "capacity"
+            ]
+        },
+        "a3_skt": "which player was doing best in this league?",
+        "a3_v2": "which player was doing best in this league?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "i would say toni kroos.",
+        "a4": "does germany have any big rivals? ",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "old trafford": [
+                "ground",
+                "capacity"
+            ],
+            "toni kroos": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "does @entity have any big rivals? ",
+        "a4_v2": "does germany have any big rivals? ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "toni kroos"
+    },
+    {
+        "q5": "no germany does not have great rivals",
+        "a5": "england is getting there with germany. ",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "old trafford": [
+                "ground",
+                "capacity"
+            ],
+            "toni kroos": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "england is getting there with @entity ",
+        "a5_v2": "england is getting there with germany. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "germany"
+    }
+]

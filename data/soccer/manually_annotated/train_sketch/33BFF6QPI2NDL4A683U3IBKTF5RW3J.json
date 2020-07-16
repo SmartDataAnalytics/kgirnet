@@ -1,0 +1,210 @@
+[
+    {
+        "q1": "are brazil current the best team in south america? ",
+        "a1": "maybe mexico could be. ",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "maybe @entity could be. ",
+        "a1_v2": "maybe mexico could be. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "do the team members typically get along with each other outside of game or practice time",
+        "a2": "yes, the team members are good friends.",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes, the team members are good friends.",
+        "a2_v2": "yes, the team members are good friends.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "is neymar a distraction for the brazilian team?",
+        "a3": "i think his on the field antics dont help",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think his on the @object antics dont help",
+        "a3_v2": "i think his on the field antics dont help",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "neymar"
+    },
+    {
+        "q4": "i had brazil as the favorites to win the world cup. what do you think went wrong?",
+        "a4": "i don't think they were aggressive enough when they got to the goal.",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "i don't think they were aggressive enough when they got to the @relation",
+        "a4_v2": "i don't think they were aggressive enough when they got to the goal.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "brazil"
+    },
+    {
+        "q5": "brazil is very aggressive",
+        "a5": "casemiro is the best midfielder in brazil ",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object is the best @relation in @entity ",
+        "a5_v2": "casemiro is the best midfielder in brazil ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "brazil"
+    }
+]

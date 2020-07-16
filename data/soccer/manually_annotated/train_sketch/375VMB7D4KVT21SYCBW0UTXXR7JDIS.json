@@ -1,0 +1,88 @@
+[
+    {
+        "q1": "this is an awesome team",
+        "a1": "yeah, comparatively.",
+        "kgER1": {},
+        "a1_skt": "yeah, comparatively.",
+        "a1_v2": "yeah, comparatively.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "i really enjoyed their team in the early 2000s when they had henry.",
+        "a2": "that was when they went a season undefeated. they were very good back then. ",
+        "kgER2": {},
+        "a2_skt": "that was when they went a season undefeated. they were very good back then. ",
+        "a2_v2": "that was when they went a season undefeated. they were very good back then. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "henry onyekuru"
+    },
+    {
+        "q3": "who\u2019s arsenal\u2019s best ever defender",
+        "a3": "arsenal had messi as their best defender.",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a3_skt": "@entity had messi as their best @relation",
+        "a3_v2": "arsenal had messi as their best defender.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "defender"
+    },
+    {
+        "q4": "messi is not an arsenal player. many would say tony adams was arsenals greatest defender",
+        "a4": "what country is arsenal representing?",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a4_skt": "what country is @entity representing?",
+        "a4_v2": "what country is arsenal representing?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "defender"
+    },
+    {
+        "q5": "london england",
+        "a5": "who was arsenal's best player ever",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a5_skt": "who was arsenal's @relation ever",
+        "a5_v2": "who was arsenal's best player ever",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

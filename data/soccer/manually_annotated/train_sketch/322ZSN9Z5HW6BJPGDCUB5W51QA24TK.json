@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who will challenge paris saint germaine in ligue one this year \\?",
+        "a1": "lyon",
+        "kgER1": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "lyon",
+        "a1_v2": "lyon",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "paris sg"
+    },
+    {
+        "q2": "what colors does paris sg wear \\?",
+        "a2": "blue , white , red",
+        "kgER2": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object , @object , @object",
+        "a2_v2": "blue , white , red",
+        "corr_rel2": "jersey color",
+        "obj2": "blue",
+        "input_ent2": "paris sg"
+    },
+    {
+        "q3": "who is the coach for paris sg \\?",
+        "a3": "thomas tuchel is paris sg 's current coach",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object is paris sg 's current @relation",
+        "a3_v2": "@coach is paris sg 's current coach",
+        "corr_rel3": "coach",
+        "obj3": "thomas tuchel",
+        "input_ent3": "paris sg"
+    },
+    {
+        "q4": "who is the captain \\?",
+        "a4": "brazilian defender thiago silva",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "brazilian @relation @object silva",
+        "a4_v2": "brazilian defender thiago silva",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "it looks like psg is gonna win the title this year",
+        "a5": "i think we have to wait till the end of the season to know that",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i think we have to wait till the end of the season to know that",
+        "a5_v2": "i think we have to wait till the end of the season to know that",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

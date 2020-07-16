@@ -1,0 +1,103 @@
+[
+    {
+        "q1": "how many times have liverpool won the champions league?",
+        "a1": "five",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "five",
+        "a1_v2": "five",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "how many chances does liverpool have to won next season champions league?",
+        "a2": "more than 50%",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "more than @object",
+        "a2_v2": "more than 50%",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "will liverpool win next season",
+        "a3": "possibly, due to mohamed salah's fantastic form recently.",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "possibly, due to @object fantastic form recently.",
+        "a3_v2": "possibly, due to mohamed salah's fantastic form recently.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "he scored a goal in their last game.",
+        "a4": "is salah a good header?",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "is salah a good header?",
+        "a4_v2": "is salah a good header?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "he's a great header ",
+        "a5": "liverpool has a great header",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "@entity has a great header",
+        "a5_v2": "liverpool has a great header",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

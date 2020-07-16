@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "do you think real madrid will win la liga this year? ",
+        "a1": "i think they will",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i think they will",
+        "a1_v2": "i think they will",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "what do you think about the future of real madrid this year in all the competitions? ",
+        "a2": "i think that they have a great future ahead of them ",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i think that they have a great future ahead of them ",
+        "a2_v2": "i think that they have a great future ahead of them ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "who is real madrid's current manager?",
+        "a3": "santiago solari is the new coach ",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "santiago solari is the new @relation ",
+        "a3_v2": "santiago solari is the new coach ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "who is the chairman of madrid?",
+        "a4": "florentino perez is the chairman",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object is the manager",
+        "a4_v2": "@chairman is the manager",
+        "corr_rel4": "chairman",
+        "obj4": "florentino perez",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "what is their stadium name? ",
+        "a5": "santiago bernabeu is the name of their stadium",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "santiago bernabeu is the name of their stadium",
+        "a5_v2": "santiago bernabeu is the name of their stadium",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "allianz stadium"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "q1": "who is arsenals current manager",
+        "a1": "unai emery",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "unai emery",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "do you believe emery can have as much success as he did with psg?",
+        "a2": "yes, he can.",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes, he can.",
+        "a2_v2": "yes, he can.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "how did arsenal do in their last game against manchester city, with unai emery as their coach?",
+        "a3": "they lost but they showed some great plays",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "unai emery": [
+                "coach"
+            ]
+        },
+        "a3_skt": "they lost but they showed some great plays",
+        "a3_v2": "they lost but they showed some great plays",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "unai emery"
+    },
+    {
+        "q4": "what was the score? ",
+        "a4": "2-0 manchester city ",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "unai emery": [
+                "coach"
+            ]
+        },
+        "a4_skt": "@object manchester city ",
+        "a4_v2": "2-0 manchester city ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "nba basketball scores",
+        "a5": "they lost two sero did not do very well",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "unai emery": [
+                "coach"
+            ]
+        },
+        "a5_skt": "they lost two sero did not do very well",
+        "a5_v2": "they lost two sero did not do very well",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

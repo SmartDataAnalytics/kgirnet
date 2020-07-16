@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "what s the forecast going to be for today and tomorrow",
+        "a1": "what city do you want the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "today and tomorrow will there be clear_skies in compton",
+        "a2": "it will be between 80f - 100f hot and windy in compton today and tomorrow",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday, tuesday",
+        "obj2": "100f,80f,compton,hot,windy",
+        "input_ent2": "compton",
+        "kvr_entlist_qa2": [
+            "100f",
+            "80f",
+            "compton",
+            "today",
+            "hot",
+            "windy",
+            "tomorrow"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

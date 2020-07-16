@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "is liverpool a good idea in football",
+        "a1": "i think liverpool is a great team with lots of good ideas. ",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i think @entity is a great team with lots of good ideas. ",
+        "a1_v2": "i think liverpool is a great team with lots of good ideas. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "who was their best most recent hire?",
+        "a2": "mention the coach of liverpool",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "mention the @relation of @entity",
+        "a2_v2": "mention the coach of liverpool",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "jurgen cloth is better coach",
+        "a3": "klopp is such a fun coach to watch. he has great mannerisms. do you think he is a good coach?",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "klopp is such a fun @relation to watch. he has great mannerisms. do you think he is a good @relation?",
+        "a3_v2": "klopp is such a fun coach to watch. he has great mannerisms. do you think he is a good coach?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "jurgen klopp"
+    },
+    {
+        "q4": "klopp if he is a good coach",
+        "a4": "is he the best coach liverpool has ever had?",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "is he the best @relation @entity has ever had?",
+        "a4_v2": "is he the best coach liverpool has ever had?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "jurgen klopp"
+    },
+    {
+        "q5": "for liverpool, hervonhi was actually the best coach.",
+        "a5": "no one named hervonhi managed liverpool.",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "no one named hervonhi managed @entity",
+        "a5_v2": "no one named hervonhi managed liverpool.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

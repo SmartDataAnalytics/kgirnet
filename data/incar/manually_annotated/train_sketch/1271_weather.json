@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "what s the weather like in grand_rapids",
+        "a1": "what can i tell you about grand_rapids weather",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "grand_rapids",
+        "kvr_entlist_qa1": [
+            "grand_rapids"
+        ]
+    },
+    {
+        "q2": "if it will be misty over the next two_days",
+        "a2": "drizzle is predicted in grand_rapids followed by clear_skies",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday",
+        "obj2": "drizzle,clear,skies",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "drizzle",
+            "grand_rapids",
+            "clear_skies"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

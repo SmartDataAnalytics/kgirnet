@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i admire real madrid",
+        "a1": "i am not such a big fan of real madrid.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i am not such a big fan of @entity",
+        "a1_v2": "i am not such a big fan of real madrid.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "real madrid has some great players.",
+        "a2": "but the captain ramos is not really likable.",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "but the @relation ramos is not really likable.",
+        "a2_v2": "but the captain ramos is not really likable.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "what's your opinion on navas",
+        "a3": "he is a decent keeper. he has done well over the past few seasons",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "he is a decent keeper. he has done well over the past few seasons",
+        "a3_v2": "he is a decent keeper. he has done well over the past few seasons",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "jesus navas"
+    },
+    {
+        "q4": "is real madrid a team that most soccer fans don't like?",
+        "a4": "real madrid is one of the most hated clubs thanks to its greatness ",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity is one of the most hated clubs thanks to its greatness ",
+        "a4_v2": "real madrid is one of the most hated clubs thanks to its greatness ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "does that make them the yankees of their sport?",
+        "a5": "yes it does.",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes it does.",
+        "a5_v2": "yes it does.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

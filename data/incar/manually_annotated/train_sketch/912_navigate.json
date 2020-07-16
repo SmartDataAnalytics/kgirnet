@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "show me the route to coffee shop",
+        "a1": "there is 2 coffee shops locally one is philz that s 2_miles away and starbucks that is 6_miles away which do you prefer",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "philz,starbucks",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "starbucks",
+            "philz",
+            "6_miles",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "pick the one with no_traffic or the least traffic route",
+        "a2": "there is no_traffic to starbucks navigating now",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "no_traffic",
+        "input_ent2": "starbucks",
+        "kvr_entlist_qa2": [
+            "no_traffic",
+            "starbucks"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

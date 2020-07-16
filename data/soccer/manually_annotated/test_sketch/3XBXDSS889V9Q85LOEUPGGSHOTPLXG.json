@@ -1,0 +1,124 @@
+[
+    {
+        "q1": "i like the team argentina",
+        "a1": "i dont",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i dont",
+        "a1_v2": "i dont",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "who is the best defensive player for argentina?",
+        "a2": "zanetti is a pretty good defender for argentina.",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "zanetti is a pretty good @relation for @entity",
+        "a2_v2": "zanetti is a pretty good defender for argentina.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "argentina"
+    },
+    {
+        "q3": "if after zanetti is now otamendi",
+        "a3": "i love to watch oatamendi.",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i love to watch oatamendi.",
+        "a3_v2": "i love to watch oatamendi.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "nicolas otamendi"
+    },
+    {
+        "q4": "argentina let themselves down this world cup ",
+        "a4": "i agree, they could've gone so much further",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i agree, they could've gone so much further",
+        "a4_v2": "i agree, they could've gone so much further",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "argentina"
+    },
+    {
+        "q5": "argentina faced france the complicated tube and france was the champion ",
+        "a5": "remember when they beat usa 4-1?",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "remember when they beat usa 4-1?",
+        "a5_v2": "remember when they beat usa 4-1?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "france"
+    }
+]

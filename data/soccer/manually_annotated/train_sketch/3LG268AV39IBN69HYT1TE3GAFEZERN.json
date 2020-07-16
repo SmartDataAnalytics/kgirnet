@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "barcelona has the best team this season \\?",
+        "a1": "for me yes because it 's good players",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "for me yes because it 's good players",
+        "a1_v2": "for me yes because it 's good players",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "can barcelona replace messi \\?",
+        "a2": "yes i think one day they can",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes i think one day they can",
+        "a2_v2": "yes i think one day they can",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "barcelona"
+    },
+    {
+        "q3": "who is the manager for the barcelona team \\?",
+        "a3": "ernesto valverde is the coach",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object is the @relation",
+        "a3_v2": "ernesto valverde is the coach",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "barcelona"
+    },
+    {
+        "q4": "what is their stadium \\?",
+        "a4": "camp nou is the home ground",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "camp nou is the home @relation",
+        "a4_v2": "camp nou is the home ground",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "allianz stadium"
+    },
+    {
+        "q5": "what is the capacity of that stadium \\?",
+        "a5": "@capacity",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@jersey",
+        "corr_rel5": "capacity",
+        "obj5": "99,354",
+        "input_ent5": "camp nou"
+    }
+]

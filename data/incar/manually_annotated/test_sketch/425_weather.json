@@ -1,0 +1,23 @@
+[
+    {
+        "q1": "what s the current weather in san_francisco",
+        "a1": "there is currently snow in san_francisco",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "monday",
+        "obj1": "snow",
+        "input_ent1": "san_francisco",
+        "kvr_entlist_qa1": [
+            "snow",
+            "san_francisco"
+        ]
+    },
+    {
+        "q2": "okay thanks",
+        "a2": "happy to help",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

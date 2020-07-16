@@ -1,0 +1,16 @@
+[
+    {
+        "q1": "hi i need to know some information about my upcoming conference specifically when and where it will take place and what will be on the agenda",
+        "a1": "your conference is on monday at 6pm with the executive to sign_the_nda",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,agenda",
+        "obj1": "6pm,sign_the_nda",
+        "input_ent1": "conference",
+        "kvr_entlist_qa1": [
+            "6pm",
+            "conference",
+            "monday",
+            "sign_the_nda"
+        ]
+    }
+]

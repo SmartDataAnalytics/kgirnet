@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who is the current manager of ac milan?",
+        "a1": "ac milans current manager is former player, gennaro gattuso.",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "ac milans current manager is former player, @object",
+        "a1_v2": "ac milans current manager is former player, @coach",
+        "corr_rel1": "coach",
+        "obj1": "gennaro gattuso",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "did gattuso get sent off alot?",
+        "a2": "no i dont think so.",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "no i dont think so.",
+        "a2_v2": "no i dont think so.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "gennaro gattuso"
+    },
+    {
+        "q3": "where is ac milan located?",
+        "a3": "in italy ",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "in @entity ",
+        "a3_v2": "in italy ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ac milan"
+    },
+    {
+        "q4": "is a great team and with a good coach",
+        "a4": "how many championships in ac milan",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "how many championships in ac milan",
+        "a4_v2": "how many championships in ac milan",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "white and red"
+    },
+    {
+        "q5": "they've won the title 18 times. ",
+        "a5": "i think they do better jod and go to the champions league",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i think they do better jod and go to the champions league",
+        "a5_v2": "i think they do better jod and go to the champions league",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "18 (first in 1934)"
+    }
+]

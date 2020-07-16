@@ -1,0 +1,156 @@
+[
+    {
+        "q1": "what is the highest paid member of the team?",
+        "a1": "james rodr\u00edguez at 58.76 million market value",
+        "kgER1": {},
+        "a1_skt": "@object at 58.76 million market value",
+        "a1_v2": "james rodr\u00edguez at 58.76 million market value",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "james rodriguez",
+        "a2": "in what currency?",
+        "kgER2": {
+            "james rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "in what currency?",
+        "a2_v2": "in what currency?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "james rodriguez"
+    },
+    {
+        "q3": "that is actually his value, his salary is 6.5 million euros per year.",
+        "a3": "wow that is a lot",
+        "kgER3": {
+            "james rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "wow that is a lot",
+        "a3_v2": "wow that is a lot",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "5 (first in 1998)"
+    },
+    {
+        "q4": "the croatian has responded to the bernab\u00e9u board's willingness to improve his salary and will commit to the club after speaking with his family.",
+        "a4": "would you liek to play for colombia given that at least one of their national  team has been assassinated? ",
+        "kgER4": {
+            "james rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "would you liek to play for @entity given that at least one of their national  team has been assassinated? ",
+        "a4_v2": "would you liek to play for colombia given that at least one of their national  team has been assassinated? ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "santiago bernabeu stadium"
+    },
+    {
+        "q5": "yes, they pay well and i don't think anymore of their players will be killed.",
+        "a5": "well, you never know. who is the second most important player?",
+        "kgER5": {
+            "james rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "well, you never know. who is the second most important player?",
+        "a5_v2": "well, you never know. who is the second most important player?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

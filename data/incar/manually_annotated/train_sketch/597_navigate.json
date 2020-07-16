@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "give me directions to the local coffee shop",
+        "a1": "i see one nearby coffee shop which is cafe_venetia located at 269_alger_dr it is 4_miles away and there is no_traffic",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "cafe_venetia",
+        "input_ent1": "peets_coffee",
+        "kvr_entlist_qa1": [
+            "no_traffic",
+            "269_alger_dr",
+            "4_miles",
+            "cafe_venetia"
+        ]
+    },
+    {
+        "q2": "would you give me route details please",
+        "a2": "providing directions to 269_alger_dr now",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "269_alger_dr",
+        "input_ent2": "cafe_venetia",
+        "kvr_entlist_qa2": [
+            "269_alger_dr"
+        ]
+    },
+    {
+        "q3": "okay thanks please pick a route with no_traffic and let s go there",
+        "a3": "sure just follow the directions on your screen there shouldn t be any traffic",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

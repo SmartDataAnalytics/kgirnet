@@ -1,0 +1,78 @@
+[
+    {
+        "q1": "i love liverpool",
+        "a1": "liverpool f.c. is a great team.",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity f.c. is a great team.",
+        "a1_v2": "liverpool f.c. is a great team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "does liverpool ever sellout home games?",
+        "a2": "yes regularly - they are a very popular team ",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes regularly - they are a very popular team ",
+        "a2_v2": "yes regularly - they are a very popular team ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "who is the best player of liverpool?",
+        "a3": "mohamed salah for sure!",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object for sure!",
+        "a3_v2": "mohamed salah for sure!",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "has mogamed salah been playing for liverpool f.c. for long?",
+        "a4": "not very long, he's only been there a year.",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "not very long, he's only been there a year.",
+        "a4_v2": "not very long, he's only been there a year.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "q1": "i admire colombia",
+        "a1": "they are not the best side in south america ",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they are not the best side in south america ",
+        "a1_v2": "they are not the best side in south america ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "colombia"
+    },
+    {
+        "q2": "i know, brazil is.",
+        "a2": "brazil is better than columbia for sure",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity is better than columbia for sure",
+        "a2_v2": "brazil is better than columbia for sure",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "brazil"
+    },
+    {
+        "q3": "has columbia beaten brazil in the past?",
+        "a3": "yes, colombia has beaten brazil 2 times in the past.",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes, @entity has beaten @entity @object times in the past.",
+        "a3_v2": "yes, colombia has beaten brazil 2 times in the past.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "brazil"
+    },
+    {
+        "q4": "fifa world cup record ",
+        "a4": "colombia will win for sure",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity will win for sure",
+        "a4_v2": "colombia will win for sure",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "yerry mina scored goals in world cup?",
+        "a5": "he scored 3 goals in the world cup",
+        "kgER5": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "yerry mina": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "he scored @object @relation in the world cup",
+        "a5_v2": "he scored 3 goals in the world cup",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "yerry mina"
+    }
+]

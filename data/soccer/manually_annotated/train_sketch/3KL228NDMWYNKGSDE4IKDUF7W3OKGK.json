@@ -1,0 +1,154 @@
+[
+    {
+        "q1": "do paris sg have any asian born players currently? ",
+        "a1": "no, i don't think paris sg has any asian born players right now.",
+        "kgER1": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "fabiano": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "no, i don't think paris sg has any asian born players right now.",
+        "a1_v2": "no, i don't think paris sg has any asian born players right now.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "paris sg"
+    },
+    {
+        "q2": "who is the goalkeeper for psg?",
+        "a2": "gianluigi buffon is",
+        "kgER2": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "fabiano": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a2_skt": "@object is",
+        "a2_v2": "gianluigi buffon is",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "goalkeeper"
+    },
+    {
+        "q3": "great team this season",
+        "a3": "yes .. a great team will have this season to be able to compete at the maximum in the champions",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "fabiano": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "yes .. a great team will have this season to be able to compete at the maximum in the champions",
+        "a3_v2": "yes .. a great team will have this season to be able to compete at the maximum in the champions",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is psg's skipper?",
+        "a4": "thiago silva is the captain",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "fabiano": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "@object silva is the @relation",
+        "a4_v2": "thiago silva is the captain",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "one of the best goalkeepers in the world is buffon this year is for big things",
+        "a5": "paris does have a good one .",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "fabiano": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "paris does have a good one .",
+        "a5_v2": "paris does have a good one .",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "gianluigi buffon"
+    }
+]

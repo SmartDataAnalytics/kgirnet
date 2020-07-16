@@ -1,0 +1,162 @@
+[
+    {
+        "q1": "how many times did nigeria win the african cup?",
+        "a1": "nigeria has won the african cup three times.",
+        "kgER1": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "juanfran": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "@entity has won the african cup three times.",
+        "a1_v2": "nigeria has won the african cup three times.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "nigeria"
+    },
+    {
+        "q2": "3 times nigeria have won the acn.",
+        "a2": "nigeria has 3 acn titles.",
+        "kgER2": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "juanfran": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "@entity has @object acn titles.",
+        "a2_v2": "nigeria has 3 acn titles.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "nigeria"
+    },
+    {
+        "q3": "who is the best player from nigeria?",
+        "a3": "is it dario?",
+        "kgER3": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "juanfran": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "is it dario?",
+        "a3_v2": "is it dario?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "nigeria"
+    },
+    {
+        "q4": "i never heard of this guy",
+        "a4": "do any nigerians play in the south american league? ",
+        "kgER4": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "juanfran": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "do any nigerians play in the south american league? ",
+        "a4_v2": "do any nigerians play in the south american league? ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "will nigeria qualify for the next world cup?",
+        "a5": "nigeria will more than likely qualify as they have a good young team.",
+        "kgER5": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "juanfran": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "@entity will more than likely qualify as they have a good young team.",
+        "a5_v2": "nigeria will more than likely qualify as they have a good young team.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "nigeria"
+    }
+]

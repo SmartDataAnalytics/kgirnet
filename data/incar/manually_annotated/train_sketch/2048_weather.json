@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "find out if it s supposed to rain",
+        "a1": "what city are you located in that you would like the rain forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "rain"
+        ]
+    },
+    {
+        "q2": "i am in inglewood find out if there is going to be rain tomorrow car",
+        "a2": "rain is not predicted to fall in ingelwood tomorrow although hail is",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "hail",
+        "input_ent2": "inglewood",
+        "kvr_entlist_qa2": [
+            "hail",
+            "rain",
+            "tomorrow"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "anytime human",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

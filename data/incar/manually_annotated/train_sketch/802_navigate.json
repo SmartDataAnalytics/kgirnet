@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "car i need to go to a grocery_store",
+        "a1": "there is a safeway at 452_arcadia_place 5_miles away would you like directions there",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "5_miles,safeway",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "safeway"
+        ]
+    },
+    {
+        "q2": "yes please pick a route to avoid all heavy_traffic",
+        "a2": "i m afraid the route to safeway currently has heavy_traffic and it is the only grocery_store in the area proceed",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "safeway",
+        "input_ent2": "grocery_store",
+        "kvr_entlist_qa2": [
+            "safeway",
+            "grocery_store",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "then let s go there car thank you",
+        "a3": "ok setting navigation now",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thanks again car assistant",
+        "a4": "i m here for you",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

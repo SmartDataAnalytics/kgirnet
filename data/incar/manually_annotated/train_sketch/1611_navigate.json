@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "where can i get tea",
+        "a1": "coupa is 5_miles away palo_alto_cafe is 4",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "obj1": "palo_alto_cafe,coupa,5_miles",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "palo_alto_cafe",
+            "coupa"
+        ]
+    },
+    {
+        "q2": "what is coupas address",
+        "a2": "coupa is at 394_van_ness_ave",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "394_van_ness_ave,coupa",
+        "input_ent2": "coupa",
+        "kvr_entlist_qa2": [
+            "394_van_ness_ave",
+            "coupa"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

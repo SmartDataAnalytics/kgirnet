@@ -1,0 +1,115 @@
+[
+    {
+        "q1": "i love argentina",
+        "a1": "my favourite too",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "my favourite too",
+        "a1_v2": "my favourite too",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "who is their coach?",
+        "a2": "lionel scaloni is the current coach.",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object is the current @relation",
+        "a2_v2": "@coach is the current coach",
+        "corr_rel2": "coach",
+        "obj2": "lionel scaloni",
+        "input_ent2": "argentina"
+    },
+    {
+        "q3": "is he a good coach do you think? ",
+        "a3": "very good coach ",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "very good @relation ",
+        "a3_v2": "very good coach ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "does argentina have good strikers?",
+        "a4": "if one of his best strikers is messi",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "if one of his best strikers is messi",
+        "a4_v2": "if one of his best strikers is messi",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "argentina"
+    },
+    {
+        "q5": "who is considered their best player?",
+        "a5": "traditionally their top scorere.",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "traditionally their top scorere.",
+        "a5_v2": "traditionally their top scorere.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

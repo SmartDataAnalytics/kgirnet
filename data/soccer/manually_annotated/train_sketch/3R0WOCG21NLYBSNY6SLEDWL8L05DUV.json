@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "are you a fan of liverpool's football team?",
+        "a1": "yes i love the beatles. ",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes i love the beatles. ",
+        "a1_v2": "yes i love the beatles. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "nice, i get it -- but seriously, do you like the team?",
+        "a2": "yes i do ",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes i do ",
+        "a2_v2": "yes i do ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "how does liverpool compare to other english football teams?",
+        "a3": "liverpool is middle of the road. ",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@entity is middle of the road. ",
+        "a3_v2": "liverpool is middle of the road. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "which team is the great competition to liverpool?",
+        "a4": "argentina for sure ",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity for sure ",
+        "a4_v2": "argentina for sure ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    },
+    {
+        "q5": "shouldn't liverpool be up against man city for the league title?",
+        "a5": "yes i agree",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes i agree",
+        "a5_v2": "yes i agree",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

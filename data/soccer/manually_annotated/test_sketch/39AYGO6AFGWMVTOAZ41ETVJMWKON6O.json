@@ -1,0 +1,217 @@
+[
+    {
+        "q1": "who do you think is the best player in juventus?",
+        "a1": "now their best player is cristiano ronaldo.",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "now their @relation is @object",
+        "a1_v2": "now their best player is cristiano ronaldo.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "ronaldo easy",
+        "a2": "what teams has cristiano ronaldo played for?",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "what teams has @object played for?",
+        "a2_v2": "what teams has cristiano ronaldo played for?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "cristiano ronaldo"
+    },
+    {
+        "q3": "he started out in sporting lisboa, then manchester united, and real madrid before coming to juventus.",
+        "a3": "how much money did he cost juventus? ",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "how much money did he cost @entity ",
+        "a3_v2": "how much money did he cost juventus? ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "manchester united"
+    },
+    {
+        "q4": "who is number 2, after cristiano ronaldo?",
+        "a4": "paulo dybala is a very strong player on juventus. he might be number 2 after ronaldo but he could also be number 1.",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object is a very strong player on @entity he might be number @object after ronaldo but he could also be number 1.",
+        "a4_v2": "paulo dybala is a very strong player on juventus. he might be number 2 after ronaldo but he could also be number 1.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "cristiano ronaldo"
+    },
+    {
+        "q5": "cristiano ronaldo dos santos aveiro",
+        "a5": "the best player in juventus is ronaldo christian the best in the world",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "the @relation in @entity is ronaldo christian the best in the world",
+        "a5_v2": "the best player in juventus is ronaldo christian the best in the world",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "cristiano ronaldo"
+    }
+]

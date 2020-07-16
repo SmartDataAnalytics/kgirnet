@@ -1,0 +1,189 @@
+[
+    {
+        "q1": "what city is chelsea located in?",
+        "a1": "london",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "london",
+        "a1_v2": "london",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "who is the team's captain?",
+        "a2": "gary cahill",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "gary cahill",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "if the captain is gary cahill one of the best sentrales of chelsea",
+        "a3": "yes he has done well for chelsea",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "gary cahill": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "yes he has done well for @entity",
+        "a3_v2": "yes he has done well for chelsea",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "gary cahill"
+    },
+    {
+        "q4": "who is chelsea's manager?",
+        "a4": "maurizio sarri is currently their manager. ",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "gary cahill": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "@object is currently their manager. ",
+        "a4_v2": "@coach is currently their manager. ",
+        "corr_rel4": "coach",
+        "obj4": "maurizio sarri",
+        "input_ent4": "chelsea"
+    },
+    {
+        "q5": "who is the best player on the team?",
+        "a5": "n'golo kante because of his consistency.",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "gary cahill": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "n'golo kante because of his consistency.",
+        "a5_v2": "n'golo kante because of his consistency.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

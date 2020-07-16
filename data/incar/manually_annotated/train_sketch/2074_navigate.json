@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "find me a gas_station i could get to the quickest",
+        "a1": "i only have one gas_station listed but there is heavy_traffic on route would you like to know more",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "valero",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "gas_station",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "valero is located at 200_alester_ave anything else",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "200_alester_ave",
+        "input_ent2": "valero",
+        "kvr_entlist_qa2": [
+            "200_alester_ave",
+            "valero"
+        ]
+    },
+    {
+        "q3": "could you please activate the massage system on the seat i feel broken uff and yes please pick the quickest way to get there too thank you",
+        "a3": "i sent the info on your screen and sorry about the massage the seat it s broken you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

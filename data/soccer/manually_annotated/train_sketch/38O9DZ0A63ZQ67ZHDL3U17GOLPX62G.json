@@ -1,0 +1,120 @@
+[
+    {
+        "q1": "have uruguay ever won the world cup?",
+        "a1": "they have won twice 1930 and 1950.",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they have won twice @object and @object",
+        "a1_v2": "they have won twice @world_cup_champions and @world_cup_champions",
+        "corr_rel1": "number of world cup champion",
+        "obj1": "2",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": "who did they compete against in their final matches?",
+        "a2": "argentina and brazil",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity and @entity",
+        "a2_v2": "argentina and brazil",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "what this uruguray?",
+        "a3": "canani",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "canani",
+        "a3_v2": "canani",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "how do you call the top scorer in the history of uruguay? ",
+        "a4": "the best scorer in the history of uruguay is diego forlan",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "the best scorer in the history of @entity is diego forlan",
+        "a4_v2": "the best scorer in the history of uruguay is diego forlan",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "uruguay"
+    },
+    {
+        "q5": "who is the best goalkeeper all-time from uruguay?",
+        "a5": "muslera",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "muslera",
+        "a5_v2": "muslera",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "goalkeeper"
+    }
+]

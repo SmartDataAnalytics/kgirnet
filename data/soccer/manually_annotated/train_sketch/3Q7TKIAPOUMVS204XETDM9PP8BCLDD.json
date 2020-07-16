@@ -1,0 +1,100 @@
+[
+    {
+        "q1": "who is the coach of bvb dortmund \\?",
+        "a1": "lucien favre",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@coach",
+        "corr_rel1": "coach",
+        "obj1": "lucien favre",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "is bvb safe with him \\?",
+        "a2": "i think so he 's brought results to every club he 's managed hopefully this trend continues",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i think so he 's brought results to every club he 's managed hopefully this trend continues",
+        "a2_v2": "i think so he 's brought results to every club he 's managed hopefully this trend continues",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bvb dortmund"
+    },
+    {
+        "q3": "favre de lucien is an honorable coach for the bvb team",
+        "a3": "bvb 's coach will be there a while",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "bvb 's @relation will be there a while",
+        "a3_v2": "bvb 's coach will be there a while",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "lucien favre"
+    },
+    {
+        "q4": "does ronaldo play there \\?",
+        "a4": "no , ronaldo plays at juventus",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "no , ronaldo plays at @entity",
+        "a4_v2": "no , ronaldo plays at juventus",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "cristiano ronaldo"
+    },
+    {
+        "q5": "who has scored the most goals in the last season for this team \\?",
+        "a5": "he scored 31 total this past year",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "he scored @object total this past year",
+        "a5_v2": "he scored 31 total this past year",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

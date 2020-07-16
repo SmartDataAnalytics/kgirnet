@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i love uruguay",
+        "a1": "edinson cavani is my favorite player on the uruguay team",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object is my favorite player on the @entity team",
+        "a1_v2": "edinson cavani is my favorite player on the uruguay team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": "what other players do you like \\?",
+        "a2": "i also like that team but my favorite player is luis suarez",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i also like that team but my favorite player is @object",
+        "a2_v2": "i also like that team but my favorite player is luis suarez",
+        "corr_rel2": "has player",
+        "obj2": "luis suarez",
+        "input_ent2": "uruguay"
+    },
+    {
+        "q3": "why do people like and support suarez even though he is a cheat \\?",
+        "a3": "because he is one of the best strikers in the world",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "because he is one of the best strikers in the world",
+        "a3_v2": "because he is one of the best strikers in the world",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "luis suarez"
+    },
+    {
+        "q4": "will he bite again \\?",
+        "a4": "he will not bite again at least in the world cup because of video review",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "he will not bite again at least in the world cup because of video review",
+        "a4_v2": "he will not bite again at least in the world cup because of video review",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "does n't suarez seemed to have mellowed out in the last few years as well \\?",
+        "a5": "maybe you are right",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "maybe you are right",
+        "a5_v2": "maybe you are right",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "luis suarez"
+    }
+]

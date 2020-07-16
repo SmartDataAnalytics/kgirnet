@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "is there a hospital within 5_miles",
+        "a1": "i have info only about the stanford_express_care hospital but it s 8_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "stanford_express_care",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "stanford_express_care",
+            "hospital",
+            "8_miles"
+        ]
+    },
+    {
+        "q2": "pick a route to avoid all heavy_traffic and send it to my map please",
+        "a2": "the route to stanford_express_care is reporting moderate_traffic to 214_el_camino_real gps set",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "address",
+        "obj2": "214_el_camino_real",
+        "input_ent2": "stanford_express_care",
+        "kvr_entlist_qa2": [
+            "stanford_express_care",
+            "moderate_traffic",
+            "214_el_camino_real"
+        ]
+    },
+    {
+        "q3": "thank you car you rock",
+        "a3": "you re welcome drive safely and take care",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

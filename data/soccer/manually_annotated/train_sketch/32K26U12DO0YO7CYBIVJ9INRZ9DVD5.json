@@ -1,0 +1,109 @@
+[
+    {
+        "q1": "when did atletico madrid start playing in la liga?",
+        "a1": "1928",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "1928",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "in what year did atletico madrid see their major la liga and european success?",
+        "a2": "in 1996 they began to come out from the shadows and they have currently wo 10 la liga titles which is very impressive",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "in 1996 they began to come out from the shadows and they have currently wo @object la liga titles which is very impressive",
+        "a2_v2": "in 1996 they began to come out from the shadows and they have currently wo 10 la liga titles which is very impressive",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "atletico madrid"
+    },
+    {
+        "q3": "who do you believe is atletico madrids most important player?",
+        "a3": "antoine griezman",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "antoine griezman",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "atletico madrid"
+    },
+    {
+        "q4": "for my opinion antoine griezman is very important",
+        "a4": "i think the best player in atletico madrid is antoine griezman",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i think the @relation in @entity is @object",
+        "a4_v2": "i think the best player in atletico madrid is antoine griezman",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "antoine griezmann"
+    },
+    {
+        "q5": "will atletico madrid play against italy?",
+        "a5": "atletico madrid will play against a team from italy in the champions league",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity will play against a team from @entity in the champions league",
+        "a5_v2": "atletico madrid will play against a team from italy in the champions league",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "atletico madrid"
+    }
+]

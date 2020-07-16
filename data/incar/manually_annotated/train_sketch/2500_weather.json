@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "it s going to be raining so i have to drive slow",
+        "a1": "what city should i check if it is raining in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "mountain_view",
+        "a2": "it will not be raining in mountain_view today it is going to be foggy with a low of 30f and a high of 40f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "40f,30f,foggy",
+        "input_ent2": "mountain_view",
+        "kvr_entlist_qa2": [
+            "today",
+            "40f",
+            "30f",
+            "foggy",
+            "mountain_view"
+        ]
+    },
+    {
+        "q3": "okay thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

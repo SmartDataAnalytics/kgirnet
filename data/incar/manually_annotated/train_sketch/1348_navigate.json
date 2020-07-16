@@ -1,0 +1,46 @@
+[
+    {
+        "q1": "can you please take me to a coffee house",
+        "a1": "you best bet for coffee is 6_miles away at coupa located at 394_van_ness_ave",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "",
+        "obj1": "coupa",
+        "input_ent1": "peets_coffee",
+        "kvr_entlist_qa1": [
+            "394_van_ness_ave",
+            "6_miles",
+            "coupa"
+        ]
+    },
+    {
+        "q2": "what is the traffic like and can you send me directions",
+        "a2": "there is moderate_traffic on the way to coupa at 394_van_ness_ave anything else",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "",
+        "obj2": "394_van_ness_ave",
+        "input_ent2": "peets_coffee",
+        "kvr_entlist_qa2": [
+            "394_van_ness_ave",
+            "moderate_traffic",
+            "coupa"
+        ]
+    },
+    {
+        "q3": "that s is please set the gps to go there thank you",
+        "a3": "setting route",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thanks",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "san_francisco",
+        "kvr_entlist_qa4": []
+    }
+]

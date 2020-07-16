@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "i admire spain",
+        "a1": "well i dislike this team",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "well i dislike this team",
+        "a1_v2": "well i dislike this team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "spain"
+    },
+    {
+        "q2": "will spain do well next world cup?",
+        "a2": "i think so. they have a lot of young talent available to them. ",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i think so. they have a lot of young talent available to them. ",
+        "a2_v2": "i think so. they have a lot of young talent available to them. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "spain"
+    },
+    {
+        "q3": "i agree, because they have a high level of youth and they are growing little by little",
+        "a3": "who is the coach of spain?",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "who is the @relation of spain?",
+        "a3_v2": "who is the coach of spain?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "white and red"
+    },
+    {
+        "q4": "luis enrique.",
+        "a4": "is not the coach.",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "luis enrique": [
+                "coach"
+            ]
+        },
+        "a4_skt": "is not the @relation",
+        "a4_v2": "is not the coach.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "luis enrique"
+    },
+    {
+        "q5": "didn't luis enrique get hired in july 2018 though?",
+        "a5": "yes, he got hired very recently.",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "luis enrique": [
+                "coach"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "yes, he got hired very recently.",
+        "a5_v2": "yes, he got hired very recently.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "luis enrique"
+    }
+]

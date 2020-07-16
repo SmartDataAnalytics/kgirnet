@@ -1,0 +1,152 @@
+[
+    {
+        "q1": "did real madrid transfer cristiano ronaldo?",
+        "a1": "no, ronaldo still plays for real madrid.",
+        "kgER1": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "no, ronaldo still plays for @entity",
+        "a1_v2": "no, ronaldo still plays for real madrid.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "does he want to trnasfer?",
+        "a2": "i think he does.",
+        "kgER2": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i think he does.",
+        "a2_v2": "i think he does.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "which players want to tranfer off this team?",
+        "a3": "modric was linked with a move to inter ",
+        "kgER3": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object was linked with a move to inter ",
+        "a3_v2": "@has_player was linked with a move to inter ",
+        "corr_rel3": "has player",
+        "obj3": "luka modric",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "what team will modric play on?",
+        "a4": "modric will play in real madrid and in croatia ",
+        "kgER4": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "modric will play in @entity and in @entity ",
+        "a4_v2": "modric will play in real madrid and in croatia ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "luka modric"
+    },
+    {
+        "q5": "what position will he play?",
+        "a5": "no one has said yet.",
+        "kgER5": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "no one has said yet.",
+        "a5_v2": "no one has said yet.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

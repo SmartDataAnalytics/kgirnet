@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "check forecast for new_york",
+        "a1": "the weather forecast in new_york is windy the low is 40f and the high is 60f",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "monday",
+        "obj1": "windy,40f,60f",
+        "input_ent1": "new_york",
+        "kvr_entlist_qa1": [
+            "windy",
+            "40f",
+            "60f",
+            "new_york"
+        ]
+    },
+    {
+        "q2": "thank you i would like to know if there will be frost in new_york anytime over the next 7 days",
+        "a2": "frost is predicted in new_york on saturday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "saturday",
+        "obj2": "frost",
+        "input_ent2": "new_york",
+        "kvr_entlist_qa2": [
+            "saturday",
+            "frost",
+            "new_york"
+        ]
+    },
+    {
+        "q3": "great thank you",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

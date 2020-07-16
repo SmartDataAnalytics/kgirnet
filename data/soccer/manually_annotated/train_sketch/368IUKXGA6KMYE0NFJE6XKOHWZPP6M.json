@@ -1,0 +1,156 @@
+[
+    {
+        "q1": "who did germany lose too this world cup?",
+        "a1": "mexico",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity",
+        "a1_v2": "mexico",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "didn't germany also lose to south korea?",
+        "a2": "yes, they did",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes, they did",
+        "a2_v2": "yes, they did",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "germany"
+    },
+    {
+        "q3": "should leroy sane have been in the squad",
+        "a3": "he should have been leroy, he's an excellent player ",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "leroy sane": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "he should have been leroy, he's an excellent player ",
+        "a3_v2": "he should have been leroy, he's an excellent player ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "leroy sane"
+    },
+    {
+        "q4": "what two teams were in the finals for 2018 world cup?",
+        "a4": "france vs croatia",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "leroy sane": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "@entity vs @entity",
+        "a4_v2": "france vs croatia",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "2018"
+    },
+    {
+        "q5": "france excellent juice deserved to win",
+        "a5": "why do you say that?",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "leroy sane": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "why do you say that?",
+        "a5_v2": "why do you say that?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "france"
+    }
+]

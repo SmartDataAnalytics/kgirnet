@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "what is the weather",
+        "a1": "please tell me the city you would like the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "in durham please",
+        "a2": "what would you like to know about the weather in durham",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "durham",
+        "kvr_entlist_qa2": [
+            "durham"
+        ]
+    },
+    {
+        "q3": "the forecast today",
+        "a3": "it is raining with temperatures between 90f - 100f in durham",
+        "input_rel3": "",
+        "corr_rel3": "monday",
+        "obj3": "90f, 100f",
+        "input_ent3": "durham",
+        "kvr_entlist_qa3": [
+            "90f",
+            "100f",
+            "durham"
+        ]
+    },
+    {
+        "q4": "alright thanks",
+        "a4": "no problem you are welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

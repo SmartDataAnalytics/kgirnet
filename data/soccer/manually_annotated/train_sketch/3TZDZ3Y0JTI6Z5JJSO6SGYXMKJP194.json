@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "name the stadium in which switzerland play it 's home matches \\?",
+        "a1": "the papa john stadium",
+        "kgER1": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "the papa john stadium",
+        "a1_v2": "the papa john stadium",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "who is a goalie for swiss team \\?",
+        "a2": "sommer , movogo , and burki were all goal keepers this year",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object , movogo , and burki were all @relation this year",
+        "a2_v2": "@goalkeeper , movogo , and burki were all goalkeeper this year",
+        "corr_rel2": "goalkeeper",
+        "obj2": "yann sommer",
+        "input_ent2": "switzerland"
+    },
+    {
+        "q3": "who is the striker of switzerland \\?",
+        "a3": "breel embolo is one of the strikers of switzerland",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object is one of the strikers of @entity",
+        "a3_v2": "@forward is one of the strikers of @entity",
+        "corr_rel3": "forward",
+        "obj3": "breel embolo",
+        "input_ent3": "switzerland"
+    },
+    {
+        "q4": "name the most expensive player of switzerland \\?",
+        "a4": "all of them are expensive",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "all of them are expensive",
+        "a4_v2": "all of them are expensive",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "switzerland"
+    },
+    {
+        "q5": "did anyone get hurt on the switzerland team last game \\?",
+        "a5": "no injuries as i recall",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "no injuries as i recall",
+        "a5_v2": "no injuries as i recall",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "switzerland"
+    }
+]

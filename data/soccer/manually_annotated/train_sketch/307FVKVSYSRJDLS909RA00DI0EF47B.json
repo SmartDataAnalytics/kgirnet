@@ -1,0 +1,104 @@
+[
+    {
+        "q1": "this is one of my favorite team",
+        "a1": "i like them too.",
+        "kgER1": {},
+        "a1_skt": "i like them too.",
+        "a1_v2": "i like them too.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "when did you first become a croatia fan?",
+        "a2": "1998.",
+        "kgER2": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "1998.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "croatia"
+    },
+    {
+        "q3": "has croatia ever won the world cup?",
+        "a3": "no they have not. they're best result was when they finished in 3rd place in 1998",
+        "kgER3": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "no they have not. they're best result was when they finished in 3rd place in @object",
+        "a3_v2": "no they have not. they're best result was when they finished in 3rd place in 1998",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "croatia"
+    },
+    {
+        "q4": "what colors are croatia?",
+        "a4": "they wear red, white, and blue.",
+        "kgER4": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they wear @object @object and @object",
+        "a4_v2": "they wear red, white, and blue.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "croatia"
+    },
+    {
+        "q5": "who is the croation head coach",
+        "a5": "they were considering signign him to a new contract.",
+        "kgER5": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they were considering signign him to a new contract.",
+        "a5_v2": "they were considering signign him to a new contract.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

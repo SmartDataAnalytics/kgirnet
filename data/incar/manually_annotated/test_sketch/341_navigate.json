@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "i need the closest hospital",
+        "a1": "the palo_alto_medical_foundation is 4_miles away at 611_ames_ave would you like directions there",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "palo_alto_medical_foundation",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "611_ames_ave",
+            "4_miles",
+            "palo_alto_medical_foundation"
+        ]
+    },
+    {
+        "q2": "yes please give me directions via the route with no_traffic",
+        "a2": "there is moderate_traffic on our way and you should be able to reach there fast i sent all the info on your screen drive carefully",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "get directions to home",
+        "a1": "home is 5_miles away at 5671 barringer street",
+        "input_rel1": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel1": "distance, address",
+        "obj1": "5_miles",
+        "input_ent1": "home",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "home"
+        ]
+    },
+    {
+        "q2": "i need a route with no_traffic please",
+        "a2": "the only route i have has a lot of traffic it is 5_miles away i will try my best to avoid the traffic",
+        "input_rel2": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel2": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "obj2": "5_miles",
+        "input_ent2": "home",
+        "kvr_entlist_qa2": [
+            "5_miles"
+        ]
+    },
+    {
+        "q3": "thanks i hope we miss most of it",
+        "a3": "you re welcome i hope so too",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

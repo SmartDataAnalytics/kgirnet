@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "is it cloudy today",
+        "a1": "what city would you like to know if there will be snow in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "snow"
+        ]
+    },
+    {
+        "q2": "i want to know if it will be cloudy in alhambra today",
+        "a2": "today is gonna be hot in alhambra",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "hot",
+        "input_ent2": "alhambra",
+        "kvr_entlist_qa2": [
+            "alhambra",
+            "today",
+            "hot"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

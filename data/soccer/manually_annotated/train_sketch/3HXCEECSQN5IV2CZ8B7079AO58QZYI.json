@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "what is your favorite soccer formation?",
+        "a1": "i prefer to watch defensive play ",
+        "kgER1": {},
+        "a1_skt": "i prefer to watch defensive play ",
+        "a1_v2": "i prefer to watch defensive play ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who is your favorite defensive player?",
+        "a2": "my favorite defender is sergio ramos, belongs to real madrid",
+        "kgER2": {},
+        "a2_skt": "my favorite @relation is @object belongs to @entity",
+        "a2_v2": "my favorite defender is sergio ramos, belongs to real madrid",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is your favorite runner player?",
+        "a3": "my favorite racer player is mbappe",
+        "kgER3": {},
+        "a3_skt": "my favorite racer player is mbappe",
+        "a3_v2": "my favorite racer player is mbappe",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "real madrid star cristiano ronaldo front-runner for best fifa men's ",
+        "a4": "predicate the country that will win the next world cup",
+        "kgER4": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "predicate the country that will win the next world cup",
+        "a4_v2": "predicate the country that will win the next world cup",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "there are way too many factors to determine who will win",
+        "a5": "yeah but guessing mj",
+        "kgER5": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yeah but guessing mj",
+        "a5_v2": "yeah but guessing mj",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

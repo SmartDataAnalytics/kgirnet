@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "i need directions to the nearest grocery_store",
+        "a1": "we are 2_miles away from safeway do you want me to send you its address on screen",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "safeway",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "2_miles",
+            "safeway"
+        ]
+    },
+    {
+        "q2": "yes please and pick a quick route to reach there too thank you",
+        "a2": "safeway is located at 452_arcadia_pl with no_traffic setting gps now",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "address",
+        "obj2": "452_arcadia_pl",
+        "input_ent2": "safeway",
+        "kvr_entlist_qa2": [
+            "452_arcadia_pl",
+            "no_traffic",
+            "safeway"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "no problem driver",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

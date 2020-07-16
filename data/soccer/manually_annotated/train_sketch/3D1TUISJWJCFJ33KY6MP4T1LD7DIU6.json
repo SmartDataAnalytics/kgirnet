@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "germany is the only nation to have won both the men's and women's world cup.",
+        "a1": "this is true - they did very well .",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "this is true - they did very well .",
+        "a1_v2": "this is true - they did very well .",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "germany was a top team",
+        "a2": "i think german women's team is much more successful than the men's one.",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i think @entity women's team is much more successful than the men's one.",
+        "a2_v2": "i think german women's team is much more successful than the men's one.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "germany"
+    },
+    {
+        "q3": "could the women's team beat the men's team?",
+        "a3": "i doubt it",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i doubt it",
+        "a3_v2": "i doubt it",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "when it was the las cup that germany won?",
+        "a4": "in 2014",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "in @object",
+        "a4_v2": "in @world_cup_champions",
+        "corr_rel4": "world cup champions",
+        "obj4": "2014",
+        "input_ent4": "germany"
+    },
+    {
+        "q5": "do you think they will win the next cup?",
+        "a5": "the definitely have the potential to win, but they need to phase out older players who are past their best and replace them with young, hungry players. ",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "the definitely have the potential to win, but they need to phase out older players who are past their best and replace them with young, hungry players. ",
+        "a5_v2": "the definitely have the potential to win, but they need to phase out older players who are past their best and replace them with young, hungry players. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

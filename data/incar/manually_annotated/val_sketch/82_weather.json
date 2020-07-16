@@ -1,0 +1,32 @@
+[
+    {
+        "q1": "what s the temperature in city",
+        "a1": "what city would you like to know the temperature about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "redwood_city what is the temperature for this week",
+        "a2": "the temperature range for next_week goes from lows in the 20s to highs in the 100s for redwood_city",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "20f,100f",
+        "input_ent2": "redwood_city",
+        "kvr_entlist_qa2": [
+            "redwood_city",
+            "next_week"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

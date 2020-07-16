@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what s the weather going to be today and also what is the weather going to be this week",
+        "a1": "what city would you like the forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "will it be cloudy in compton today",
+        "a2": "no it will not be cloudy in compton today",
+        "input_rel2": "",
+        "corr_rel2": "monday",
+        "obj2": "",
+        "input_ent2": "compton",
+        "kvr_entlist_qa2": [
+            "compton",
+            "cloudy",
+            "today"
+        ]
+    },
+    {
+        "q3": "okay thanks",
+        "a3": "my pleasure",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

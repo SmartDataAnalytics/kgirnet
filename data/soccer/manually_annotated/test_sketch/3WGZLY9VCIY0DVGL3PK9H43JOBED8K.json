@@ -1,0 +1,70 @@
+[
+    {
+        "q1": "this is my favorite my team",
+        "a1": "their nickname is the red devils.",
+        "kgER1": {},
+        "a1_skt": "their nickname is the @object devils.",
+        "a1_v2": "their nickname is the red devils.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "what position did they finish in last year, in the premier league?",
+        "a2": "2nd",
+        "kgER2": {},
+        "a2_skt": "2nd",
+        "a2_v2": "2nd",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "whom will they most probably lose during the championship?",
+        "a3": "manchester city or liverpool this season",
+        "kgER3": {},
+        "a3_skt": "manchester city or @entity this season",
+        "a3_v2": "manchester city or liverpool this season",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "will manchester united win the league next season?",
+        "a4": "manchester united might win ",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity might win ",
+        "a4_v2": "manchester united might win ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "who lead the team in scoring last season?",
+        "a5": "it was more than just one player the team effort is what counts.",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "it was more than just one player the team effort is what counts.",
+        "a5_v2": "it was more than just one player the team effort is what counts.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

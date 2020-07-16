@@ -1,0 +1,128 @@
+[
+    {
+        "q1": "i absolutely adore portugal",
+        "a1": "ronaldo is my favorite player on the portugal team.",
+        "kgER1": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "ronaldo is my favorite player on the @entity team.",
+        "a1_v2": "ronaldo is my favorite player on the portugal team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "portugal"
+    },
+    {
+        "q2": "you and every portugal fan.",
+        "a2": "ronaldo has so much skills",
+        "kgER2": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "ronaldo has so much skills",
+        "a2_v2": "ronaldo has so much skills",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "portugal"
+    },
+    {
+        "q3": "what is your favorite aspect of ronaldo's game?",
+        "a3": "great free kicks and hat tricks ",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "great free kicks and hat tricks ",
+        "a3_v2": "great free kicks and hat tricks ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "cristiano ronaldo"
+    },
+    {
+        "q4": "yes great free kick",
+        "a4": "do you like his hair cut?",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "do you like his hair cut?",
+        "a4_v2": "do you like his hair cut?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "cristiano ronaldo has a good cut ",
+        "a5": "cristiano's current haircut looks fresh due to the faded sides he got done.",
+        "kgER5": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "cristiano's current haircut looks fresh due to the faded sides he got done.",
+        "a5_v2": "cristiano's current haircut looks fresh due to the faded sides he got done.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "cristiano ronaldo"
+    }
+]

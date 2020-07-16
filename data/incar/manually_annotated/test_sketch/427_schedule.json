@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "car find out the time and parties attending for my tennis_activity",
+        "a1": "your tennis_activity is set for 11am with jon in attendance",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "time,party",
+        "obj1": "jon,11am",
+        "input_ent1": "tennis_activity",
+        "kvr_entlist_qa1": [
+            "jon",
+            "tennis_activity",
+            "11am"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "happy to help",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

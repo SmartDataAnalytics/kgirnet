@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "what year was ac milan founded?",
+        "a1": "1899",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@founded_on",
+        "corr_rel1": "founded on",
+        "obj1": "1899",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "how many teams were founded before ac milan was?",
+        "a2": "quite many of them.",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "quite many of them.",
+        "a2_v2": "quite many of them.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "can you give an example of a longer existing team?",
+        "a3": "manchester united maybe",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@entity maybe",
+        "a3_v2": "manchester united maybe",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    },
+    {
+        "q4": "who is ac milan's best player?",
+        "a4": "in my opinion it's gianluigi donnarumma",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "in my opinion it's @object",
+        "a4_v2": "in my opinion it's gianluigi donnarumma",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "what position does he plays in?",
+        "a5": "he is the goalkeeper.",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "he is the @object",
+        "a5_v2": "he is the @position",
+        "corr_rel5": "position",
+        "obj5": "goalkeeper",
+        "input_ent5": "gianluigi donnarumma"
+    }
+]

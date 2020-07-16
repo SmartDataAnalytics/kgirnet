@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "i really love the team spain",
+        "a1": "are they better than portugal? ",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "are they better than @entity ",
+        "a1_v2": "are they better than portugal? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "spain"
+    },
+    {
+        "q2": "do you like this team",
+        "a2": "yes i like the spaniard team, they have a good offensive attack",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes i like the spaniard team, they have a good offensive attack",
+        "a2_v2": "yes i like the spaniard team, they have a good offensive attack",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "will spain's defensive game be enough though?",
+        "a3": "not at all, you must attack more and have more shots outside the area ",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "not at all, you must attack more and have more shots outside the area ",
+        "a3_v2": "not at all, you must attack more and have more shots outside the area ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "spain"
+    },
+    {
+        "q4": "i think spain is better",
+        "a4": "spain should attack more and be more solid in defense have a very good team ",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity should attack more and be more solid in @relation have a very good team ",
+        "a4_v2": "spain should attack more and be more solid in defense have a very good team ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "spain"
+    },
+    {
+        "q5": "do you think portugal has better goaltending than spain? ",
+        "a5": "no way.",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "no way.",
+        "a5_v2": "no way.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "spain"
+    }
+]

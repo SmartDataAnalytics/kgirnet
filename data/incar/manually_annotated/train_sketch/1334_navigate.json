@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "i need a parking_garage around here",
+        "a1": "the nearer parking_garage is stanford_oval_parking 1_miles away but i have 2 other farther options for you",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "stanford_oval_parking",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "parking_garage",
+            "1_miles",
+            "stanford_oval_parking"
+        ]
+    },
+    {
+        "q2": "which has the least traffic",
+        "a2": "stanford_oval_parking is 1_miles away at 610_amarillo_ave and the closest",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "distance, address",
+        "obj2": "1_miles, 610_amarillo_ave",
+        "input_ent2": "stanford_oval_parking",
+        "kvr_entlist_qa2": [
+            "610_amarillo_ave",
+            "1_miles",
+            "stanford_oval_parking"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you re very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

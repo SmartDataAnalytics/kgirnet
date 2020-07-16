@@ -1,0 +1,16 @@
+[
+    {
+        "q1": "what s on the agenda for today s meeting",
+        "a1": "you are meeting with the sales_team to discuss_the_company_picnic today",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "agenda,party",
+        "obj1": "discuss_the_company_picnic,sales_team,today",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "meeting",
+            "discuss_the_company_picnic",
+            "sales_team",
+            "today"
+        ]
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "q1": "is manchester united the current champion in england?",
+        "a1": "manchester united is not the current england champion.",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity is not the current england champion.",
+        "a1_v2": "manchester united is not the current england champion.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "who are the current league champions in england?",
+        "a2": "juventus ",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@entity ",
+        "a2_v2": "juventus ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "mascot of man utd?",
+        "a3": "the mascot is fred the red",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "the mascot is f@object the @object",
+        "a3_v2": "the mascot is fred the red",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what are the colors of manchester united's uniform?",
+        "a4": "white and blue",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object and @object",
+        "a4_v2": "white and blue",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "manchester city are the current champions. manchester united play in red and white",
+        "a5": "did their colors change recently?",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "white": [
+                "jersey color"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "red and white": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "did their colors change recently?",
+        "a5_v2": "did their colors change recently?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "manchester united"
+    }
+]

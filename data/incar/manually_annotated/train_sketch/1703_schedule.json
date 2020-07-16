@@ -1,0 +1,28 @@
+[
+    {
+        "q1": "what is the location date and agenda of my meeting",
+        "a1": "you have two meeting one on the_5th and one on the_7th which one do you want more information about",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "date",
+        "obj1": "the_5th,the_7th",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "the_5th",
+            "meeting",
+            "the_7th"
+        ]
+    },
+    {
+        "q2": "the one on the_5th",
+        "a2": "the meeting on the_5th is at conference_room_102 to discuss the quarterly report",
+        "input_rel2": "date",
+        "corr_rel2": "room",
+        "obj2": "conference_room_102",
+        "input_ent2": "meeting",
+        "kvr_entlist_qa2": [
+            "the_5th",
+            "meeting",
+            "conference_room_102"
+        ]
+    }
+]

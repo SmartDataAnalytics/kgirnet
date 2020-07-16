@@ -1,0 +1,123 @@
+[
+    {
+        "q1": "who is germany 's keeper \\?",
+        "a1": "manuel neuer is the keeper for germany",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object is the keeper for @entity",
+        "a1_v2": "manuel neuer is the keeper for germany",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "who is their manager \\?",
+        "a2": "joachim low",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "joachim low",
+        "a2_v2": "joachim low",
+        "corr_rel2": "coach",
+        "obj2": "joachim low",
+        "input_ent2": "germany"
+    },
+    {
+        "q3": "do you think that low will keep neuer as keeper next year \\?",
+        "a3": "i'm sure they 're a great goalkeeper",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i'm sure they 're a great @relation",
+        "a3_v2": "i'm sure they 're a great goalkeeper",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "joachim low"
+    },
+    {
+        "q4": "how much is the goalkeeper paid \\?",
+        "a4": "no idea",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "no idea",
+        "a4_v2": "no idea",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "goalkeeper"
+    },
+    {
+        "q5": "germany team is the best team or not \\?",
+        "a5": "they were at one time , but not anymore",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "they were at one time , but not anymore",
+        "a5_v2": "they were at one time , but not anymore",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "germany"
+    }
+]

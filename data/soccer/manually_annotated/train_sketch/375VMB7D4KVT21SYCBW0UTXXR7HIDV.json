@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "what year did the senegal football club form?",
+        "a1": "1960 ",
+        "kgER1": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object ",
+        "a1_v2": "1960 ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "senegal"
+    },
+    {
+        "q2": "who was their first ever manager?",
+        "a2": "not sure. the first senegal match took place on 31 december 1961 against dahomey. senegal lost 3\u20132.",
+        "kgER2": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "not sure. the first @entity match took place on @object december 1961 against dahomey. @entity lost 3\u20132.",
+        "a2_v2": "not sure. the first senegal match took place on 31 december 1961 against dahomey. senegal lost 3\u20132.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ever banega"
+    },
+    {
+        "q3": "who is senegal's best player of all time?",
+        "a3": "that's a tough question, i would say that senegal's best player in history is abdoulaye faye. ",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "that's a tough question, i would say that senegal's @relation in history is abdoulaye faye. ",
+        "a3_v2": "that's a tough question, i would say that senegal's best player in history is abdoulaye faye. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "senegal"
+    },
+    {
+        "q4": "who is sengal's current best player?",
+        "a4": "kader mangane",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "kader mangane",
+        "a4_v2": "kader mangane",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who coaches senegal?",
+        "a5": "aliou ciss\u00e9",
+        "kgER5": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@coach",
+        "corr_rel5": "coach",
+        "obj5": "aliou cisse",
+        "input_ent5": "senegal"
+    }
+]

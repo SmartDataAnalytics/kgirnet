@@ -1,0 +1,99 @@
+[
+    {
+        "q1": "who have you just signed for 80m",
+        "a1": "del piero",
+        "kgER1": {
+            "1 80 m": [
+                "height"
+            ]
+        },
+        "a1_skt": "del piero",
+        "a1_v2": "del piero",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "is del piero worth that much?",
+        "a2": "who is the goal keeper of juentus  mattia prin",
+        "kgER2": {
+            "1 80 m": [
+                "height"
+            ]
+        },
+        "a2_skt": "who is the @relation of @entity  @object",
+        "a2_v2": "who is the goal keeper of juentus  mattia prin",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who will replace higuain for juventus?",
+        "a3": "cristiano ronaldo obviously",
+        "kgER3": {
+            "1 80 m": [
+                "height"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "@object obviously",
+        "a3_v2": "cristiano ronaldo obviously",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "juventus"
+    },
+    {
+        "q4": "who is their manager?",
+        "a4": "massimiliano allegri is the manager of juventus fc.",
+        "kgER4": {
+            "1 80 m": [
+                "height"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "massimiliano allegri is the manager of @entity fc.",
+        "a4_v2": "massimiliano allegri is the manager of juventus fc.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is the best player for juventus?",
+        "a5": "sami khedira is the best.",
+        "kgER5": {
+            "1 80 m": [
+                "height"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "@object is the best.",
+        "a5_v2": "sami khedira is the best.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "juventus"
+    }
+]

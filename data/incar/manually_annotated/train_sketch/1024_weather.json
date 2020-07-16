@@ -1,0 +1,41 @@
+[
+    {
+        "q1": "what is the weather for the next 7 days",
+        "a1": "what city are you interested in learning the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i would like information about san_mateo please",
+        "a2": "it will be in the 30f - 50sf monday to wednesday and 90f - 100f on thursday in san_mateo friday through the weekend will be 20f - 40f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday,wednesday,thursday,friday",
+        "obj2": "100f,90f,20f,40f,30f",
+        "input_ent2": "san_mateo",
+        "kvr_entlist_qa2": [
+            "100f",
+            "90f",
+            "san_mateo",
+            "monday",
+            "weekend",
+            "20f",
+            "wednesday",
+            "40f",
+            "thursday",
+            "30f",
+            "friday"
+        ]
+    },
+    {
+        "q3": "okay great thank you so much",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

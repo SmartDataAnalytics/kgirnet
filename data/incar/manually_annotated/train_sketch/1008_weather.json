@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "what s the weather like today and tomorrow",
+        "a1": "where would you like to hear the forecast from",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i want to hear grand_rapids highest_temperature for today and tomorrow",
+        "a2": "in grand_rapids today s high temperature is 40f tomorrow s will be 80f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "80f,today,40f,tomorrow",
+        "input_ent2": "grand_rapids",
+        "kvr_entlist_qa2": [
+            "grand_rapids",
+            "80f",
+            "today",
+            "40f",
+            "tomorrow"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "happy to help",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "is it going to rain today",
+        "a1": "which location are you asking about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "oakland",
+        "a2": "no no rain today it s gonna snow in oakland",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "snow",
+        "input_ent2": "oakland",
+        "kvr_entlist_qa2": [
+            "rain",
+            "today",
+            "oakland",
+            "snow"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

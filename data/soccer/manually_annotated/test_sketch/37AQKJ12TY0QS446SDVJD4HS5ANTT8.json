@@ -1,0 +1,157 @@
+[
+    {
+        "q1": "i really love the team uruguay",
+        "a1": "i too am a huge fan of this team",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i too am a huge fan of this team",
+        "a1_v2": "i too am a huge fan of this team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": "who is your favorite uruguay player? ",
+        "a2": "luis suarez",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "luis suarez",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "uruguay"
+    },
+    {
+        "q3": "luis suarez is my favorite player from uruguay, after cavani, of course.",
+        "a3": "is luis suarez the top goal score for the uruguay national team.",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a3_skt": "is @object the top @relation score for the @entity national team.",
+        "a3_v2": "is luis suarez the top goal score for the uruguay national team.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "luis suarez"
+    },
+    {
+        "q4": "no i don\u2019t believe so",
+        "a4": "who is then?",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a4_skt": "who is then?",
+        "a4_v2": "who is then?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "my best pick would have to be edinson cavani",
+        "a5": "how many assists did he provide this year?",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "edinson cavani": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a5_skt": "how many assists did he provide this year?",
+        "a5_v2": "how many assists did he provide this year?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "edinson cavani"
+    }
+]

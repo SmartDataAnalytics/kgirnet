@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "how can juventus improve?",
+        "a1": "paulo dybala needs to sort out his private life and focus on his football.",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "@object needs to sort out his private life and focus on his football.",
+        "a1_v2": "paulo dybala needs to sort out his private life and focus on his football.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "yup it is important.",
+        "a2": "yeah i agree. more focus is needed.",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "yeah i agree. more focus is needed.",
+        "a2_v2": "yeah i agree. more focus is needed.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "where in their table is juventus?",
+        "a3": "pretty high up",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "pretty @relation up",
+        "a3_v2": "pretty high up",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "juventus"
+    },
+    {
+        "q4": "what is the ranking of juventus?",
+        "a4": "juventus finished first in calcio a last season. they are definitely in the top 5 clubs in the world.",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "@entity finished first in calcio a last season. they are definitely in the top @object clubs in the world.",
+        "a4_v2": "juventus finished first in calcio a last season. they are definitely in the top 5 clubs in the world.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "juventus"
+    },
+    {
+        "q5": "but will they win this season?",
+        "a5": "they are on the top right now",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "they are on the top right now",
+        "a5_v2": "they are on the top right now",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

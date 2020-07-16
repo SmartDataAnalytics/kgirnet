@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "what is the weather going to be like today and tomorrow",
+        "a1": "what city are you wanting to know the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "los_angeles",
+        "a2": "in los_angeles it is going to be hot today with a low of 40f and a high of 60f tomorrow will be rainy with a low of 40f and a high of 60f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "hot,60f,40f",
+        "input_ent2": "los_angeles",
+        "kvr_entlist_qa2": [
+            "tomorrow",
+            "hot",
+            "today",
+            "60f",
+            "los_angeles",
+            "40f"
+        ]
+    },
+    {
+        "q3": "awesome thanks",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

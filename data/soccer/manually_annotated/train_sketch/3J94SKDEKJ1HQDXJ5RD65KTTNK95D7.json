@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "in which year iceland qualify for wc \\?",
+        "a1": "2018",
+        "kgER1": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@world_cup_group_stage,",
+        "corr_rel1": "world cup group stage,",
+        "obj1": "2018",
+        "input_ent1": "iceland"
+    },
+    {
+        "q2": "how many times has iceland qualified for the world cup \\?",
+        "a2": "only once",
+        "kgER2": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "only once",
+        "a2_v2": "only once",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "iceland"
+    },
+    {
+        "q3": "do you think they will win the next world cup \\?",
+        "a3": "not likely , they have a pretty low chance",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "not likely , they have a pretty low chance",
+        "a3_v2": "not likely , they have a pretty low chance",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "who is the best player for iceland \\?",
+        "a4": "gylfi thor sigurdsson is the best player",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object is the @relation",
+        "a4_v2": "gylfi thor sigurdsson is the best player",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "iceland"
+    },
+    {
+        "q5": "how old is he \\?",
+        "a5": "sigurdsson is 29 years old",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "sigurdsson is @object years old",
+        "a5_v2": "sigurdsson is 29 years old",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "old trafford"
+    }
+]

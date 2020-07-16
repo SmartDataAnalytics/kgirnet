@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "take me to a place where i can get some hot tea",
+        "a1": "there is a peets_coffee and a teavana close by",
+        "input_rel1": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "peets_coffee,teavana",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "peets_coffee",
+            "teavana"
+        ]
+    },
+    {
+        "q2": "which one is the fastest to reach",
+        "a2": "both are 4_miles away and neither have traffic",
+        "input_rel2": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel2": "distance",
+        "obj2": "4_miles",
+        "input_ent2": "tevana",
+        "kvr_entlist_qa2": [
+            "4_miles"
+        ]
+    },
+    {
+        "q3": "let s try teavana then map a route and let s go there",
+        "a3": "i sent to your screen a route with no_traffic drive carefully",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "tevana",
+        "kvr_entlist_qa3": [
+            "no_traffic"
+        ]
+    },
+    {
+        "q4": "thanks for the help",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

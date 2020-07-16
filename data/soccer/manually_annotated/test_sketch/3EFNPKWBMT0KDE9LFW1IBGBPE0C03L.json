@@ -1,0 +1,103 @@
+[
+    {
+        "q1": "who is currently the top scorer for uruguay?",
+        "a1": "edinson cavani",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "edinson cavani",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": "who is current goalkeeper coach of uruguay?",
+        "a2": "celso otero",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a2_skt": "celso otero",
+        "a2_v2": "celso otero",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "goalkeeper"
+    },
+    {
+        "q3": "yes. celso otero, is the true coach of goalkeepers of the uruguayan national team",
+        "a3": "i don't think he did a good job with muslera",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "i don't think he did a good job with muslera",
+        "a3_v2": "i don't think he did a good job with muslera",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "giovani lo celso"
+    },
+    {
+        "q4": "should uruguay have done better in the world cup ",
+        "a4": "no, they are not at that level this season.",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "no, they are not at that level this season.",
+        "a4_v2": "no, they are not at that level this season.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "uruguay"
+    }
+]

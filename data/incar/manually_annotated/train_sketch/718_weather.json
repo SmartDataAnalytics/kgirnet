@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "what is the weather in new_york city",
+        "a1": "what can i tell you about the weather in new_york",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "new_york"
+        ]
+    },
+    {
+        "q2": "i d like to know the weather overcast in the next_weekend",
+        "a2": "it will be overcast on sunday for this weekend in new_york",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "overcast,weekend",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "sunday",
+            "new_york",
+            "weekend",
+            "overcast"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

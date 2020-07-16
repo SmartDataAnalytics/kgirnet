@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "how many wc win by senegal \\?",
+        "a1": "0",
+        "kgER1": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@number_of_world_cup_champion",
+        "corr_rel1": "number of world cup champion",
+        "obj1": "0",
+        "input_ent1": "senegal"
+    },
+    {
+        "q2": "did senegal win \\?",
+        "a2": "they only won one game",
+        "kgER2": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they only won one game",
+        "a2_v2": "they only won one game",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "senegal"
+    },
+    {
+        "q3": "who do you think they will beat next \\?",
+        "a3": "they are playing madagascar next",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they are playing madagascar next",
+        "a3_v2": "they are playing madagascar next",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "does madagascar play good \\?",
+        "a4": "they are ok but in my opnion senegal are better",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they are ok but in my opnion @entity are better",
+        "a4_v2": "they are ok but in my opnion senegal are better",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "do they even have a team \\?",
+        "a5": "yes , they have a very strong team",
+        "kgER5": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes , they have a very strong team",
+        "a5_v2": "yes , they have a very strong team",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

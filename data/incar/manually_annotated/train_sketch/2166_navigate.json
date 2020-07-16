@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "please give me directions to a nearby parking_garage parking lot",
+        "a1": "stanford_oval_parking is the nearest parking_garage it is 5_miles away and this route is traffic free",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "stanford_oval_parking",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "parking_garage",
+            "stanford_oval_parking"
+        ]
+    },
+    {
+        "q2": "sounds great set the gps for there thanks",
+        "a2": "navigating to 610_amarillo_ave",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "address",
+        "obj2": "610_amarillo_ave",
+        "input_ent2": "stanford_oval_parking",
+        "kvr_entlist_qa2": [
+            "610_amarillo_ave"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

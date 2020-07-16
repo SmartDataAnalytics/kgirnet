@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "is it going to snow next_week",
+        "a1": "what location do you want the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "atherton",
+        "a2": "no there is no snow in the forecast for atherton for next_week",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "atherton",
+        "kvr_entlist_qa2": [
+            "next_week",
+            "snow",
+            "atherton"
+        ]
+    },
+    {
+        "q3": "yes thank you so much",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

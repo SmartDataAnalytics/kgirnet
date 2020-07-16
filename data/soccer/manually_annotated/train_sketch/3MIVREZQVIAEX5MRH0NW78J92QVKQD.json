@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "how many total world cups has italy won so far? ",
+        "a1": "italy has won the world cup four times.",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity has won the world cup four times.",
+        "a1_v2": "italy has won the world cup four times.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "4 i believe",
+        "a2": "4 times",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object times",
+        "a2_v2": "4 times",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "italy has 4 world cup victories, with the most recent being in 2006.",
+        "a3": "that is correct. italy has 4 world cup victories.",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "that is correct. @entity has @object world cup victories.",
+        "a3_v2": "that is correct. italy has 4 world cup victories.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "2006"
+    },
+    {
+        "q4": "what years were those wins?",
+        "a4": "they won after world war 2 sometime.",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they won after world war @object sometime.",
+        "a4_v2": "they won after world war 2 sometime.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who are italy's top players?",
+        "a5": "belotti",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "belotti",
+        "a5_v2": "belotti",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "italy"
+    }
+]

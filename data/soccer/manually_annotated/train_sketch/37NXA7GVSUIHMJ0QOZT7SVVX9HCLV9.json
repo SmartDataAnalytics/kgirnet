@@ -1,0 +1,240 @@
+[
+    {
+        "q1": "who is colombia's best player?",
+        "a1": "james rodriguez of course",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object of course",
+        "a1_v2": "james rodriguez of course",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "colombia"
+    },
+    {
+        "q2": "james rodriguez play for colombia or senegal?",
+        "a2": "for colombia",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "james rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "for @entity",
+        "a2_v2": "for colombia",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "james rodriguez"
+    },
+    {
+        "q3": "has columbia every won a major trophy in soccer?",
+        "a3": "no, they have yet to win a world cup.",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "james rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "no, they have yet to win a world cup.",
+        "a3_v2": "no, they have yet to win a world cup.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "what do you think they should do differently to win a world cup?",
+        "a4": "play better than all other teams.",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "james rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "play better than all other teams.",
+        "a4_v2": "play better than all other teams.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "who is a forward for colombia?",
+        "a5": "james rodriguez is one of the forward",
+        "kgER5": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "james rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a5_skt": "@object is one of the @relation",
+        "a5_v2": "james rodriguez is one of the forward",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "forward"
+    }
+]

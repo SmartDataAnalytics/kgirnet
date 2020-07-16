@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "bvb dortmund plays in germany",
+        "a1": "yes they play in germany",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes they play in @entity",
+        "a1_v2": "yes they play in germany",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "when did they win their last bundesliga title? ",
+        "a2": "they won their last bundesliga title in 2012. ",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they won their last bundesliga title in 2012. ",
+        "a2_v2": "they won their last bundesliga title in 2012. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "tell me more about the team",
+        "a3": "dortmund is the second biggest sports club in germany and the 11th biggest football team in the world",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "dortmund is the second biggest sports club in @entity and the 11th biggest football team in the world",
+        "a3_v2": "dortmund is the second biggest sports club in germany and the 11th biggest football team in the world",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is the best player in bvb dortmund?",
+        "a4": "i think, that the best player in the world is marco reus",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i think, that the @relation in the world is @object",
+        "a4_v2": "i think, that the best player in the world is marco reus",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bvb dortmund"
+    }
+]

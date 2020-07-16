@@ -1,0 +1,175 @@
+[
+    {
+        "q1": "paris sg has new talent. how far will they go this season?",
+        "a1": "in their own league it's safe to assume they're going to win it but they're aspirations are for winning champions league which they have a big chance to win it seeing the players they added to their roster.",
+        "kgER1": {
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "in their own league it's safe to assume they're going to win it but they're aspirations are for winning champions league which they have a big chance to win it seeing the players they added to their roster.",
+        "a1_v2": "in their own league it's safe to assume they're going to win it but they're aspirations are for winning champions league which they have a big chance to win it seeing the players they added to their roster.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "paris sg"
+    },
+    {
+        "q2": "which famous players play for paris sg? ",
+        "a2": "neymar, most famously.",
+        "kgER2": {
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object most famously.",
+        "a2_v2": "@has_player most famously.",
+        "corr_rel2": "has player",
+        "obj2": "neymar",
+        "input_ent2": "paris sg"
+    },
+    {
+        "q3": "will neymar be enough for paris sg to win the champions league?",
+        "a3": "paris sg will need to work as a team to wing the league. ",
+        "kgER3": {
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "paris sg will need to work as a team to wing the league. ",
+        "a3_v2": "paris sg will need to work as a team to wing the league. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "paris sg"
+    },
+    {
+        "q4": "paris sg will go as far as neymar can take them",
+        "a4": "yes i agree, neymar is going to have to carry that team on his back for them to do very well.",
+        "kgER4": {
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes i agree, @object is going to have to carry that team on his back for them to do very well.",
+        "a4_v2": "yes i agree, neymar is going to have to carry that team on his back for them to do very well.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "paris sg"
+    },
+    {
+        "q5": "if i agree you have to help win the champions",
+        "a5": "i think neymar can do wonders for paris sg.",
+        "kgER5": {
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think @object can do wonders for paris sg.",
+        "a5_v2": "i think neymar can do wonders for paris sg.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

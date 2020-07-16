@@ -1,0 +1,61 @@
+[
+    {
+        "q1": "what is your team mascot?",
+        "a1": "its been gunnersaurus, a friendly green dinosaur, since 1994. ",
+        "kgER1": {},
+        "a1_skt": "its been gunnersaurus, a friendly green dinosaur, since @object ",
+        "a1_v2": "its been gunnersaurus, a friendly green dinosaur, since 1994. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "what team is gunnersaurus with?",
+        "a2": "gunnersaurus is arsenal's mascot.",
+        "kgER2": {},
+        "a2_skt": "gunnersaurus is arsenal's mascot.",
+        "a2_v2": "gunnersaurus is arsenal's mascot.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what is the connection to a dinosaur?",
+        "a3": "i don't know",
+        "kgER3": {},
+        "a3_skt": "i don't know",
+        "a3_v2": "i don't know",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who came up the idea of grunnersaurus?",
+        "a4": "peter lovell",
+        "kgER4": {},
+        "a4_skt": "peter lovell",
+        "a4_v2": "peter lovell",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "arsenal very good team but lacks pontecial when winning title",
+        "a5": "arsenal lately has not achieved many titles but it is a winning team",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@entity lately has not achieved many titles but it is a winning team",
+        "a5_v2": "arsenal lately has not achieved many titles but it is a winning team",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "arsenal"
+    }
+]

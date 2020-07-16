@@ -1,0 +1,115 @@
+[
+    {
+        "q1": "did manchester united ever win the champions league?",
+        "a1": "yes! man u has won the champions league three times, in 1967\u201368, 1998\u201399, and 2007\u201308.",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes! man u has won the champions league three times, in 1967\u201368, 1998\u201399, and 2007\u201308.",
+        "a1_v2": "yes! man u has won the champions league three times, in 1967\u201368, 1998\u201399, and 2007\u201308.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "will man utd win the league ",
+        "a2": "unlikely based on the seasons man city and liverpool had last year.",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "unlikely based on the seasons man city and @entity had last year.",
+        "a2_v2": "unlikely based on the seasons man city and liverpool had last year.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who will win the league?",
+        "a3": "chelsea ",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@entity ",
+        "a3_v2": "chelsea ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "manchester united will beat chelsea",
+        "a4": "yes i think they will too",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "yes i think they will too",
+        "a4_v2": "yes i think they will too",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "who is the best player on united's squad?",
+        "a5": "romelu lukaku would be best one. ",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "@object would be best one. ",
+        "a5_v2": "romelu lukaku would be best one. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "manchester united"
+    }
+]

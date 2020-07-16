@@ -1,0 +1,165 @@
+[
+    {
+        "q1": "will wenger ever retire?",
+        "a1": "arsene wenger has now left arsenal, although he has not retired and is looking for another job.",
+        "kgER1": {
+            "mesut ozil": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "tom werner": [
+                "chairman"
+            ]
+        },
+        "a1_skt": "arsene wenger has now left @entity although he has not retired and is looking for another job.",
+        "a1_v2": "arsene wenger has now left arsenal, although he has not retired and is looking for another job.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ever banega"
+    },
+    {
+        "q2": "knowing wenger he is probably waiting in the darkness for kronke to vanish,",
+        "a2": "i don't think he will finish.",
+        "kgER2": {
+            "mesut ozil": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "tom werner": [
+                "chairman"
+            ]
+        },
+        "a2_skt": "i don't think he will finish.",
+        "a2_v2": "i don't think he will finish.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "who is the goal keeper of arsenal  david ospina",
+        "a3": "cech is still arsenal's number 1.",
+        "kgER3": {
+            "mesut ozil": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "tom werner": [
+                "chairman"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "david ospina": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a3_skt": "@object is still arsenal's number 1.",
+        "a3_v2": "@coach is still arsenal's number 1.",
+        "corr_rel3": "has player",
+        "obj3": "petr cech",
+        "input_ent3": "arsenal"
+    },
+    {
+        "q4": "and they just brought in leno, i think ospina is on the way out most likely.",
+        "a4": "how much is the team arsenal worth?",
+        "kgER4": {
+            "mesut ozil": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "tom werner": [
+                "chairman"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "david ospina": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a4_skt": "how much is the team @entity worth?",
+        "a4_v2": "how much is the team arsenal worth?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "david ospina"
+    },
+    {
+        "q5": "they are worth 2.238 million.",
+        "a5": "the arsenal is a very expensive club ",
+        "kgER5": {
+            "mesut ozil": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "tom werner": [
+                "chairman"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "david ospina": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a5_skt": "the @entity is a very expensive club ",
+        "a5_v2": "the arsenal is a very expensive club ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "2 (first in 2002)"
+    }
+]

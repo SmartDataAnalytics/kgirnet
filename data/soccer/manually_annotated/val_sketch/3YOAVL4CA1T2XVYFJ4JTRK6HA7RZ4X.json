@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "i admire colombia",
+        "a1": "when will they next make a world cup semi final? ",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "when will they next make a world cup semi final? ",
+        "a1_v2": "when will they next make a world cup semi final? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "colombia"
+    },
+    {
+        "q2": "i'm not sure, colombia hasn't been doing well in the past few years.",
+        "a2": "how good are they compared to other south american teams?",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "how good are they compared to other south american teams?",
+        "a2_v2": "how good are they compared to other south american teams?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "colombia"
+    },
+    {
+        "q3": "not so good but we are moving forward",
+        "a3": "who is their biggest rival?",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a3_skt": "who is their biggest rival?",
+        "a3_v2": "who is their biggest rival?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "forward"
+    },
+    {
+        "q4": "colombia flag what is color?",
+        "a4": "t is a horizontal tricolour of yellow, blue and red. the yellow stripe takes up the top half of the flag and the blue and red take up a quarter of the space ",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a4_skt": "t is a horizontal tricolour of @object, @object and @object. the @object stripe takes up the top half of the flag and the @object and @object take up a quarter of the space ",
+        "a4_v2": "t is a horizontal tricolour of yellow, blue and red. the yellow stripe takes up the top half of the flag and the blue and red take up a quarter of the space ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "colombia"
+    },
+    {
+        "q5": "who will be colombias next star?",
+        "a5": "the next star of colombia will be yerri mina",
+        "kgER5": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a5_skt": "the next star of @entity will be yerri mina",
+        "a5_v2": "the next star of colombia will be yerri mina",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

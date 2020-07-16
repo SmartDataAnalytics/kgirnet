@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i love germany",
+        "a1": "this team is very good at tactics.",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "this team is very good at tactics.",
+        "a1_v2": "this team is very good at tactics.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "i don't think that germany has that great of tactics.",
+        "a2": " very good tactical",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": " very good tactical",
+        "a2_v2": " very good tactical",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "germany"
+    },
+    {
+        "q3": "germany have one of the best tactics of the league.. but they didn't won the last world cup",
+        "a3": "good tactics weren't enough to save germany from being eliminated by south korea in the world cup.",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "good tactics weren't enough to save @entity from being eliminated by south korea in the world cup.",
+        "a3_v2": "good tactics weren't enough to save germany from being eliminated by south korea in the world cup.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "germany"
+    },
+    {
+        "q4": "germany had a very poor wc",
+        "a4": "what does germany need to do to win the world cup?",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "what does @entity need to do to win the world cup?",
+        "a4_v2": "what does germany need to do to win the world cup?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "germany"
+    },
+    {
+        "q5": "who is the coach of germany?",
+        "a5": "german's head coach has been there for 11 years.",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "german's head @relation has been there for @object years.",
+        "a5_v2": "german's head coach has been there for 11 years.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "germany"
+    }
+]

@@ -1,0 +1,133 @@
+[
+    {
+        "q1": "i like manchester united",
+        "a1": "who is manchester united's captain?",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "who is @entity @relation",
+        "a1_v2": "who is manchester united's captain?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "antonio valencia is the current captain of the team",
+        "a2": "is manchester united one of the best teams?",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "antonio valencia": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "is @entity one of the best teams?",
+        "a2_v2": "is manchester united one of the best teams?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "antonio valencia"
+    },
+    {
+        "q3": "in my opinion, they are one of the best teams.",
+        "a3": "they make a great team",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "antonio valencia": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "they make a great team",
+        "a3_v2": "they make a great team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "yes they make their team great",
+        "a4": "will mourinho still be with manchester united at the end of the season?",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "antonio valencia": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "will @object still be with @entity at the end of the season?",
+        "a4_v2": "will mourinho still be with manchester united at the end of the season?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who will man utd face in their first match in the 2018/19 season?",
+        "a5": "they played leicester in their first match of this season",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "antonio valencia": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "they played leicester in their first match of this season",
+        "a5_v2": "they played leicester in their first match of this season",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "19 (first in 1934)"
+    }
+]

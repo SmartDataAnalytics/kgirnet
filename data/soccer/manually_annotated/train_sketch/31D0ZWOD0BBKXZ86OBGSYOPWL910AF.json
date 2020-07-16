@@ -1,0 +1,94 @@
+[
+    {
+        "q1": "when did italy win their 1st world cup?",
+        "a1": "1934",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@world_cup_champions",
+        "corr_rel1": "world cup champions",
+        "obj1": "1934",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "who is the coach for italy?",
+        "a2": "roberto mancini",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "@coach",
+        "corr_rel2": "coach",
+        "obj2": "roberto mancini",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "when did they last win?",
+        "a3": "in 2006",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "in @object",
+        "a3_v2": "in @world_cup_champions",
+        "corr_rel3": "world cup champions",
+        "obj3": "2006",
+        "input_ent3": "italy"
+    },
+    {
+        "q4": "when was the italy team founded?",
+        "a4": "i know the first official match for the italian national team was 1910.",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i know the first official match for the italian national team was 1910.",
+        "a4_v2": "i know the first official match for the italian national team was 1910.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "italy"
+    }
+]

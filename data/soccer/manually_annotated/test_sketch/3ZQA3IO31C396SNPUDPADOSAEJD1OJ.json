@@ -1,0 +1,169 @@
+[
+    {
+        "q1": "i am getting belgium waffles then going to watch belgium soccer. did you want to join me?",
+        "a1": "it sounds like a good way to spend a day!",
+        "kgER1": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "it sounds like a good way to spend a day!",
+        "a1_v2": "it sounds like a good way to spend a day!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "belgium"
+    },
+    {
+        "q2": "do you like romelu lukaku as the forward for belgium?",
+        "a2": "no i don't.",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "romelu lukaku": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a2_skt": "no i don't.",
+        "a2_v2": "no i don't.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "romelu lukaku"
+    },
+    {
+        "q3": "belgium beat the united states in the world cup in 2014.",
+        "a3": "yes. they're definitely a better team than the u.s.",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "romelu lukaku": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a3_skt": "yes. they're definitely a better team than the u.s.",
+        "a3_v2": "yes. they're definitely a better team than the u.s.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "belgium"
+    },
+    {
+        "q4": "what do you think the us needs to be a strong team like belgium?",
+        "a4": "belgium has strong elements such as its stars eden hazard, romelu lukaku and kevin de bruyne, which should have us strength defense and technique",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "romelu lukaku": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a4_skt": "@entity has strong elements such as its stars @object @object and @object which should have us strength @relation and technique",
+        "a4_v2": "belgium has strong elements such as its stars eden hazard, romelu lukaku and kevin de bruyne, which should have us strength defense and technique",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "belgium"
+    },
+    {
+        "q5": "how old are those aforementioned stars?",
+        "a5": "belgiums stars are in their thirties. ",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "romelu lukaku": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a5_skt": "@entity stars are in their thirties. ",
+        "a5_v2": "belgiums stars are in their thirties. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "old trafford"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "please let me know the weather forecast for tomorrow",
+        "a1": "for what city would you like to know tomorrow s forecast",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "tomorrow"
+        ]
+    },
+    {
+        "q2": "durham specifically if there will be any frost",
+        "a2": "tomorrow s weather forecast predicts snow with a low of 60f and a high of 70f it does not specifically say frost",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday,tuesday",
+        "obj2": "70f,frost,60f,snow",
+        "input_ent2": "durham",
+        "kvr_entlist_qa2": [
+            "70f",
+            "frost",
+            "60f",
+            "snow",
+            "tomorrow"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "check to see if i have any meeting or conference in the near future",
+        "a1": "go_over_budget is scheduled for monday at 3pm in 100_conference_room",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,room,agenda",
+        "obj1": "go_over_budget,3pm,100_conference_room",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "monday",
+            "3pm",
+            "go_over_budget"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "no problem",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

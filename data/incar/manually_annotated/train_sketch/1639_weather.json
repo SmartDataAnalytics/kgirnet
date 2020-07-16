@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "give me the forecast for the next 7 days",
+        "a1": "for which city would you like that info for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "new_york",
+        "a2": "what days are you interested in",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "new_york",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "the next 7 days",
+        "a3": "the forecast for new_york says you can expect it to be cloudy drizzle overcast raining clear_skies and foggy over the next 7 days",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "new_york",
+            "clear_skies",
+            "cloudy",
+            "drizzle",
+            "foggy",
+            "overcast"
+        ]
+    },
+    {
+        "q4": "thanks",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

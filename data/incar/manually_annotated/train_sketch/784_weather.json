@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "please show me the weekly weather report",
+        "a1": "what city do you need a weekly weather report for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i need the weekly forecast for boston please",
+        "a2": "this week the weather in boston will be stormy on monday dry on tuesday hail on wednesday drizzle on thursday dry on friday hot on saturday dry on sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "hail,dry,hot,drizzle,stormy",
+        "input_ent2": "boston",
+        "kvr_entlist_qa2": [
+            "boston",
+            "thursday",
+            "hail",
+            "monday",
+            "wednesday",
+            "dry",
+            "sunday",
+            "saturday",
+            "tuesday",
+            "hot",
+            "drizzle",
+            "week",
+            "stormy",
+            "friday"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "i m here to assist you",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "when was the last time italy became the world champion \\?",
+        "a1": "2006",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@world_cup_champions",
+        "corr_rel1": "world cup champions",
+        "obj1": "2006",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "who did they beat to win the finals \\?",
+        "a2": "france",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity",
+        "a2_v2": "france",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what was the final score \\?",
+        "a3": "5 3 in penalties , a favor from italy",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object @object in penalties , a favor from @entity",
+        "a3_v2": "5 3 in penalties , a favor from italy",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "do you remember the drama with zidane and materazzi \\?",
+        "a4": "i remember perfectly the head",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i remember perfectly the head",
+        "a4_v2": "i remember perfectly the head",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "zinedine zidane"
+    },
+    {
+        "q5": "did materazzi and zidane ever make up over the headbutt incident \\?",
+        "a5": "no , they never made up after the comments about his sister",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "no , they never made up after the comments about his sister",
+        "a5_v2": "no , they never made up after the comments about his sister",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ever banega"
+    }
+]

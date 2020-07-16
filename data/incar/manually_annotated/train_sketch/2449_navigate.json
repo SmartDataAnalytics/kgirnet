@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "where is the closest hospital",
+        "a1": "the closest hospital is stanford_childrens_health hospital",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "stanford_childrens_health",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "hospital"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "the hospital is located at 899_ames_ct 7_miles away would you like directions",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "899_ames_ct",
+        "input_ent2": "stanford_childrens_health",
+        "kvr_entlist_qa2": [
+            "7_miles",
+            "899_ames_ct",
+            "hospital"
+        ]
+    },
+    {
+        "q3": "what is the traffic like on the route i d like the quickest route available",
+        "a3": "there is a car_collision_nearby but here is the quickest route to stanford_childrens_health",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel3": "poi",
+        "obj3": "stanford_childrens_health",
+        "input_ent3": "hospital",
+        "kvr_entlist_qa3": [
+            "car_collision_nearby",
+            "stanford_childrens_health"
+        ]
+    },
+    {
+        "q4": "thanks",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

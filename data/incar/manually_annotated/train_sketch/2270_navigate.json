@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "navigate fastest route home",
+        "a1": "the fastest route to home will go through heavy_traffic and it s about 5_miles away",
+        "input_rel1": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel1": "distance",
+        "obj1": "5_miles",
+        "input_ent1": "home",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "home",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q2": "thanks so much",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

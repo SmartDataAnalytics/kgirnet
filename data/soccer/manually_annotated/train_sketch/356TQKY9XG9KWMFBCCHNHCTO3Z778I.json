@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i really like your participation as a team arsenal",
+        "a1": "unai emery really likes mesut ozil's participation as a arsenal team",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object really likes mesut ozil's participation as a @entity team",
+        "a1_v2": "unai emery really likes mesut ozil's participation as a arsenal team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "will arsenal make the top four in the league this season?",
+        "a2": "i doubt it, the are too many teams that appear better than them this season.",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i doubt it, the are too many teams that appear better than them this season.",
+        "a2_v2": "i doubt it, the are too many teams that appear better than them this season.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "arsenal"
+    },
+    {
+        "q3": "when do you think their next win will be?",
+        "a3": "any day now",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "any day now",
+        "a3_v2": "any day now",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "when is their next game?",
+        "a4": "i have to look that up.",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i have to look that up.",
+        "a4_v2": "i have to look that up.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "has ozil played this season?",
+        "a5": "ozil has played for arsenal this season, but the team has only played three games t this time.",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "ozil has played for @entity this season, but the team has only played three games t this time.",
+        "a5_v2": "ozil has played for arsenal this season, but the team has only played three games t this time.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "mesut ozil"
+    }
+]

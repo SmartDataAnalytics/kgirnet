@@ -1,0 +1,42 @@
+[
+    {
+        "q1": "how cloudy is it going to be for the next_week",
+        "a1": "what city can i give you this weather information for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "boston please",
+        "a2": "it s not gonna be cloudy in boston during the next_week",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "boston",
+        "kvr_entlist_qa2": [
+            "boston",
+            "next_week",
+            "cloudy"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "bye",
+        "a4": "you are very welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

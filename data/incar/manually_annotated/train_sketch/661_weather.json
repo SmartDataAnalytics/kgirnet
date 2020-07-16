@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "what s the weekly weather report for the city",
+        "a1": "what city would you like weather information for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "cleveland",
+        "a2": "in cleveland it will be 60f - 70f on monday 80f - 100f tuesday 90f - 100f wednesday 40f - 60f thursday 90f - 100f friday 40f - 60f saturday and 80f - 90f sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "70f,100f,80f,90f,60f, wednesday,40f",
+        "input_ent2": "cleveland",
+        "kvr_entlist_qa2": [
+            "70f",
+            "100f",
+            "80f",
+            "90f",
+            "60f",
+            "monday",
+            "wednesday",
+            "sunday",
+            "saturday",
+            "40f",
+            "tuesday",
+            "thursday",
+            "cleveland",
+            "friday"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "q1": "how many points does arneal currently have in the domestic league?",
+        "a1": "arsenal currently has 3 points in premier league 2018",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity currently has @object points in premier league @object",
+        "a1_v2": "arsenal currently has 3 points in premier league 2018",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "and how are they ranked so far this year?",
+        "a2": "they are 9th on the table ",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they are 9th on the table ",
+        "a2_v2": "they are 9th on the table ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "white and red"
+    },
+    {
+        "q3": "has arsenal ever won the world cup?",
+        "a3": "i think they did",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think they did",
+        "a3_v2": "i think they did",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "arsenal"
+    },
+    {
+        "q4": "how many times have they won?",
+        "a4": "no arsenal have never won the \"world cup\" they have won the ucl once i believe",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "no @entity have never won the \"world cup\" they have won the ucl once i believe",
+        "a4_v2": "no arsenal have never won the \"world cup\" they have won the ucl once i believe",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "how many world cups did mesut ozil play in?",
+        "a5": "in roughly 5 cups.",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "mesut ozil": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "in roughly @object cups.",
+        "a5_v2": "in roughly 5 cups.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "mesut ozil"
+    }
+]

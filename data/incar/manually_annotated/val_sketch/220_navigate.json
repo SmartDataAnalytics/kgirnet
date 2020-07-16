@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "i need a hospital within 3_miles",
+        "a1": "stanford_express_care is a hospital that is 3_miles away need more info",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "stanford_express_care",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "hospital",
+            "3_miles",
+            "stanford_express_care"
+        ]
+    },
+    {
+        "q2": "yes send me the address please",
+        "a2": "stanford_express_care is located at 214_el_camino_real",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "214_el_camino_real",
+        "input_ent2": "stanford_express_care",
+        "kvr_entlist_qa2": [
+            "214_el_camino_real",
+            "stanford_express_care"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

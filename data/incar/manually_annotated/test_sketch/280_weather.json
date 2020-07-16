@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "what is the weather like this week",
+        "a1": "what city do you want the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "cleveland",
+        "a2": "this week in cleveland the weather will be clear_skies on monday dew on tuesday stormy on wednesday drizzle on thrusday cloudy on friday overcast on saturday and raining on sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "dew,stormy,cloudy,drizzle,clear_skies,overcast, week",
+        "input_ent2": "cleveland",
+        "kvr_entlist_qa2": [
+            "dew",
+            "stormy",
+            "cloudy",
+            "saturday",
+            "drizzle",
+            "cleveland",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "clear_skies",
+            "monday",
+            "sunday",
+            "overcast",
+            "week"
+        ]
+    },
+    {
+        "q3": "thank",
+        "a3": "you re very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

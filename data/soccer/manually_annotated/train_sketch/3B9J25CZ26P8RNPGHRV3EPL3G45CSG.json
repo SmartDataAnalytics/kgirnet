@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "does liverpool have a chance to win the premier league \\?",
+        "a1": "i would think so",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i would think so",
+        "a1_v2": "i would think so",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "what is liverpool 's uniform colors \\?",
+        "a2": "they play in red",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they play in @object",
+        "a2_v2": "they play in @jersey_color",
+        "corr_rel2": "jersey color",
+        "obj2": "red",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "who is the best player for liverpool \\?",
+        "a3": "i like mohamed salah",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i like @object",
+        "a3_v2": "i like mohamed salah",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "how many goals did he score \\?",
+        "a4": "48 goals so far",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object @relation so far",
+        "a4_v2": "@jersey goals so far",
+        "corr_rel4": "goals",
+        "obj4": "48",
+        "input_ent4": "mohamed salah"
+    },
+    {
+        "q5": "who is liverpool 's manager this year \\?",
+        "a5": "jurgen klopp",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@coach",
+        "corr_rel5": "coach",
+        "obj5": "jurgen klopp",
+        "input_ent5": "liverpool"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "bvb dortmund is a really traditional german football club.",
+        "a1": "yes, he is.",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes, he is.",
+        "a1_v2": "yes, he is.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "being that they are traditional do you think they are adjusting to the new times well and the young players skills?",
+        "a2": "i would argue that implying they're traditional means they are not adjusting well to the times.",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i would argue that implying they're traditional means they are not adjusting well to the times.",
+        "a2_v2": "i would argue that implying they're traditional means they are not adjusting well to the times.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ashley young"
+    },
+    {
+        "q3": "they are fairly successful in league and in europe, right?",
+        "a3": "yes they have a history of success",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "yes they have a history of success",
+        "a3_v2": "yes they have a history of success",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "what is their record?",
+        "a4": "i hear there favourite record is by a famous band called \"the village people\" ymca",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i hear there favourite record is by a famous band called \"the village people\" ymca",
+        "a4_v2": "i hear there favourite record is by a famous band called \"the village people\" ymca",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is currently coaching bvb dortmund?",
+        "a5": "lucien favre ",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object ",
+        "a5_v2": "@coach",
+        "corr_rel5": "coach",
+        "obj5": "lucien favre",
+        "input_ent5": "bvb dortmund"
+    }
+]

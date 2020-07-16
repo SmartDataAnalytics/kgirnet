@@ -1,0 +1,78 @@
+[
+    {
+        "q1": "i like team",
+        "a1": "what is the name of the iceland team coach?",
+        "kgER1": {},
+        "a1_skt": "what is the name of the @entity team @relation",
+        "a1_v2": "what is the name of the iceland team coach?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "heimir halgrimsson, he is a dentist. ",
+        "a2": "heimir hallgrimsson, is the coach of iceland",
+        "kgER2": {},
+        "a2_skt": "heimir hallgrimsson, is the @relation of @entity",
+        "a2_v2": "heimir hallgrimsson, is the coach of iceland",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "i totally agree that this is the coach",
+        "a3": "who are some of the favorite players on this team?",
+        "kgER3": {},
+        "a3_skt": "who are some of the favorite players on this team?",
+        "a3_v2": "who are some of the favorite players on this team?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "will iceland surprise the world again in the next world cup?",
+        "a4": "i believe iceland will be able to qualify for the world cup again next year.",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i believe @entity will be able to qualify for the world cup again next year.",
+        "a4_v2": "i believe iceland will be able to qualify for the world cup again next year.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "iceland"
+    },
+    {
+        "q5": "iceland goalie is who?",
+        "a5": "since the new season they have .",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "since the new season they have .",
+        "a5_v2": "since the new season they have .",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "iceland"
+    }
+]

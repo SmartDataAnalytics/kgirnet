@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "i need the quickest route to the hospital",
+        "a1": "stanford_childrens_health and palo_alto_medical_foundation are both near",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "stanford_childrens_health,palo_alto_medical_foundation",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "palo_alto_medical_foundation",
+            "stanford_childrens_health"
+        ]
+    },
+    {
+        "q2": "which is within 3_miles",
+        "a2": "they re both 2_miles away but there is a road block near stanford we go to palo alto ?!",
+        "input_rel2": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,distance",
+        "corr_rel2": "distance",
+        "obj2": "2_miles",
+        "input_ent2": "stanford_childrens_health,palo_alto_medical_foundation",
+        "kvr_entlist_qa2": [
+            "2_miles"
+        ]
+    },
+    {
+        "q3": "yes please show me a quick route to go there thank you",
+        "a3": "i sent the quickest route on your screen and you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

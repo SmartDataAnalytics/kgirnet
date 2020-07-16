@@ -1,0 +1,104 @@
+[
+    {
+        "q1": "very cool is soccer ",
+        "a1": "i agree, croatian football players are very cool.",
+        "kgER1": {},
+        "a1_skt": "i agree, @entity football players are very cool.",
+        "a1_v2": "i agree, croatian football players are very cool.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "especially when they're almost beating france ",
+        "a2": "they lost to france in the 2018 world cup though",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they lost to @entity in the @object world cup though",
+        "a2_v2": "they lost to france in the 2018 world cup though",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "france"
+    },
+    {
+        "q3": "why do you think such a small country is so good?",
+        "a3": "croatia is a european country?",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity is a european country?",
+        "a3_v2": "croatia is a european country?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "yes. it's a fairly new country - formed in the last thirty years ",
+        "a4": "do you think croatia has a chance to win the next world cup?",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "do you think @entity has a chance to win the next world cup?",
+        "a4_v2": "do you think croatia has a chance to win the next world cup?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "no i think this year was a exception.",
+        "a5": "what got croatia to the finals this year?",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "what got @entity to the finals this year?",
+        "a5_v2": "what got croatia to the finals this year?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

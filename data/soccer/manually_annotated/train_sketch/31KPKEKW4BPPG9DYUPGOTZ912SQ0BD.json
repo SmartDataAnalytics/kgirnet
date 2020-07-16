@@ -1,0 +1,91 @@
+[
+    {
+        "q1": "this is one of my favorite team to play against",
+        "a1": "uruguay is a great team.",
+        "kgER1": {},
+        "a1_skt": "@entity is a great team.",
+        "a1_v2": "uruguay is a great team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who is your favorite player?",
+        "a2": "all are my favorite because all are doing best.",
+        "kgER2": {},
+        "a2_skt": "all are my favorite because all are doing best.",
+        "a2_v2": "all are my favorite because all are doing best.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "cavani and suarez are mi favorite players of uruguay.",
+        "a3": "why would you say that, they are popular players",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "why would you say that, they are popular players",
+        "a3_v2": "why would you say that, they are popular players",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "uruguay"
+    },
+    {
+        "q4": "who is their coach?",
+        "a4": "uruguay coach is oscar tabarez",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity @relation is @object",
+        "a4_v2": "uruguay coach is oscar tabarez",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "yes, this is totally true",
+        "a5": "yes, that is the uruguayan national team coach",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes, that is the uruguayan national team @relation",
+        "a5_v2": "yes, that is the uruguayan national team coach",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

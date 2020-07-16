@@ -1,0 +1,156 @@
+[
+    {
+        "q1": "who's your favorite argentina player?",
+        "a1": "i can't decide. ",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i can't decide. ",
+        "a1_v2": "i can't decide. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "i'm fond of lionel messi. but then, who isn't?",
+        "a2": "yeah agreed. he's amazing!",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "yeah agreed. he's amazing!",
+        "a2_v2": "yeah agreed. he's amazing!",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "lionel messi"
+    },
+    {
+        "q3": "yes",
+        "a3": "how much did argentina pay for messi?",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "how much did @entity pay for messi?",
+        "a3_v2": "how much did argentina pay for messi?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "messi was paid alot",
+        "a4": "yes",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes",
+        "a4_v2": "yes",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "lionel messi"
+    },
+    {
+        "q5": "how much?",
+        "a5": "not really sure",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "not really sure",
+        "a5_v2": "not really sure",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

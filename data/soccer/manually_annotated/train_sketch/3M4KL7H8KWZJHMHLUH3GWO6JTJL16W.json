@@ -1,0 +1,177 @@
+[
+    {
+        "q1": "are spain currently a better team than france? ",
+        "a1": "absolutely not, france are the current world cup champion.",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "absolutely not, @entity are the current @relation",
+        "a1_v2": "absolutely not, france are the current world cup champion.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "france"
+    },
+    {
+        "q2": "how far did spain get in the world cup?",
+        "a2": "in the second round of the world cup",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "in the second @relation of the world cup",
+        "a2_v2": "in the second round of the world cup",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "spain"
+    },
+    {
+        "q3": "would you ever expect them to reach a final? ",
+        "a3": "i think they would reach a final, they would deserve it",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think they would reach a final, they would deserve it",
+        "a3_v2": "i think they would reach a final, they would deserve it",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ever banega"
+    },
+    {
+        "q4": "can they replace the old xavi-iniesta in midfield?",
+        "a4": "yes quite easily",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes quite easily",
+        "a4_v2": "yes quite easily",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres iniesta"
+    },
+    {
+        "q5": "who would be a good replacement for them?",
+        "a5": "the star scorere from liverool would be good!",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "the star scorere from @entity would be good!",
+        "a5_v2": "the star scorere from liverool would be good!",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

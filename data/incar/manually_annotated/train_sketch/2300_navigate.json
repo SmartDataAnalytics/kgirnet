@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "is there a parking_garage near",
+        "a1": "dish_parking is 4_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "dish_parking",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "4_miles",
+            "dish_parking"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "dish_parking is located at 550_alester_ave",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "550_alester_ave",
+        "input_ent2": "dish_parking",
+        "kvr_entlist_qa2": [
+            "550_alester_ave",
+            "dish_parking"
+        ]
+    },
+    {
+        "q3": "is there any traffic on the way",
+        "a3": "there is no_traffic on the way to dish_parking",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel3": "traffic_info,poi",
+        "obj3": "no_traffic",
+        "input_ent3": "dish_parking",
+        "kvr_entlist_qa3": [
+            "no_traffic",
+            "dish_parking"
+        ]
+    },
+    {
+        "q4": "okay perfect thanks",
+        "a4": "you re welcome happy to help",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

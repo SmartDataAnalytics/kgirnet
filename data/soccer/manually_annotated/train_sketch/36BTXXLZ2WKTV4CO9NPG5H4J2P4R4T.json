@@ -1,0 +1,138 @@
+[
+    {
+        "q1": "arsenal will win the premier league this season?",
+        "a1": "they have a good chance but is unlikely. ",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they have a good chance but is unlikely. ",
+        "a1_v2": "they have a good chance but is unlikely. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "if he has equipment but i do not think he wins",
+        "a2": "no, arsenal is a team, not an individual.",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "no, @entity is a team, not an individual.",
+        "a2_v2": "no, arsenal is a team, not an individual.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "will mesut ozil be a potential player for them this year",
+        "a3": "yeah why not he is a great player",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "mesut ozil": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "yeah why not he is a great player",
+        "a3_v2": "yeah why not he is a great player",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mesut ozil"
+    },
+    {
+        "q4": "what year gerrard retired from arsenal?",
+        "a4": "2014",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "mesut ozil": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "2014",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "arsenal"
+    },
+    {
+        "q5": "it was not the arsenal was from liverpool in 2014",
+        "a5": "yes steven gerard played in liverpool",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "mesut ozil": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes steven gerard played in @entity",
+        "a5_v2": "yes steven gerard played in liverpool",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "2014"
+    }
+]

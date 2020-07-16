@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i love the team manchester united",
+        "a1": "i think that they are over-rated ",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i think that they are over-rated ",
+        "a1_v2": "i think that they are over-rated ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "why do you think that manchester united is overrated?",
+        "a2": "they haven't won the league since 2013. they're just not that good without fergie. ",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they haven't won the league since 2013. they're just not that good without fergie. ",
+        "a2_v2": "they haven't won the league since 2013. they're just not that good without fergie. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "manchester united"
+    },
+    {
+        "q3": "well it isn't really easy when you have to face manchester city every season.",
+        "a3": "manchester uniuni has a strong following. who doesn't t to associate with a winner?",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@entity has a strong following. who doesn't t to associate with a winner?",
+        "a3_v2": "manchester uniuni has a strong following. who doesn't t to associate with a winner?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "manchester united"
+    },
+    {
+        "q4": "do you think the fans still have faith in the team though?",
+        "a4": "i believe they will stay loyal.  they may turn on the coach, some players, but in the end they will still support their team.",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i believe they will stay loyal.  they may turn on the @relation some players, but in the end they will still support their team.",
+        "a4_v2": "i believe they will stay loyal.  they may turn on the coach, some players, but in the end they will still support their team.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "who is the manchester united coach?",
+        "a5": "jos\u00e9 mourinho is the coach",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is the @relation",
+        "a5_v2": "@coach is the coach",
+        "corr_rel5": "coach",
+        "obj5": "jose mourinho",
+        "input_ent5": "manchester united"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "q1": "neymar plays with mbappe?",
+        "a1": "yes they play together at psg.",
+        "kgER1": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes they play together at psg.",
+        "a1_v2": "yes they play together at psg.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "neymar"
+    },
+    {
+        "q2": "who is better ronaldo or messi?",
+        "a2": "ronaldo",
+        "kgER2": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "ronaldo",
+        "a2_v2": "ronaldo",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "lionel messi"
+    },
+    {
+        "q3": "does ronaldo or messi get paid more?",
+        "a3": "i would like to thin ronaldo does",
+        "kgER3": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "i would like to thin ronaldo does",
+        "a3_v2": "i would like to thin ronaldo does",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "lionel messi"
+    },
+    {
+        "q4": "they probably get paid the same amount",
+        "a4": "paris saint-germain established itself as a major force in france why?",
+        "kgER4": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "paris saint-germain established itself as a major force in @entity why?",
+        "a4_v2": "paris saint-germain established itself as a major force in france why?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    }
+]

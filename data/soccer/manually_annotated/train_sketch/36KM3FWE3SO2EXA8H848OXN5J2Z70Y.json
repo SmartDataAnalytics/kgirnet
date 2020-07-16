@@ -1,0 +1,100 @@
+[
+    {
+        "q1": "this is my favorite subject ",
+        "a1": "will paris sg win against caen today?",
+        "kgER1": {},
+        "a1_skt": "will paris sg win against caen today?",
+        "a1_v2": "will paris sg win against caen today?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who is the goalkeeper for paris sg?",
+        "a2": "buffon is the current goalkeeper for paris sg ",
+        "kgER2": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a2_skt": "buffon is the current @relation for paris sg ",
+        "a2_v2": "buffon is the current goalkeeper for paris sg ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "paris sg"
+    },
+    {
+        "q3": "should buffon of moved to psg or not?",
+        "a3": "buffon should be moved to paris sg.",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "buffon should be moved to paris sg.",
+        "a3_v2": "buffon should be moved to paris sg.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "gianluigi buffon"
+    },
+    {
+        "q4": "financial fair play still an issue to consider ",
+        "a4": "yes ofcourse",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "yes ofcourse",
+        "a4_v2": "yes ofcourse",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what is financial fair play?",
+        "a5": "this doesn't make any sense.",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "this doesn't make any sense.",
+        "a5_v2": "this doesn't make any sense.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

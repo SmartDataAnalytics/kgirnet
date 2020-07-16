@@ -1,0 +1,199 @@
+[
+    {
+        "q1": "name any argentina player except lionel messi who plays wc?",
+        "a1": "do anyone knows the answer?",
+        "kgER1": {
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "do anyone knows the answer?",
+        "a1_v2": "do anyone knows the answer?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "lionel messi"
+    },
+    {
+        "q2": "diego armando maradona, batistuta,sergio aguero ",
+        "a2": "paulo dybala",
+        "kgER2": {
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "sergio aguero": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "paulo dybala",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "sergio aguero"
+    },
+    {
+        "q3": "did you know that maximiliano meza is playing with the 2018 argentinian wc team?",
+        "a3": "no, i didn't know that they were playing with each other",
+        "kgER3": {
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "sergio aguero": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a3_skt": "no, i didn't know that they were playing with each other",
+        "a3_v2": "no, i didn't know that they were playing with each other",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "2018"
+    },
+    {
+        "q4": "who is the best player on the argentina team?",
+        "a4": "i think sergio is the best",
+        "kgER4": {
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "sergio aguero": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a4_skt": "i think sergio is the best",
+        "a4_v2": "i think sergio is the best",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "argentina"
+    },
+    {
+        "q5": "what makes sergio the best?",
+        "a5": "i think messi is better ",
+        "kgER5": {
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "sergio aguero": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a5_skt": "i think messi is better ",
+        "a5_v2": "i think messi is better ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "sergio ramos"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "chelsea can't qualify. ",
+        "kgER1": {},
+        "a1_skt": "@entity can't qualify. ",
+        "a1_v2": "chelsea can't qualify. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "if they try hard they can",
+        "a2": "they need to be fully prepared to qualify.",
+        "kgER2": {},
+        "a2_skt": "they need to be fully prepared to qualify.",
+        "a2_v2": "they need to be fully prepared to qualify.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "do you think they can take the premiership?",
+        "a3": "yes, i agree they can achieve great things",
+        "kgER3": {},
+        "a3_skt": "yes, i agree they can achieve great things",
+        "a3_v2": "yes, i agree they can achieve great things",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    },
+    {
+        "q4": "i think chelsea can not qualify for the world cup, to play it should be a national team",
+        "a4": "only countries can play in the world cup. ",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "only countries can play in the world cup. ",
+        "a4_v2": "only countries can play in the world cup. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "chelsea"
+    },
+    {
+        "q5": "who is chelsea's biggest scorer?",
+        "a5": "frank lampard is chelsea's record goalscorer, scoring 211 goals in total.",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "frank lampard is chelsea's record @relationcorer, scoring @object @relation in total.",
+        "a5_v2": "frank lampard is chelsea's record goalscorer, scoring 211 goals in total.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "chelsea"
+    }
+]

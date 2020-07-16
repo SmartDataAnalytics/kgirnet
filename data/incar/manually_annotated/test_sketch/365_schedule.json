@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "who s showing up for tennis and what s the date on that",
+        "a1": "jon and jeff will be attending your tennis_activity",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "party",
+        "obj1": "jon,jeff",
+        "input_ent1": "tennis_activity",
+        "kvr_entlist_qa1": [
+            "jon",
+            "jeff",
+            "tennis_activity"
+        ]
+    },
+    {
+        "q2": "what time will they be there",
+        "a2": "they will be there at 1pm",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "1pm"
+        ]
+    },
+    {
+        "q3": "thank you assistant",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

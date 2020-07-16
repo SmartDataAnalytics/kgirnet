@@ -1,0 +1,222 @@
+[
+    {
+        "q1": "how many european championships have italy won?",
+        "a1": "italy beat west germany 2-1 in 1980 to win their only championship.",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "emre can": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "@entity beat west @entity @object in @object to win their only championship.",
+        "a1_v2": "italy beat west germany 2-1 in 1980 to win their only championship.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "why haven't they won any championships since then?",
+        "a2": "part of the story is bad luck and the vicissitudes of fifa\u2019s ranking system.",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "emre can": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "part of the story is bad luck and the vicissitudes of fifa\u2019s ranking system.",
+        "a2_v2": "part of the story is bad luck and the vicissitudes of fifa\u2019s ranking system.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "italy performance has gone down lately. they missed the world cup this year.",
+        "a3": "they have a few years to get better and i think they can.",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "emre can": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "they have a few years to get better and i think they can.",
+        "a3_v2": "they have a few years to get better and i think they can.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "italy"
+    },
+    {
+        "q4": "with what draft picks and potential cap hit coming up would they make some moves?",
+        "a4": "there's no draft in european football. it's not like american sports. ",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "emre can": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "there's no draft in european football. it's not like american sports. ",
+        "a4_v2": "there's no draft in european football. it's not like american sports. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "white and red"
+    },
+    {
+        "q5": "italy very good team but lacks the potential to win a european championship",
+        "a5": "the 15 european championship tournaments have been won by ten national teams: germany and spain each have won three titles, france has two titles, and soviet union, italy, czechoslovakia, netherlands, denmark, greece and portugal have won one title each.",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "emre can": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "the @object european championship tournaments have been won by ten national teams: @entity and @entity each have won three titles, @entity has two titles, and soviet union, italy, czechoslovakia, netherlands, denmark, greece and @entity have won one title each.",
+        "a5_v2": "the 15 european championship tournaments have been won by ten national teams: germany and spain each have won three titles, france has two titles, and soviet union, italy, czechoslovakia, netherlands, denmark, greece and portugal have won one title each.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "italy"
+    }
+]

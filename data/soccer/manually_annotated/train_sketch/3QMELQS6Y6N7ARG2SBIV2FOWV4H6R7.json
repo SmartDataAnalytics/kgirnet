@@ -1,0 +1,81 @@
+[
+    {
+        "q1": "what is this?",
+        "a1": "the vcetr smalkl ",
+        "kgER1": {},
+        "a1_skt": "the vcetr smalkl ",
+        "a1_v2": "the vcetr smalkl ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "do you think croatia will make it to the finals?",
+        "a2": "no they are already eliminated",
+        "kgER2": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no they are already eliminated",
+        "a2_v2": "no they are already eliminated",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "croatia"
+    },
+    {
+        "q3": "no they aren't. they play russia in the quarter-finals.",
+        "a3": "croatia v england in the semis could go either way. ",
+        "kgER3": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity v england in the semis could go either way. ",
+        "a3_v2": "croatia v england in the semis could go either way. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "croatia are definitely rising in the league. england are a pretty big team, though. probably more money and expertise behind them. they may conquer.",
+        "a4": "they did conquer",
+        "kgER4": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they did conquer",
+        "a4_v2": "they did conquer",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "croatia"
+    }
+]

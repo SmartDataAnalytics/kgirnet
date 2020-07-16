@@ -1,0 +1,50 @@
+[
+    {
+        "q1": "where are the nearest coffee shops",
+        "a1": "we re 4_miles away from starbucks and 4_miles away from palo_alto_cafe where do you prefer to go",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "starbucks,palo_alto_cafe",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "4_miles",
+            "starbucks",
+            "palo_alto_cafe"
+        ]
+    },
+    {
+        "q2": "it s the same please pick one with a quick route please",
+        "a2": "palo_alto_cafe is quicker since there is no_traffic on route would you like the address",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "peets_coffee",
+        "kvr_entlist_qa2": [
+            "no_traffic",
+            "palo_alto_cafe"
+        ]
+    },
+    {
+        "q3": "yes please",
+        "a3": "palo_alto_cafe is located at 436_alger_dr which is 4_miles away with no_traffic",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "no_traffic",
+            "436_alger_dr",
+            "4_miles",
+            "palo_alto_cafe"
+        ]
+    },
+    {
+        "q4": "thank you car let s go there",
+        "a4": "you re welcome i m here to assist you",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

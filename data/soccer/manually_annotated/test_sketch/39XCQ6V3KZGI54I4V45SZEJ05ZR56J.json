@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "i like the team argentina",
+        "a1": "i dont",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i dont",
+        "a1_v2": "i dont",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "how popular is argentina with soccer fans?",
+        "a2": "argentina is one of the most popular teams.",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity is one of the most popular teams.",
+        "a2_v2": "argentina is one of the most popular teams.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "argentina"
+    },
+    {
+        "q3": "argentina is one of the most popular teams, thanks to its fans",
+        "a3": "since i have use reason argentina is one of the most famous teams thanks to his followers",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "since i have use reason @entity is one of the most famous teams thanks to his followers",
+        "a3_v2": "since i have use reason argentina is one of the most famous teams thanks to his followers",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "argentina"
+    },
+    {
+        "q4": "what did you think of argentina's performance in the world cup?",
+        "a4": "argentina gave pity in the last world cup ",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity gave pity in the last world cup ",
+        "a4_v2": "argentina gave pity in the last world cup ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "argentina"
+    },
+    {
+        "q5": "how old is argentina now?",
+        "a5": "88",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "88",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "argentina"
+    }
+]

@@ -1,0 +1,165 @@
+[
+    {
+        "q1": "i admire brazil",
+        "a1": "brazil are very good, such a fun team.",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity are very good, such a fun team.",
+        "a1_v2": "brazil are very good, such a fun team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "how do you feel about that 8-1 loss to germany?",
+        "a2": "very resentful, i expected more about brazil",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "very resentful, i expected more about @entity",
+        "a2_v2": "very resentful, i expected more about brazil",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "germany"
+    },
+    {
+        "q3": "brazil if i think it's a great team although more was expected from them",
+        "a3": "brazil might have become overconfident",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity might have become overconfident",
+        "a3_v2": "brazil might have become overconfident",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "brazil"
+    },
+    {
+        "q4": "is brazil losing its place at the top or will they bounce back by next year?",
+        "a4": "they will probably do better by next year.",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they will probably do better by next year.",
+        "a4_v2": "they will probably do better by next year.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "brazil"
+    },
+    {
+        "q5": "how do you think brazil will improve?",
+        "a5": "if they can find a good big target forward, it would help out with some issues they had in the last world cup.",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "if they can find a good big target @relation it would help out with some issues they had in the last world cup.",
+        "a5_v2": "if they can find a good big target forward, it would help out with some issues they had in the last world cup.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "brazil"
+    }
+]

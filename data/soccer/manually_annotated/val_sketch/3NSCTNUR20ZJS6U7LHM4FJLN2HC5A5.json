@@ -1,0 +1,94 @@
+[
+    {
+        "q1": "can belgium win the 2020 european championship?",
+        "a1": "well anything is possible but i won't be betting on it ",
+        "kgER1": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "well anything is possible but i won't be betting on it ",
+        "a1_v2": "well anything is possible but i won't be betting on it ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "belgium"
+    },
+    {
+        "q2": "chance of belgium win wc 2022?",
+        "a2": "they have a strong young team.  i think they have a decent chance; however, the big players like brazil are getting starved and will be very hungry.",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they have a strong young team.  i think they have a decent chance; however, the big players like @entity are getting starved and will be very hungry.",
+        "a2_v2": "they have a strong young team.  i think they have a decent chance; however, the big players like brazil are getting starved and will be very hungry.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "belgium"
+    },
+    {
+        "q3": "who is the best player in the belgium?",
+        "a3": "i would say eden hazard",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i would say @object",
+        "a3_v2": "i would say eden hazard",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "belgium"
+    },
+    {
+        "q4": "how old is he?",
+        "a4": "he is i28 years old",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "he is @object years old",
+        "a4_v2": "he is i28 years old",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "old trafford"
+    }
+]

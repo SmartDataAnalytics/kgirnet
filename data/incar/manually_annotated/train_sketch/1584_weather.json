@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "what is the weather like in boston",
+        "a1": "what would you like to know about boston s weather",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "boston"
+        ]
+    },
+    {
+        "q2": "what is the highest_temperature",
+        "a2": "sunday is predicted to have the week s highest_temperature in boston at 100f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "100f,week",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "boston",
+            "100f",
+            "sunday",
+            "highest_temperature",
+            "week"
+        ]
+    },
+    {
+        "q3": "oh great thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

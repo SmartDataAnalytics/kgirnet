@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "why is brazil playing a friendly against the usa?",
+        "a1": "to beat them",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "to beat them",
+        "a1_v2": "to beat them",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "what do you think the score is going to be between brazi vs usa?",
+        "a2": "5-3",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "5-3",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "which one is the better team?",
+        "a3": "brazil was a better team",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity was a better team",
+        "a3_v2": "brazil was a better team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "in which year did brazil win the confederations cup?",
+        "a4": "tiene a neymar ",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "tiene a @object ",
+        "a4_v2": "tiene a neymar ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "brazil"
+    },
+    {
+        "q5": "which team beat brazil in 2018?",
+        "a5": "brazil lost to belgium",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity lost to @entity",
+        "a5_v2": "brazil lost to belgium",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "2018"
+    }
+]

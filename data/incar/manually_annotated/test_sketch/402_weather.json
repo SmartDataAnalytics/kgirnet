@@ -1,0 +1,39 @@
+[
+    {
+        "q1": "is it going to be hot this weekend in boston",
+        "a1": "the temperatures in seattle will be high this week and the hottest days will be monday and tuesday with 100f ( but pay attention it s gonna rain too )",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "saturday,sunday",
+        "obj1": "rain",
+        "input_ent1": "boston",
+        "kvr_entlist_qa1": [
+            "seattle",
+            "tuesday",
+            "monday",
+            "100f",
+            "rain",
+            "week"
+        ]
+    },
+    {
+        "q2": "i was asking about boston not seattle do you have information for boston too",
+        "a2": "the highs for boston this weekend are in the 90s while the lows are supposed to be 70s",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "weekend",
+            "boston"
+        ]
+    },
+    {
+        "q3": "thank you so much for the information",
+        "a3": "you re welcome glad i could help",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

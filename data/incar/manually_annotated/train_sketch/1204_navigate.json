@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "car i wanna go back home please pick the fastest route",
+        "a1": "we re 6_miles away and there is no_traffic on our way i sent the info on your screen",
+        "input_rel1": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel1": "distance",
+        "obj1": "6_miles",
+        "input_ent1": "home",
+        "kvr_entlist_qa1": [
+            "no_traffic",
+            "6_miles"
+        ]
+    },
+    {
+        "q2": "thanks what is the address",
+        "a2": "your home is at 10_ames_street",
+        "input_rel2": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel2": "address",
+        "obj2": "10_ames_street",
+        "input_ent2": "home",
+        "kvr_entlist_qa2": [
+            "10_ames_street",
+            "home"
+        ]
+    },
+    {
+        "q3": "thanks let s go there",
+        "a3": "sounds good have a great day",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

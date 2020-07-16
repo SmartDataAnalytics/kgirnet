@@ -1,0 +1,104 @@
+[
+    {
+        "q1": "how many players are on your team?",
+        "a1": "there are 11 players.",
+        "kgER1": {},
+        "a1_skt": "there are @object players.",
+        "a1_v2": "there are 11 players.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "how many players fill switzerland's roster?",
+        "a2": "11 outfield.",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object outfield.",
+        "a2_v2": "11 outfield.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "switzerland"
+    },
+    {
+        "q3": "how many of switzerland's roster are from switzerland originally?",
+        "a3": "the vast majority",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "the vast majority",
+        "a3_v2": "the vast majority",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "switzerland"
+    },
+    {
+        "q4": "are their any turkish players?",
+        "a4": "no.",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "no.",
+        "a4_v2": "no.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "we\u2019re are switzerland ranked in fifa ",
+        "a5": "32",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "32",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "switzerland"
+    }
+]

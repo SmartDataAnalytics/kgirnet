@@ -1,0 +1,43 @@
+[
+    {
+        "q1": "what s the temperature going to be this week",
+        "a1": "what city do you want the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "cleveland what s the temperature going to be this week",
+        "a2": "it is forecasted for cleveland that monday and tuesday will be 30f - 40f wednesday will be 70f - 80f thursday 40f - 60f and 80f - 100f from friday to sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday,tuesday,wednesday,thursday",
+        "obj2": "70f,100f,80f,60f,40f,30f",
+        "input_ent2": "cleveland",
+        "kvr_entlist_qa2": [
+            "70f",
+            "100f",
+            "80f",
+            "60f",
+            "monday",
+            "wednesday",
+            "sunday",
+            "40f",
+            "tuesday",
+            "thursday",
+            "30f",
+            "cleveland",
+            "friday"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

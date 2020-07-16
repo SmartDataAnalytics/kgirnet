@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "did croatia ever win the uefa european championship?",
+        "a1": "no, they never have",
+        "kgER1": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "no, they never have",
+        "a1_v2": "no, they never have",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "croatia"
+    },
+    {
+        "q2": "who is the current captain for croatia?",
+        "a2": "luka modric is the captain for croatia.",
+        "kgER2": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object is the @relation for @entity",
+        "a2_v2": "luka modric is the captain for croatia.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "croatia"
+    },
+    {
+        "q3": "yes they won before",
+        "a3": "what cups has the croatian team won before? ",
+        "kgER3": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "what cups has the @entity team won before? ",
+        "a3_v2": "what cups has the croatian team won before? ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "croatia has won many tournaments. you have to be more specific with that question. ",
+        "a4": "what world cups have they won?",
+        "kgER4": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "what world cups have they won?",
+        "a4_v2": "what world cups have they won?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "croatia"
+    },
+    {
+        "q5": "none, 2nd and 3rd place finishers though.",
+        "a5": "they never won.",
+        "kgER5": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they never won.",
+        "a5_v2": "they never won.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "white and red"
+    }
+]

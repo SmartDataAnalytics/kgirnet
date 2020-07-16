@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "i need the fastest route to the hospital",
+        "a1": "nearest hospital is located at 611_ames_ave called palo_alto_medical_foundation",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "palo_alto_medical_foundation",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "palo_alto_medical_foundation",
+            "hospital",
+            "611_ames_ave"
+        ]
+    },
+    {
+        "q2": "ok please give me directions via the fastest route",
+        "a2": "we re 4_miles away and there is moderate_traffic on our way i sent the route on your map",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "4_miles",
+        "input_ent2": "palo_alto_medical_foundation",
+        "kvr_entlist_qa2": [
+            "moderate_traffic",
+            "4_miles"
+        ]
+    },
+    {
+        "q3": "thanks for the information",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

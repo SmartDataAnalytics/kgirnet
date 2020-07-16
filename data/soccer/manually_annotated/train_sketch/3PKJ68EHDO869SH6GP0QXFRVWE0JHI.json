@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "paris sg has so many such expensive players which shows how much money counts in football, it's a business in the first place now, no?",
+        "a1": "football is all about money now.",
+        "kgER1": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "football is all about money now.",
+        "a1_v2": "football is all about money now.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "paris sg"
+    },
+    {
+        "q2": "money has ruined it",
+        "a2": "not sure",
+        "kgER2": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "not sure",
+        "a2_v2": "not sure",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "doesn't paris sg also pay a load of money for its coaches?",
+        "a3": "paris sg pays as much as everyone else.",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "paris sg pays as much as everyone else.",
+        "a3_v2": "paris sg pays as much as everyone else.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "paris sg"
+    },
+    {
+        "q4": "who is the best player for paris sg?",
+        "a4": "i like alphonse areola.",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i like @object",
+        "a4_v2": "i like alphonse areola.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "paris sg"
+    },
+    {
+        "q5": "who is the coach in the paris sg ?",
+        "a5": "thomas tuchel",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@coach",
+        "corr_rel5": "coach",
+        "obj5": "thomas tuchel",
+        "input_ent5": "paris sg"
+    }
+]

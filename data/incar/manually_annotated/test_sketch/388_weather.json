@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "can you give me the weather this week for new_york city",
+        "a1": "in new_york it will be raining monday and tuesday snowing wednesday windy on thursday frost on friday dew on saturday and overcast on sunday",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj1": "dew,windy,overcast,frost",
+        "input_ent1": "new_york",
+        "kvr_entlist_qa1": [
+            "dew",
+            "saturday",
+            "windy",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "sunday",
+            "monday",
+            "new_york",
+            "thursday",
+            "overcast",
+            "frost"
+        ]
+    },
+    {
+        "q2": "then no clear_skies for me i m sad thank you car",
+        "a2": "you re welcome patience",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

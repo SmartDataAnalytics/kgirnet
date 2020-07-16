@@ -1,0 +1,48 @@
+[
+    {
+        "q1": "is there a philz near",
+        "a1": "just a teavana or starbucks",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "teavana,starbucks",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "teavana",
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "which one has the closest and quickest route",
+        "a2": "teavana is just 3_miles away and it has moderate_traffic while starbuck is farther and has more traffic on its way",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "",
+        "obj2": "teavana",
+        "input_ent2": "philz",
+        "kvr_entlist_qa2": [
+            "teavana",
+            "moderate_traffic",
+            "3_miles"
+        ]
+    },
+    {
+        "q3": "what is the address for teavana",
+        "a3": "the address for teavana is 145_amherst_st",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "145_amherst_st",
+        "input_ent3": "teavana",
+        "kvr_entlist_qa3": [
+            "teavana",
+            "145_amherst_st"
+        ]
+    },
+    {
+        "q4": "thank you",
+        "a4": "you re welcome have a good day",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

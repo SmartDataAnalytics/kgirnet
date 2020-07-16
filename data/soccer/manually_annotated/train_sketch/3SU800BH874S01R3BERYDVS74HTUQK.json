@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "how many times has iceland qualified for the fifa world cup?",
+        "a1": "1",
+        "kgER1": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "1",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "iceland"
+    },
+    {
+        "q2": "will they qualify ever again?",
+        "a2": "it might be a while but i'm sure they will",
+        "kgER2": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "it might be a while but i'm sure they will",
+        "a2_v2": "it might be a while but i'm sure they will",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ever banega"
+    },
+    {
+        "q3": "who scored the most goals for iceland during the world cup?",
+        "a3": "sigurdsson and finnbogason each scored one. ",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "sigurdsson and @object each scored one. ",
+        "a3_v2": "sigurdsson and finnbogason each scored one. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "iceland"
+    },
+    {
+        "q4": "yes, i agree with this and finnbogason was iceland's top scorer",
+        "a4": "agreed",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "agreed",
+        "a4_v2": "agreed",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "iceland"
+    },
+    {
+        "q5": "whos is icelands national team manager?",
+        "a5": "heimer hallgrimsson is the manager.  ",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "@object is the manager.  ",
+        "a5_v2": "@coach is the manager.  ",
+        "corr_rel5": "goalkeeper",
+        "obj5": "hannes thor halldorsson",
+        "input_ent5": "iceland"
+    }
+]

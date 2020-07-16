@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "find me a nearby coffee shop specifically starbucks",
+        "a1": "there is no starbucks nearby",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "how about any other tea",
+        "a2": "teavana serves tea nearby",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "teavana",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "teavana"
+        ]
+    },
+    {
+        "q3": "it sounds good let s go there please pick the fastest route for me thank you",
+        "a3": "the quickest route is 145_amherst_street to teavana with no_traffic noted on that route",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "",
+        "obj3": "145_amherst_street",
+        "input_ent3": "teavana",
+        "kvr_entlist_qa3": [
+            "teavana",
+            "no_traffic"
+        ]
+    },
+    {
+        "q4": "thank you car let s go there",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

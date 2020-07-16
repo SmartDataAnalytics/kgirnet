@@ -1,0 +1,138 @@
+[
+    {
+        "q1": "i honestly never heard of this team but i'm sure it is a good thing to play",
+        "a1": "their captain is luka modri\u0107.",
+        "kgER1": {
+            "thiago": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "their @relation is @object",
+        "a1_v2": "their captain is luka modri\u0107.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "what was miami quarterback bob griese the first nfl football player to wear in a game, in 1977? a: glasse",
+        "a2": "do you think croatia will play against the us?",
+        "kgER2": {
+            "thiago": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "do you think @entity will play against the us?",
+        "a2_v2": "do you think croatia will play against the us?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "no, i do not think croatia will play against the us ",
+        "a3": "croatia is loaded with talented players ",
+        "kgER3": {
+            "thiago": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity is loaded with talented players ",
+        "a3_v2": "croatia is loaded with talented players ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "croatia"
+    },
+    {
+        "q4": "who is croatia leading scorer? ",
+        "a4": "can we see luka modric back in the premier league?",
+        "kgER4": {
+            "thiago": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "can we see @object back in the premier league?",
+        "a4_v2": "can we see @captain back in the premier league?",
+        "corr_rel4": "midfielder",
+        "obj4": "luka modric",
+        "input_ent4": "croatia"
+    },
+    {
+        "q5": "no, i don't think he want to go there.",
+        "a5": "where does rakitic play?",
+        "kgER5": {
+            "thiago": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "where does rakitic play?",
+        "a5_v2": "where does rakitic play?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

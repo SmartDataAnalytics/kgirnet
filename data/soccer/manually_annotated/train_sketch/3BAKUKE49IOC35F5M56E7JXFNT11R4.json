@@ -1,0 +1,94 @@
+[
+    {
+        "q1": "how do rate sweden's chances in their quarter-final against england?",
+        "a1": "i give them a 30 percent chance of advancing to the next round.",
+        "kgER1": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i give them a @object percent chance of advancing to the next @relation",
+        "a1_v2": "i give them a 30 percent chance of advancing to the next round.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "sweden"
+    },
+    {
+        "q2": "why not higher than 30 percent?",
+        "a2": "just a feeling i have based on their previous performance in world cup tournaments.",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "just a feeling i have based on their previous performance in world cup tournaments.",
+        "a2_v2": "just a feeling i have based on their previous performance in world cup tournaments.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "if it goes to penalty kicks, what are their chances?",
+        "a3": "a3: i think they would win in penality kicks. the england team is young and may choke.",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "a3: i think they would win in penality kicks. the england team is young and may choke.",
+        "a3_v2": "a3: i think they would win in penality kicks. the england team is young and may choke.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "did zlatan's absence help sweden over perform in the world cup?",
+        "a4": "i believe zlatan's time was done, this team of sweden is the new generation coming through and they're playing with alot of confidence",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i believe zlatan's time was done, this team of @entity is the new generation coming through and they're playing with alot of confidence",
+        "a4_v2": "i believe zlatan's time was done, this team of sweden is the new generation coming through and they're playing with alot of confidence",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "sweden"
+    }
+]

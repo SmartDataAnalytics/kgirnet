@@ -1,0 +1,192 @@
+[
+    {
+        "q1": "how does thomas lemar feel to play soccer for the atletico madrid soccer team? ",
+        "a1": "pretty sad, as he is a bench-warmer for atletico madrid.",
+        "kgER1": {
+            "thomas delaney": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "thomas lemar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a1_skt": "pretty sad, as he is a bench-warmer for @entity",
+        "a1_v2": "pretty sad, as he is a bench-warmer for atletico madrid.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "who is their coach?",
+        "a2": "diego simeone",
+        "kgER2": {
+            "thomas delaney": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "thomas lemar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "@coach",
+        "corr_rel2": "coach",
+        "obj2": "diego simeone",
+        "input_ent2": "atletico madrid"
+    },
+    {
+        "q3": "whats the name of atletico madrid's stadium?",
+        "a3": "the metropolitan wanda",
+        "kgER3": {
+            "thomas delaney": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "thomas lemar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a3_skt": "the metropolitan wanda",
+        "a3_v2": "the metropolitan wanda",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "atletico madrid"
+    },
+    {
+        "q4": "where is the metropolitan wanda located?",
+        "a4": "in madrid, spain.",
+        "kgER4": {
+            "thomas delaney": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "thomas lemar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a4_skt": "in madrid, spain.",
+        "a4_v2": "in madrid, spain.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "wanda metropolitano"
+    },
+    {
+        "q5": "how many seats does the stadium have?",
+        "a5": "how many losses did atletico madrid have last year?",
+        "kgER5": {
+            "thomas delaney": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "thomas lemar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a5_skt": "how many losses did @entity have last year?",
+        "a5_v2": "how many losses did atletico madrid have last year?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "allianz stadium"
+    }
+]

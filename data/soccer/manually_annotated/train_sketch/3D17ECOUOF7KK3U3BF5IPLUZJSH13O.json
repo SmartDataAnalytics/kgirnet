@@ -1,0 +1,137 @@
+[
+    {
+        "q1": "are barcelona strong enough to compete with real madrid this year?",
+        "a1": "it's up in the air i think but real madrid are the most likely winners. ",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "it's up in the air i think but @entity are the most likely winners. ",
+        "a1_v2": "it's up in the air i think but real madrid are the most likely winners. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "given that they won la liga last year, definitely ",
+        "a2": "has barcelona got any good transfers this year?",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "has @entity got any good transfers this year?",
+        "a2_v2": "has barcelona got any good transfers this year?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "barcelona do well in the league but despite uefa trying to help them they can't seem to win the ecl anymore.",
+        "a3": "what is stopping barcelona from winning the ecl?",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "what is stopping @entity from winning the ecl?",
+        "a3_v2": "what is stopping barcelona from winning the ecl?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "barcelona"
+    },
+    {
+        "q4": "i feel is it a lack of practice due to decisions the coach made.",
+        "a4": "are those decisions usual for their coach, or was this a one time mistake?",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "are those decisions usual for their @relation or was this a one time mistake?",
+        "a4_v2": "are those decisions usual for their coach, or was this a one time mistake?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "those decisions are usual for coaches, but the quality of the decisions affect the outcomes we want.",
+        "a5": "what outcome do you usually hope for in that situation",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "what outcome do you usually hope for in that situation",
+        "a5_v2": "what outcome do you usually hope for in that situation",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

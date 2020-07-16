@@ -1,0 +1,19 @@
+[
+    {
+        "q1": "what time do i take my medicine and who is attending",
+        "a1": "currently you are taking_medicine on two occasions one is on the_13th at 4pm with your mother the other is on monday at 11am with marie",
+        "input_rel1": "time,date",
+        "corr_rel1": "time,date",
+        "obj1": "the_13th,4pm",
+        "input_ent1": "medicine",
+        "kvr_entlist_qa1": [
+            "mother",
+            "11am",
+            "marie",
+            "the_13th",
+            "monday",
+            "4pm",
+            "taking_medicine"
+        ]
+    }
+]

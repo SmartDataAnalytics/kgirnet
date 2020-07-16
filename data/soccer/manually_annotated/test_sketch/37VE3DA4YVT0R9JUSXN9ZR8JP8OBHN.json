@@ -1,0 +1,70 @@
+[
+    {
+        "q1": "who is the fastest player in the atl. madrid?",
+        "a1": "griezmann",
+        "kgER1": {},
+        "a1_skt": "griezmann",
+        "a1_v2": "griezmann",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "who is there main striker?",
+        "a2": "they have two. griezmann and diego costa",
+        "kgER2": {},
+        "a2_skt": "they have two. griezmann and @object",
+        "a2_v2": "they have two. griezmann and diego costa",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "which do you consider to be the better? ",
+        "a3": "i think griezmann.",
+        "kgER3": {},
+        "a3_skt": "i think griezmann.",
+        "a3_v2": "i think griezmann.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "who is the keeper for atletico madrid? ",
+        "a4": "jan oblak is one of the keepers for them",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object is one of the keepers for them",
+        "a4_v2": "jan oblak is one of the keepers for them",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "atletico madrid"
+    },
+    {
+        "q5": "how old is he? ",
+        "a5": "he is 26 years old. ",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "he is @object years old. ",
+        "a5_v2": "he is 26 years old. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "old trafford"
+    }
+]

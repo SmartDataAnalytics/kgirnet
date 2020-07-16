@@ -1,0 +1,141 @@
+[
+    {
+        "q1": "i love spain",
+        "a1": "you are probably a bandwagon fan if you like spain",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "you are probably a bandwagon fan if you like @entity",
+        "a1_v2": "you are probably a bandwagon fan if you like spain",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "spain"
+    },
+    {
+        "q2": "no, i have always liked them, even during the tough times. ",
+        "a2": "i do not agree i love spain more for his football than for his cars",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i do not agree i love @entity more for his football than for his cars",
+        "a2_v2": "i do not agree i love spain more for his football than for his cars",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "which was the league champion the previous season? ",
+        "a3": "2016-2017 real madrid, 2017-2018 barcelona",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "2016-2017 @entity 2017-2018 @entity",
+        "a3_v2": "2016-2017 real madrid, 2017-2018 barcelona",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what real madrid players are on the spain national team?",
+        "a4": "gerard pique, carles puyol, andres iniesta, xavi hernandez, sergio busquets, david villa and pedro.",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object carles puyol, @object @object @object david villa and pedro.",
+        "a4_v2": "gerard pique, carles puyol, andres iniesta, xavi hernandez, sergio busquets, david villa and pedro.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "these players are not from real madrid, they are from barcelona",
+        "a5": "yes that is true.",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes that is true.",
+        "a5_v2": "yes that is true.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

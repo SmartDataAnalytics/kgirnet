@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i admire ac milan",
+        "a1": "best milan team.",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "best milan team.",
+        "a1_v2": "best milan team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "which on is the other milan team?",
+        "a2": "there is ac milan and inter milan.",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "there is ac milan and inter milan.",
+        "a2_v2": "there is ac milan and inter milan.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "who is the manager of ac milan?",
+        "a3": "gennaro gattuso is the manager of ac milan",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object is the manager of ac milan",
+        "a3_v2": "@coach is the manager of ac milan",
+        "corr_rel3": "coach",
+        "obj3": "gennaro gattuso",
+        "input_ent3": "ac milan"
+    },
+    {
+        "q4": "ac milan flag what is color ?   ",
+        "a4": "the ac milan colors are black and red.",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "the ac milan colors are black and @object",
+        "a4_v2": "the ac milan colors are black and red.",
+        "corr_rel4": "jersey color",
+        "obj4": "black and red",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "who's the best player on ac milan?",
+        "a5": "paolo maldini",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "paolo maldini",
+        "a5_v2": "paolo maldini",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ac milan"
+    }
+]

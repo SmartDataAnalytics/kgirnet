@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "do you like croatia's soccer team?",
+        "a1": "yes ",
+        "kgER1": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes ",
+        "a1_v2": "yes ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "croatia"
+    },
+    {
+        "q2": "who is your favorite croatia player?",
+        "a2": "my favorite croatia player is luka modric. ",
+        "kgER2": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "my favorite @entity player is @object ",
+        "a2_v2": "my favorite croatia player is luka modric. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "croatia"
+    },
+    {
+        "q3": "how old that guy?",
+        "a3": "he is currently 32, born 9/9/1985.",
+        "kgER3": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "he is currently @object born 9/9/1985.",
+        "a3_v2": "he is currently 32, born 9/9/1985.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "old trafford"
+    },
+    {
+        "q4": "how long has he been playing?",
+        "a4": "my favorite croatian player is rakitic",
+        "kgER4": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "my favorite @entity player is rakitic",
+        "a4_v2": "my favorite croatian player is rakitic",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "why is rakitic your favorite player on the croatian team?",
+        "a5": "i like rakitic because of his time with barcelona.",
+        "kgER5": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i like rakitic because of his time with @entity",
+        "a5_v2": "i like rakitic because of his time with barcelona.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ivan rakitic"
+    }
+]

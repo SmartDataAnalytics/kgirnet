@@ -1,0 +1,115 @@
+[
+    {
+        "q1": "what\u2019s senegal\u2019s greatest achievement ",
+        "a1": "quarter finals in a world cup",
+        "kgER1": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "quarter finals in a world cup",
+        "a1_v2": "quarter finals in a world cup",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "senegal"
+    },
+    {
+        "q2": "what year was that world cup?",
+        "a2": "2002",
+        "kgER2": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "@world_cup_quarter-finals",
+        "corr_rel2": "world cup quarter-finals",
+        "obj2": "2002",
+        "input_ent2": "senegal"
+    },
+    {
+        "q3": "have they ever won the african cup of nations?",
+        "a3": "nope, nigeria has been dominating senegal in the african cup of nations.",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "nope, @entity has been dominating @entity in the african cup of nations.",
+        "a3_v2": "nope, nigeria has been dominating senegal in the african cup of nations.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ever banega"
+    },
+    {
+        "q4": "if it matches this conversation",
+        "a4": "i think senegal wins the next african cup",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i think @entity wins the next african cup",
+        "a4_v2": "i think senegal wins the next african cup",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who has scored the most goals?",
+        "a5": "when was the last important game that senegal won?",
+        "kgER5": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "when was the last important game that @entity won?",
+        "a5_v2": "when was the last important game that senegal won?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

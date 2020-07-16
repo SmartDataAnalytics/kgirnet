@@ -1,0 +1,139 @@
+[
+    {
+        "q1": "who is the best player on real madrid? ",
+        "a1": "sergio ramos.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "sergio ramos.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "ra\u00fal is real madrid's most capped player with 741 appearances for the club.with 167 caps, iker casillas made the most international appearances as a real madrid player.",
+        "a2": "when were they founded?",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "iker casillas": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "when were they @relation",
+        "a2_v2": "when were they founded?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "1902",
+        "a3": "what\u2019s real madrid\u2019s colours",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "iker casillas": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "what\u2019s real madrid\u2019s colours",
+        "a3_v2": "what\u2019s real madrid\u2019s colours",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "real madrid colors are white especially and sometimes black",
+        "a4": "real madrid's colors are black",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "iker casillas": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "white": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "real madrid's colors are black",
+        "a4_v2": "real madrid's colors are black",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "which one is it?",
+        "a5": "main colors are white with blue and gold accents. they play in all white kits at home and all black kits away.",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "iker casillas": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "white": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "main colors are @object with @object and gold accents. they play in all @object kits at home and all black kits away.",
+        "a5_v2": "main colors are white with blue and gold accents. they play in all white kits at home and all black kits away.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "q1": "what time and date is my conference and what is the agenda",
+        "a1": "which one i have two one on monday at 7pm to discuss_dress_code and one on the_7th at 11am to discuss_dress_code",
+        "input_rel1": "",
+        "corr_rel1": "data, agenda, time",
+        "obj1": "monday, discuss_dress_code, the_7th, 7pm",
+        "input_ent1": "conference",
+        "kvr_entlist_qa1": [
+            "7pm",
+            "discuss_dress_code",
+            "11am",
+            "monday",
+            "the_7th"
+        ]
+    },
+    {
+        "q2": "it was the one on monday thank you",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

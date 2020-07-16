@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "what was the score of the porto v aves game?",
+        "a1": "the score was porto 3 - 1 aves.",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "the score was porto @object - @object aves.",
+        "a1_v2": "the score was porto 3 - 1 aves.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "do you think fc porto can keep winning?",
+        "a2": "yes, porto is the best team in portugal.",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes, porto is the best team in @entity",
+        "a2_v2": "yes, porto is the best team in portugal.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "do you think fc porto will be competitive next year ?",
+        "a3": "yes, correct if you keep winning",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a3_skt": "yes, correct if you keep winning",
+        "a3_v2": "yes, correct if you keep winning",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "fc. porto"
+    },
+    {
+        "q4": "who is porto's coach?",
+        "a4": "conceicao is the coach",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object is the @relation",
+        "a4_v2": "@coach is the coach",
+        "corr_rel4": "coach",
+        "obj4": "sergio conceicao",
+        "input_ent4": "fc. porto"
+    },
+    {
+        "q5": "who is there best player of all time?",
+        "a5": "ronaldo for sure",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a5_skt": "ronaldo for sure",
+        "a5_v2": "ronaldo for sure",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

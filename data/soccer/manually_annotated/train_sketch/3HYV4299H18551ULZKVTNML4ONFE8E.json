@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i absolutely adore italy",
+        "a1": "they've been rather disappointing recently ",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they've been rather disappointing recently ",
+        "a1_v2": "they've been rather disappointing recently ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "when was the last time italy wasn't disappointing?",
+        "a2": "in 2006 when they won the world cup",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "in @object when they won the world cup",
+        "a2_v2": "in 2006 when they won the world cup",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "who shot the decisive goal in the finals of the 2006 world cup for italy?",
+        "a3": "fabio grosso scored the final goal.",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "fabio grosso scored the final @relation",
+        "a3_v2": "fabio grosso scored the final goal.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "2006"
+    },
+    {
+        "q4": "who was their opponent?",
+        "a4": "the oponent to italy in the 2006 world cup final was france.",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "the oponent to @entity in the @object @relation was @entity",
+        "a4_v2": "the oponent to italy in the 2006 world cup final was france.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "how have they managed to fall so far in such a comparatively short time? ",
+        "a5": "the players had a lots of scandals and they changed coaches way too often.",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "the players had a lots of scandals and they changed @relation way too often.",
+        "a5_v2": "the players had a lots of scandals and they changed coaches way too often.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

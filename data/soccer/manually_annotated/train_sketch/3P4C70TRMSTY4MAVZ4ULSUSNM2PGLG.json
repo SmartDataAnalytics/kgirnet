@@ -1,0 +1,116 @@
+[
+    {
+        "q1": "who are the best defenders on the team?",
+        "a1": "eric bailly is man united's best defender and one of the biggest keys to united's season",
+        "kgER1": {
+            "defender": [
+                "position"
+            ]
+        },
+        "a1_skt": "@object is man united's best @relation and one of the biggest keys to united's season",
+        "a1_v2": "eric bailly is man united's best defender and one of the biggest keys to united's season",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who is the best midfielder on manchester united? ",
+        "a2": "paul pogba is the best midfield player on the team.",
+        "kgER2": {
+            "defender": [
+                "position"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a2_skt": "@object is the best @relation player on the team.",
+        "a2_v2": "paul pogba is the best midfield player on the team.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "manchester united"
+    },
+    {
+        "q3": "will manchester united's future be as great as their past? ",
+        "a3": "they aren't starting the current year very well, so it may not be this year.",
+        "kgER3": {
+            "defender": [
+                "position"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a3_skt": "they aren't starting the current year very well, so it may not be this year.",
+        "a3_v2": "they aren't starting the current year very well, so it may not be this year.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "manchester united"
+    },
+    {
+        "q4": "buen juego manchester united ",
+        "a4": "they didn't have a good game against tottenham",
+        "kgER4": {
+            "defender": [
+                "position"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a4_skt": "they didn't have a good game against tottenham",
+        "a4_v2": "they didn't have a good game against tottenham",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "are you sure?",
+        "a5": "not sure but \"probable\". as stated above, it's a bad start of the season for man u",
+        "kgER5": {
+            "defender": [
+                "position"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a5_skt": "not sure but \"probable\". as stated above, it's a bad start of the season for man u",
+        "a5_v2": "not sure but \"probable\". as stated above, it's a bad start of the season for man u",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

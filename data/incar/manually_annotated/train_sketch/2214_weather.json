@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "find weekly weather forecast",
+        "a1": "what city can i give you the weekly weather forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "mountain_view please",
+        "a2": "this week in mountain_view should be hot with rain snow overcast skies and a blizzard",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "blizzard,overcast,rain,snow,hot",
+        "input_ent2": "mountain_view",
+        "kvr_entlist_qa2": [
+            "blizzard",
+            "mountain_view",
+            "overcast",
+            "rain",
+            "snow",
+            "hot",
+            "week"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "not a problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

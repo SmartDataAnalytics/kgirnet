@@ -1,0 +1,144 @@
+[
+    {
+        "q1": "who is your favorite colombian national player? ",
+        "a1": "yerry mina",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "yerry mina",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "like him great player up there with th colombian greats.",
+        "a2": "he is definitely an exceptional player, but it's hard to compare to carlos valderrama.",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "he is definitely an exceptional player, but it's hard to compare to carlos valderrama.",
+        "a2_v2": "he is definitely an exceptional player, but it's hard to compare to carlos valderrama.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "but yerry mina has made more goals in world cups i believe.",
+        "a3": "do you think world cup goals is the only way to judge a star player?",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "yerry mina": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "do you think world cup @relation is the only way to judge a star player?",
+        "a3_v2": "do you think world cup goals is the only way to judge a star player?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "yerry mina"
+    },
+    {
+        "q4": "i think the fans of colombia would think that's the best way.",
+        "a4": "colombia must work hard to win a world cup ",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "yerry mina": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "@entity must work hard to win a world cup ",
+        "a4_v2": "colombia must work hard to win a world cup ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "colombia"
+    },
+    {
+        "q5": "what is the team lacking now?",
+        "a5": "i think he has to score more goals",
+        "kgER5": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "yerry mina": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "i think he has to score more @relation",
+        "a5_v2": "i think he has to score more goals",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

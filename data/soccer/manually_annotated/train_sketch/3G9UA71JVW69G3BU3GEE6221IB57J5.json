@@ -1,0 +1,130 @@
+[
+    {
+        "q1": "who is the most expensive player in paris sg? ",
+        "a1": "psg's most expensive player must be neymar.",
+        "kgER1": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "psg's most expensive player must be @object",
+        "a1_v2": "psg's most expensive player must be neymar.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "paris sg"
+    },
+    {
+        "q2": "do know how much they paid for mbapp\u00e9?",
+        "a2": "the most expensive player in the psg is neymar..",
+        "kgER2": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "the most expensive player in the psg is neymar..",
+        "a2_v2": "the most expensive player in the psg is neymar..",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "kylian mbappe"
+    },
+    {
+        "q3": "neymar isone of the  most expensive player compare to other players",
+        "a3": "do you think he'll lead paris sg to a champions league final?",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "do you think he'll lead paris sg to a champions league final?",
+        "a3_v2": "do you think he'll lead paris sg to a champions league final?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "neymar"
+    },
+    {
+        "q4": "in your opinion, who is the most expensive player on  paris sg?",
+        "a4": "it is naymar. his tranfer will eventually cost the team $528 million, with the transfer fee of $263 million.",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "it is naymar. his tranfer will eventually cost the team $528 million, with the transfer fee of $263 million.",
+        "a4_v2": "it is naymar. his tranfer will eventually cost the team $528 million, with the transfer fee of $263 million.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "paris sg"
+    },
+    {
+        "q5": "who is the best striker in psg?",
+        "a5": "edison is the bomb and will continue to be the best.",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "edison is the bomb and will continue to be the best.",
+        "a5_v2": "edison is the bomb and will continue to be the best.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

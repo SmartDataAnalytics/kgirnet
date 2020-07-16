@@ -1,0 +1,32 @@
+[
+    {
+        "q1": "is snow forecasted this week",
+        "a1": "what city do you want to find out if it is snowing in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "corona please",
+        "a2": "there is no snow in the forecast for corona",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "corona",
+        "kvr_entlist_qa2": [
+            "snow",
+            "corona"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

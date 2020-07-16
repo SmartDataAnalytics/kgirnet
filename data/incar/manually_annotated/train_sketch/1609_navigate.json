@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "what are the directions to the mall",
+        "a1": "the midtown_shopping_center is 3_miles away would you like directions",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "midtown_shopping_center",
+        "input_ent1": "topanga_mall",
+        "kvr_entlist_qa1": [
+            "midtown_shopping_center",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "yes i need a route with no_traffic",
+        "a2": "i ve set the navigation to its address 338_alester_ave there should be no_traffic",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "338_alester_ave",
+        "input_ent2": "topanga_mall",
+        "kvr_entlist_qa2": [
+            "no_traffic",
+            "338_alester_ave"
+        ]
+    },
+    {
+        "q3": "thanks so much",
+        "a3": "glad to help",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

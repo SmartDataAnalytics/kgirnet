@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "car i m desiring to eat at some chinese_restaurant is there anything within 2_miles",
+        "a1": "mandarin_roots is 1_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi,distance",
+        "obj1": "mandarian_roots,1_miles",
+        "input_ent1": "chinese_restaurant",
+        "kvr_entlist_qa1": [
+            "1_miles",
+            "mandarin_roots"
+        ]
+    },
+    {
+        "q2": "that s great please send me the route on screen and avoid all heavy_traffic",
+        "a2": "the address is 271_springer_street and there is moderate_traffic on the way to the location",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "address",
+        "obj2": "271_springer_street",
+        "input_ent2": "mandarian_roots",
+        "kvr_entlist_qa2": [
+            "moderate_traffic",
+            "271_springer_street"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

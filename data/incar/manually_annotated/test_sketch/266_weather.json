@@ -1,0 +1,43 @@
+[
+    {
+        "q1": "give me the forecast for the next 7 days",
+        "a1": "for what city",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "downtown_chicago",
+        "a2": "in downtown_chicago it will be humid on monday snow on tueday dry on wednesday frost on thursday drizzle on friday clear_skies on saturday and sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "dry,drizzle,clear_skies,humid,snow,frost",
+        "input_ent2": "downtown_chicago",
+        "kvr_entlist_qa2": [
+            "saturday",
+            "dry",
+            "drizzle",
+            "downtown_chicago",
+            "wednesday",
+            "friday",
+            "clear_skies",
+            "humid",
+            "monday",
+            "sunday",
+            "snow",
+            "thursday",
+            "frost"
+        ]
+    },
+    {
+        "q3": "okay thank you car",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

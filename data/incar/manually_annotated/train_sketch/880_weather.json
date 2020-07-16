@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "what is the weather like this week",
+        "a1": "in what city are you inquiring about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "corona will it drizzle this week",
+        "a2": "there will be no drizzle this week in corona only rain on tuesday and thursday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,thursday",
+        "obj2": "rain",
+        "input_ent2": "corona",
+        "kvr_entlist_qa2": [
+            "thursday",
+            "corona",
+            "rain",
+            "tuesday",
+            "drizzle",
+            "week"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "what will be the highest_temperature on friday in mountain_view",
+        "a1": "on friday the highest_temperature in mountain_view is predicted to be 50f",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "friday",
+        "obj1": "50f",
+        "input_ent1": "mountain_view",
+        "kvr_entlist_qa1": [
+            "50f",
+            "mountain_view",
+            "friday",
+            "highest_temperature"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "anytime",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

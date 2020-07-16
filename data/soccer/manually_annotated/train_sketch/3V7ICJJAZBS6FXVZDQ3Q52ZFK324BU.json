@@ -1,0 +1,88 @@
+[
+    {
+        "q1": "who would you say your favorite player is on the team?",
+        "a1": "rossoneri",
+        "kgER1": {},
+        "a1_skt": "rossoneri",
+        "a1_v2": "rossoneri",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "your fav ac milan player?",
+        "a2": "ricardo rodriguez",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "ricardo rodriguez",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "gonzalo higua\u00edn ",
+        "a3": "he is an argentine player that plays for ac milan",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "he is an @entity player that plays for ac milan",
+        "a3_v2": "he is an argentine player that plays for ac milan",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "gonzalo higuain"
+    },
+    {
+        "q4": "who do you think they will play next?",
+        "a4": "cagliari",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "cagliari",
+        "a4_v2": "cagliari",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "do you think they will beat cagliari?",
+        "a5": "they surely have chance ",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "they surely have chance ",
+        "a5_v2": "they surely have chance ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

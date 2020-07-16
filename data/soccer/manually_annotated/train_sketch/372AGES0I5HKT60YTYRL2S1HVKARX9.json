@@ -1,0 +1,145 @@
+[
+    {
+        "q1": "cristiano ronaldo is the goat.",
+        "a1": "lionel messi is better than cristiano ronaldo",
+        "kgER1": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object is better than @object",
+        "a1_v2": "lionel messi is better than cristiano ronaldo",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "cristiano ronaldo"
+    },
+    {
+        "q2": "for me it is messi the best",
+        "a2": "he is probably the premier player in the world at the moment ",
+        "kgER2": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "he is probably the premier player in the world at the moment ",
+        "a2_v2": "he is probably the premier player in the world at the moment ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "lionel messi"
+    },
+    {
+        "q3": "if christian is the best in the world right now, it's lionel messi",
+        "a3": "i agreee",
+        "kgER3": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "i agreee",
+        "a3_v2": "i agreee",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "lionel messi"
+    },
+    {
+        "q4": "ok but who is the worse?",
+        "a4": "sergio ramos is the worst player",
+        "kgER4": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object is the worst player",
+        "a4_v2": "sergio ramos is the worst player",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "where is guti?",
+        "a5": "i think he has retired ",
+        "kgER5": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think he has retired ",
+        "a5_v2": "i think he has retired ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

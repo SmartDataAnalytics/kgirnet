@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "how did croatia perform in the world cup?",
+        "a1": "croatia went all the way to the final's and lost to france in the world cup.",
+        "kgER1": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity went all the way to the final's and lost to @entity in the world cup.",
+        "a1_v2": "croatia went all the way to the final's and lost to france in the world cup.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "croatia"
+    },
+    {
+        "q2": "5-2",
+        "a2": "they did well",
+        "kgER2": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they did well",
+        "a2_v2": "they did well",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2 (first in 2002)"
+    },
+    {
+        "q3": "how well did they perform in the group stage?",
+        "a3": "they did well, beating argentina in the process ",
+        "kgER3": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they did well, beating @entity in the process ",
+        "a3_v2": "they did well, beating argentina in the process ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "is this the best croatia has ever performed at the world cup?",
+        "a4": "for many years, yes. ",
+        "kgER4": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "for many years, yes. ",
+        "a4_v2": "for many years, yes. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "croatia"
+    },
+    {
+        "q5": "will croatia do well in the next world cup?",
+        "a5": "i think croatia will do well in the next world cup",
+        "kgER5": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think @entity will do well in the next world cup",
+        "a5_v2": "i think croatia will do well in the next world cup",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "croatia"
+    }
+]

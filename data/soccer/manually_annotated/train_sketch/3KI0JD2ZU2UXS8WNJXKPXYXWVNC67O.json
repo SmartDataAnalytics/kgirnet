@@ -1,0 +1,170 @@
+[
+    {
+        "q1": "hey, is pedro chirivella a good player on liverpool? i think so.",
+        "a1": "i think he is ok but not suited for the premier league",
+        "kgER1": {
+            "pedro": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i think he is ok but not suited for the premier league",
+        "a1_v2": "i think he is ok but not suited for the premier league",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "pedro"
+    },
+    {
+        "q2": "then who do you think is a great player on liverpool?",
+        "a2": "mohammed salah is the main man at liverpool.  pulls a few strings up top.",
+        "kgER2": {
+            "pedro": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object is the main man at @entity  pulls a few strings up top.",
+        "a2_v2": "mohammed salah is the main man at liverpool.  pulls a few strings up top.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "what do you think of klopp at liverpool?",
+        "a3": "i think klopp has done a great job at liverpool, making the champions league final last season. ",
+        "kgER3": {
+            "pedro": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think klopp has done a great job at @entity making the champions league final last season. ",
+        "a3_v2": "i think klopp has done a great job at liverpool, making the champions league final last season. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "klopp is one of my favorite mangers taking liverpool and dortmund to the champions league final.",
+        "a4": "he did have a shakey start but all seems to be coming good.",
+        "kgER4": {
+            "pedro": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "he did have a shakey start but all seems to be coming good.",
+        "a4_v2": "he did have a shakey start but all seems to be coming good.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    },
+    {
+        "q5": "how old is klopp anyway?",
+        "a5": "klopp is 51 years old",
+        "kgER5": {
+            "pedro": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "klopp is @object years old",
+        "a5_v2": "klopp is 51 years old",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "old trafford"
+    },
+    {
+        "q6": "is that old to still be in the game?",
+        "a6": "no the average age is 47",
+        "kgER6": {
+            "pedro": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a6_skt": "no the aver@relation @relation is @object",
+        "a6_v2": "no the average age is 47",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "old trafford"
+    }
+]

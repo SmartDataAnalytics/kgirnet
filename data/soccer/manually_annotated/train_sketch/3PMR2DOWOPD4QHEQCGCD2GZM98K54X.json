@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "i completely love chelsea",
+        "a1": "i like chelsea because their team has such a history.",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "i like @entity because their team has such a history.",
+        "a1_v2": "i like chelsea because their team has such a history.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "what\u2019s chelsea\u2019s ground called ",
+        "a2": "i believe it is stamford bridge. ",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "i believe it is @object ",
+        "a2_v2": "i believe it is @ground ",
+        "corr_rel2": "ground",
+        "obj2": "stamford bridge",
+        "input_ent2": "chelsea"
+    },
+    {
+        "q3": "what is the name of the chelsea captain? ",
+        "a3": "gary chill is the captain.",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "@object is the @relation",
+        "a3_v2": "gary chill is the captain.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "chelsea"
+    },
+    {
+        "q4": "i like chelsea because it promises for this season",
+        "a4": "chelsea has 6 premier leagues",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "@entity has @object premier leagues",
+        "a4_v2": "chelsea has 6 premier leagues",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "chelsea"
+    },
+    {
+        "q5": "who is chelsea's best player?",
+        "a5": "eden hazard is really good but i don't know if he is the best.",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "@object is really good but i don't know if he is the best.",
+        "a5_v2": "eden hazard is really good but i don't know if he is the best.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "chelsea"
+    }
+]

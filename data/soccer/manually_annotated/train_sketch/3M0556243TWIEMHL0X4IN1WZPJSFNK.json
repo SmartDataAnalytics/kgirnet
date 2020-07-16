@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "where are fc porto based?",
+        "a1": "portugal ",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity ",
+        "a1_v2": "portugal ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "in which position are they right now?",
+        "a2": "fc.porto are in a very good position at the moment.",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "fc.porto are in a very good @relation at the moment.",
+        "a2_v2": "fc.porto are in a very good position at the moment.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "does fc porto have a chance to win the championship this year?",
+        "a3": "i do not think so, although it is not impossible ",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i do not think so, although it is not impossible ",
+        "a3_v2": "i do not think so, although it is not impossible ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "fc. porto"
+    },
+    {
+        "q4": "who is fc porto's best player currently?",
+        "a4": "fc porto's best player is valdemar mota",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a4_skt": "fc porto's @relation is valdemar mota",
+        "a4_v2": "fc porto's best player is valdemar mota",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "fc. porto"
+    },
+    {
+        "q5": "for es brahimi is the best of porto",
+        "a5": "aboubakar has not scored since february. he needs to play better.",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a5_skt": "aboubakar has not scored since february. he needs to play better.",
+        "a5_v2": "aboubakar has not scored since february. he needs to play better.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "yacine brahimi"
+    }
+]

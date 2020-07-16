@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "i love sweden",
+        "a1": "me too",
+        "kgER1": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "me too",
+        "a1_v2": "me too",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "sweden"
+    },
+    {
+        "q2": "what is the best thing about the sweden team \\?",
+        "a2": "the best thing about sweden is their goalkeeper",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "the best thing about @entity is their @relation",
+        "a2_v2": "the best thing about sweden is their goalkeeper",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "sweden"
+    },
+    {
+        "q3": "who is the goalkeeper for sweden \\?",
+        "a3": "roben olsen is their current keeper",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "roben olsen is their current keeper",
+        "a3_v2": "roben olsen is their current keeper",
+        "corr_rel3": "goalkeeper",
+        "obj3": "robin olsen",
+        "input_ent3": "sweden"
+    },
+    {
+        "q4": "i think olsen is good goalkeeper",
+        "a4": "yes , he is a reliable goolkeeper",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "yes , he is a reliable @relation",
+        "a4_v2": "yes , he is a reliable goolkeeper",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "goalkeeper"
+    },
+    {
+        "q5": "who has the most caps in sweden national team",
+        "a5": "it 's alexander fransson",
+        "kgER5": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "it 's @object",
+        "a5_v2": "it 's alexander fransson",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "sweden"
+    }
+]

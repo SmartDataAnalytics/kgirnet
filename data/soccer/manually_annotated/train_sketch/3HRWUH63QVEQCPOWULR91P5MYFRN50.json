@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who iceland 's captain now \\?",
+        "a1": "gunnarsson",
+        "kgER1": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@captain",
+        "corr_rel1": "captain",
+        "obj1": "aron gunnarsson",
+        "input_ent1": "iceland"
+    },
+    {
+        "q2": "was iceland selected in world cup qualifiers this time \\? i do n't know for sure",
+        "a2": "aron gunnarsson iceland national football team captain i do n't know for sure",
+        "kgER2": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object @entity national football team @relation i do n't know for sure",
+        "a2_v2": "aron gunnarsson iceland national football team captain i do n't know for sure",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "iceland"
+    },
+    {
+        "q3": "did iceland make the final 16 this year \\?",
+        "a3": "no they were last in their group",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "no they were last in their group",
+        "a3_v2": "no they were last in their group",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "iceland"
+    },
+    {
+        "q4": "iceland did not do well !",
+        "a4": "yes",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes",
+        "a4_v2": "yes",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "iceland"
+    },
+    {
+        "q5": "how many points did iceland finish with \\?",
+        "a5": "1 point",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object point",
+        "a5_v2": "1 point",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "iceland"
+    }
+]

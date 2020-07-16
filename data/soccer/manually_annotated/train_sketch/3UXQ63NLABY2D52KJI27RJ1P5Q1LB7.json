@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "i like the team france",
+        "a1": "i like france, amazing to win the world cup, pogba rules.",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i like @entity amazing to win the world cup, pogba rules.",
+        "a1_v2": "i like france, amazing to win the world cup, pogba rules.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "france"
+    },
+    {
+        "q2": "who is the coach for france?",
+        "a2": "didier deschamps",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "didier deschamps",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "france"
+    },
+    {
+        "q3": "who was the player who scored the most goals for france in the world cup? ",
+        "a3": "out of all the games, i think mbapp\u00e9 scored the most goals",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "out of all the games, i think mbapp\u00e9 scored the most @relation",
+        "a3_v2": "out of all the games, i think mbapp\u00e9 scored the most goals",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "france"
+    },
+    {
+        "q4": "who do you think is the best player?",
+        "a4": "many people consider paul pogba to be the best french player.",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "many people consider @object to be the best french player.",
+        "a4_v2": "many people consider paul pogba to be the best french player.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "if i agree, it seems to me that if",
+        "a5": "france's paul is one of the predominant.",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "france's paul is one of the predominant.",
+        "a5_v2": "france's paul is one of the predominant.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "how many world cups colombia win \\?",
+        "a1": "none",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "none",
+        "a1_v2": "none",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "colombia"
+    },
+    {
+        "q2": "what is colombia 's highest ranking on the fifa ranking \\?",
+        "a2": "3rd",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "3rd",
+        "a2_v2": "3rd",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "colombia"
+    },
+    {
+        "q3": "who is the current coach \\?",
+        "a3": "they do n't have any currently",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they do n't have any currently",
+        "a3_v2": "they do n't have any currently",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is the captain \\?",
+        "a4": "radamel falcao",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "@captain",
+        "corr_rel4": "captain",
+        "obj4": "radamel falcao",
+        "input_ent4": "colombia"
+    },
+    {
+        "q5": "what are the team colors \\?",
+        "a5": "they play in yellow",
+        "kgER5": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they play in @object",
+        "a5_v2": "they play in yellow",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "please give me an address and directions by the fastest route with no_traffic to a chinese_restaurant",
+        "a1": "the only chinese_restaurant listed is with heavy_traffic 2_miles away do you still want the address",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "distance",
+        "obj1": "2_miles",
+        "input_ent1": "chinese_restaurant",
+        "kvr_entlist_qa1": [
+            "chinese_restaurant",
+            "2_miles",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q2": "yes please",
+        "a2": "mandarin_roots is at 271_springer_street 2_miles away setting navigation now",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "address",
+        "obj2": "271_springer_street",
+        "input_ent2": "mandarin_roots",
+        "kvr_entlist_qa2": [
+            "271_springer_street",
+            "2_miles",
+            "mandarin_roots"
+        ]
+    },
+    {
+        "q3": "thanks for the help",
+        "a3": "you re welcome i am always happy to help",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

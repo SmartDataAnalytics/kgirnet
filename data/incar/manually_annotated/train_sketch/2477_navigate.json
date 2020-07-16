@@ -1,0 +1,27 @@
+[
+    {
+        "q1": "find some places downtown where i can park",
+        "a1": "you will be able to park at dish_parking located at 550_alester_ave it is 4_miles away through heavy_traffic",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel1": "poi,address",
+        "obj1": "550_alester_ave,dish_parking",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "heavy_traffic",
+            "550_alester_ave",
+            "4_miles",
+            "dish_parking"
+        ]
+    },
+    {
+        "q2": "if that s the best option set the gps please",
+        "a2": "it is heading to dish_parking",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "dish_parking",
+        "input_ent2": "parking_garage",
+        "kvr_entlist_qa2": [
+            "dish_parking"
+        ]
+    }
+]

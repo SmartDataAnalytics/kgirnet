@@ -1,0 +1,120 @@
+[
+    {
+        "q1": "i love the team chelsea",
+        "a1": "worst team in london.",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "worst team in london.",
+        "a1_v2": "worst team in london.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "then what is the best team in london?",
+        "a2": "tottenham hotspur are currently the best team in london.",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "tottenham hotspur are currently the best team in london.",
+        "a2_v2": "tottenham hotspur are currently the best team in london.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "what colours chelsea\u2019s away kit",
+        "a3": "is it yellow?",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "is it @object",
+        "a3_v2": "is it yellow?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "chelsea"
+    },
+    {
+        "q4": "chelsea unveil new blue and white kits for 2017-18 season - daily mail ",
+        "a4": "chelsea is the best team that you know?",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "white": [
+                "jersey color"
+            ],
+            "blue": [
+                "jersey color"
+            ],
+            "blue and white": [
+                "home jersey"
+            ]
+        },
+        "a4_skt": "@entity is the best team that you know?",
+        "a4_v2": "chelsea is the best team that you know?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "blue and white"
+    },
+    {
+        "q5": "chelsea is the best team i know.",
+        "a5": "no one can defeat them when they're hot.",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "white": [
+                "jersey color"
+            ],
+            "blue": [
+                "jersey color"
+            ],
+            "blue and white": [
+                "home jersey"
+            ]
+        },
+        "a5_skt": "no one can defeat them when they're hot.",
+        "a5_v2": "no one can defeat them when they're hot.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "chelsea"
+    }
+]

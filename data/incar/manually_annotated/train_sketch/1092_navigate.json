@@ -1,0 +1,43 @@
+[
+    {
+        "q1": "can you find me a rest_stop i m tired",
+        "a1": "four_seasons is 7_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "four_seasons",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "7_miles",
+            "four_seasons"
+        ]
+    },
+    {
+        "q2": "is that the closest available",
+        "a2": "yes it is and unfortunately there is a car_collision_nearby reaching there will take longer",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel2": "traffic_info",
+        "obj2": "car_collision_nearby",
+        "input_ent2": "four_seasons",
+        "kvr_entlist_qa2": [
+            "car_collision_nearby"
+        ]
+    },
+    {
+        "q3": "oh no ok set the gps and let s get started",
+        "a3": "i sent the route and the position of the hotel on your screen drive carefully",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thank you",
+        "a4": "you are welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

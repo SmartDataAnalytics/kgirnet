@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what is the forecast for the city this week",
+        "a1": "what city are you wanting to know the forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i m in new_york and i need to know if it will be foggy this week",
+        "a2": "the weather forecast predicts that wednesday it will be foggy in new_york",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "foggy",
+        "input_ent2": "new_york",
+        "kvr_entlist_qa2": [
+            "foggy",
+            "new_york",
+            "wednesday"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

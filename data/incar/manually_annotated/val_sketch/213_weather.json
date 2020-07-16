@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what is the weather like for tomorrow night",
+        "a1": "where are you located",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "in in los_angeles will it be humid tomorrow",
+        "a2": "tomorrow in los_angeles it will be cloudy there isn t a prediction for humidity",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday",
+        "obj2": "cloudy",
+        "input_ent2": "los_angeles",
+        "kvr_entlist_qa2": [
+            "cloudy",
+            "tomorrow",
+            "los_angeles"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "not a problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

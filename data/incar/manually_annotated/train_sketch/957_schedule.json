@@ -1,0 +1,26 @@
+[
+    {
+        "q1": "on what day and time should i be taking my medicine",
+        "a1": "taking_medicine is scheduled for sunday at 3pm and on the_4th at 1pm",
+        "input_rel1": "time,date",
+        "corr_rel1": "time",
+        "obj1": "1pm,taking_medicine,the_4th,3pm",
+        "input_ent1": "medicine",
+        "kvr_entlist_qa1": [
+            "3pm",
+            "the_4th",
+            "sunday",
+            "taking_medicine",
+            "1pm"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

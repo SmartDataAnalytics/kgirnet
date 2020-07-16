@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "find me somewhere to park",
+        "a1": "you can park at palo_alto_garage_r located at 481_amaranta_ave",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "poi",
+        "obj1": "palo_alto_garage_r",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "481_amaranta_ave",
+            "palo_alto_garage_r"
+        ]
+    },
+    {
+        "q2": "is that the quickest route",
+        "a2": "there is a road_block_nearby on the 8_miles route to the garage but it s your closest option shall i set directions there",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "traffic_info",
+        "obj2": "road_block_nearby",
+        "input_ent2": "palo_alto_garage_r",
+        "kvr_entlist_qa2": [
+            "road_block_nearby",
+            "8_miles"
+        ]
+    },
+    {
+        "q3": "yes please set directions via a quick route",
+        "a3": "the route available is the quickest one",
+        "input_rel3": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel3": "",
+        "obj3": "none",
+        "input_ent3": "menlo_park",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thank you",
+        "a4": "you re welcome drive carefully",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "q1": "can switzerland qualify for 2022 wc?",
+        "a1": "i believe they can. ",
+        "kgER1": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i believe they can. ",
+        "a1_v2": "i believe they can. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "yes they have a good numbers and they probably will qualify.",
+        "a2": "who is their top goal scorer right now?",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "who is their top @relation scorer right now?",
+        "a2_v2": "who is their top goal scorer right now?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "white and red"
+    },
+    {
+        "q3": "shaqiri has lead them, they are a good team but will have trouble if the world cup doesn\u2019t expand the amount of teams",
+        "a3": "personally think they will qualify with all the extra teams but will struggle at the tournament.",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "personally think they will qualify with all the extra teams but will struggle at the tournament.",
+        "a3_v2": "personally think they will qualify with all the extra teams but will struggle at the tournament.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "xherdan shaqiri"
+    },
+    {
+        "q4": "who will they struggle against the most?",
+        "a4": "they will have a tough time against france, germany, england, belgium, and a lot of other young teams.",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they will have a tough time against @entity @entity england, @entity and a lot of other young teams.",
+        "a4_v2": "they will have a tough time against france, germany, england, belgium, and a lot of other young teams.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "do you think that switzerland will have the hardest time against germany?",
+        "a5": "i think switzerland is going to put up a fight.",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think @entity is going to put up a fight.",
+        "a5_v2": "i think switzerland is going to put up a fight.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "switzerland"
+    },
+    {
+        "q6": "how can they compete with germany's pace?",
+        "a6": "they can slow the game down and play defensively.",
+        "kgER6": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a6_skt": "they can slow the game down and play defensively.",
+        "a6_v2": "they can slow the game down and play defensively.",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "germany"
+    }
+]

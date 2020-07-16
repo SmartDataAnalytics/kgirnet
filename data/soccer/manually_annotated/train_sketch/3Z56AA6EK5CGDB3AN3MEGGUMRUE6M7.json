@@ -1,0 +1,134 @@
+[
+    {
+        "q1": "will mohammed salah score the most goals in the premier league again this season?",
+        "a1": "salah will be up there with harry kane but i think he will score the most.",
+        "kgER1": {
+            "mohamed salah": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "salah will be up there with harry kane but i think he will score the most.",
+        "a1_v2": "salah will be up there with harry kane but i think he will score the most.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "mohamed salah"
+    },
+    {
+        "q2": "who does liverpool play next?",
+        "a2": "liverpool will play against crystal palace on 20th of august, 2018.",
+        "kgER2": {
+            "mohamed salah": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@entity will play against crystal palace on 20th of august, @object",
+        "a2_v2": "liverpool will play against crystal palace on 20th of august, 2018.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "do you think liverpool are better?",
+        "a3": "liverpool won the game because it is the best team in the premier",
+        "kgER3": {
+            "mohamed salah": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@entity won the game because it is the best team in the premier",
+        "a3_v2": "liverpool won the game because it is the best team in the premier",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "yes, the numbers prove it ",
+        "a4": "it's proven that liverpool is better",
+        "kgER4": {
+            "mohamed salah": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "it's proven that @entity is better",
+        "a4_v2": "it's proven that liverpool is better",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "they just beat west ham.",
+        "a5": "but how does that prove anyhthing?",
+        "kgER5": {
+            "mohamed salah": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "but how does that prove anyhthing?",
+        "a5_v2": "but how does that prove anyhthing?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i admire bvb dortmund",
+        "a1": "will bvb dortmund win the championship?",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "will bvb dortmund win the championship?",
+        "a1_v2": "will bvb dortmund win the championship?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "i doubt it. they have a rough time in their matches and are rarely in good form.",
+        "a2": "yes they struggle alot.",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes they struggle alot.",
+        "a2_v2": "yes they struggle alot.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "will dortmund win the bundesliga this year?",
+        "a3": "they have confident in their team.so they won the championship",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they have confident in their team.so they won the championship",
+        "a3_v2": "they have confident in their team.so they won the championship",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "what color is bvb dortmund's uniforms?",
+        "a4": "yellow and black are the uniform of dortmund",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object and black are the uniform of dortmund",
+        "a4_v2": "@jersey_color and black are the uniform of dortmund",
+        "corr_rel4": "jersey color",
+        "obj4": "yellow",
+        "input_ent4": "bvb dortmund"
+    },
+    {
+        "q5": "what's the name of their stadium?",
+        "a5": "bvb has added a moniker.",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "bvb has added a moniker.",
+        "a5_v2": "bvb has added a moniker.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "allianz stadium"
+    }
+]

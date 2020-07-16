@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "what s the temperature in carson going to be on tuesday",
+        "a1": "there will be a high of 80f and a low of 60f in carson on tuesday",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday",
+        "obj1": "60f,80f",
+        "input_ent1": "carson",
+        "kvr_entlist_qa1": [
+            "tuesday",
+            "60f",
+            "80f",
+            "carson"
+        ]
+    },
+    {
+        "q2": "thank you very much",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

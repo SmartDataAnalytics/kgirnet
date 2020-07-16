@@ -1,0 +1,141 @@
+[
+    {
+        "q1": "who is the head coach of iceland's national club?",
+        "a1": "erik hamr\u00e9n",
+        "kgER1": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@coach",
+        "corr_rel1": "coach",
+        "obj1": "erik hamren",
+        "input_ent1": "iceland"
+    },
+    {
+        "q2": "who is iceland best player?",
+        "a2": "alfre\u00f0 finnbogason is really good but i don't know if he is the best.",
+        "kgER2": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object is really good but i don't know if he is the best.",
+        "a2_v2": "alfre\u00f0 finnbogason is really good but i don't know if he is the best.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "iceland"
+    },
+    {
+        "q3": "i think he is",
+        "a3": "do you think iceland can win the world cup?",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "do you think @entity can win the world cup?",
+        "a3_v2": "do you think iceland can win the world cup?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "no croatia will bet iceland",
+        "a4": "i think that iceland does not win world cups, it has very few chances",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i think that @entity does not win world cups, it has very few chances",
+        "a4_v2": "i think that iceland does not win world cups, it has very few chances",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "croatia"
+    },
+    {
+        "q5": "don't you think that they will only get better in time?",
+        "a5": " if they can improve",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": " if they can improve",
+        "a5_v2": " if they can improve",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

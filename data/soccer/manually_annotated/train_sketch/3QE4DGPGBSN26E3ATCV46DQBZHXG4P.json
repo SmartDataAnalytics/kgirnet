@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "is barcelona good?",
+        "a1": "very good team",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "really good",
+        "a2": "how do they compare to madrid? ",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "how do they compare to madrid? ",
+        "a2_v2": "how do they compare to madrid? ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "better",
+        "a3": "very nice",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "very nice",
+        "a3_v2": "very nice",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "i think madrid is a better team",
+        "a4": "i think that real madrid is superior in recent years",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i think that @entity is superior in recent years",
+        "a4_v2": "i think that real madrid is superior in recent years",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "madrid whitout cristiano never is better than barcelona",
+        "a5": "recently especially in this season barcelona have the better recruitment and retention which will i believe lead them to success. real madrid have struggled in domestic league form. champions league have been their redeeming grace",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "recently especially in this season @entity have the better recruitment and retention which will i believe lead them to success. @entity have struggled in domestic league form. champions league have been their redeeming grace",
+        "a5_v2": "recently especially in this season barcelona have the better recruitment and retention which will i believe lead them to success. real madrid have struggled in domestic league form. champions league have been their redeeming grace",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "barcelona"
+    }
+]

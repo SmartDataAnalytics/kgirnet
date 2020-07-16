@@ -1,0 +1,135 @@
+[
+    {
+        "q1": "i really love the team france",
+        "a1": "yes they are very good",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes they are very good",
+        "a1_v2": "yes they are very good",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "france"
+    },
+    {
+        "q2": "\"la france\" redirects here. for other uses of \"la france\", see lafrance (disambiguation). for other uses of \"france\", see france (disambiguation). ",
+        "a2": "i love kylian mbapp\u00e9..",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "i love kylian mbapp\u00e9..",
+        "a2_v2": "i love kylian mbapp\u00e9..",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "france"
+    },
+    {
+        "q3": "do you recall who france played in their first match?   ",
+        "a3": "for the world cup france's first match was australia.",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "for the @relation first match was australia.",
+        "a3_v2": "for the world cup france's first match was australia.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "france"
+    },
+    {
+        "q4": "who is france's best defender?",
+        "a4": "paul pogba is france's best defender",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a4_skt": "@object is france's best @relation",
+        "a4_v2": "paul pogba is france's best defender",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "defender"
+    },
+    {
+        "q5": "what about their best goal keeper?",
+        "a5": "hugo lloris is their number 1 keeper.",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a5_skt": "@object is their number @object keeper.",
+        "a5_v2": "hugo lloris is their number 1 keeper.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

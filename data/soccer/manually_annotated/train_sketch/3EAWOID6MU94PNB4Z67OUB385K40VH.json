@@ -1,0 +1,107 @@
+[
+    {
+        "q1": "i wonder why soccer is the most popular sport in the world but not the us",
+        "a1": "cause us is not as cultured as europe.",
+        "kgER1": {},
+        "a1_skt": "cause us is not as cultured as europe.",
+        "a1_v2": "cause us is not as cultured as europe.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "is football still played on the beach in brazil?",
+        "a2": "yes, they still have beach soccer.",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes, they still have beach soccer.",
+        "a2_v2": "yes, they still have beach soccer.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "brazil"
+    },
+    {
+        "q3": "have you ever played beach soccer?",
+        "a3": "yes, it is quite difficult ",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes, it is quite difficult ",
+        "a3_v2": "yes, it is quite difficult ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ever banega"
+    },
+    {
+        "q4": "i wonder why soccer is the most popular sport in brazil",
+        "a4": "it is cultural and historical to the country.  ",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "it is cultural and historical to the country.  ",
+        "a4_v2": "it is cultural and historical to the country.  ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "brazil"
+    },
+    {
+        "q5": "less infrastructures/equipments required ",
+        "a5": "and also less cost for the youth",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "and also less cost for the youth",
+        "a5_v2": "and also less cost for the youth",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "q1": "over the next seven days will there be any drizzle in camarillo",
+        "a1": "the weather forecast doesn t call for drizzle in camarillo this week but it might rain on tuesday and wednesday",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday,wednesday",
+        "obj1": "rain",
+        "input_ent1": "camarillo",
+        "kvr_entlist_qa1": [
+            "camarillo",
+            "wednesday",
+            "rain",
+            "tuesday",
+            "drizzle",
+            "week"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

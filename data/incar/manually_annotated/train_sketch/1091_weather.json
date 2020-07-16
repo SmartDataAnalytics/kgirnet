@@ -1,0 +1,51 @@
+[
+    {
+        "q1": "what s the seven day forecast for new_york city",
+        "a1": "the forecast for new_york predicts a week with drizzles overcast and clear_skies with dry and humid temperatures",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj1": "clear,skies,dry,humid,overcast",
+        "input_ent1": "new_york",
+        "kvr_entlist_qa1": [
+            "new_york",
+            "clear_skies",
+            "dry",
+            "humid",
+            "week",
+            "overcast"
+        ]
+    },
+    {
+        "q2": "can you give me the average temperature in fahrenheit",
+        "a2": "in new_york it will be between 30f - 50f on monday 30f - 40f on tuesday 80f - 90f on wednesday 30f - 50f on thursday 90f - 100f on friday 20f - 40f on saurday and 20f - 40f on sunday",
+        "input_rel2": "party",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "100f,80f,90f,20f,40f,30f,50f",
+        "input_ent2": "new_york",
+        "kvr_entlist_qa2": [
+            "100f",
+            "new_york",
+            "80f",
+            "90f",
+            "monday",
+            "20f",
+            "wednesday",
+            "sunday",
+            "40f",
+            "tuesday",
+            "thursday",
+            "30f",
+            "friday",
+            "50f"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "glad i can assist goodbye",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

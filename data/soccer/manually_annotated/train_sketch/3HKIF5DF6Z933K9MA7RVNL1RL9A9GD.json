@@ -1,0 +1,120 @@
+[
+    {
+        "q1": "how long would it typically take the chelsea team to play a game?",
+        "a1": "chelsea football club",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "@entity football club",
+        "a1_v2": "chelsea football club",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "90 minutes ",
+        "a2": "no question to answer, guys please read instructions!",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "no question to answer, guys please @object instructions!",
+        "a2_v2": "no question to answer, guys please read instructions!",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is chelsea's best defensive player?",
+        "a3": "david luiz",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "david luiz",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "chelsea"
+    },
+    {
+        "q4": "i agree that the best defensive player of the chelsea team is david luiz",
+        "a4": "didn't take very long",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "david luiz": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "didn't take very long",
+        "a4_v2": "didn't take very long",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "david luiz"
+    },
+    {
+        "q5": "who is the 2nd best defensive player for chelsea?",
+        "a5": "victor moses.",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "david luiz": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "victor moses.",
+        "a5_v2": "victor moses.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "chelsea"
+    }
+]

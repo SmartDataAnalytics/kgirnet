@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "which one is gonna be the highest_temperature in fresno this week",
+        "a1": "monday in fresno will have the highest_temperature of 90f",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "monday",
+        "obj1": "90f",
+        "input_ent1": "fresno",
+        "kvr_entlist_qa1": [
+            "fresno",
+            "90f",
+            "monday",
+            "highest_temperature"
+        ]
+    },
+    {
+        "q2": "thank you",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

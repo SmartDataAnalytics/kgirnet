@@ -1,0 +1,61 @@
+[
+    {
+        "q1": "this is one of my favorite team",
+        "a1": "what is it that you liek so much about them? ",
+        "kgER1": {},
+        "a1_skt": "what is it that you liek so much about them? ",
+        "a1_v2": "what is it that you liek so much about them? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "i like their fan culture.",
+        "a2": "they have a strong chance of winning it this year! what makes you think that? they just signed some new talent.",
+        "kgER2": {},
+        "a2_skt": "they have a strong chance of winning it this year! what makes you think that? they just signed some new talent.",
+        "a2_v2": "they have a strong chance of winning it this year! what makes you think that? they just signed some new talent.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "i am convinced that they will win everything",
+        "a3": "especially with their coach ",
+        "kgER3": {},
+        "a3_skt": "especially with their @relation ",
+        "a3_v2": "especially with their coach ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "have they got a good following",
+        "a4": "yes they have a good fan base ",
+        "kgER4": {},
+        "a4_skt": "yes they have a good fan base ",
+        "a4_v2": "yes they have a good fan base ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what do you think bvb dortmunds strengths are?",
+        "a5": "they have won many competitions before",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "they have won many competitions before",
+        "a5_v2": "they have won many competitions before",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bvb dortmund"
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "q1": "who is your favourite fc. porto player?",
+        "a1": "hector herrera is the best player?",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object is the best player?",
+        "a1_v2": "@has_player is the best player?",
+        "corr_rel1": "has player",
+        "obj1": "hector herrera",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "which teams will porto play in the group stages of this years champions league?",
+        "a2": "that is difficult to predict right now.",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "that is difficult to predict right now.",
+        "a2_v2": "that is difficult to predict right now.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "fc. porto"
+    },
+    {
+        "q3": "what is the stadium for fc porto called?",
+        "a3": "it is called est\u00e1dio do drag\u00e3o.",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a3_skt": "it is called est\u00e1dio do drag\u00e3o.",
+        "a3_v2": "it is called est\u00e1dio do drag\u00e3o.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "fc. porto"
+    },
+    {
+        "q4": "who is the coach of porto?",
+        "a4": "sergio conceicao is the head coach.",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object is the head @relation",
+        "a4_v2": "@coach is the head coach",
+        "corr_rel4": "coach",
+        "obj4": "sergio conceicao",
+        "input_ent4": "fc. porto"
+    },
+    {
+        "q5": "who is the goalkeeper?",
+        "a5": "iker casillas",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "iker casillas",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "goalkeeper"
+    }
+]

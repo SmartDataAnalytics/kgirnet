@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "who is chelsea",
+        "a1": "chelsea are a british football team",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "@entity are a british football team",
+        "a1_v2": "chelsea are a british football team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "and is chelsea a competitive team \\?",
+        "a2": "if it is one of the best teams in the world and england for its present",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "if it is one of the best teams in the world and england for its present",
+        "a2_v2": "if it is one of the best teams in the world and england for its present",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "chelsea"
+    },
+    {
+        "q3": "who is chelsea 's coach \\?",
+        "a3": "i believe it is now maurizio sarri",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "i believe it is now @object",
+        "a3_v2": "i believe it is now @coach",
+        "corr_rel3": "coach",
+        "obj3": "maurizio sarri",
+        "input_ent3": "chelsea"
+    },
+    {
+        "q4": "who do you think the most valuable player is \\?",
+        "a4": "eden hazard is one of the most important for sure , but kante is very valuable to the team also",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "@object is one of the most important for sure , but kante is very valuable to the team also",
+        "a4_v2": "eden hazard is one of the most important for sure , but kante is very valuable to the team also",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "i believe kante is their most valuable player",
+        "a5": "yeah kante is the man",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "yeah kante is the man",
+        "a5_v2": "yeah kante is the man",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "n'golo kante"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "i truly believe in this team",
+        "a1": "they are one of the best european sides aren't they? ",
+        "kgER1": {},
+        "a1_skt": "they are one of the best european sides aren't they? ",
+        "a1_v2": "they are one of the best european sides aren't they? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "they won the last euros.",
+        "a2": "i think it's a very good team, it should continue to improve ",
+        "kgER2": {},
+        "a2_skt": "i think it's a very good team, it should continue to improve ",
+        "a2_v2": "i think it's a very good team, it should continue to improve ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "do you think they can win the whole thing?",
+        "a3": "they stand a good chance",
+        "kgER3": {},
+        "a3_skt": "they stand a good chance",
+        "a3_v2": "they stand a good chance",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    },
+    {
+        "q4": "without ronaldo, would portugal still be a good team?",
+        "a4": "i think so, they have some good young players",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i think so, they have some good young players",
+        "a4_v2": "i think so, they have some good young players",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "portugal"
+    },
+    {
+        "q5": "croatia was eliminated in the final against france ",
+        "a5": "no they werent ",
+        "kgER5": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "no they werent ",
+        "a5_v2": "no they werent ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "france"
+    }
+]

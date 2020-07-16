@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "i need directions to my house and avoid all heavy_traffic",
+        "a1": "the only route home has heavy_traffic do you still want to go there",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "home",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q2": "yes i have to go home",
+        "a2": "home is 5_miles away at 5671_barringer_street",
+        "input_rel2": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel2": "address",
+        "obj2": "5671_barringer_street",
+        "input_ent2": "home",
+        "kvr_entlist_qa2": [
+            "5_miles",
+            "home",
+            "5671_barringer_street"
+        ]
+    },
+    {
+        "q3": "thanks so much",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

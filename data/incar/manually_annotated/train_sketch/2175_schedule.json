@@ -1,0 +1,27 @@
+[
+    {
+        "q1": "i need to find out the time and parties attending for my medicine taking",
+        "a1": "you have three medicine events scheduled one at 5pm with you brother another at 3pm with tom and one at 7pm with your sister",
+        "input_rel1": "time,date",
+        "corr_rel1": "time,party",
+        "obj1": "7pm,brother,5pm,tom,sister,3pm",
+        "input_ent1": "medicine",
+        "kvr_entlist_qa1": [
+            "7pm",
+            "brother",
+            "5pm",
+            "tom",
+            "sister",
+            "3pm"
+        ]
+    },
+    {
+        "q2": "thank you very much",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

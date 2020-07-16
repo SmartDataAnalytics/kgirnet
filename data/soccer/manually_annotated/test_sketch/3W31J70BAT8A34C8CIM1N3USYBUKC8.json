@@ -1,0 +1,142 @@
+[
+    {
+        "q1": "did fc porto win this year's candido de oliveira super cup?",
+        "a1": "yes, they beat aves by the score of 3-1.  ",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes, they beat aves by the score of 3-1.  ",
+        "a1_v2": "yes, they beat aves by the score of 3-1.  ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "which team is aves?",
+        "a2": "it is a team participating in the primeira liga and currently holds number 13 on the log. ",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "it is a team participating in the primeira liga and currently holds number @object on the log. ",
+        "a2_v2": "it is a team participating in the primeira liga and currently holds number 13 on the log. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "do you think that fc. porto has a better team than arsenal? ",
+        "a3": "yes, i think porto has better team composition.",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "yes, i think porto has better team @relation",
+        "a3_v2": "yes, i think porto has better team composition.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "arsenal"
+    },
+    {
+        "q4": "but does fc. porto have a better team than manchester united?",
+        "a4": "no, manchester united is a stronger team.",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "no, @entity is a stronger team.",
+        "a4_v2": "no, manchester united is a stronger team.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "when does fc. porto play next?",
+        "a5": "their next game will be 08/19/2018.",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "their next game will be 08/19/2018.",
+        "a5_v2": "their next game will be 08/19/2018.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "fc. porto"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "q1": "why ac milan did not beat juventus last year \\?",
+        "a1": "because juventus played better the are a great team",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "because @entity played better the are a great team",
+        "a1_v2": "because juventus played better the are a great team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "juventus has better team",
+        "a2": "who is ac milan 's manager \\?",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "who is ac milan 's manager \\?",
+        "a2_v2": "who is ac milan 's manager \\?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "juventus"
+    },
+    {
+        "q3": "name ac milan manager \\?",
+        "a3": "gennaro gattuso",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "@coach",
+        "corr_rel3": "coach",
+        "obj3": "gennaro gattuso",
+        "input_ent3": "ac milan"
+    },
+    {
+        "q4": "who is most aggressive player in ac milan \\?",
+        "a4": "franck kessie as he got the most cards last season",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object as he got the most cards last season",
+        "a4_v2": "franck kessie as he got the most cards last season",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "he is too aggressive then",
+        "a5": "yes he is agressive but score many goals",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes he is agressive but score many @relation",
+        "a5_v2": "yes he is agressive but score many goals",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

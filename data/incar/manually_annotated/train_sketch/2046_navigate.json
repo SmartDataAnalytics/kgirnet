@@ -1,0 +1,66 @@
+[
+    {
+        "q1": "i need a rest_stop",
+        "a1": "four_seasons hotel_keen and the_clement_hotel are all near",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "hotel_keen",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "hotel_keen",
+            "four_seasons",
+            "the_clement_hotel"
+        ]
+    },
+    {
+        "q2": "which one has the quickest route",
+        "a2": "they are all identical",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "which one has the least traffic",
+        "a3": "the traffic is all identical moderate_traffic to each location",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q4": "okay send me the address to one",
+        "a4": "alright the_clement_hotel is located at 657_ames_ave which is 6_miles away",
+        "input_rel4": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel4": "address",
+        "obj4": "657_ames_ave",
+        "input_ent4": "the_clement_hotel",
+        "kvr_entlist_qa4": [
+            "657_ames_ave",
+            "6_miles",
+            "the_clement_hotel"
+        ]
+    },
+    {
+        "q5": "thank you car",
+        "a5": "you re welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    },
+    {
+        "q6": "[ end conversation ]",
+        "a6": "you re welcome",
+        "input_rel6": "",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "",
+        "kvr_entlist_qa6": []
+    }
+]

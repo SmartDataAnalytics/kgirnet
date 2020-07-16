@@ -1,0 +1,201 @@
+[
+    {
+        "q1": "why did  jorge sampaoli  take over as the new national team manager?",
+        "a1": "because they need to focusing on how to win a title considering that their recent performance was not so great.",
+        "kgER1": {
+            "ricardo rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ],
+            "jorginho": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a1_skt": "because they need to focusing on how to win a title considering that their recent performance was not so great.",
+        "a1_v2": "because they need to focusing on how to win a title considering that their recent performance was not so great.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "jorge nuno pinto da costa"
+    },
+    {
+        "q2": "how bad was argentina's this past season?",
+        "a2": "well they didn't win the world cup!",
+        "kgER2": {
+            "ricardo rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ],
+            "jorginho": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "well they didn't win the world cup!",
+        "a2_v2": "well they didn't win the world cup!",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "argentina"
+    },
+    {
+        "q3": "why has messi been under performing? ",
+        "a3": "he is getting older.",
+        "kgER3": {
+            "ricardo rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ],
+            "jorginho": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "he is getting older.",
+        "a3_v2": "he is getting older.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "lionel messi"
+    },
+    {
+        "q4": "does argentina needs a new superstar?",
+        "a4": "it could help, seeing as they have not won a world cup since 1986.",
+        "kgER4": {
+            "ricardo rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ],
+            "jorginho": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "it could help, seeing as they have not won a world cup since @object",
+        "a4_v2": "it could help, seeing as they have not won a world cup since 1986.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "argentina"
+    },
+    {
+        "q5": "is there a player primed to take messi's place if he retires?",
+        "a5": "no player can match messi's talents, so no.",
+        "kgER5": {
+            "ricardo rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ],
+            "jorginho": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "no player can match messi's talents, so no.",
+        "a5_v2": "no player can match messi's talents, so no.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "lionel messi"
+    }
+]

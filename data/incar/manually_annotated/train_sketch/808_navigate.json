@@ -1,0 +1,48 @@
+[
+    {
+        "q1": "car i need to get to some rest_stop i m tired please find something in the local area",
+        "a1": "hotel_keen is 6_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "hotel_keen",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "hotel_keen",
+            "6_miles"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "hotel_keen is at 578_arbol_dr",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "578_arbol_dr",
+        "input_ent2": "hotel_keen",
+        "kvr_entlist_qa2": [
+            "hotel_keen",
+            "578_arbol_dr"
+        ]
+    },
+    {
+        "q3": "is there any traffic on the way there",
+        "a3": "no there will not be any traffic on the way to hotel_keen",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel3": "",
+        "obj3": "none",
+        "input_ent3": "rest_stop",
+        "kvr_entlist_qa3": [
+            "hotel_keen"
+        ]
+    },
+    {
+        "q4": "fantastic let s go there then",
+        "a4": "okay heading to hotel_keen",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": [
+            "hotel_keen"
+        ]
+    }
+]

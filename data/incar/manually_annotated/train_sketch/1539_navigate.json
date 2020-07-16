@@ -1,0 +1,46 @@
+[
+    {
+        "q1": "directions to the grocery_store",
+        "a1": "navigating you to safeway",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "safeway",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "safeway"
+        ]
+    },
+    {
+        "q2": "make sure to give me the fastest route please",
+        "a2": "there is no_traffic on our way and you should be able to reach in just few minutes",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel2": "traffic_info",
+        "obj2": "no_traffic",
+        "input_ent2": "safeway",
+        "kvr_entlist_qa2": [
+            "no_traffic"
+        ]
+    },
+    {
+        "q3": "ok what is the address and how close is it",
+        "a3": "safeway is 4_miles away at 452_arcadia_pl do you need me to set gps",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address,distance",
+        "corr_rel3": "address,distance",
+        "obj3": "452_arcadia_pl,4_miles",
+        "input_ent3": "safeway",
+        "kvr_entlist_qa3": [
+            "452_arcadia_pl",
+            "safeway",
+            "4_miles"
+        ]
+    },
+    {
+        "q4": "yes please and thank you",
+        "a4": "i set the gps for you drive carefully",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

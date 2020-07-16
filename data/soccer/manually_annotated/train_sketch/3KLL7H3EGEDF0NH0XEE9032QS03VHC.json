@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "nigeria is a good african team which has try and reach quator final",
+        "a1": "nigeria will win in africa",
+        "kgER1": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity will win in africa",
+        "a1_v2": "nigeria will win in africa",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "nigeria"
+    },
+    {
+        "q2": "nigeria will win world cup someday \\?",
+        "a2": "i dont think so",
+        "kgER2": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i dont think so",
+        "a2_v2": "i dont think so",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "nigeria"
+    },
+    {
+        "q3": "best player for nigeria \\?",
+        "a3": "musa is the best nigerian player right now",
+        "kgER3": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "musa is the best @entity player right now",
+        "a3_v2": "musa is the best nigerian player right now",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "nigeria"
+    },
+    {
+        "q4": "who is the nigeria coach \\?",
+        "a4": "gernot rohr is the head coach of nigeria",
+        "kgER4": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object is the head @relation of @entity",
+        "a4_v2": "@coach is the head coach of @entity",
+        "corr_rel4": "coach",
+        "obj4": "gernot rohr",
+        "input_ent4": "nigeria"
+    },
+    {
+        "q5": "what is their current fifa ranking \\?",
+        "a5": "they are currently ranked 46",
+        "kgER5": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they are currently ranked @object",
+        "a5_v2": "they are currently ranked 46",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

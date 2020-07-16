@@ -1,0 +1,157 @@
+[
+    {
+        "q1": "eden hazard is the chelsea best player?",
+        "a1": "yes he is the best.",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes he is the best.",
+        "a1_v2": "yes he is the best.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "eden hazard"
+    },
+    {
+        "q2": "yes, hazard is the best player of the chelsea. i love how he play",
+        "a2": "i also love the way he plays for chelsea.",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "i also love the way he plays for @entity",
+        "a2_v2": "i also love the way he plays for chelsea.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "chelsea"
+    },
+    {
+        "q3": "what is the best thing about soccer?",
+        "a3": "it brings people together ",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "it brings people together ",
+        "a3_v2": "it brings people together ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "it's nice to enjoy with family",
+        "a4": "chelsea is a great team to watch",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity is a great team to watch",
+        "a4_v2": "chelsea is a great team to watch",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who should chelsea match next?",
+        "a5": "manchester united i guess.",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity i guess.",
+        "a5_v2": "manchester united i guess.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "chelsea"
+    }
+]

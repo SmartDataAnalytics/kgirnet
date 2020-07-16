@@ -1,0 +1,162 @@
+[
+    {
+        "q1": "is the current swedish the best team in their history?",
+        "a1": "sweden was in 3rd place at the world cup 1994",
+        "kgER1": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "@entity was in 3rd place at the world cup @object",
+        "a1_v2": "sweden was in 3rd place at the world cup 1994",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "does ibrahimovic still play for sweden?",
+        "a2": "he used to, but he's retired now",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "he used to, but he's retired now",
+        "a2_v2": "he used to, but he's retired now",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "sweden"
+    },
+    {
+        "q3": "who do you think is sweden's current best striker?",
+        "a3": "zlatan is best player in sweden",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "zlatan is @relation in @entity",
+        "a3_v2": "zlatan is best player in sweden",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "sweden"
+    },
+    {
+        "q4": "did sweden switch players?",
+        "a4": "what do you mean?",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "what do you mean?",
+        "a4_v2": "what do you mean?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "sweden"
+    },
+    {
+        "q5": "during half time i mean ",
+        "a5": "they do it as required",
+        "kgER5": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "they do it as required",
+        "a5_v2": "they do it as required",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

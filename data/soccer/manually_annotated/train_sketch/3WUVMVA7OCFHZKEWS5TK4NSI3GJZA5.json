@@ -1,0 +1,127 @@
+[
+    {
+        "q1": "who is atletico madrid's club captain?",
+        "a1": "per wikipedia, the atletico madrid captain is diego god\u00edn.",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "per wikipedia, the @entity @relation is @object",
+        "a1_v2": "per wikipedia, the atletico madrid captain is diego god\u00edn.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "what was atletico madrid's win/loss last year?",
+        "a2": "last year in la liga they won, 23 tied, 10 and lost 5 games. ",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "last year in la liga they won, @object tied, @object and lost @object games. ",
+        "a2_v2": "last year in la liga they won, 23 tied, 10 and lost 5 games. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "atletico madrid"
+    },
+    {
+        "q3": "diego costa or gameiro",
+        "a3": "diego costa for sure...",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "@object for sure...",
+        "a3_v2": "diego costa for sure...",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "diego costa"
+    },
+    {
+        "q4": "what does he have going for him? ",
+        "a4": "agressiveness and one of the top scorers. ",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "agressiveness and one of the top scorers. ",
+        "a4_v2": "agressiveness and one of the top scorers. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "should atletico madrid buy another goalkeeper?",
+        "a5": "i feel like that they shouldnt because their current goalkeeper is doing fine",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "i feel like that they shouldnt because their current @relation is doing fine",
+        "a5_v2": "i feel like that they shouldnt because their current goalkeeper is doing fine",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "atletico madrid"
+    }
+]

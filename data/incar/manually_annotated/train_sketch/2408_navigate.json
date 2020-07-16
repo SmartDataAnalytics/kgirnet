@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "i need a pizza place within 4_miles",
+        "a1": "the nearest pizza_restaurant is round_table it s just 1_miles away but there is a road_block_nearby",
+        "input_rel1": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel1": "poi",
+        "obj1": "round_table",
+        "input_ent1": "pizza_restaurant",
+        "kvr_entlist_qa1": [
+            "round_table",
+            "pizza_restaurant",
+            "road_block_nearby",
+            "1_miles"
+        ]
+    },
+    {
+        "q2": "ouch patience please pick a quick route to go there thank you",
+        "a2": "setting gps to 113_anton_ct to go to round_table",
+        "input_rel2": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel2": "adress",
+        "obj2": "113_anton_ct",
+        "input_ent2": "round_table",
+        "kvr_entlist_qa2": [
+            "round_table",
+            "113_anton_ct"
+        ]
+    },
+    {
+        "q3": "thank you for the information",
+        "a3": "you re welcome have a great day",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

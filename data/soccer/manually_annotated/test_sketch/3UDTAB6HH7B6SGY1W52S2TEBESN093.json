@@ -1,0 +1,64 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "they lost to colombia last time.",
+        "kgER1": {},
+        "a1_skt": "they lost to @entity last time.",
+        "a1_v2": "they lost to colombia last time.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "are they currently the best team in africa?",
+        "a2": "morocco is listed higher by fifa",
+        "kgER2": {},
+        "a2_skt": "morocco is listed higher by fifa",
+        "a2_v2": "morocco is listed higher by fifa",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "they can qualify to the next world cup. they are a good team",
+        "a3": "do they have what it takes to get out of the qualifying group though? ",
+        "kgER3": {},
+        "a3_skt": "do they have what it takes to get out of the qualifying group though? ",
+        "a3_v2": "do they have what it takes to get out of the qualifying group though? ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    },
+    {
+        "q4": "yes they do. never count out a professional soccer team. underdogs exist for a reason",
+        "a4": "all of the teams in this area are excellent.",
+        "kgER4": {},
+        "a4_skt": "all of the teams in this area are excellent.",
+        "a4_v2": "all of the teams in this area are excellent.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "can senegal beat cameroon?",
+        "a5": "yes it is best african team",
+        "kgER5": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes it is best african team",
+        "a5_v2": "yes it is best african team",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "senegal"
+    }
+]

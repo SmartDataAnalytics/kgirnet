@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "find the nearest gas_station near my location",
+        "a1": "the nearest gas_station i could find is valero and it is 3_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "valero",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "3_miles",
+            "gas_station",
+            "valero"
+        ]
+    },
+    {
+        "q2": "get me the address to it",
+        "a2": "the address is 200_alester_ave would you like to navigate there now",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "200_alester_ave",
+        "input_ent2": "valero",
+        "kvr_entlist_qa2": [
+            "200_alester_ave"
+        ]
+    },
+    {
+        "q3": "yes please thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

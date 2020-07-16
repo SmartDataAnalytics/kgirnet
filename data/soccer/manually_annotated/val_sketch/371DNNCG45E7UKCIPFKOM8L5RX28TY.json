@@ -1,0 +1,144 @@
+[
+    {
+        "q1": "what was the last game nigeria played?",
+        "a1": "argentina beat nigeria two to one in their last world cup match.",
+        "kgER1": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity beat @entity two to one in their last world cup match.",
+        "a1_v2": "argentina beat nigeria two to one in their last world cup match.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "nigeria"
+    },
+    {
+        "q2": "who is the best player on the nigeria national team?",
+        "a2": "i think nigeria's best player is iwpbi ",
+        "kgER2": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i think nigeria's @relation is iwpbi ",
+        "a2_v2": "i think nigeria's best player is iwpbi ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "nigeria"
+    },
+    {
+        "q3": "will players like budding players like iheanacho, iwobi and ndidi be enough to make nigeria competitive internationally?",
+        "a3": "those players will definitely put them as one of the elite teams in the african cup of nations.",
+        "kgER3": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "nacho": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "those players will definitely put them as one of the elite teams in the african cup of nations.",
+        "a3_v2": "those players will definitely put them as one of the elite teams in the african cup of nations.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "nigeria"
+    },
+    {
+        "q4": "nigeria has the best african players",
+        "a4": "who was nigeria's top scorer in the world cup?",
+        "kgER4": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "nacho": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "who was nigeria's top scorer in the world cup?",
+        "a4_v2": "who was nigeria's top scorer in the world cup?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "nigeria"
+    },
+    {
+        "q5": "nigel was close with his cup skill set in play.",
+        "a5": "nigerias top scoreer?",
+        "kgER5": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "nacho": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "@entity top scoreer?",
+        "a5_v2": "nigerias top scoreer?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

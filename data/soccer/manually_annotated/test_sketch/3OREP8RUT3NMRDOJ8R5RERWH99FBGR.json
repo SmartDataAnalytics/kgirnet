@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "i like the team nigeria",
+        "a1": "i dont",
+        "kgER1": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i dont",
+        "a1_v2": "i dont",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "nigeria"
+    },
+    {
+        "q2": "why don't you like this team?",
+        "a2": "they are not very structured",
+        "kgER2": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they are not very structured",
+        "a2_v2": "they are not very structured",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "how are they not well structured?",
+        "a3": "i think they have one of the best teams in africa.",
+        "kgER3": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "i think they have one of the best teams in africa.",
+        "a3_v2": "i think they have one of the best teams in africa.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "do you like nigerias kits?",
+        "a4": "i hate nigeria team because they are so bored",
+        "kgER4": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "i hate @entity team because they are so bored",
+        "a4_v2": "i hate nigeria team because they are so bored",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "what makes them boring",
+        "a5": "they just don't want it enough!",
+        "kgER5": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "they just don't want it enough!",
+        "a5_v2": "they just don't want it enough!",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "q1": "i'm not a big fan of f.c. porto. how about you?",
+        "a1": "i like iker casillas.",
+        "kgER1": {},
+        "a1_skt": "i like @object",
+        "a1_v2": "i like iker casillas.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "f.c porto is my home team so i have to love them.",
+        "a2": "where are they from? ",
+        "kgER2": {},
+        "a2_skt": "where are they from? ",
+        "a2_v2": "where are they from? ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "fc. porto"
+    },
+    {
+        "q3": "portugal although in a lot if turmoil at the moment.",
+        "a3": "i am not familiar with fc porto. ",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i am not familiar with fc porto. ",
+        "a3_v2": "i am not familiar with fc porto. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "portugal"
+    },
+    {
+        "q4": "the have a great tradition but 9 players terminated their contracts after a fight with supporters.",
+        "a4": "what caused the fight?",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "what caused the fight?",
+        "a4_v2": "what caused the fight?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "can you confirm the fight was about money?",
+        "a5": "no i can't confirm that.",
+        "kgER5": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "no i can't confirm that.",
+        "a5_v2": "no i can't confirm that.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "emre can"
+    },
+    {
+        "q6": "are there any facts you can confirm in this teams term oil or are you just making the team statement?",
+        "a6": "q6: what about fc. porto next season? a6: not sure, lets chat next week",
+        "kgER6": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a6_skt": "q6: what about fc. porto next season? a6: not sure, lets chat next week",
+        "a6_v2": "q6: what about fc. porto next season? a6: not sure, lets chat next week",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "emre can"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "will it rain this week",
+        "a1": "you want to know if it will be raining during the week in what city",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "week"
+        ]
+    },
+    {
+        "q2": "los_angeles please and thank you",
+        "a2": "there is no rain scheduled in los_angeles for this week",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "los_angeles",
+        "kvr_entlist_qa2": [
+            "los_angeles",
+            "rain",
+            "week"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

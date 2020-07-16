@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "i completely love argentina",
+        "a1": "who is their best ever scorer? ",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "who is their best ever scorer? ",
+        "a1_v2": "who is their best ever scorer? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "has argentina ever won the world cup?",
+        "a2": "yes, argentina has won twice the world cup, and currently its best scorer is leon messi",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes, @entity has won twice the world cup, and currently its best scorer is leon messi",
+        "a2_v2": "yes, argentina has won twice the world cup, and currently its best scorer is leon messi",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "argentina"
+    },
+    {
+        "q3": "how old is messi now? ",
+        "a3": "he is 31 years old.",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "he is @object years old.",
+        "a3_v2": "he is 31 years old.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "lionel messi"
+    },
+    {
+        "q4": "do you think he still has enough gas left in the tank to play another decade?",
+        "a4": "i do not think messi will play for argentina in the next world cup",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i do not think messi will play for @entity in the next world cup",
+        "a4_v2": "i do not think messi will play for argentina in the next world cup",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "is that because he is going to retire or because he wont be good enough to make the team?",
+        "a5": "argentina didn't have a good showing at the world cup this year, and messi has been criticized. he may not want the responsibility of playing for argentina anymore.",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity didn't have a good showing at the world cup this year, and messi has been criticized. he may not want the responsibility of playing for @entity anymore.",
+        "a5_v2": "argentina didn't have a good showing at the world cup this year, and messi has been criticized. he may not want the responsibility of playing for argentina anymore.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

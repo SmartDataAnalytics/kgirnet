@@ -1,0 +1,160 @@
+[
+    {
+        "q1": "do you wish ronaldo had taken the team further in the world cup? ",
+        "a1": "definitely, would love to have seen a repeat of the 2006 world cup.  what a weird hat trick!",
+        "kgER1": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a1_skt": "definitely, would love to have seen a repeat of the @object world cup.  what a weird hat trick!",
+        "a1_v2": "definitely, would love to have seen a repeat of the 2006 world cup.  what a weird hat trick!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "cristiano ronaldo"
+    },
+    {
+        "q2": "yes it would be nice to see portugal win.",
+        "a2": "i think they failed already and will play worse from now on.",
+        "kgER2": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i think they failed already and will play worse from now on.",
+        "a2_v2": "i think they failed already and will play worse from now on.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "portugal"
+    },
+    {
+        "q3": "yeah, ronaldo is only getting older as time goes.",
+        "a3": "ronaldo is only 33 years old, maybe not still in his prime but still has a lot to offer.",
+        "kgER3": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "ronaldo is only @object years old, maybe not still in his prime but still has a lot to offer.",
+        "a3_v2": "ronaldo is only 33 years old, maybe not still in his prime but still has a lot to offer.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "cristiano ronaldo"
+    },
+    {
+        "q4": "how long can he keep going though?",
+        "a4": "the way ronaldo takes care of his body, i wouldn't be surprised if he goes another 5 years.",
+        "kgER4": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "the way ronaldo takes care of his body, i wouldn't be surprised if he goes another @object years.",
+        "a4_v2": "the way ronaldo takes care of his body, i wouldn't be surprised if he goes another 5 years.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "emre can"
+    },
+    {
+        "q5": "will ronaldo participate in the 2022 world cup?",
+        "a5": "it may be that yes and it may be that it does not participate because of its high age even though its physical is excellent. ",
+        "kgER5": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "it may be that yes and it may be that it does not participate because of its high @relation even though its physical is excellent. ",
+        "a5_v2": "it may be that yes and it may be that it does not participate because of its high age even though its physical is excellent. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "cristiano ronaldo"
+    }
+]

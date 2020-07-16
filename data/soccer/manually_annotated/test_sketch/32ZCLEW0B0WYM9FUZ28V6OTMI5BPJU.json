@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i love switzerland",
+        "a1": "i was sad to see them lose to sweden this past world cup.",
+        "kgER1": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i was sad to see them lose to @entity this past world cup.",
+        "a1_v2": "i was sad to see them lose to sweden this past world cup.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "do you think they could have won?",
+        "a2": "no, i don't think they could have won it no matter the draw they pulled. ",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no, i don't think they could have won it no matter the draw they pulled. ",
+        "a2_v2": "no, i don't think they could have won it no matter the draw they pulled. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "how do you think the switzerland team can improve? ",
+        "a3": "i think they need to work on their tactical and finishing skills",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think they need to work on their tactical and finishing skills",
+        "a3_v2": "i think they need to work on their tactical and finishing skills",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "switzerland"
+    },
+    {
+        "q4": "do you think they'll be a more solid team for the next world cup?",
+        "a4": "switzerland has now been to the finals, so yes they will be more prepared.",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity has now been to the finals, so yes they will be more prepared.",
+        "a4_v2": "switzerland has now been to the finals, so yes they will be more prepared.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "who will be switzerland captain?",
+        "a5": "stephan lichtsteiner is their new captain.",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object is their new @relation",
+        "a5_v2": "@captain is their new captain",
+        "corr_rel5": "captain",
+        "obj5": "stephan lichtsteiner",
+        "input_ent5": "switzerland"
+    }
+]

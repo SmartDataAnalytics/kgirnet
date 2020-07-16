@@ -1,0 +1,21 @@
+[
+    {
+        "q1": "who is attending the swimming_activity and what date is it",
+        "a1": "tom is attending the swimming_activity on the_20th marie on the_18th mother on sunday and jon on the_14th",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "date,party",
+        "obj1": "mother,marie,the_20th,the_14th,jon,the_18th,tom",
+        "input_ent1": "swimming_activity",
+        "kvr_entlist_qa1": [
+            "mother",
+            "marie",
+            "the_20th",
+            "the_14th",
+            "jon",
+            "sunday",
+            "the_18th",
+            "swimming_activity",
+            "tom"
+        ]
+    }
+]

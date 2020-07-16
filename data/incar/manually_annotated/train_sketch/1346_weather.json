@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "is it going to snow in the next_week",
+        "a1": "what city would you like next_week s snow forecast for",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "next_week",
+            "snow"
+        ]
+    },
+    {
+        "q2": "danville please",
+        "a2": "it s not gonna snow in danville this week",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "danville",
+            "week",
+            "snow"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "no problem i m here to assist you",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

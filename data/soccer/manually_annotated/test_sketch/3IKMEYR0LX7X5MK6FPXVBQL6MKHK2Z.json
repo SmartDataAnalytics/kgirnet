@@ -1,0 +1,167 @@
+[
+    {
+        "q1": "who is the best player on the italian national men's team?",
+        "a1": "i think ballotelli is",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "willian": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a1_skt": "i think ballotelli is",
+        "a1_v2": "i think ballotelli is",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "what about messi?",
+        "a2": "are you high?",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "willian": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a2_skt": "are you high?",
+        "a2_v2": "are you high?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "lionel messi"
+    },
+    {
+        "q3": "why would you ask that?",
+        "a3": "messi is argentinian, not italian!",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "willian": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a3_skt": "messi is @entity not italian!",
+        "a3_v2": "messi is argentinian, not italian!",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "will they qualify for wc 2022?",
+        "a4": "they will definitely qualify. last time was just a blip.",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "willian": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a4_skt": "they will definitely qualify. last time was just a blip.",
+        "a4_v2": "they will definitely qualify. last time was just a blip.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what is the name of the coach of italy? ",
+        "a5": "giampiero ventura is the current coach.",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "willian": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a5_skt": "giampiero ventura is the current @relation",
+        "a5_v2": "giampiero ventura is the current coach.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "italy"
+    }
+]

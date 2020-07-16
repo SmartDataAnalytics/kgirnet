@@ -1,0 +1,57 @@
+[
+    {
+        "q1": "take me to the nearest hotel",
+        "a1": "the nearest hotel is the_westin 3_miles away",
+        "input_rel1": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "the_westin",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "the_westin",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "give me directions",
+        "a2": "navigating you to the_westin",
+        "input_rel2": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "the_westin",
+        "input_ent2": "rest_stop",
+        "kvr_entlist_qa2": [
+            "the_westin"
+        ]
+    },
+    {
+        "q3": "give me the address",
+        "a3": "the_westin is at 329_el_camino_real",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "329_el_camino_real",
+            "the_westin"
+        ]
+    },
+    {
+        "q4": "thank you car just pick the fastest route and let s go there",
+        "a4": "the fastest route has moderate_traffic setting gps now",
+        "input_rel4": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel4": "traffic_info",
+        "obj4": "moderate_traffic",
+        "input_ent4": "the_westin",
+        "kvr_entlist_qa4": [
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q5": "thank you car",
+        "a5": "you are welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

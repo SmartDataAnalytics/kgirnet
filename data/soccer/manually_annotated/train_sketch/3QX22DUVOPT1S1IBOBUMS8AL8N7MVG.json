@@ -1,0 +1,127 @@
+[
+    {
+        "q1": "i love the team juventus",
+        "a1": "they have a good history ",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "they have a good history ",
+        "a1_v2": "they have a good history ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "who did juventus last play?",
+        "a2": "they lost to real madrid on 8/4, 1-3. ",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "they lost to @entity on 8/4, 1-3. ",
+        "a2_v2": "they lost to real madrid on 8/4, 1-3. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "juventus"
+    },
+    {
+        "q3": "who scored the goal?",
+        "a3": "marcelo vieira scored the third goal against juventus. ",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "@object vieira scored the third @relation against @entity ",
+        "a3_v2": "marcelo vieira scored the third goal against juventus. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "juventus can win the next game against real madrid",
+        "a4": "are you sure about juventus?",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "are you sure about @entity",
+        "a4_v2": "are you sure about juventus?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "yes, i think they can win also",
+        "a5": "yeah juventus has the right things going for them.",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yeah @entity has the right things going for them.",
+        "a5_v2": "yeah juventus has the right things going for them.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "emre can"
+    }
+]

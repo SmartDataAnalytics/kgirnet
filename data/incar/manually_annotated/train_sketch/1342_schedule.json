@@ -1,0 +1,29 @@
+[
+    {
+        "q1": "what time is dinner and who is going",
+        "a1": "you have 3 dinners scheduled one with alex one with your sister and one with your aunt",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "party",
+        "obj1": "aunt,sister,alex",
+        "input_ent1": "dinner",
+        "kvr_entlist_qa1": [
+            "aunt",
+            "sister",
+            "alex"
+        ]
+    },
+    {
+        "q2": "the one with alex",
+        "a2": "your dinner event with alex is at 7pm on sunday",
+        "input_rel2": "party",
+        "corr_rel2": "party,time",
+        "obj2": "dinner,7pm",
+        "input_ent2": "alex",
+        "kvr_entlist_qa2": [
+            "dinner",
+            "7pm",
+            "sunday",
+            "alex"
+        ]
+    }
+]

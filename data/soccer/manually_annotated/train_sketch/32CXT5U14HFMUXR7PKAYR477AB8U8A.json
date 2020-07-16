@@ -1,0 +1,148 @@
+[
+    {
+        "q1": "who is the best striker in atletico madrid",
+        "a1": "antoine griezmann is the best striker for atletico madrid. ",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object is the best striker for @entity ",
+        "a1_v2": "antoine griezmann is the best striker for atletico madrid. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "i would have to say diego costa is the best striker in atletico madrid. ",
+        "a2": "who is atletico madrid goal keeper?",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "who is @entity @relation",
+        "a2_v2": "who is atletico madrid goal keeper?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "atletico madrid"
+    },
+    {
+        "q3": "antonio ad\u00e1n is atletico madrid's current goalkeeper.",
+        "a3": "yes, but the main goalkeeper is jan oblak",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "yes, but the main @relation is @object",
+        "a3_v2": "yes, but the main goalkeeper is jan oblak",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "atletico madrid"
+    },
+    {
+        "q4": "who is atletico's best defender?",
+        "a4": "atletico madrid best is ronaldo",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a4_skt": "@entity best is ronaldo",
+        "a4_v2": "atletico madrid best is ronaldo",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "defender"
+    },
+    {
+        "q5": "even though jan is the main goalkeeper, are they any good?",
+        "a5": "yes, what they lack in defense they make up for on the attack.",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a5_skt": "yes, what they lack in @relation they make up for on the attack.",
+        "a5_v2": "yes, what they lack in defense they make up for on the attack.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "goalkeeper"
+    }
+]

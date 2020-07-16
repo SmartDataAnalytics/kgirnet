@@ -1,0 +1,50 @@
+[
+    {
+        "q1": "what is the weather for next_week",
+        "a1": "what location do you want the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i will traveling to mountain_view so i need information for there please",
+        "a2": "any day in particular you need the forecast for or do you just want the whole week for mountain_view",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "week",
+            "mountain_view"
+        ]
+    },
+    {
+        "q3": "for the whole week please",
+        "a3": "the weather next_week for mountain_view is going to be a series of ups and downs from hail on monday to a blizzard on tuesday and to rain on thursday the highs are forecast to be near 100 with lows near 20",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "blizzard",
+            "hail",
+            "monday",
+            "next_week",
+            "tuesday",
+            "thursday",
+            "rain",
+            "mountain_view"
+        ]
+    },
+    {
+        "q4": "thank you so much for the information",
+        "a4": "you re welcome have a good day",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

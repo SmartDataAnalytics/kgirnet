@@ -1,0 +1,81 @@
+[
+    {
+        "q1": "how old is the football \\?",
+        "a1": "i think it originals from the 1800s",
+        "kgER1": {},
+        "a1_skt": "i think it originals from the 1800s",
+        "a1_v2": "i think it originals from the 1800s",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "old trafford"
+    },
+    {
+        "q2": "brazil is however the king of football !",
+        "a2": "they do excellent great team",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they do excellent great team",
+        "a2_v2": "they do excellent great team",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "brazil"
+    },
+    {
+        "q3": "how many world cups have brazil won \\?",
+        "a3": "they have won 5 times",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they have won @object times",
+        "a3_v2": "they have won @number_of_world_cup_champion times",
+        "corr_rel3": "number of world cup champion",
+        "obj3": "5",
+        "input_ent3": "brazil"
+    },
+    {
+        "q4": "who is brazil 's best player \\?",
+        "a4": "neymar is considered brazil 's best player at the moment but i think couthinho is",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object is considered @entity 's @relation at the moment but i think couthinho is",
+        "a4_v2": "neymar is considered brazil 's best player at the moment but i think couthinho is",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "brazil"
+    }
+]

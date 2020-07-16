@@ -1,0 +1,121 @@
+[
+    {
+        "q1": "how many goals did mexico score during the 2018 world cup?",
+        "a1": "very good team",
+        "kgER1": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "2018"
+    },
+    {
+        "q2": "will mexico win the next copa america?",
+        "a2": "i would not put money on it myself. ",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i would not put money on it myself. ",
+        "a2_v2": "i would not put money on it myself. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "mexico"
+    },
+    {
+        "q3": "mexico scored two goals during the 2018 world cup",
+        "a3": "yes that is correct, although it is not a question. ",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "yes that is correct, although it is not a question. ",
+        "a3_v2": "yes that is correct, although it is not a question. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "2018"
+    },
+    {
+        "q4": "were they disappointed with that do you suppose? ",
+        "a4": "mexico were very happy as they made it out of their group.",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "@entity were very happy as they made it out of their group.",
+        "a4_v2": "mexico were very happy as they made it out of their group.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "who is a standout on the national football team for mexico?",
+        "a5": "hirving lozano!",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "hirving lozano!",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "mexico"
+    }
+]

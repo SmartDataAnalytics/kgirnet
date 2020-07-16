@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "give me weather forecast for today",
+        "a1": "what city should i check today s forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "today"
+        ]
+    },
+    {
+        "q2": "do you know if it s going to rain in cleveland today",
+        "a2": "yes it is scheduled to rain in cleveland today with a temperature between 90f - 100f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "100f,90f,rain",
+        "input_ent2": "cleveland",
+        "kvr_entlist_qa2": [
+            "100f",
+            "90f",
+            "today",
+            "rain",
+            "cleveland"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "glad to help",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

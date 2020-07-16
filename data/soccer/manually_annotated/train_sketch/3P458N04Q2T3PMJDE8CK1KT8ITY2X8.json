@@ -1,0 +1,113 @@
+[
+    {
+        "q1": "this will be one of my favorites team",
+        "a1": "how do you feel they will do in the next euro championships? ",
+        "kgER1": {},
+        "a1_skt": "how do you feel they will do in the next euro championships? ",
+        "a1_v2": "how do you feel they will do in the next euro championships? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "it is fun to play it",
+        "a2": "yes, i think that in the portugal team it is fun to play",
+        "kgER2": {},
+        "a2_skt": "yes, i think that in the @entity team it is fun to play",
+        "a2_v2": "yes, i think that in the portugal team it is fun to play",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "will you go to watch portugal play in the euro championships?",
+        "a3": "they have good games",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they have good games",
+        "a3_v2": "they have good games",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "portugal"
+    },
+    {
+        "q4": "portugal at the 2018 world cup: schedule, scores, how to watch cristiano ronaldo, tv and live stream, players to watch",
+        "a4": "google 2018 world cup to see when portugal will be on tv.  it should be exciting.",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "google @object world cup to see when @entity will be on tv.  it should be exciting.",
+        "a4_v2": "google 2018 world cup to see when portugal will be on tv.  it should be exciting.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "cristiano ronaldo"
+    },
+    {
+        "q5": " i think they have good games",
+        "a5": "portugal has good games for fans, but for a neutral, it is very boring.",
+        "kgER5": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity has good games for fans, but for a neutral, it is very boring.",
+        "a5_v2": "portugal has good games for fans, but for a neutral, it is very boring.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

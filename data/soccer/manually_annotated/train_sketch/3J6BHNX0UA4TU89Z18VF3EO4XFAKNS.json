@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i love the team bayern munich",
+        "a1": "bayern munich is okay but they don't stand out at all.",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity is okay but they don't stand out at all.",
+        "a1_v2": "bayern munich is okay but they don't stand out at all.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "do they have any national stars?",
+        "a2": "yes, lewandowski, rodriguez, ribery, muller and robben are all stars on their national team.",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes, lewandowski, rodriguez, ribery, muller and robben are all stars on their national team.",
+        "a2_v2": "yes, lewandowski, rodriguez, ribery, muller and robben are all stars on their national team.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "who is their most famous player ever? ",
+        "a3": "robert lewandowski",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "robert lewandowski",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ever banega"
+    },
+    {
+        "q4": "bayern munich  flag what is color ?  ",
+        "a4": "their flag is red on top, white on bottom.",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "their flag is @object on top, @object on bottom.",
+        "a4_v2": "their flag is @jersey_color on top, @jersey_color on bottom.",
+        "corr_rel4": "jersey color",
+        "obj4": "red",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "where do bayern play?",
+        "a5": "in bundesliga",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "in bundesliga",
+        "a5_v2": "in bundesliga",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bayern munich"
+    }
+]

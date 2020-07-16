@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "overall, what is the hardest thing about playing soccer? ",
+        "a1": "scoring",
+        "kgER1": {
+            "thiago": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "scoring",
+        "a1_v2": "scoring",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "is it harder to score a goal or harder not to get a goal?",
+        "a2": "it really depends on the team you're playing against.",
+        "kgER2": {
+            "thiago": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "it really depends on the team you're playing against.",
+        "a2_v2": "it really depends on the team you're playing against.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is chelsea's top scorer of all time. ",
+        "a3": "frank lampard is the top scorer for chelsea.",
+        "kgER3": {
+            "thiago": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "frank lampard is the top scorer for @entity",
+        "a3_v2": "frank lampard is the top scorer for chelsea.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "chelsea"
+    },
+    {
+        "q4": "who are the better players on chelsea?",
+        "a4": "i would say either eden hazard or n'golo kante.",
+        "kgER4": {
+            "thiago": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "i would say either @object or n'golo kante.",
+        "a4_v2": "i would say either eden hazard or n'golo kante.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "chelsea"
+    },
+    {
+        "q5": "how many goals did hazard score in the previous season? ",
+        "a5": "last season he scored 12 goals.",
+        "kgER5": {
+            "thiago": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "last season he scored @object @relation",
+        "a5_v2": "last season he scored 12 goals.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "eden hazard"
+    }
+]

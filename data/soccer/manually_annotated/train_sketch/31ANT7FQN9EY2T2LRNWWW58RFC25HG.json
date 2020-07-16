@@ -1,0 +1,108 @@
+[
+    {
+        "q1": "name the most expensive player in the barcelona?",
+        "a1": "who is the most popular player on barcelona?",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "who is the most popular player on @entity",
+        "a1_v2": "who is the most popular player on barcelona?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "most expensive player in barcelona?",
+        "a2": "i am not sure i am sorry .. i think they all cost too much though! ",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i am not sure i am sorry .. i think they all cost too much though! ",
+        "a2_v2": "i am not sure i am sorry .. i think they all cost too much though! ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "barcelona"
+    },
+    {
+        "q3": "the most expensive and popular player in the barcelona is messi",
+        "a3": "he is the best player on the team",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "he is the @relation on the team",
+        "a3_v2": "he is the best player on the team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "barcelona"
+    },
+    {
+        "q4": "who is the current manager of barcelona?",
+        "a4": "ernesto valverde is the coach ",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object is the @relation ",
+        "a4_v2": "@coach is the coach ",
+        "corr_rel4": "coach",
+        "obj4": "ernesto valverde",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "how old is veteran striker lionel messi?",
+        "a5": "he is currently 31",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "he is currently @object",
+        "a5_v2": "he is currently 31",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "lionel messi"
+    }
+]

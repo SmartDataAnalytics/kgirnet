@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "find a coffee shop near my location",
+        "a1": "palo_alto_cafe is 4_miles away",
+        "input_rel1": "",
+        "corr_rel1": "poi",
+        "obj1": "palo_alto_cafe",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "4_miles",
+            "palo_alto_cafe"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "palo_alto_cafe is 4_miles away at 436_alger_dr but a car collision is being reported nearby do you still want to go",
+        "input_rel2": "car_collision_nearby,moderate_traffic,poi,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "address",
+        "obj2": "436_alger_dr",
+        "input_ent2": "palo_alto_cafe",
+        "kvr_entlist_qa2": [
+            "436_alger_dr",
+            "4_miles",
+            "palo_alto_cafe"
+        ]
+    },
+    {
+        "q3": "yes please just select the fastest route",
+        "a3": "i just sent on your screen the best available route drive carefully",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thanks for all the help",
+        "a4": "you re welcome glad i could help",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

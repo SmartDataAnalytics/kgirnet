@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "what place will atletico madrid finish in la liga?",
+        "a1": "they have a chance to win this year, but i think 2nd ",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they have a chance to win this year, but i think 2nd ",
+        "a1_v2": "they have a chance to win this year, but i think 2nd ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "i think the highest probability is that they will end up 3rd",
+        "a2": "anything can happen really, we will have to wait and see.",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "anything can happen really, we will have to wait and see.",
+        "a2_v2": "anything can happen really, we will have to wait and see.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "besides atletico madrid who make up the top 5 of la liga? ",
+        "a3": "difficult to say actually except the top 2.",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "difficult to say actually except the top 2.",
+        "a3_v2": "difficult to say actually except the top 2.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "atletico madrid"
+    },
+    {
+        "q4": "what are the colors of atletico madrid?",
+        "a4": "they play in red and white? ",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "they play in @object and @object ",
+        "a4_v2": "they play in red and white? ",
+        "corr_rel4": "jersey color",
+        "obj4": "red and white",
+        "input_ent4": "atletico madrid"
+    },
+    {
+        "q5": "can you tell which year they were founded on? ",
+        "a5": "they were founded on 1903 ",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "they were @relation on @object ",
+        "a5_v2": "they were founded on on @founded_on ",
+        "corr_rel5": "founded on",
+        "obj5": "1903",
+        "input_ent5": "atletico madrid"
+    }
+]

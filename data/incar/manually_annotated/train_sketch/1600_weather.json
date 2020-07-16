@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "is it going to snow any this week",
+        "a1": "what city do you want to find out if there will be snow in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "snow"
+        ]
+    },
+    {
+        "q2": "oakland",
+        "a2": "this week it won t snow in oakland",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "oakland",
+        "kvr_entlist_qa2": [
+            "week",
+            "snow",
+            "oakland"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

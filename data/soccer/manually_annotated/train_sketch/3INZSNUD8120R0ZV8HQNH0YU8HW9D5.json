@@ -1,0 +1,162 @@
+[
+    {
+        "q1": "i love germany",
+        "a1": "who is the best german player of all time? ",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "who is the best @entity player of all time? ",
+        "a1_v2": "who is the best german player of all time? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "thomas muller",
+        "a2": "gerd muller was the best with 68 goals in 62 games at international level, modern day forwards in germany will always be likened to \u2018the bomber\u2019.",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "thomas muller": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "gerd muller was the best with @object @relation in @object games at international level, modern day @object in @entity will always be likened to \u2018the bomber\u2019.",
+        "a2_v2": "gerd muller was the best with 68 goals in 62 games at international level, modern day forwards in germany will always be likened to \u2018the bomber\u2019.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "thomas muller"
+    },
+    {
+        "q3": "i wonder if anyone's been compared to being the next \"bomber\" ",
+        "a3": "not yet, but someone could emerge soon.",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "thomas muller": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "not yet, but someone could emerge soon.",
+        "a3_v2": "not yet, but someone could emerge soon.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "air warfare is born ",
+        "a4": "he is a detrimental asset to the team.",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "thomas muller": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "he is a detrimental asset to the team.",
+        "a4_v2": "he is a detrimental asset to the team.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "why do you think he is detrimental to the team?",
+        "a5": "truth is he is not.",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "thomas muller": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "truth is he is not.",
+        "a5_v2": "truth is he is not.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

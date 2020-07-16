@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "what will the weather in fresno be in the next 48 hours",
+        "a1": "the weather in fresno over the next 48 hours will be cloudy with snow",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "monday,tuesday",
+        "obj1": "cloudy,snow",
+        "input_ent1": "fresno",
+        "kvr_entlist_qa1": [
+            "fresno",
+            "snow",
+            "cloudy"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

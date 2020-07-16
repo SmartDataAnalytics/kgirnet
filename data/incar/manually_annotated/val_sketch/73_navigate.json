@@ -1,0 +1,22 @@
+[
+    {
+        "q1": "i wanna go to my friends_house it should be nearby can you show me their position on the map",
+        "a1": "jack lives at 864_almanor_ln it is shown on the map",
+        "input_rel1": "car_collision_nearby,moderate_traffic,poi,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "address",
+        "obj1": "864_almanor_ln",
+        "input_ent1": "jacks_house",
+        "kvr_entlist_qa1": [
+            "864_almanor_ln"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "anytime",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

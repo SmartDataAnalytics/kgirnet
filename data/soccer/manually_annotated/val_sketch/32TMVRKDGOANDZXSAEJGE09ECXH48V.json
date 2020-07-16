@@ -1,0 +1,105 @@
+[
+    {
+        "q1": "what stadium do juventus play in?",
+        "a1": "juventus play in the allianz stadium",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "@entity play in the @object",
+        "a1_v2": "juventus play in the allianz stadium",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "ronaldo plays in juventus?",
+        "a2": "yes he does",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "yes he does",
+        "a2_v2": "yes he does",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "juventus"
+    },
+    {
+        "q3": "do you think juventus is going to win this year?",
+        "a3": "i definitely think they will win serie a this season.",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "i definitely think they will win serie a this season.",
+        "a3_v2": "i definitely think they will win serie a this season.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "juventus"
+    },
+    {
+        "q4": "who is their captain",
+        "a4": "giorgio chiellini is the captain.",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "@object is the @relation",
+        "a4_v2": "@captain is the captain",
+        "corr_rel4": "captain",
+        "obj4": "giorgio chellini",
+        "input_ent4": "juventus"
+    },
+    {
+        "q5": "who is juventus's new goalkeeper",
+        "a5": "they have wojciech szczesny as their number one!",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "they have @object as their number one!",
+        "a5_v2": "they have @goalkeeper as their number one!",
+        "corr_rel5": "goalkeeper",
+        "obj5": "wojciech szczesny",
+        "input_ent5": "juventus"
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is the best player on croatia?",
+        "a1": "they're all amazingly well combined. ",
+        "kgER1": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they're all amazingly well combined. ",
+        "a1_v2": "they're all amazingly well combined. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "croatia"
+    },
+    {
+        "q2": "are they better in offense or defence? ",
+        "a2": "croatia has an equal amount of excellence on offence and defense.",
+        "kgER2": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity has an equal amount of excellence on offence and defense.",
+        "a2_v2": "croatia has an equal amount of excellence on offence and defense.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "who is croatia's top scorer?",
+        "a3": "davor suker ",
+        "kgER3": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "davor suker ",
+        "a3_v2": "davor suker ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "croatia"
+    },
+    {
+        "q4": "how long has davor suker played for croatia?",
+        "a4": "10 years",
+        "kgER4": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object years",
+        "a4_v2": "10 years",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "croatia"
+    },
+    {
+        "q5": "who is croatia's head coach? ",
+        "a5": "zlatko dali\u0107",
+        "kgER5": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@coach",
+        "corr_rel5": "coach",
+        "obj5": "zlatko dalic",
+        "input_ent5": "croatia"
+    }
+]

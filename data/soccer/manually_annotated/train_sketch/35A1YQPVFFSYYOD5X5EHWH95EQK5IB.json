@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "colombian football players were receiving death threats on  after the tense game against england which saw them knocked out of the world cup. crazy",
+        "a1": "not to crazy in colombia, players have been killed in past years.",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "not to crazy in @entity players have been killed in past years.",
+        "a1_v2": "not to crazy in colombia, players have been killed in past years.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "whos columbias best player?",
+        "a2": "james rodriguez is easily the best player for colombia.",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object is easily the @relation for @entity",
+        "a2_v2": "james rodriguez is easily the best player for colombia.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "are all colombian players born in colombia?",
+        "a3": "they are either born in colombia or have colombian nationality through their parentage or immigration.",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they are either born in @entity or have @entityn nationality through their parentage or immigration.",
+        "a3_v2": "they are either born in colombia or have colombian nationality through their parentage or immigration.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "colombia"
+    },
+    {
+        "q4": "what percentage of team colombia were born in colombia?",
+        "a4": "almost all of them",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "almost all of them",
+        "a4_v2": "almost all of them",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "colombia"
+    },
+    {
+        "q5": "how can you be sure?",
+        "a5": "very sure they were",
+        "kgER5": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "very sure they were",
+        "a5_v2": "very sure they were",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "emre can"
+    }
+]

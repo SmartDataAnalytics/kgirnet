@@ -1,0 +1,58 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup \\?",
+        "a1": "most likely will , but not impossible that they dont",
+        "kgER1": {},
+        "a1_skt": "most likely will , but not impossible that they dont",
+        "a1_v2": "most likely will , but not impossible that they dont",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "what 's belgium 's ranking in the 2018 world cup \\?",
+        "a2": "it reached the semifinals of the world cup and it 's a good job",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "it reached the semifinals of the world cup and it 's a good job",
+        "a2_v2": "it reached the semifinals of the world cup and it 's a good job",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "belgium"
+    },
+    {
+        "q3": "who is the captain of belgium \\?",
+        "a3": "eden hazard",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "@captain",
+        "corr_rel3": "captain",
+        "obj3": "eden hazard",
+        "input_ent3": "belgium"
+    }
+]

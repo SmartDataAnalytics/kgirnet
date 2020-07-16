@@ -1,0 +1,91 @@
+[
+    {
+        "q1": "like this team",
+        "a1": "nigeria is a very well performing team and i like them a lot as well.",
+        "kgER1": {},
+        "a1_skt": "@entity is a very well performing team and i like them a lot as well.",
+        "a1_v2": "nigeria is a very well performing team and i like them a lot as well.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who is their best player?",
+        "a2": "jon obi mikkel",
+        "kgER2": {},
+        "a2_skt": "jon obi mikkel",
+        "a2_v2": "jon obi mikkel",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "will nigeria make it to the next world cup?",
+        "a3": "when was nigeria in the world cup last? ",
+        "kgER3": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "when was @entity in the world cup last? ",
+        "a3_v2": "when was nigeria in the world cup last? ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "nigeria"
+    },
+    {
+        "q4": "nigeria's most recent world cup appearance was in 2018.",
+        "a4": "how did they do in their last world cup appearance?",
+        "kgER4": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "how did they do in their last @relation",
+        "a4_v2": "how did they do in their last world cup appearance?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "nigeria"
+    },
+    {
+        "q5": "is this nigeria team is the best team ",
+        "a5": "probably the best in recent history.",
+        "kgER5": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "probably the best in recent history.",
+        "a5_v2": "probably the best in recent history.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "nigeria"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "can you find me the fastest route to a pizza_restaurant",
+        "a1": "the pizza_hut is located 5_miles away in heavy_traffic and papa_johns is 6_miles away in moderate_traffic which of these would you prefer",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi",
+        "obj1": "pizza_hut,papa_johns,5_miles,6_miles",
+        "input_ent1": "pizza_restaurant",
+        "kvr_entlist_qa1": [
+            "moderate_traffic",
+            "5_miles",
+            "6_miles",
+            "heavy_traffic",
+            "pizza_hut",
+            "papa_johns"
+        ]
+    },
+    {
+        "q2": "let s try papa_johns tonight",
+        "a2": "setting the gps for papa john s anything else",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "give me the address and the details for the fastest route there please",
+        "a3": "ok setting navigation to 110_arastradero_rd now enjoy",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "110_arastradero_rd",
+        "input_ent3": "papa_johns",
+        "kvr_entlist_qa3": [
+            "110_arastradero_rd"
+        ]
+    },
+    {
+        "q4": "thank you car",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

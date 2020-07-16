@@ -1,0 +1,121 @@
+[
+    {
+        "q1": "arsenal is a strong team. can they win this season?",
+        "a1": "i don't think so. man city and liverpool are much better on paper.",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i don't think so. man city and @entity are much better on paper.",
+        "a1_v2": "i don't think so. man city and liverpool are much better on paper.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "how did their first game end?",
+        "a2": "they won, but they won't make champions league",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they won, but they won't make champions league",
+        "a2_v2": "they won, but they won't make champions league",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "if for me the liverpool is more than the manchenter city have more game",
+        "a3": "why do you consider liverpool and man city to be superior to arsenal?",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "why do you consider @entity and man city to be superior to @entity",
+        "a3_v2": "why do you consider liverpool and man city to be superior to arsenal?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "i think there is no clear consistent winner between this 3 clubs. any of them can win against the other.",
+        "a4": "yes, but why do they keep failing every season?",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "yes, but why do they keep failing every season?",
+        "a4_v2": "yes, but why do they keep failing every season?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "emre can"
+    },
+    {
+        "q5": "its about tenacity and ditching fluid soccer when its not working.",
+        "a5": "who is the goalkeeper of arsenal?",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "who is the @relation of @entity",
+        "a5_v2": "who is the goalkeeper of arsenal?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "white and red"
+    }
+]

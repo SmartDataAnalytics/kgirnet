@@ -1,0 +1,31 @@
+[
+    {
+        "q1": "what time is my meeting what is the agenda and who is going",
+        "a1": "you have three meeting one at 9am to meet with management to onboard_new_members one at 10am with boss to go_over_quarterly_report and one at 4pm with the executive_team to discuss_the_company_picnic",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,agenda,party",
+        "obj1": "management, 10am,go_over_quarterly_report,9am,boss,onboard_new_members,4pm,executive_team,meeting,discuss_the_company_picnic",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "management",
+            "10am",
+            "go_over_quarterly_report",
+            "9am",
+            "boss",
+            "onboard_new_members",
+            "4pm",
+            "executive_team",
+            "meeting",
+            "discuss_the_company_picnic"
+        ]
+    },
+    {
+        "q2": "that will do thanks",
+        "a2": "my pleasure",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

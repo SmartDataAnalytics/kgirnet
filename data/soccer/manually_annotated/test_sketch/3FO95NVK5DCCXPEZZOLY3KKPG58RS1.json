@@ -1,0 +1,94 @@
+[
+    {
+        "q1": "france win the world cup?",
+        "a1": "yes france won the 2018 world cup.",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes @entity won the @object world cup.",
+        "a1_v2": "yes @entity won the @number_of_world_cup_champion world cup.",
+        "corr_rel1": "world cup champions",
+        "obj1": "2018",
+        "input_ent1": "france"
+    },
+    {
+        "q2": "who was their best player of the world cup? ",
+        "a2": "paul pogba",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "paul pogba",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who was the top scorer for france?",
+        "a3": "antoine griezmann",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "antoine griezmann",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "france"
+    },
+    {
+        "q4": "have france won the world cup before this year?",
+        "a4": "yes in 1998",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes in @object",
+        "a4_v2": "yes in @world_cup_champions",
+        "corr_rel4": "world cup champions",
+        "obj4": "1998",
+        "input_ent4": "france"
+    }
+]

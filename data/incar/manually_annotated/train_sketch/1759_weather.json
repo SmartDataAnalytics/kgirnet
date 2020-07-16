@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what is the local weather forecast for this week",
+        "a1": "for what city would you like the weekly forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "will it be humid in new_york",
+        "a2": "it will not be humid in new_york this week",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "new_york",
+        "kvr_entlist_qa2": [
+            "humid",
+            "week",
+            "new_york"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "i need directions to a grocery_store",
+        "a1": "i have a grocery_store that is 6_miles away would you like info on it",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "distance",
+        "obj1": "6_miles",
+        "input_ent1": "sigona_farmers_market",
+        "kvr_entlist_qa1": [
+            "grocery_store",
+            "6_miles"
+        ]
+    },
+    {
+        "q2": "yes give me the address",
+        "a2": "then let s go at sigona_farmers_market the address is 638_amherst_st i sent it on your screen",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "638_amherst_st",
+        "input_ent2": "sigona_farmers_market",
+        "kvr_entlist_qa2": [
+            "638_amherst_st",
+            "sigona_farmers_market"
+        ]
+    },
+    {
+        "q3": "sounds great thank you",
+        "a3": "goodbye",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "q1": "i absolutely adore juventus",
+        "a1": "juventus has all the makings of a great team.",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "@entity has all the makings of a great team.",
+        "a1_v2": "juventus has all the makings of a great team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "do you think juventus has a real shot at winning the champions league? or are they still missing some pieces?",
+        "a2": " the champions league crown is the one piece missing from juventus' crowded. real madrid is more than just a wildly successful football club",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": " the champions league crown is the one piece missing from @entity crowded. @entity is more than just a wildly successful football club",
+        "a2_v2": " the champions league crown is the one piece missing from juventus' crowded. real madrid is more than just a wildly successful football club",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "juventus"
+    },
+    {
+        "q3": "do you think ronaldo will be a huge difference maker for juventus this season?",
+        "a3": "certainly. i'm sure there will be an adjustment period but i can see him be a star at juventus. ",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "certainly. i'm sure there will be an adjustment period but i can see him be a star at @entity ",
+        "a3_v2": "certainly. i'm sure there will be an adjustment period but i can see him be a star at juventus. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "juventus"
+    },
+    {
+        "q4": "we all know about his ego so do you think he can brush that aside and lead the juventus team as a whole?",
+        "a4": "do you remember the last game of juventus?",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "do you remember the last game of @entity",
+        "a4_v2": "do you remember the last game of juventus?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "juventus"
+    },
+    {
+        "q5": "i only know they lost to real madrid.",
+        "a5": "yeah juventus couldn't beat them.",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yeah @entity couldn't beat them.",
+        "a5_v2": "yeah juventus couldn't beat them.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "how is juventus doing now \\?",
+        "a1": "i think they 're doing ok definitely need to improve though",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "i think they 're doing ok definitely need to improve though",
+        "a1_v2": "i think they 're doing ok definitely need to improve though",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "and again who is the captain of juventus \\?",
+        "a2": "giorgio chellini is the captain",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "@object is the @relation",
+        "a2_v2": "@captain is the captain",
+        "corr_rel2": "captain",
+        "obj2": "giorgio chellini",
+        "input_ent2": "juventus"
+    },
+    {
+        "q3": "is buffon the keeper for juventus \\?",
+        "a3": "yes , he 's",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "yes , he 's",
+        "a3_v2": "yes , he 's",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "juventus"
+    },
+    {
+        "q4": "tell me more about him",
+        "a4": "ianluigi gigi buffon , ufficiale omri is an italian professional footballer who plays as a goalkeeper for paris saint germain",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "@object , ufficiale omri is an italian professional footballer who plays as a @relation for paris saint germain",
+        "a4_v2": "ianluigi gigi buffon , ufficiale omri is an italian professional footballer who plays as a goalkeeper for paris saint germain",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "how much did juventus pay for buffon",
+        "a5": "paris st germain have signed former juventus and italy goalkeeper gianluigi buffon on a free transfer",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "paris st germain have signed former @entity and @entity @relation @object on a free transfer",
+        "a5_v2": "paris st germain have signed former juventus and italy goalkeeper gianluigi buffon on a free transfer",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "juventus"
+    }
+]

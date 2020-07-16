@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is the best defensive player on the iceland football team \\?",
+        "a1": "the best defensive player on the iceland football team is ragnar sigurdsson",
+        "kgER1": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "the best defensive player on the @entity football team is @object",
+        "a1_v2": "the best defensive player on the iceland football team is ragnar sigurdsson",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "iceland"
+    },
+    {
+        "q2": "sigurdsson",
+        "a2": "ragnar sigurdsso is the most popular player",
+        "kgER2": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object is the most popular player",
+        "a2_v2": "ragnar sigurdsso is the most popular player",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "gylfi sigurdsson"
+    },
+    {
+        "q3": "who is their best attacking player \\?",
+        "a3": "alfreo finnbogason",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "alfreo finnbogason",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is icelands goalie",
+        "a4": "hannes thor halldorsson",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "@goalkeeper",
+        "corr_rel4": "goalkeeper",
+        "obj4": "hannes thor halldorsson",
+        "input_ent4": "iceland"
+    },
+    {
+        "q5": "what is iceland 's record this season \\?",
+        "a5": "i do not win this tenporada",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i do not win this tenporada",
+        "a5_v2": "i do not win this tenporada",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "iceland"
+    }
+]

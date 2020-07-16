@@ -1,0 +1,159 @@
+[
+    {
+        "q1": "i admire colombia",
+        "a1": "of course you do, colombia is an awesome team.",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "of course you do, @entity is an awesome team.",
+        "a1_v2": "of course you do, colombia is an awesome team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "colombia"
+    },
+    {
+        "q2": "what was colombia's win/lose record for last season?",
+        "a2": "they lost in the quarterfinals in the world cup ",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they lost in the quarterfinals in the world cup ",
+        "a2_v2": "they lost in the quarterfinals in the world cup ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "colombia"
+    },
+    {
+        "q3": "west ham sign lucas perez and carlos sanchez",
+        "a3": "who plays for colombia?",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "carlos sanchez": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a3_skt": "who plays for @entity",
+        "a3_v2": "who plays for colombia?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "carlos sanchez"
+    },
+    {
+        "q4": "one player i remember is santiago arias!  ",
+        "a4": "another player i remember is james rodriguez ",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "carlos sanchez": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "santiago arias": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "another player i remember is @object ",
+        "a4_v2": "another player i remember is james rodriguez ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "santiago arias"
+    },
+    {
+        "q5": "how will columbia replace falcao?",
+        "a5": "by moving to mexico.",
+        "kgER5": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "carlos sanchez": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "santiago arias": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "by moving to @entity",
+        "a5_v2": "by moving to mexico.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "radamel falcao"
+    }
+]

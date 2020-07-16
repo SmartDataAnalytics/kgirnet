@@ -1,0 +1,94 @@
+[
+    {
+        "q1": "who reties form spain national team in 2018 \\?",
+        "a1": "that 's tough to say i guess we will have to wait and see what happens",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "that 's tough to say i guess we will have to wait and see what happens",
+        "a1_v2": "that 's tough to say i guess we will have to wait and see what happens",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "2018"
+    },
+    {
+        "q2": "if you had to make your best guess , who would you say is leaving \\?",
+        "a2": "pique and iniesta have already retired",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "pique and iniesta have already retired",
+        "a2_v2": "pique and iniesta have already retired",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "iniesta yes but it stings a no",
+        "a3": "sergio ramos",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "sergio ramos",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres iniesta"
+    },
+    {
+        "q4": "who is the coach for spain \\?",
+        "a4": "luis enrique is spain 's new head coach",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object is @entity 's new head @relation",
+        "a4_v2": "luis enrique is spain 's new head coach",
+        "corr_rel4": "coach",
+        "obj4": "luis enrique",
+        "input_ent4": "spain"
+    }
+]

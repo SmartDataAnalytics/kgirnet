@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "hello how's if going?",
+        "a1": "doing well, you? ",
+        "kgER1": {
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a1_skt": "doing well, you? ",
+        "a1_v2": "doing well, you? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "did you see the liverpool game?",
+        "a2": "who did liverpool play? ",
+        "kgER2": {
+            "yellow": [
+                "jersey color"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "who did @entity play? ",
+        "a2_v2": "who did liverpool play? ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "i did not watch the game, sorry",
+        "a3": "it is an live web site",
+        "kgER3": {
+            "yellow": [
+                "jersey color"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "it is an live web site",
+        "a3_v2": "it is an live web site",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "did you see the new player?",
+        "a4": "after the goalkeeping mistakes in the final last year i\u2019m ready to see the new record singing allison. ",
+        "kgER4": {
+            "yellow": [
+                "jersey color"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "after the @relation mistakes in the final last year i\u2019m ready to see the new record singing allison. ",
+        "a4_v2": "after the goalkeeping mistakes in the final last year i\u2019m ready to see the new record singing allison. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "it will be interesting to see how allison translates to the premier league under klopp.",
+        "a5": "allison looked very promising in the world cup and should do well in red.",
+        "kgER5": {
+            "yellow": [
+                "jersey color"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "allison looked very promising in the world cup and should do well in @object",
+        "a5_v2": "allison looked very promising in the world cup and should do well in red.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "jurgen klopp"
+    },
+    {
+        "q6": "i think he was too expensive.",
+        "a6": "do you think he will help us have a winning session?",
+        "kgER6": {
+            "yellow": [
+                "jersey color"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a6_skt": "do you think he will help us have a winning session?",
+        "a6_v2": "do you think he will help us have a winning session?",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "andres guardado"
+    }
+]

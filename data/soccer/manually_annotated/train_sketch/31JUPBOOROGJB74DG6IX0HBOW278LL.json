@@ -1,0 +1,72 @@
+[
+    {
+        "q1": "hey, how's it going today? are you a fan of soccer?",
+        "a1": "hi, all good with me and yes, i am a soccer fan!",
+        "kgER1": {},
+        "a1_skt": "hi, all good with me and yes, i am a soccer fan!",
+        "a1_v2": "hi, all good with me and yes, i am a soccer fan!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who is your favorite player?",
+        "a2": "i have to say  harry kane",
+        "kgER2": {},
+        "a2_skt": "i have to say  harry kane",
+        "a2_v2": "i have to say  harry kane",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "why do you choose kane?",
+        "a3": "he is a proven goalscorer.",
+        "kgER3": {},
+        "a3_skt": "he is a proven goalscorer.",
+        "a3_v2": "he is a proven goalscorer.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "what do you think of the player david borne?",
+        "a4": "never heard of him who does he play for ?",
+        "kgER4": {},
+        "a4_skt": "never heard of him who does he play for ?",
+        "a4_v2": "never heard of him who does he play for ?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "david silva"
+    },
+    {
+        "q5": "out of all the players, who inspires you the most to be a better person",
+        "a5": "i like alexis sanchez because he didn't have much family, had to work hard, and doesn't take his success for granted.",
+        "kgER5": {},
+        "a5_skt": "i like @object because he didn't have much family, had to work hard, and doesn't take his success for granted.",
+        "a5_v2": "i like alexis sanchez because he didn't have much family, had to work hard, and doesn't take his success for granted.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    },
+    {
+        "q6": "what position does alexis sanchez play?",
+        "a6": "forward",
+        "kgER6": {
+            "alexis sanchez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a6_skt": "@relation",
+        "a6_v2": "forward",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "alexis sanchez"
+    }
+]

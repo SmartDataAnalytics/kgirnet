@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "how many world cups have italy won \\?",
+        "a1": "they 've won 4 2006 , 1982 , 1938 , and 1934",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they 've won @object 2006 , 1982 , 1938 , and 1934",
+        "a1_v2": "they 've won @world_cup_champions 2006 , 1982 , 1938 , and 1934",
+        "corr_rel1": "number of world cup champion",
+        "obj1": "4",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "who is their current team captain \\?",
+        "a2": "gian luigi buffon",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "@captain",
+        "corr_rel2": "goalkeeper",
+        "obj2": "gianluigi donnarumma",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "did buffon retire from the national team this year \\?",
+        "a3": "he had said he was retired but then played 23 march 2018 he may now be retired",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "he had said he was retired but then played @object march @object he may now be retired",
+        "a3_v2": "he had said he was retired but then played 23 march 2018 he may now be retired",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "gianluigi buffon"
+    },
+    {
+        "q4": "what is the average age of retirement among players \\?",
+        "a4": "generally that 's around 35 for most teams",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "generally that 's around @object for most teams",
+        "a4_v2": "generally that 's around 35 for most teams",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is the oldest player now \\?",
+        "a5": "giorgio chiellini is the oldest player",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object is the oldest player",
+        "a5_v2": "giorgio chiellini is the oldest player",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

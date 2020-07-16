@@ -1,0 +1,91 @@
+[
+    {
+        "q1": "this team is going to win",
+        "a1": "i think they can only win if they find a new playstyle.",
+        "kgER1": {},
+        "a1_skt": "i think they can only win if they find a new playstyle.",
+        "a1_v2": "i think they can only win if they find a new playstyle.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "what's their playstyle right now?",
+        "a2": "mostly defend, and try to counter attack when possible and play possession.",
+        "kgER2": {},
+        "a2_skt": "mostly @relation and try to counter attack when possible and play possession.",
+        "a2_v2": "mostly defend, and try to counter attack when possible and play possession.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "if spain played a more aggressive style do you think they would win more or less?",
+        "a3": "most senior players have crossed their peak years ",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "most senior players have crossed their peak years ",
+        "a3_v2": "most senior players have crossed their peak years ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "spain"
+    },
+    {
+        "q4": "yes, do you think they have enough young players for the next cup?",
+        "a4": "i feel that they have to bring enough young people but also experienced players ",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i feel that they have to bring enough young people but also experienced players ",
+        "a4_v2": "i feel that they have to bring enough young people but also experienced players ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ashley young"
+    },
+    {
+        "q5": "how many young players do you think they need?",
+        "a5": "11 just to clear out the old crew.",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object just to clear out the old crew.",
+        "a5_v2": "11 just to clear out the old crew.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ashley young"
+    }
+]

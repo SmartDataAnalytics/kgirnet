@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "why do you think germany advances so often in the playoffs \\?",
+        "a1": "they 're a great team with some excellent and well disciplined players",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they 're a great team with some excellent and well disciplined players",
+        "a1_v2": "they 're a great team with some excellent and well disciplined players",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "who won the world cup with germany both as a captain and as a manager \\?",
+        "a2": "franz beckenbauer , the kaiser",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "franz beckenbauer , the kaiser",
+        "a2_v2": "franz beckenbauer , the kaiser",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "germany"
+    },
+    {
+        "q3": "when did they last win the world cup \\?",
+        "a3": "2014",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "@world_cup_champions",
+        "corr_rel3": "world cup champions",
+        "obj3": "2014",
+        "input_ent3": "germany"
+    },
+    {
+        "q4": "will germany qualify for the euros \\?",
+        "a4": "no , germany is not a selection",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "no , @entity is not a selection",
+        "a4_v2": "no , germany is not a selection",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "germany"
+    },
+    {
+        "q5": "will germany make it into the qualifications round for the 2022 world cup \\?",
+        "a5": "it 's almost gauarnteed",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "it 's almost gauarnteed",
+        "a5_v2": "it 's almost gauarnteed",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "germany"
+    }
+]

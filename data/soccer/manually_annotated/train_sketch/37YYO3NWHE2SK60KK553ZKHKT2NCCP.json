@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "i love this team",
+        "a1": "i don't like juventus because they always lose.",
+        "kgER1": {},
+        "a1_skt": "i don't like @entity because they always lose.",
+        "a1_v2": "i don't like juventus because they always lose.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "when did ronaldo join juventus?",
+        "a2": "he joined just this year 2018, before that he was with madrid",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "he joined just this year @object before that he was with madrid",
+        "a2_v2": "he joined just this year 2018, before that he was with madrid",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "juventus"
+    },
+    {
+        "q3": "how can we get other people to like juventus?",
+        "a3": "juventus needs to win. people love winners.",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "@entity needs to win. people love winners.",
+        "a3_v2": "juventus needs to win. people love winners.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "juventus"
+    },
+    {
+        "q4": "when was juventus last victory?",
+        "a4": "on saturday august 4th! they won against mls all-stars during penalties 5-3.",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "on saturday august 4th! they won against mls all-stars during penalties 5-3.",
+        "a4_v2": "on saturday august 4th! they won against mls all-stars during penalties 5-3.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "juventus"
+    },
+    {
+        "q5": "how will juventus do this season?",
+        "a5": "they're likely to finish top 3 in the league.",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "they're likely to finish top @object in the league.",
+        "a5_v2": "they're likely to finish top 3 in the league.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "juventus"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "q1": "who is the colombian goal keeper? ",
+        "a1": "david ospina",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@goalkeeper",
+        "corr_rel1": "goalkeeper",
+        "obj1": "david ospina",
+        "input_ent1": "colombia"
+    },
+    {
+        "q2": "how old is ospina currently?",
+        "a2": "david ospina is currently 29 years old",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object is currently @object years old",
+        "a2_v2": "david ospina is currently 29 years old",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "david ospina"
+    },
+    {
+        "q3": "when is columbia's next match?",
+        "a3": "colombia's next match is september 7th.",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity next match is september 7th.",
+        "a3_v2": "colombia's next match is september 7th.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "do they have any injured players?",
+        "a4": "they well practiced so they not injured",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "they well practiced so they not injured",
+        "a4_v2": "they well practiced so they not injured",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "the best team in south america is colombia with james ",
+        "a5": "james rodriguez",
+        "kgER5": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "james rodriguez",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "colombia"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "q1": "liverpool is the best english team, is not it?",
+        "a1": "liverpool wasn't first, manchester city was. this means manchester city is a better team than liverpool.",
+        "kgER1": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity wasn't first, manchester city was. this means manchester city is a better team than @entity.",
+        "a1_v2": "liverpool wasn't first, manchester city was. this means manchester city is a better team than liverpool.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "is the older team always the better team?",
+        "a2": "no",
+        "kgER2": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "no",
+        "a2_v2": "no",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "i consider that liverpool is the best team",
+        "a3": "in my opinion it is the liverpool for having reached the final of the champions",
+        "kgER3": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "in my opinion it is the @entity for having reached the final of the champions",
+        "a3_v2": "in my opinion it is the liverpool for having reached the final of the champions",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "what are your criteria for deciding the best team?",
+        "a4": "at the end of the season, the team that lifted the most major trophies.",
+        "kgER4": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "at the end of the season, the team that lifted the most major trophies.",
+        "a4_v2": "at the end of the season, the team that lifted the most major trophies.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is liverpools coach?",
+        "a5": "j\u00fcrgen klopp is their manager.",
+        "kgER5": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is their manager.",
+        "a5_v2": "@coach is their manager.",
+        "corr_rel5": "coach",
+        "obj5": "jurgen klopp",
+        "input_ent5": "liverpool"
+    }
+]

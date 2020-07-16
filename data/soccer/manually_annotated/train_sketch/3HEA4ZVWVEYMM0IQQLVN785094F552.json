@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "i love bayern munich",
+        "a1": "i don't bayern munich much because they aren't very noticable.",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i don't @entity much because they aren't very noticable.",
+        "a1_v2": "i don't bayern munich much because they aren't very noticable.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "who is their all time appearance maker?",
+        "a2": "this is not one of my favorite team",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "this is not one of my favorite team",
+        "a2_v2": "this is not one of my favorite team",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "it has the best squad of players ",
+        "a3": "i think bayern munich has good players, but not the best.",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think @entity has good players, but not the best.",
+        "a3_v2": "i think bayern munich has good players, but not the best.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is the best on bayern munich?",
+        "a4": "manuel neuer",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "manuel neuer",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "what color is bayern munich's jersey?",
+        "a5": "red is their primary color ",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is their primary color ",
+        "a5_v2": "@jersey_color is their primary color ",
+        "corr_rel5": "jersey color",
+        "obj5": "red",
+        "input_ent5": "bayern munich"
+    }
+]

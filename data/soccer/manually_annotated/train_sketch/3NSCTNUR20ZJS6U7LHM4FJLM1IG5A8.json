@@ -1,0 +1,61 @@
+[
+    {
+        "q1": "i really like this.",
+        "a1": "what's not to like about barcelona?",
+        "kgER1": {},
+        "a1_skt": "what's not to like about @entity",
+        "a1_v2": "what's not to like about barcelona?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "their bandwagon fans.",
+        "a2": "barcelona's fans are terrific!",
+        "kgER2": {},
+        "a2_skt": "@entity fans are terrific!",
+        "a2_v2": "barcelona's fans are terrific!",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "i think the fans are great, they support the club a lot.",
+        "a3": "do you think they can make it this year ??",
+        "kgER3": {},
+        "a3_skt": "do you think they can make it this year ??",
+        "a3_v2": "do you think they can make it this year ??",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "this is not one of my favorite team",
+        "a4": "i love it ",
+        "kgER4": {},
+        "a4_skt": "i love it ",
+        "a4_v2": "i love it ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "does barcelona sell out its home games very often?",
+        "a5": "yes, very frequently",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes, very frequently",
+        "a5_v2": "yes, very frequently",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "barcelona"
+    }
+]

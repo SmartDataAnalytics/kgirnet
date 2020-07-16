@@ -1,0 +1,59 @@
+[
+    {
+        "q1": "who is the best player on the barcelona team?",
+        "a1": "lionel messi is the best ",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object is the best ",
+        "a1_v2": "lionel messi is the best ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "can messi keep playing another decade? ",
+        "a2": "i think he will keep playing at least for another decade.",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i think he will keep playing at least for another decade.",
+        "a2_v2": "i think he will keep playing at least for another decade.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "lionel messi"
+    },
+    {
+        "q3": "do you think they will start using messi more strategically and give him less time?",
+        "a3": "they will probably use him more",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they will probably use him more",
+        "a3_v2": "they will probably use him more",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "lionel messi"
+    }
+]

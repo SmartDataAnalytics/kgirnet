@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i admire france",
+        "a1": "who's their best defender? ",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "who's their best @relation ",
+        "a1_v2": "who's their best defender? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "france"
+    },
+    {
+        "q2": "france couldn't defend their way out of wet paper bag, their defense is horrible ",
+        "a2": "classic france, i agree.",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "classic @entity i agree.",
+        "a2_v2": "classic france, i agree.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "france"
+    },
+    {
+        "q3": "if they are so poor how did the win the world cup? ",
+        "a3": "they had the better players clearly.",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they had the better players clearly.",
+        "a3_v2": "they had the better players clearly.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "how many players does france have on their roster?",
+        "a4": "23",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "23",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "france"
+    },
+    {
+        "q5": "just because you don't support a team doesn't mean they are terrible.",
+        "a5": "25",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "25",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

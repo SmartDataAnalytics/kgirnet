@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who is the manager of manchester united \\?",
+        "a1": "jose mourinho",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@coach",
+        "corr_rel1": "coach",
+        "obj1": "jose mourinho",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "do you think he 's better than van gaal \\?",
+        "a2": "is debatable , but i would say yes he is better",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "is debatable , but i would say yes he is better",
+        "a2_v2": "is debatable , but i would say yes he is better",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "virgil van dijk"
+    },
+    {
+        "q3": "how is manchester united doing this season \\?",
+        "a3": "they are doing well",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they are doing well",
+        "a3_v2": "they are doing well",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "manchester united"
+    },
+    {
+        "q4": "what ranking are they in the premiership",
+        "a4": "they are the best of all time in the pl",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "they are the best of all time in the pl",
+        "a4_v2": "they are the best of all time in the pl",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "what was their record last year in the premier league \\?",
+        "a5": "manchester united 's record was 25 6 7 \\( w d l \\) and a total of 81 points in 38 matches",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@entity 's record was @object @object @object \\( w d l \\) and a total of @object points in @object matches",
+        "a5_v2": "manchester united 's record was 25 6 7 \\( w d l \\) and a total of 81 points in 38 matches",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

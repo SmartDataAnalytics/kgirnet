@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "i need shopping_center",
+        "a1": "there is a shopping_center 3_miles from you the address is 338_alester_ave would you like directions",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel1": "address",
+        "obj1": "338_alester_ave",
+        "input_ent1": "midtown_shopping_center",
+        "kvr_entlist_qa1": [
+            "shopping_center",
+            "3_miles",
+            "338_alester_ave"
+        ]
+    },
+    {
+        "q2": "yes please",
+        "a2": "setting navigation to the midtown_shopping_center there is a car_collision_nearby so drive carefully",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "midtown_shopping_center",
+            "car_collision_nearby"
+        ]
+    },
+    {
+        "q3": "thank you car pick the shortest distance for me please",
+        "a3": "i sent the info on your screen drive carefully",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

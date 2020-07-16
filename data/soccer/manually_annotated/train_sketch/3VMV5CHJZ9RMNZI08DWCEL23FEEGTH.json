@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "how many times have spain won the world cup \\?",
+        "a1": "one time , in 2010",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "one time , in @object",
+        "a1_v2": "one time , in @world_cup_champions",
+        "corr_rel1": "number of world cup champion",
+        "obj1": "1",
+        "input_ent1": "spain"
+    },
+    {
+        "q2": "when do you think they 'll win again \\?",
+        "a2": "they 'll have a good shot next time",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they 'll have a good shot next time",
+        "a2_v2": "they 'll have a good shot next time",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "who is the top goalscorer for spain this season \\?",
+        "a3": "david de gea",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "david de gea",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "spain"
+    },
+    {
+        "q4": "how many games has spain won \\?",
+        "a4": "a lot ! they are doing great this year !",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "a lot ! they are doing great this year !",
+        "a4_v2": "a lot ! they are doing great this year !",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "spain"
+    },
+    {
+        "q5": "do spain need to change the structure and become more attacking \\?",
+        "a5": "yes they need one more attacker",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes they need one more attacker",
+        "a5_v2": "yes they need one more attacker",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "spain"
+    }
+]

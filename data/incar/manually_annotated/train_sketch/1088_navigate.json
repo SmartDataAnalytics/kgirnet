@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "directions to the nearest grocery_store",
+        "a1": "the nearest grocery_store i could find is located 6_miles away would you like more info on it",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "distance",
+        "obj1": "6_miles",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "6_miles",
+            "grocery_store"
+        ]
+    },
+    {
+        "q2": "yes can you give me the route",
+        "a2": "navigating you to sigona_farmers_market",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "sigona_farmers_market",
+        "input_ent2": "grocery_store",
+        "kvr_entlist_qa2": [
+            "sigona_farmers_market"
+        ]
+    },
+    {
+        "q3": "pick the fastest route please and send the address on my screen thank you",
+        "a3": "the address is 638_amherst_st follow your map and you ll get there in few minutes",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel3": "address",
+        "obj3": "638_amherst_st",
+        "input_ent3": "sigona_farmers_market",
+        "kvr_entlist_qa3": [
+            "638_amherst_st"
+        ]
+    }
+]

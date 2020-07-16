@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "i love the team germany",
+        "a1": "they should change their coach.",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they should change their @relation",
+        "a1_v2": "they should change their coach.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "joachim low is germany's current coach, is he doing a good job? ",
+        "a2": "he didn't do a good job in the last world cup ",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "joachim low": [
+                "coach"
+            ]
+        },
+        "a2_skt": "he didn't do a good job in the last world cup ",
+        "a2_v2": "he didn't do a good job in the last world cup ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "joachim low"
+    },
+    {
+        "q3": "did the coach not do a good job, or did the players not perform as expected?",
+        "a3": "the coach didn't prepare his team well enough.",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "joachim low": [
+                "coach"
+            ]
+        },
+        "a3_skt": "the @relation didn't prepare his team well enough.",
+        "a3_v2": "the coach didn't prepare his team well enough.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "the general team environment ",
+        "a4": "germany lacked basic skills. this was the issue. they over complicated their play.",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "joachim low": [
+                "coach"
+            ]
+        },
+        "a4_skt": "@entity lacked basic skills. this was the issue. they over complicated their play.",
+        "a4_v2": "germany lacked basic skills. this was the issue. they over complicated their play.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what basic skills does germany need to improve?",
+        "a5": "stopping the other team from scoring",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "joachim low": [
+                "coach"
+            ]
+        },
+        "a5_skt": "stopping the other team from scoring",
+        "a5_v2": "stopping the other team from scoring",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "germany"
+    }
+]

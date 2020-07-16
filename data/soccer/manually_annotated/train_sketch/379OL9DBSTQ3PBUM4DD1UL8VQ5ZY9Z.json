@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "what has germany done wrong , how did they go from last world cup winners to not even passing the best round",
+        "a1": "some coaching decisions , different players and maybe some bad luck even though they did n't play as well or consistently",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "some @relation decisions , different players and maybe some bad luck even though they did n't play as well or consistently",
+        "a1_v2": "some coaching decisions , different players and maybe some bad luck even though they did n't play as well or consistently",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "who is actually german in the german team \\?",
+        "a2": "the germany national football team is the men 's football team that has represented germany in international competition since 1908",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "the @entity national football team is the men 's football team that has represented @entity in international competition since @object",
+        "a2_v2": "the germany national football team is the men 's football team that has represented germany in international competition since 1908",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "german pezzella"
+    },
+    {
+        "q3": "is there good diversity on the german team \\?",
+        "a3": "sure , germany has fewer german players than italy has",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "sure , @entity has fewer @entity players than @entity has",
+        "a3_v2": "sure , germany has fewer german players than italy has",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "german pezzella"
+    },
+    {
+        "q4": "is germany gonna win euro 2020 \\?",
+        "a4": "if the german team can win the euro because it has very good players and they have a very good game",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "if the @entity team can win the euro because it has very good players and they have a very good game",
+        "a4_v2": "if the german team can win the euro because it has very good players and they have a very good game",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "germany"
+    },
+    {
+        "q5": "when is the last time the german soccer team has won a world cup \\?",
+        "a5": "i believe germany won last in 2014 , defeating argentina",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i believe @entity won last in @object , defeating @entity",
+        "a5_v2": "i believe @entity won last in @number_of_world_cup_champion , defeating @entity",
+        "corr_rel5": "world cup champions",
+        "obj5": "2014",
+        "input_ent5": "germany"
+    }
+]

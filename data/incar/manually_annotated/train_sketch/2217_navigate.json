@@ -1,0 +1,41 @@
+[
+    {
+        "q1": "i need the quickest route to a rest_stop i am so tired",
+        "a1": "the_westin is at 329_el_camino_real which is only a miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "the_westin,329_el_camino_real",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "329_el_camino_real",
+            "the_westin"
+        ]
+    },
+    {
+        "q2": "that s good thank you car let s go there",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "please set directions via the quickest route and thanks again",
+        "a3": "pulling up route on screen",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "[ end conversation ]",
+        "a4": "no problem",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

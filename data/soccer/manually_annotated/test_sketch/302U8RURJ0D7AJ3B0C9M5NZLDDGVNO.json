@@ -1,0 +1,104 @@
+[
+    {
+        "q1": "were they in the world cup?",
+        "a1": "yes, nigeria made it to the world cup this year.",
+        "kgER1": {},
+        "a1_skt": "yes, @entity made it to the world cup this year.",
+        "a1_v2": "yes, nigeria made it to the world cup this year.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "did nigeria win the world cup?",
+        "a2": "nigeria did not win the world cup, the lost in the group stages. ",
+        "kgER2": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity did not win the world cup, the lost in the group stages. ",
+        "a2_v2": "nigeria did not win the world cup, the lost in the group stages. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "nigeria"
+    },
+    {
+        "q3": "did you like there world cup kit? it sold out in seconds.",
+        "a3": "i really liked it, the colors went well together, it was very eye catching.",
+        "kgER3": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i really liked it, the colors went well together, it was very eye catching.",
+        "a3_v2": "i really liked it, the colors went well together, it was very eye catching.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "what are the colors for nigeria?",
+        "a4": "nigeria's main color is green. ",
+        "kgER4": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "nigeria's main color is green. ",
+        "a4_v2": "nigeria's main color is green. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "nigeria"
+    },
+    {
+        "q5": "who is the best player of nigeria team?",
+        "a5": "john obi mikel might be the best player.",
+        "kgER5": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object might be the best player.",
+        "a5_v2": "john obi mikel might be the best player.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "nigeria"
+    }
+]

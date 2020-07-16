@@ -1,0 +1,52 @@
+[
+    {
+        "q1": "like this team",
+        "a1": "yes, i like uruguay.",
+        "kgER1": {},
+        "a1_skt": "yes, i like @entity",
+        "a1_v2": "yes, i like uruguay.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who's your favorite player on the team?",
+        "a2": "luis suarez",
+        "kgER2": {},
+        "a2_skt": "@object",
+        "a2_v2": "luis suarez",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "their defense is stingy",
+        "a3": "they offense is fast acting though.",
+        "kgER3": {},
+        "a3_skt": "they offense is fast acting though.",
+        "a3_v2": "they offense is fast acting though.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "do you believe suarez will be playing for them in the 2022 world cup?",
+        "a4": "not as a starter anyways. he would be 35. i expect maxi gomez to take his place.",
+        "kgER4": {},
+        "a4_skt": "not as a starter anyways. he would be @object i expect @object to take his place.",
+        "a4_v2": "not as a starter anyways. he would be 35. i expect maxi gomez to take his place.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "luis suarez"
+    },
+    {
+        "q5": "how old is he?",
+        "a5": "maxi gomez is 21 years old.",
+        "kgER5": {},
+        "a5_skt": "@object is @object years old.",
+        "a5_v2": "maxi gomez is 21 years old.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "old trafford"
+    }
+]

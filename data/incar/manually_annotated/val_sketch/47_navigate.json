@@ -1,0 +1,48 @@
+[
+    {
+        "q1": "show me directions to the nearest grocery_store",
+        "a1": "the nearest grocery_store trader_joes is 5_miles away with heavy_traffic do you still want to go",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "trader_joes",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "heavy_traffic",
+            "grocery_store",
+            "5_miles",
+            "trader_joes"
+        ]
+    },
+    {
+        "q2": "yes i guess program the address and let s get going",
+        "a2": "setting gps now",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "what s the address of the store please please direct me via a quick route",
+        "a3": "trader_joes is at 408_university_ave the only route i have is 5_miles through heavy_traffic",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel3": "address",
+        "obj3": "408_university_ave",
+        "input_ent3": "trader_joes",
+        "kvr_entlist_qa3": [
+            "heavy_traffic",
+            "5_miles",
+            "trader_joes",
+            "408_university_ave"
+        ]
+    },
+    {
+        "q4": "that s ok thank you",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

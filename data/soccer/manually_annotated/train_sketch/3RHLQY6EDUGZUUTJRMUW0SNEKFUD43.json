@@ -1,0 +1,189 @@
+[
+    {
+        "q1": "hey! how will brazil do?",
+        "a1": "good, but no match for belgium.",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "good, but no match for @entity",
+        "a1_v2": "good, but no match for belgium.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "good short belgium ",
+        "a2": "yes i accept it",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes i accept it",
+        "a2_v2": "yes i accept it",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "belgium"
+    },
+    {
+        "q3": "who will be belgiums playing  against in the semi-finals of wc 18?",
+        "a3": "i'm not sure. need to check.",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i'm not sure. need to check.",
+        "a3_v2": "i'm not sure. need to check.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "18 (first in 1934)"
+    },
+    {
+        "q4": "do you think they can reach the finals? a5: they can but they need to beat france at semi-finals.",
+        "a4": "who is the favorite to win this game?",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "who is the favorite to win this game?",
+        "a4_v2": "who is the favorite to win this game?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "emre can"
+    },
+    {
+        "q5": "belgium beat who?",
+        "a5": "they beat brazil",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they beat @entity",
+        "a5_v2": "they beat brazil",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "belgium"
+    }
+]

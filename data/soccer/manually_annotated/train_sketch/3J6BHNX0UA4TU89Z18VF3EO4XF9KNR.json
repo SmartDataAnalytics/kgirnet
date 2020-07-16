@@ -1,0 +1,70 @@
+[
+    {
+        "q1": "his team is going to win",
+        "a1": "there is no way manchester united is going to win.",
+        "kgER1": {},
+        "a1_skt": "there is no way @entity is going to win.",
+        "a1_v2": "there is no way manchester united is going to win.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who took their last penalty?",
+        "a2": "i think it was anthony martial ",
+        "kgER2": {},
+        "a2_skt": "i think it was @object ",
+        "a2_v2": "i think it was anthony martial ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "are you sure? i didn't see that",
+        "a3": "pogba took the last penatly",
+        "kgER3": {},
+        "a3_skt": "pogba took the last penatly",
+        "a3_v2": "pogba took the last penatly",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is the youngest player on manchester united?",
+        "a4": "manchester united youngest is angel gomes",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity youngest is angel gomes",
+        "a4_v2": "manchester united youngest is angel gomes",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "what is the name of the stadium in manchester united? ",
+        "a5": "it was named after their star.",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "it was named after their star.",
+        "a5_v2": "it was named after their star.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "manchester united"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "where can i get groceries",
+        "a1": "there is two grocery_stores nearby one called safeway at 6_miles away and one called trader_joes and it s 8_miles away",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "trader_joes",
+            "safeway",
+            "6_miles",
+            "8_miles"
+        ]
+    },
+    {
+        "q2": "let s go at safeway show me the fastest route please",
+        "a2": "here is the fastest route to safeway",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "safeway",
+        "kvr_entlist_qa2": [
+            "safeway"
+        ]
+    },
+    {
+        "q3": "thank you1",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

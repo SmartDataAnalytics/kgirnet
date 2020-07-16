@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "is there a nearby rest_stop",
+        "a1": "hotel_keen and the_westin are both nearby",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "hotel_keen,the_westin",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "hotel_keen",
+            "the_westin"
+        ]
+    },
+    {
+        "q2": "which has the least amount of traffic at the moment",
+        "a2": "they both have none",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "what is the address for keen",
+        "a3": "578_arbol_dr we re 2_miles away from it set the navigation there",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "578_arbol_dr",
+        "input_ent3": "the_westin",
+        "kvr_entlist_qa3": [
+            "2_miles",
+            "578_arbol_dr"
+        ]
+    },
+    {
+        "q4": "yes sounds great",
+        "a4": "alright",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

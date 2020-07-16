@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "can you find me the nearest pizza_restaurant",
+        "a1": "dominos is 1_miles away at 776_arastradero_rd would you like directions there",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel1": "poi,address",
+        "obj1": "dominos,776_arastradero_rd",
+        "input_ent1": "pizza_restaurant",
+        "kvr_entlist_qa1": [
+            "776_arastradero_rd",
+            "dominos",
+            "1_miles"
+        ]
+    },
+    {
+        "q2": "yes please pick the quickest route for me",
+        "a2": "setting navigation now drive carefully and enjoy",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "will there be any traffic",
+        "a3": "there is currently no_traffic en route to dominos",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel3": "traffic_info",
+        "obj3": "no_traffic",
+        "input_ent3": "dominos",
+        "kvr_entlist_qa3": [
+            "no_traffic",
+            "dominos"
+        ]
+    },
+    {
+        "q4": "thank you",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

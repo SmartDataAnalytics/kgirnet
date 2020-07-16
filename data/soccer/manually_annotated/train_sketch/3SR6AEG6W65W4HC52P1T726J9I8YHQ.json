@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "what are spain's best football teams?",
+        "a1": "real madrid and barcelona",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity and @entity",
+        "a1_v2": "real madrid and barcelona",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "spain"
+    },
+    {
+        "q2": "in which year did spain win their first european championship?",
+        "a2": "1960 i think.",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object i think.",
+        "a2_v2": "1960 i think.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "spain"
+    },
+    {
+        "q3": "what country borders spain to the west?",
+        "a3": "portugal border spain to the west. i am glad you ask about geography.",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity border @entity to the west. i am glad you ask about geography.",
+        "a3_v2": "portugal border spain to the west. i am glad you ask about geography.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "spain"
+    },
+    {
+        "q4": "does david villa still play for spain?",
+        "a4": "he officially retired from international football, but he played in the world cup qualifiers recently.",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "he officially retired from international football, but he played in the world cup qualifiers recently.",
+        "a4_v2": "he officially retired from international football, but he played in the world cup qualifiers recently.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "spain"
+    },
+    {
+        "q5": "spain needs more players",
+        "a5": "they need some turnover on the squad and to give chances to some younger players.",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they need some turnover on the squad and to give chances to some younger players.",
+        "a5_v2": "they need some turnover on the squad and to give chances to some younger players.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "spain"
+    }
+]

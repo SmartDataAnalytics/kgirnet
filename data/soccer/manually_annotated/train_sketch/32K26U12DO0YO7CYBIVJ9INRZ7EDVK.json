@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "do you think sweden is overrated?",
+        "a1": "no, they're pretty good",
+        "kgER1": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "no, they're pretty good",
+        "a1_v2": "no, they're pretty good",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "sweden"
+    },
+    {
+        "q2": "have they had any defeats this season?",
+        "a2": "yes they have had one loss this season",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes they have had one loss this season",
+        "a2_v2": "yes they have had one loss this season",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who beat sweden this season?",
+        "a3": "sweden was beat by germany.",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity was beat by @entity",
+        "a3_v2": "sweden was beat by germany.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "sweden"
+    },
+    {
+        "q4": "how many games has sweden won this season?",
+        "a4": "they have won 4 games in 2018",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they have won @object games in @object",
+        "a4_v2": "they have won 4 games in 2018",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "sweden"
+    },
+    {
+        "q5": "what is the name of the stadium that spain plays in?",
+        "a5": "friends arena",
+        "kgER5": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "friends arena",
+        "a5_v2": "friends arena",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "spain"
+    }
+]

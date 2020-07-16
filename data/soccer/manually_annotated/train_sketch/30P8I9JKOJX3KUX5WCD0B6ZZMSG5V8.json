@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "when does bvb dortmund play next?",
+        "a1": "i have no idea look up the schedule online",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i have no idea look up the schedule online",
+        "a1_v2": "i have no idea look up the schedule online",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "do you think they  will win again?",
+        "a2": "probably",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "probably",
+        "a2_v2": "probably",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "why do you think they have a good chance of winning?",
+        "a3": "the bundesliga? i wouldnt say they are favorite but they have a fair chance",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "the bundesliga? i wouldnt say they are favorite but they have a fair chance",
+        "a3_v2": "the bundesliga? i wouldnt say they are favorite but they have a fair chance",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "more than bvv dortmund?",
+        "a4": "i highly doubt it",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i highly doubt it",
+        "a4_v2": "i highly doubt it",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bvb dortmund"
+    },
+    {
+        "q5": "who is bvb dortmund's manager?",
+        "a5": "lucien favre is borussia dortmund's manager.",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is borussia dortmund's manager.",
+        "a5_v2": "@coach is borussia dortmund's manager.",
+        "corr_rel5": "coach",
+        "obj5": "lucien favre",
+        "input_ent5": "bvb dortmund"
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "q1": "who will replace jose mourinho \\?",
+        "a1": "zidane",
+        "kgER1": {
+            "jose mourinho": [
+                "coach"
+            ]
+        },
+        "a1_skt": "zidane",
+        "a1_v2": "zidane",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "jose mourinho"
+    },
+    {
+        "q2": "will manchester united qualify to champions league next year \\?",
+        "a2": "so far they have struggled in the team but they got a great mananger and some top players , so you 'd have to be optimistic that they can finish top 4 and qualify",
+        "kgER2": {
+            "jose mourinho": [
+                "coach"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "so far they have struggled in the team but they got a great mananger and some top players , so you 'd have to be optimistic that they can finish top @object and qualify",
+        "a2_v2": "so far they have struggled in the team but they got a great mananger and some top players , so you 'd have to be optimistic that they can finish top 4 and qualify",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "manchester united"
+    },
+    {
+        "q3": "they have to know how to play and defend themselves",
+        "a3": "es un equipo de competicion manchester united",
+        "kgER3": {
+            "jose mourinho": [
+                "coach"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "es un equipo de competicion @entity",
+        "a3_v2": "es un equipo de competicion manchester united",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "white and red"
+    },
+    {
+        "q4": "who is the captain of the mancheser united team \\?",
+        "a4": "antonio valencia is the captain",
+        "kgER4": {
+            "jose mourinho": [
+                "coach"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object is the @relation",
+        "a4_v2": "antonio valencia is the captain",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "what position does he play in \\?",
+        "a5": "he is a defender",
+        "kgER5": {
+            "jose mourinho": [
+                "coach"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "he is a @relation",
+        "a5_v2": "he is a position",
+        "corr_rel5": "position",
+        "obj5": "defender",
+        "input_ent5": "antonio valencia"
+    }
+]

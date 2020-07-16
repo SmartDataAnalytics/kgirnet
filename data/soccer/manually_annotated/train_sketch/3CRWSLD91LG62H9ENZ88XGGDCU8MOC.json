@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "how many world cups did argentina win?",
+        "a1": "argentina have won 2 world cups",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity have won @object world cups",
+        "a1_v2": "@entity have won @number_of_world_cup_champion world cups",
+        "corr_rel1": "number of world cup champion",
+        "obj1": "2",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "where did argentina place in the 2018 worldcup",
+        "a2": "16th place but they are still one of the most successful teams in the world.",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "16th place but they are still one of the most successful teams in the world.",
+        "a2_v2": "16th place but they are still one of the most successful teams in the world.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "argentina"
+    },
+    {
+        "q3": "why didn't they do better than 16th place with the talent they have on the roster?",
+        "a3": "power rankings: best and worst case for every team",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "power rankings: best and worst case for every team",
+        "a3_v2": "power rankings: best and worst case for every team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "is there any chance for argentina to improve their standing?",
+        "a4": "yes, argentina can improve their standing.",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes, @entity can improve their standing.",
+        "a4_v2": "yes, argentina can improve their standing.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "argentina"
+    },
+    {
+        "q5": "and what do they need to change to improve their results?",
+        "a5": "for one get messi to score more. ",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "for one get messi to score more. ",
+        "a5_v2": "for one get messi to score more. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

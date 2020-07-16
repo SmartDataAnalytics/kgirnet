@@ -1,0 +1,138 @@
+[
+    {
+        "q1": "how is fc porto's record this year?",
+        "a1": "fc porto has 37 wins, 8 draws and 6 losses in the 2017-2018 season.",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "fc porto has @object wins, @object draws and @object losses in the 2017-201@object season.",
+        "a1_v2": "fc porto has 37 wins, 8 draws and 6 losses in the 2017-2018 season.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "that sounds pretty good, but how does it compare to the 2016/17 season? ",
+        "a2": "i do not follow the primeira liga but it seems like porto is always coming over the top in portugal. ",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i do not follow the primeira liga but it seems like porto is always coming over the top in @entity ",
+        "a2_v2": "i do not follow the primeira liga but it seems like porto is always coming over the top in portugal. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "17 (first in 1930)"
+    },
+    {
+        "q3": "how is portugal going to do?",
+        "a3": "i don't think the portuguese teams will do that well in europe this season.",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i don't think the portuguese teams will do that well in europe this season.",
+        "a3_v2": "i don't think the portuguese teams will do that well in europe this season.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "why should they not? they are on fine form ",
+        "a4": "ronaldo is not on his prime anymore and he's getting older",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "ronaldo is not on his prime anymore and he's getting older",
+        "a4_v2": "ronaldo is not on his prime anymore and he's getting older",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "aboubakar, mvp for porto is he in good shape",
+        "a5": "is he in his all time best shape ever?",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "is he in his all time best shape ever?",
+        "a5_v2": "is he in his all time best shape ever?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "vincent aboubakar"
+    }
+]

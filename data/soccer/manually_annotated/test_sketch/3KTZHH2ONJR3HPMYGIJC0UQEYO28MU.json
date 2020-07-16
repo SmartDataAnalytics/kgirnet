@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "who is juventus most capped player of all time?",
+        "a1": "i think it's christian ronaldo",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "i think it's @object",
+        "a1_v2": "i think it's @has_player",
+        "corr_rel1": "has player",
+        "obj1": "cristiano ronaldo",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "in which league juventus plays?",
+        "a2": "italian league",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "italian league",
+        "a2_v2": "italian league",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "juventus"
+    },
+    {
+        "q3": "what other noteworthy italian teams are there? ",
+        "a3": "jeventus, porto, milan etc.",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "jeventus, porto, milan etc.",
+        "a3_v2": "jeventus, porto, milan etc.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "how long ronaldo play for juventus?",
+        "a4": "he was only signed by them this year. hope he plays 3-4 years",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "he was only signed by them this year. hope he plays @object years",
+        "a4_v2": "he was only signed by them this year. hope he plays 3-4 years",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "juventus"
+    },
+    {
+        "q5": "ronaldo is striker and one of the best in juventus",
+        "a5": "yes he is the best striker",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "yes he is the best striker",
+        "a5_v2": "yes he is the best striker",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "juventus"
+    }
+]

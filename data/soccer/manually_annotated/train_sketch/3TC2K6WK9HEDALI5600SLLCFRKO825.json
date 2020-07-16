@@ -1,0 +1,136 @@
+[
+    {
+        "q1": "who is the best striker at manchester united",
+        "a1": "lukaku , without a doubt",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "lukaku , without a doubt",
+        "a1_v2": "lukaku , without a doubt",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "when did lukaku get hired on at manchester united \\?",
+        "a2": "on july 8 , 2017",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "on july @object , 2017",
+        "a2_v2": "on july 8 , 2017",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "manchester united"
+    },
+    {
+        "q3": "how many goals did lukaku have during the 2017 2018 season \\?",
+        "a3": "16",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "@caps",
+        "corr_rel3": "caps",
+        "obj3": "16",
+        "input_ent3": "romelu lukaku"
+    },
+    {
+        "q4": "lukaku plays for belgium , right \\?",
+        "a4": "yes , lukaku plays for belgium",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes , lukaku plays for @entity",
+        "a4_v2": "yes , lukaku plays for belgium",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "belgium"
+    },
+    {
+        "q5": "who are the all time best goalkeepers for manchester united \\?",
+        "a5": "david de gea is all time best goalkeepers for manchester united",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "@object is all time best @relation for @entity",
+        "a5_v2": "david de gea is all time best goalkeepers for manchester united",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "manchester united"
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "q1": "i completely love real madrid",
+        "a1": "i like manchester united more than i like real madrid.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i like @entity more than i like @entity",
+        "a1_v2": "i like manchester united more than i like real madrid.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "did you see modric wearing white?!",
+        "a2": "obviusly, modric never go to leave real madrid team",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "white": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "obviusly, modric never go to leave @entity team",
+        "a2_v2": "obviusly, modric never go to leave real madrid team",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "white"
+    },
+    {
+        "q3": "do you think modric made the right choice staying at real madrid?",
+        "a3": "no you made the wrong choice because he's so much better than that",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "white": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "no you made the wrong choice because he's so much better than that",
+        "a3_v2": "no you made the wrong choice because he's so much better than that",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "what do you think he should do next?",
+        "a4": "he should score some goals.",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "white": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "he should score some @relation",
+        "a4_v2": "he should score some goals.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "what is his average per game.",
+        "a5": "1.2 goals per game",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "white": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "@object @relation per game",
+        "a5_v2": "1.2 goals per game",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

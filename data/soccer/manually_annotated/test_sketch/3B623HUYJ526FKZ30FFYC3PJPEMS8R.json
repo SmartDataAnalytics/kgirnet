@@ -1,0 +1,40 @@
+[
+    {
+        "q1": "barcelona has how many spaniards on their roster?",
+        "a1": "barcelona has 10 spaniards.",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity has @object spaniards.",
+        "a1_v2": "barcelona has 10 spaniards.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "this year yes?",
+        "a2": "yes, this year too.",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes, this year too.",
+        "a2_v2": "yes, this year too.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "q1": "are you a juventus fan?",
+        "a1": "will the addition of ronaldo make juventus a serious contender in the champions league?",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "will the addition of ronaldo make @entity a serious contender in the champions league?",
+        "a1_v2": "will the addition of ronaldo make juventus a serious contender in the champions league?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "yes i am. no, i don't think so.",
+        "a2": "i think he will drive the players who are already there and make them a better team.",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "i think he will drive the players who are already there and make them a better team.",
+        "a2_v2": "i think he will drive the players who are already there and make them a better team.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "what is a reasonable expectation then for juventus in the cl this year?",
+        "a3": "looking a semi finalist minimum.",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "looking a semi finalist minimum.",
+        "a3_v2": "looking a semi finalist minimum.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "juventus"
+    },
+    {
+        "q4": "will the coach support him at that level?",
+        "a4": "yes, since is he is enrichening the team and also the coach.",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "yes, since is he is enrichening the team and also the @relation",
+        "a4_v2": "yes, since is he is enrichening the team and also the coach.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "when was the last time they took home a title ?",
+        "a5": "first",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "first",
+        "a5_v2": "first",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    },
+    {
+        "q6": "where is the location of juventus?",
+        "a6": "somewhere in italy :-)",
+        "kgER6": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a6_skt": "somewhere in @entity :-)",
+        "a6_v2": "somewhere in italy :-)",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "juventus"
+    }
+]

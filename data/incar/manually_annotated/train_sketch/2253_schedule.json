@@ -1,0 +1,27 @@
+[
+    {
+        "q1": "what is the time and location of my next conference and who will be attending it",
+        "a1": "your next conference is at 9am with management at conference_room_100 would you like to know the date as well",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,room,party",
+        "obj1": "management,conference,conference_room_100,9am",
+        "input_ent1": "conference",
+        "kvr_entlist_qa1": [
+            "management",
+            "conference",
+            "conference_room_100",
+            "9am"
+        ]
+    },
+    {
+        "q2": "yes please thank you",
+        "a2": "it s at on the_3rd you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "the_3rd"
+        ]
+    }
+]

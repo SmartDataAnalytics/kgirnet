@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "directions to nearest grocery_store",
+        "a1": "the nearest restaurant is mandarin_roots located at 271_springer_street 4_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "mandarin_roots",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "4_miles",
+            "271_springer_street",
+            "mandarin_roots"
+        ]
+    },
+    {
+        "q2": "that s good let s go and pick a route with no_traffic please",
+        "a2": "there will be moderate_traffic but i will try my best",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "moderate_traffic",
+        "input_ent2": "mandarin_roots",
+        "kvr_entlist_qa2": [
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

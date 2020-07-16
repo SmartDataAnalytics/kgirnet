@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "check forecast for today and tomorrow",
+        "a1": "what city do you want to hear the forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "mountain_view",
+        "a2": "it will be overcast today and stormy tomorrow in mountain_view",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday,tuesday",
+        "obj2": "overcast,stormy",
+        "input_ent2": "mountain_view",
+        "kvr_entlist_qa2": [
+            "stormy",
+            "tomorrow",
+            "today",
+            "overcast",
+            "mountain_view"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

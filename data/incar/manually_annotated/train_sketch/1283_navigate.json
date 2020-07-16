@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "find me a nearby tea or coffee shop",
+        "a1": "cafe_venetia is the only spot i can find it is 8_miles away and there is a road_block_nearby",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "cafe_venetia",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "road_block_nearby",
+            "8_miles",
+            "cafe_venetia"
+        ]
+    },
+    {
+        "q2": "try to find a route to reach there with the shortest distance please",
+        "a2": "i sent the directions on your screen drive carefully",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "thank you car",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "does real madrid have their own stadium?",
+        "a1": "yes the santiago bernab\u00e9u.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes the santiago bernab\u00e9u.",
+        "a1_v2": "yes the santiago bernab\u00e9u.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "santiago bernab\u00e9u is there stadium",
+        "a2": "of course they do! they have a beautiful stadium with a seating capacity of 81,044. ",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "of course they do! they have a beautiful stadium with a seating @relation of @object ",
+        "a2_v2": "of course they do! they have a beautiful stadium with a seating capacity of 81,044. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "santiago bernabeu stadium"
+    },
+    {
+        "q3": "that is a very arbitrary number - did you count them? ",
+        "a3": "it is specified online that real madrid's stadium has a capacity of 81,044. although, would've loved 82,000.",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "it is specified online that real madrid's stadium has a @relation of @object although, would've loved 82,000.",
+        "a3_v2": "it is specified online that real madrid's stadium has a capacity of 81,044. although, would've loved 82,000.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "how many times has real madrid won the champions league?",
+        "a4": "real madrid has won the champions league five times. they won it three times in a row.",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity has won the champions league five times. they won it three times in a row.",
+        "a4_v2": "real madrid has won the champions league five times. they won it three times in a row.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "it is an exceptional team ",
+        "a5": "it has confidential team so they won the match",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "it has confidential team so they won the match",
+        "a5_v2": "it has confidential team so they won the match",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

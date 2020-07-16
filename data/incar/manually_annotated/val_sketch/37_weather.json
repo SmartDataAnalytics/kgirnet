@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what s the weather like in new_york city",
+        "a1": "what days are you inquiring about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "will it drizzle on tuesday",
+        "a2": "on tuesday in new_york there isn t any prediction for drizzle",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday",
+        "obj2": "drizzle",
+        "input_ent2": "new_york",
+        "kvr_entlist_qa2": [
+            "tuesday",
+            "new_york",
+            "drizzle"
+        ]
+    },
+    {
+        "q3": "awesome thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

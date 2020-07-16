@@ -1,0 +1,128 @@
+[
+    {
+        "q1": "when was the last time that team won the world cup?",
+        "a1": "1994",
+        "kgER1": {},
+        "a1_skt": "@object",
+        "a1_v2": "1994",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "how did nigeria do in the last world cup?",
+        "a2": "finished last in group d",
+        "kgER2": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "finished last in @relation",
+        "a2_v2": "finished last in group d",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "nigeria"
+    },
+    {
+        "q3": "who was first in the group?",
+        "a3": "croatia",
+        "kgER3": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity",
+        "a3_v2": "croatia",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "in what ways did croatia play different from nigeria?",
+        "a4": "i think nigeria has not won the world cups",
+        "kgER4": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i think @entity has not won the world cups",
+        "a4_v2": "i think nigeria has not won the world cups",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "nigeria"
+    },
+    {
+        "q5": "will nigeria advance past the group stage in the next world cup?",
+        "a5": "i'm not sure about that, they don't have the best team.",
+        "kgER5": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i'm not sure about that, they don't have the best team.",
+        "a5_v2": "i'm not sure about that, they don't have the best team.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "nigeria"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who is the captain of the croatia?",
+        "a1": "luka modri\u0107",
+        "kgER1": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@captain",
+        "corr_rel1": "captain",
+        "obj1": "luka modric",
+        "input_ent1": "croatia"
+    },
+    {
+        "q2": "is he a good captain? ",
+        "a2": "yes he is.",
+        "kgER2": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes he is.",
+        "a2_v2": "yes he is.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how good is he in your opinion?",
+        "a3": "he is very good i think",
+        "kgER3": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "he is very good i think",
+        "a3_v2": "he is very good i think",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "who is the goalkeeper for croatia?",
+        "a4": "lovre kalini\u0107 is the goalkeeper",
+        "kgER4": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "@object is the @relation",
+        "a4_v2": "@goalkeeper is the goalkeeper",
+        "corr_rel4": "goalkeeper",
+        "obj4": "lovre kalinic",
+        "input_ent4": "croatia"
+    }
+]

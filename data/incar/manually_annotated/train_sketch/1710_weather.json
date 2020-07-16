@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "check weather forecast for seattle",
+        "a1": "which days are you interested in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "seattle",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "for right now car",
+        "a2": "in seattle is hot now with a low temperature of 60f and a high of 70f",
+        "input_rel2": "",
+        "corr_rel2": "monday",
+        "obj2": "60f, 70f, hot",
+        "input_ent2": "seattle",
+        "kvr_entlist_qa2": [
+            "70f",
+            "60f",
+            "hot",
+            "seattle"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

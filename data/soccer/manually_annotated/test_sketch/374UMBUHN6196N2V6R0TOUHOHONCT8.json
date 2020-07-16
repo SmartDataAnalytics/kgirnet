@@ -1,0 +1,131 @@
+[
+    {
+        "q1": "who was the world cup 2018 captain for portugal ?",
+        "a1": "cristiano ronaldo",
+        "kgER1": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@captain",
+        "corr_rel1": "captain",
+        "obj1": "cristiano ronaldo",
+        "input_ent1": "portugal"
+    },
+    {
+        "q2": "how many goals did he score for portugal in that world cup?",
+        "a2": "cristiano ronaldo was the captain of the 2018 world cup 5 goals",
+        "kgER2": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object was the @relation of the @object world cup @object goals",
+        "a2_v2": "cristiano ronaldo was the captain of the 2018 world cup 5 goals",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "portugal"
+    },
+    {
+        "q3": "coinciding with this, christian was an excellent marker for this country besides being the only leader of this team ",
+        "a3": "yes he is good",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes he is good",
+        "a3_v2": "yes he is good",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "christian benteke"
+    },
+    {
+        "q4": "detailed synopsis ",
+        "a4": "he was their man point of attack and i think he would benefit from having more players surroudning him",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "he was their man point of attack and i think he would benefit from having more players surroudning him",
+        "a4_v2": "he was their man point of attack and i think he would benefit from having more players surroudning him",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "cristiano ronaldo is the best player in portugal and scored 5 goals if his team would have helped him but would have gone further in this world cup ",
+        "a5": "i agree that portugal would have gone further if he had more support",
+        "kgER5": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "i agree that @entity would have gone further if he had more support",
+        "a5_v2": "i agree that portugal would have gone further if he had more support",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "cristiano ronaldo"
+    }
+]

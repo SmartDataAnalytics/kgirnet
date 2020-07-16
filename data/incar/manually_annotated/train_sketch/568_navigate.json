@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "can you direct me to a coffee_or_tea_place nearby preferably on a route with no_traffic",
+        "a1": "cafe_venetia is a miles away with no_traffic at 269_alger_dr",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "cafe_venetia",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "no_traffic",
+            "269_alger_dr",
+            "cafe_venetia"
+        ]
+    },
+    {
+        "q2": "sounds great set the gps for there please",
+        "a2": "i updated the map on your screen drive carefully",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "q1": "something easy",
+        "a1": "senegal are a great team",
+        "kgER1": {},
+        "a1_skt": "@entity are a great team",
+        "a1_v2": "senegal are a great team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "senegal is an alright team ",
+        "a2": "senegal is one of the best teams in africa.",
+        "kgER2": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity is one of the best teams in africa.",
+        "a2_v2": "senegal is one of the best teams in africa.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "senegal"
+    },
+    {
+        "q3": "which round did they reach in the most recent world cup.",
+        "a3": "round 16",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@relation @object",
+        "a3_v2": "round 16",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "who did they lose to?",
+        "a4": "they lost to spain",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they lost to @entity",
+        "a4_v2": "they lost to spain",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is the captain of senegal?",
+        "a5": "sadio mane is the captain of senegal is the best",
+        "kgER5": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object is the @relation of @entity is the best",
+        "a5_v2": "@captain is the captain of @entity is the best",
+        "corr_rel5": "captain",
+        "obj5": "sadio mane",
+        "input_ent5": "senegal"
+    }
+]

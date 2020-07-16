@@ -1,0 +1,141 @@
+[
+    {
+        "q1": "who is the manager of atletico madrid \\?",
+        "a1": "diego simeone",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@coach",
+        "corr_rel1": "coach",
+        "obj1": "diego simeone",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "used to play for argentina",
+        "a2": "but quit yes",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "but quit yes",
+        "a2_v2": "but quit yes",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "argentina"
+    },
+    {
+        "q3": "how old is he now \\?",
+        "a3": "he is 48",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "he is @object",
+        "a3_v2": "he is 48",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "old trafford"
+    },
+    {
+        "q4": "who is the best player for atletico madrid \\?",
+        "a4": "antonie griezmanm is the best player in atletico de madrid",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object is the @relation in @entity",
+        "a4_v2": "antonie griezmanm is the best player in atletico de madrid",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "atletico madrid"
+    },
+    {
+        "q5": "how long has antonie griezmann been playing for atletico madrid \\?",
+        "a5": "i believe several years now",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i believe several years now",
+        "a5_v2": "i believe several years now",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "atletico madrid"
+    }
+]

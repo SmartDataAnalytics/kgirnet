@@ -1,0 +1,72 @@
+[
+    {
+        "q1": "how many goals in average does your team make per game?",
+        "a1": "that's a tough one to answer as it depends on if you include friendly games.",
+        "kgER1": {
+            "avram glazer": [
+                "chairman"
+            ]
+        },
+        "a1_skt": "that's a tough one to answer as it depends on if you include friendly games.",
+        "a1_v2": "that's a tough one to answer as it depends on if you include friendly games.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "assume it does include friendly games ",
+        "a2": "15 goals per game",
+        "kgER2": {
+            "avram glazer": [
+                "chairman"
+            ]
+        },
+        "a2_skt": "@object @relation per game",
+        "a2_v2": "15 goals per game",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "i think including friendly games about 12",
+        "a3": "who is sweden's rival?",
+        "kgER3": {
+            "avram glazer": [
+                "chairman"
+            ]
+        },
+        "a3_skt": "who is sweden's rival?",
+        "a3_v2": "who is sweden's rival?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "12 (first in 1934)"
+    },
+    {
+        "q4": "denmark",
+        "a4": "denmark is better than sweden",
+        "kgER4": {
+            "avram glazer": [
+                "chairman"
+            ]
+        },
+        "a4_skt": "denmark is better than @entity",
+        "a4_v2": "denmark is better than sweden",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "why do you think so",
+        "a5": "how come denmark did qualify but sweden did?",
+        "kgER5": {
+            "avram glazer": [
+                "chairman"
+            ]
+        },
+        "a5_skt": "how come denmark did qualify but @entity did?",
+        "a5_v2": "how come denmark did qualify but sweden did?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i admire arsenal",
+        "a1": "i am not such a fan of arsenal but i like them more than mexico.",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i am not such a fan of @entity but i like them more than @entity",
+        "a1_v2": "i am not such a fan of arsenal but i like them more than mexico.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "why don't you like them?",
+        "a2": "they've been average in past few seasons. ",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they've been average in past few seasons. ",
+        "a2_v2": "they've been average in past few seasons. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "but they can achieve great things this year ",
+        "a3": "arsenal is a great team from spain.",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@entity is a great team from spain.",
+        "a3_v2": "arsenal is a great team from spain.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    },
+    {
+        "q4": "arsenal are from north london",
+        "a4": "london is a beautiful city ",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "london is a beautiful city ",
+        "a4_v2": "london is a beautiful city ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "arsenal"
+    },
+    {
+        "q5": "who is arsenal's manager?",
+        "a5": "una is their boss.",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "una is their boss.",
+        "a5_v2": "una is their boss.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "arsenal"
+    }
+]

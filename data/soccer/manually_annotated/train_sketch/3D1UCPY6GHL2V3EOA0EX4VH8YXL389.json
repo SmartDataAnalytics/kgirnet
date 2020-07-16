@@ -1,0 +1,195 @@
+[
+    {
+        "q1": "i think the best player in switzerland is shaquiri",
+        "a1": "i think that if he is a good player",
+        "kgER1": {
+            "xherdan shaqiri": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i think that if he is a good player",
+        "a1_v2": "i think that if he is a good player",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "how many goals has shaquiri scored for switzerland \\?",
+        "a2": "he has scored 22 goals",
+        "kgER2": {
+            "xherdan shaqiri": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "he has scored @object @relation",
+        "a2_v2": "he has scored @jersey goals",
+        "corr_rel2": "goals",
+        "obj2": "22",
+        "input_ent2": "xherdan shaqiri"
+    },
+    {
+        "q3": "which club does he play for \\?",
+        "a3": "xherdan shaqiri currently plays for liverpool",
+        "kgER3": {
+            "xherdan shaqiri": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "@object currently plays for @entity",
+        "a3_v2": "xherdan shaqiri currently plays for liverpool",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "how many goals did he scored for liverpool \\?",
+        "a4": "i think around 6 this season",
+        "kgER4": {
+            "xherdan shaqiri": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i think around @object this season",
+        "a4_v2": "i think around @jersey this season",
+        "corr_rel4": "goals",
+        "obj4": "6",
+        "input_ent4": "xherdan shaqiri"
+    },
+    {
+        "q5": "who is switzerlands moat valuable player \\?",
+        "a5": "i would say xherdan shaqiri",
+        "kgER5": {
+            "xherdan shaqiri": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i would say @object",
+        "a5_v2": "i would say xherdan shaqiri",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "how many titles have juventus won?",
+        "a1": "2",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "2",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "q1: do you know how many titles juventus won last season?  a1: i heard that they won 2 titles. ",
+        "a2": "yes i believe 2",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "yes i believe @object",
+        "a2_v2": "yes i believe 2",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "juventus"
+    },
+    {
+        "q3": "what year was the juventus team established?",
+        "a3": "1897",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "@founded_on",
+        "corr_rel3": "founded on",
+        "obj3": "1897",
+        "input_ent3": "juventus"
+    },
+    {
+        "q4": "what is juventus's recent records ?",
+        "a4": "juventus signed record breaking transfer of cristiano ronaldo",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "@entity signed record breaking transfer of @object",
+        "a4_v2": "juventus signed record breaking transfer of cristiano ronaldo",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "juventus"
+    },
+    {
+        "q5": "who established the team?",
+        "a5": "whom do you like?",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "whom do you like?",
+        "a5_v2": "whom do you like?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

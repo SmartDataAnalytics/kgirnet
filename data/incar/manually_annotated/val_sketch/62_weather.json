@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "will it be hot in exeter or the next_few_days",
+        "a1": "it will be between 80f - 100f on tuesday in exeter",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday",
+        "obj1": "80f,100f",
+        "input_ent1": "exeter",
+        "kvr_entlist_qa1": [
+            "tuesday",
+            "exeter",
+            "100f",
+            "80f"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "sure",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

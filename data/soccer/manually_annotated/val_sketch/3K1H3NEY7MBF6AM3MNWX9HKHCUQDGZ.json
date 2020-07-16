@@ -1,0 +1,209 @@
+[
+    {
+        "q1": "who is the captain for the swiss national team?",
+        "a1": "stephan lichtsteiner",
+        "kgER1": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@captain",
+        "corr_rel1": "captain",
+        "obj1": "stephan lichtsteiner",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "who is the captain of liverpool",
+        "a2": "not a swiss player.",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "not a swiss player.",
+        "a2_v2": "not a swiss player.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "how long has stephan lichtesteiner been captain for the swiss national team?",
+        "a3": "i'm not sure exactly but it takes some time in the swiss team",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i'm not sure exactly but it takes some time in the swiss team",
+        "a3_v2": "i'm not sure exactly but it takes some time in the swiss team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "stephan lichtsteiner"
+    },
+    {
+        "q4": "do you think embolo could be the best player in the future?",
+        "a4": "reel donald embolo is a swiss professional footballer who plays as a forward for german club schalke 04 and the swiss national team. he is young 21yrs old and he still have a great future ahead of him",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "reel donald embolo is a swiss professional footballer who plays as a @relation for @entity club schalke @object and the swiss national team. he is young 21yrs old and he still have a great future ahead of him",
+        "a4_v2": "reel donald embolo is a swiss professional footballer who plays as a forward for german club schalke 04 and the swiss national team. he is young 21yrs old and he still have a great future ahead of him",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "breel embolo"
+    },
+    {
+        "q5": "how many more years do you expect him to stay in swiss football? ",
+        "a5": "he's pretty valuable, so i'd be surprised if he stays longer than 2 years.",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "he's pretty valuable, so i'd be surprised if he stays longer than @object years.",
+        "a5_v2": "he's pretty valuable, so i'd be surprised if he stays longer than 2 years.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

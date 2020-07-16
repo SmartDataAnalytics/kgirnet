@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "what does arsenal need to do in order to improve this season \\?",
+        "a1": "they need to find a striker who can score",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they need to find a striker who can score",
+        "a1_v2": "they need to find a striker who can score",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "who can they bring into the team to be better \\?",
+        "a2": "youri tielemans would be a great pickup",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object would be a great pickup",
+        "a2_v2": "youri tielemans would be a great pickup",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "who is the best striker so far \\?",
+        "a3": "ronaldo",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "ronaldo",
+        "a3_v2": "ronaldo",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who gets more minutes lacazette or aubameyang \\?",
+        "a4": "lacazette gets more minutes",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "lacazette gets more minutes",
+        "a4_v2": "lacazette gets more minutes",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "alexandre lacazette"
+    },
+    {
+        "q5": "who is the coach?",
+        "a5": "emery is coach",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is @relation",
+        "a5_v2": "@coach is coach",
+        "corr_rel5": "coach",
+        "obj5": "unai emery",
+        "input_ent5": "arsenal"
+    }
+]

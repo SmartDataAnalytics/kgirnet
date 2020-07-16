@@ -1,0 +1,116 @@
+[
+    {
+        "q1": "who has the most goals in serie a history?",
+        "a1": "football records in italy",
+        "kgER1": {},
+        "a1_skt": "football records in @entity",
+        "a1_v2": "football records in italy",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "how many goals has italy scored?",
+        "a2": "more than 1000 for sure.",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "more than @object for sure.",
+        "a2_v2": "more than 1000 for sure.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "who is italy's all-time leading goal scorer?",
+        "a3": "luigi riva",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "luigi riva",
+        "a3_v2": "luigi riva",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "italy"
+    },
+    {
+        "q4": "italy national football team records and statistics",
+        "a4": "silvio piola",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "silvio piola",
+        "a4_v2": "silvio piola",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "italy"
+    },
+    {
+        "q5": "who is italy's current best player?",
+        "a5": "some may not agree with me, but i honestly think balotelli is the best player for italy.",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "some may not agree with me, but i honestly think balotelli is the @relation for italy.",
+        "a5_v2": "some may not agree with me, but i honestly think balotelli is the best player for italy.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "italy"
+    }
+]

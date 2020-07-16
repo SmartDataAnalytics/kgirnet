@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "what time do i have to take medicine and who is helping",
+        "a1": "i have you set for two one at 6pm and one at 3pm",
+        "input_rel1": "time,date",
+        "corr_rel1": "time",
+        "obj1": "3pm,6pm",
+        "input_ent1": "medicine",
+        "kvr_entlist_qa1": [
+            "3pm",
+            "6pm"
+        ]
+    },
+    {
+        "q2": "who will be helping me for the one at 3pm",
+        "a2": "mother is one the helping at 3pm anything else",
+        "input_rel2": "time,party",
+        "corr_rel2": "time,party",
+        "obj2": "mother,3pm",
+        "input_ent2": "medicine",
+        "kvr_entlist_qa2": [
+            "mother",
+            "3pm"
+        ]
+    },
+    {
+        "q3": "nope thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

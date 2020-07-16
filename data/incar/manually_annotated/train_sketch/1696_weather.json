@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what s the forecast for today",
+        "a1": "what city do you want the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "please find out if it will be windy in seattle today",
+        "a2": "it will not be windy in seattle today",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "seattle",
+        "kvr_entlist_qa2": [
+            "today",
+            "windy",
+            "seattle"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

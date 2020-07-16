@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "i need to find a gas_station that fast to get to",
+        "a1": "there is a chevron near",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "chevron",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "chevron"
+        ]
+    },
+    {
+        "q2": "how close is it and where is it located",
+        "a2": "chevron is 7_miles away and located at 783_arcadia_pl",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "address, distance",
+        "obj2": "783_arcadia_pl",
+        "input_ent2": "gas_station",
+        "kvr_entlist_qa2": [
+            "chevron",
+            "783_arcadia_pl",
+            "7_miles"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

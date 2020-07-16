@@ -1,0 +1,157 @@
+[
+    {
+        "q1": "bvb dortmund is the best team in germany \\?",
+        "a1": "i think yes , bvb dortmund is the best team in germany",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i think yes , bvb dortmund is the best team in @entity",
+        "a1_v2": "i think yes , bvb dortmund is the best team in germany",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "who is bvb dortmund 's manager \\?",
+        "a2": "lucien favre is the bvb dortmund 's manager",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object is the bvb dortmund 's manager",
+        "a2_v2": "@coach is the bvb dortmund 's manager",
+        "corr_rel2": "coach",
+        "obj2": "lucien favre",
+        "input_ent2": "bvb dortmund"
+    },
+    {
+        "q3": "should they switch their goal keepr",
+        "a3": "if you want to go far you must do everything right",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "if you want to go far you must do everything right",
+        "a3_v2": "if you want to go far you must do everything right",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "is dortmund going to win the league this year \\?",
+        "a4": "ta imparable bvb dortmund",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "ta imparable bvb dortmund",
+        "a4_v2": "ta imparable bvb dortmund",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bvb dortmund"
+    },
+    {
+        "q5": "did they bough new players this year \\?",
+        "a5": "i agree , new players have arrived this year as paco alcacer",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i agree , new players have arrived this year as @object",
+        "a5_v2": "i agree , new players have arrived this year as paco alcacer",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

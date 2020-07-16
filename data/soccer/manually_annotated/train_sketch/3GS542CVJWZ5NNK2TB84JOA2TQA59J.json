@@ -1,0 +1,82 @@
+[
+    {
+        "q1": "who is the manager of chelsea \\?",
+        "a1": "conte",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "conte",
+        "a1_v2": "conte",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "who is the captain of the chelsa team \\?",
+        "a2": "gary cahill",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "gary cahill",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what position does he play in \\?",
+        "a3": "he is a defender",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "he is a @relation",
+        "a3_v2": "he is a position",
+        "corr_rel3": "position",
+        "obj3": "defender",
+        "input_ent3": "gary cahill"
+    },
+    {
+        "q4": "do you know how old is he \\?",
+        "a4": "he is 32",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "he is @object",
+        "a4_v2": "he is 32",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "old trafford"
+    }
+]

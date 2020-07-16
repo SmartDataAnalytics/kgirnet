@@ -1,0 +1,73 @@
+[
+    {
+        "q1": "this is one of my favorite team",
+        "a1": "i don't think paris sg have what it takes.",
+        "kgER1": {},
+        "a1_skt": "i don't think paris sg have what it takes.",
+        "a1_v2": "i don't think paris sg have what it takes.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "why do you think that ? ",
+        "a2": "no competition in league, untested against big teams",
+        "kgER2": {},
+        "a2_skt": "no competition in league, untested against big teams",
+        "a2_v2": "no competition in league, untested against big teams",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "i wouldn't say that their are a few good teams in their league.",
+        "a3": "we'll find out soon!",
+        "kgER3": {},
+        "a3_skt": "we'll find out soon!",
+        "a3_v2": "we'll find out soon!",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "paris sg flag what is color? ",
+        "a4": "paris sg flag is mostly blue with some red.",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "paris sg flag is mostly @object with some @object",
+        "a4_v2": "paris sg flag is mostly blue with some red.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "paris sg"
+    },
+    {
+        "q5": "how big are the hands of their goalkeeper?",
+        "a5": "a very big and have good skils",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "a very big and have good skils",
+        "a5_v2": "a very big and have good skils",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "goalkeeper"
+    }
+]

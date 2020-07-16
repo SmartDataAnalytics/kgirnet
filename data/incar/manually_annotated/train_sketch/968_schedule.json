@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "what is the date location and agenda of my next conference",
+        "a1": "your next conference is on the_3rd in conference_room_100 to discuss_dress_code",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "agenda,room,date",
+        "obj1": "conference_room_100,discuss_dress_code,the_3rd",
+        "input_ent1": "conference",
+        "kvr_entlist_qa1": [
+            "discuss_dress_code",
+            "conference",
+            "conference_room_100",
+            "the_3rd"
+        ]
+    },
+    {
+        "q2": "perfect thanks",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

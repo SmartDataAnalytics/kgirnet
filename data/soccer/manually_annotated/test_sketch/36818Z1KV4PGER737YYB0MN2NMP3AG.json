@@ -1,0 +1,82 @@
+[
+    {
+        "q1": "i have a lot of confidence in this team",
+        "a1": "they have a strong and proven history ",
+        "kgER1": {},
+        "a1_skt": "they have a strong and proven history ",
+        "a1_v2": "they have a strong and proven history ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "can you give me one example of their strength? ",
+        "a2": "they have 28 major trophies",
+        "kgER2": {},
+        "a2_skt": "they have @object major trophies",
+        "a2_v2": "they have 28 major trophies",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "chelsea will go on to win their 29th trophy soon.",
+        "a3": "a trophy is not a strength. what attributes do the players or team have that have gotten them the trophies?",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "a trophy is not a strength. what attributes do the players or team have that have gotten them the trophies?",
+        "a3_v2": "a trophy is not a strength. what attributes do the players or team have that have gotten them the trophies?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "chelsea"
+    },
+    {
+        "q4": "why are you telling that trophy is not a strength?",
+        "a4": "where is chelsea located?",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "where is @entity located?",
+        "a4_v2": "where is chelsea located?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "chelsea is located in london",
+        "a5": "chelsea is the best team in london",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "@entity is the best team in london",
+        "a5_v2": "chelsea is the best team in london",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "chelsea"
+    }
+]

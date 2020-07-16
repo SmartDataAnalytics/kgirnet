@@ -1,0 +1,147 @@
+[
+    {
+        "q1": "is switzerland good?",
+        "a1": "yes, they reached the round of 16 at the fifa world cup.",
+        "kgER1": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes, they reached the @relation of @object at the fifa world cup.",
+        "a1_v2": "yes, they reached the round of 16 at the fifa world cup.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "is that good?",
+        "a2": "yes they are good.",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes they are good.",
+        "a2_v2": "yes they are good.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is switzerland's best player?",
+        "a3": "shaqiri",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "shaqiri",
+        "a3_v2": "shaqiri",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "switzerland"
+    },
+    {
+        "q4": "granit xhaka",
+        "a4": "best swiss player? ",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "granit xhaka": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a4_skt": "best swiss player? ",
+        "a4_v2": "best swiss player? ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "granit xhaka"
+    },
+    {
+        "q5": "you said it, xherdan shaqiri",
+        "a5": "what color is switzerland's uniforms?",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "granit xhaka": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "xherdan shaqiri": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a5_skt": "what color is @entity uniforms?",
+        "a5_v2": "what color is switzerland's uniforms?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "xherdan shaqiri"
+    }
+]

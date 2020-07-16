@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "do you think portugal can win the euro? ",
+        "a1": "portugal might win the euro.",
+        "kgER1": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity might win the euro.",
+        "a1_v2": "portugal might win the euro.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "is ronaldo there best player?",
+        "a2": "yes of course it is the best player from portugal",
+        "kgER2": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes of course it is the @relation from @entity",
+        "a2_v2": "yes of course it is the best player from portugal",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "cristiano ronaldo"
+    },
+    {
+        "q3": "is the best player from portufal is roanaldo?",
+        "a3": "i so",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i so",
+        "a3_v2": "i so",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "did portugal have new members?",
+        "a4": "yes they always have 1-2 young players.",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes they always have @object young players.",
+        "a4_v2": "yes they always have 1-2 young players.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "portugal"
+    },
+    {
+        "q5": "who is their current manager?",
+        "a5": "fernando santos",
+        "kgER5": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object santos",
+        "a5_v2": "fernando santos",
+        "corr_rel5": "coach",
+        "obj5": "fernando santos",
+        "input_ent5": "portugal"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "i admire argentina",
+        "a1": "when was the last major win for argentina?",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "when was the last major win for @entity",
+        "a1_v2": "when was the last major win for argentina?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "argentina's win over the netherlands in the 2014 world cup was a major win and nailbiter in the semi-finals.",
+        "a2": "and they won the world cup in 1986 ",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "and they won the world cup in @object ",
+        "a2_v2": "and they won the world cup in 1986 ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "argentina"
+    },
+    {
+        "q3": "why hasn't argentina won recently?",
+        "a3": "he was not competent enough ",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "he was not competent enough ",
+        "a3_v2": "he was not competent enough ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "argentina"
+    },
+    {
+        "q4": "do you think messi will keep playing?",
+        "a4": "messi has asked to leave the argentinian team multiple times in the past but was always asked to stay by the coaches.",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "messi has asked to leave the @entity team multiple times in the past but was always asked to stay by the @relation",
+        "a4_v2": "messi has asked to leave the argentinian team multiple times in the past but was always asked to stay by the coaches.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "lionel messi"
+    },
+    {
+        "q5": "what coach asked him recently?",
+        "a5": "if he will be staying or not?",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "if he will be staying or not?",
+        "a5_v2": "if he will be staying or not?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "how long to the nearest grocery_store",
+        "a1": "we re heading at trader_joes 408_university_ave it s 5_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi, traffic_info",
+        "obj1": "trader_joes, 5_miles",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "trader_joes",
+            "408_university_ave"
+        ]
+    },
+    {
+        "q2": "please pick the quickest route and let s go there thanks",
+        "a2": "follow the directions on your screen and enjoy the trip",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

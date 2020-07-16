@@ -1,0 +1,147 @@
+[
+    {
+        "q1": "i really love the team uruguay",
+        "a1": "i find them not that strong as a team.",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i find them not that strong as a team.",
+        "a1_v2": "i find them not that strong as a team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": "how can you say that, suarez is great. ",
+        "a2": " luis su\u00e1rez luis su\u00e1rez should concentrate on being a great player and a great man",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": " luis su\u00e1rez luis su\u00e1rez should concentrate on being a great player and a great man",
+        "a2_v2": " luis su\u00e1rez luis su\u00e1rez should concentrate on being a great player and a great man",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "luis suarez"
+    },
+    {
+        "q3": "luis suarez is a great player with cavani",
+        "a3": "it takes more than one player to make a team.",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a3_skt": "it takes more than one player to make a team.",
+        "a3_v2": "it takes more than one player to make a team.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "luis suarez"
+    },
+    {
+        "q4": "what other uruguayan players do you like?",
+        "a4": "i like diego godin, he's a very good defender. ",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a4_skt": "i like @object he's a very good @relation ",
+        "a4_v2": "i like diego godin, he's a very good defender. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "how would you compare godin to suarez?",
+        "a5": "world class",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a5_skt": "world class",
+        "a5_v2": "world class",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "luis suarez"
+    }
+]

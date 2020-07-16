@@ -1,0 +1,136 @@
+[
+    {
+        "q1": "does argentina have a good team?",
+        "a1": "they could have done better this world cup but they could certainly have done worse ",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they could have done better this world cup but they could certainly have done worse ",
+        "a1_v2": "they could have done better this world cup but they could certainly have done worse ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "they were not very good this world cup",
+        "a2": "better luck next time",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "better luck next time",
+        "a2_v2": "better luck next time",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "do you think they are the best in south america?",
+        "a3": "no, brazil is a better team than argentina",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "no, @entity is a better team than @entity",
+        "a3_v2": "no, brazil is a better team than argentina",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "why do you think brazil is better?",
+        "a4": "because they have consistently played better.",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "because they have consistently played better.",
+        "a4_v2": "because they have consistently played better.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "brazil"
+    },
+    {
+        "q5": "maradona or messi? ",
+        "a5": "messi is better",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "messi is better",
+        "a5_v2": "messi is better",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "lionel messi"
+    }
+]

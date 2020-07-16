@@ -1,0 +1,18 @@
+[
+    {
+        "q1": "what is the location and time of the meeting and who is attending",
+        "a1": "you have two meeting scheduled one at 3pm in conference_room_100 with the vice_president and another at 7pm in conference_room_100 with the infrastructure_team do you need the dates as well",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,room,party",
+        "obj1": "7pm,infrastructure_team,conference_room_100,vice_president,3pm",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "7pm",
+            "infrastructure_team",
+            "conference_room_100",
+            "vice_president",
+            "meeting",
+            "3pm"
+        ]
+    }
+]

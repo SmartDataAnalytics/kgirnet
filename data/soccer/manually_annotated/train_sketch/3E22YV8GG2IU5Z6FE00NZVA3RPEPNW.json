@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "who are the best players for senegal?",
+        "a1": "sadio mane, keita balde",
+        "kgER1": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object @object",
+        "a1_v2": "sadio mane, keita balde",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "senegal"
+    },
+    {
+        "q2": "how did keita performed?",
+        "a2": "he played great games this summer",
+        "kgER2": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "he played great games this summer",
+        "a2_v2": "he played great games this summer",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "keita balde"
+    },
+    {
+        "q3": "against whom?",
+        "a3": "he played great games against poland and japan",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "he played great games against poland and japan",
+        "a3_v2": "he played great games against poland and japan",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what was the score for senegal vs poland ?",
+        "a4": "senegal 2 poland 1",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity @object poland @object",
+        "a4_v2": "senegal 2 poland 1",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "senegal"
+    },
+    {
+        "q5": "whos their top goal scorer?",
+        "a5": "mousa konate is their all time top.",
+        "kgER5": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object is their all time top.",
+        "a5_v2": "mousa konate is their all time top.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

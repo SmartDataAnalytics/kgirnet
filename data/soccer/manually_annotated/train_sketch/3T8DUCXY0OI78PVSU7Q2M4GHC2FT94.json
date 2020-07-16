@@ -1,0 +1,218 @@
+[
+    {
+        "q1": "modric is the best player in the world?",
+        "a1": "what about messi and ronaldo? ",
+        "kgER1": {
+            "luka modric": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "midfielder"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "what about messi and ronaldo? ",
+        "a1_v2": "what about messi and ronaldo? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "luka modric"
+    },
+    {
+        "q2": "modric just won uefa player of the year, ahead of ronaldo ",
+        "a2": " modric is a good player but the best recognition that exists is the balon d'or",
+        "kgER2": {
+            "luka modric": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "midfielder"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": " modric is a good player but the best recognition that exists is the balon d'or",
+        "a2_v2": " modric is a good player but the best recognition that exists is the balon d'or",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "cristiano ronaldo"
+    },
+    {
+        "q3": "so now that modric has won the ballon d'or, we can think of him as a great player ?",
+        "a3": "i think even without golden ball he is the best midfielder right now and for past few years.",
+        "kgER3": {
+            "luka modric": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "midfielder"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "i think even without golden ball he is the best @relation right now and for past few years.",
+        "a3_v2": "i think even without golden ball he is the best midfielder right now and for past few years.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    },
+    {
+        "q4": "apart from the names above, who do you think is the current best midfield player, my choice would be kevin de bruyne, yours?",
+        "a4": "kevin de bruyne is the best striker",
+        "kgER4": {
+            "luka modric": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "midfielder"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "kevin de bruyne": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a4_skt": "@object is the best striker",
+        "a4_v2": "kevin de bruyne is the best striker",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "kevin de bruyne"
+    },
+    {
+        "q5": "which club team and which country does kevin de bruyne play for?",
+        "a5": "man city",
+        "kgER5": {
+            "luka modric": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "midfielder"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "kevin de bruyne": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a5_skt": "man city",
+        "a5_v2": "man city",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "kevin de bruyne"
+    }
+]

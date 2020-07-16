@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "what time is my football_activity and with who",
+        "a1": "i have two in your calendar one at 1pm with father and one at 6pm with aunt",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "time,party",
+        "obj1": "6pm,1pm,father,aunt",
+        "input_ent1": "football_activity",
+        "kvr_entlist_qa1": [
+            "6pm",
+            "aunt",
+            "1pm",
+            "father"
+        ]
+    },
+    {
+        "q2": "thanks that will suffice",
+        "a2": "have a good day",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

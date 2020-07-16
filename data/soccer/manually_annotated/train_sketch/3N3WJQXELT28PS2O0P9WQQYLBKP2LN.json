@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i absolutely adore france",
+        "a1": "i bet you just like them because they won the world cup",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i bet you just like them because they won the world cup",
+        "a1_v2": "i bet you just like them because they won the world cup",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "france"
+    },
+    {
+        "q2": "nah, i was a big fan of zidane.",
+        "a2": "totally agree on a great team",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "totally agree on a great team",
+        "a2_v2": "totally agree on a great team",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "zinedine zidane"
+    },
+    {
+        "q3": "who is the coach of the french national team?",
+        "a3": "france won the world cup because of the coaches and outstanding team players. ",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity won the world cup because of the @relation and outstanding team players. ",
+        "a3_v2": "france won the world cup because of the coaches and outstanding team players. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "official managers ",
+        "a4": "france has good coaches",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity has good @relation",
+        "a4_v2": "france has good coaches",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "are you upset by the number of non france born players on frances team?",
+        "a5": "no, this is the direction of football. ",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "no, this is the direction of football. ",
+        "a5_v2": "no, this is the direction of football. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "france"
+    }
+]

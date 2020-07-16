@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "find the nearest parking_garage",
+        "a1": "the nearest parking_garage at 550_alester_ave is dish_parking it is 2_miles away with a road_block_nearby",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "dish_parking",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "road_block_nearby",
+            "dish_parking",
+            "550_alester_ave",
+            "parking_garage",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "that s good please pick a quick route to go there",
+        "a2": "setting navigation now",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "dish_parking",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "great thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

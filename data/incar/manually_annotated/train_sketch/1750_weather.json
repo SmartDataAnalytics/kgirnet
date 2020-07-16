@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "can you give me the weather this week for new_york city",
+        "a1": "the weather in new_york is predicted to be cloudy the temperature should be a low of 40f and a high of 60f",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "monday",
+        "obj1": "40f,60f,cloudy",
+        "input_ent1": "new_york",
+        "kvr_entlist_qa1": [
+            "40f",
+            "60f",
+            "cloudy",
+            "new_york"
+        ]
+    },
+    {
+        "q2": "thanks a bunch",
+        "a2": "you are very welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

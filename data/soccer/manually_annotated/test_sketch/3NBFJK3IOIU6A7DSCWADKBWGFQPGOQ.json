@@ -1,0 +1,200 @@
+[
+    {
+        "q1": "anthony martial is my favorite player from manchester united. who is yours?",
+        "a1": "my favorite player is their starting striker.",
+        "kgER1": {
+            "anthony martial": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "my favorite player is their starting striker.",
+        "a1_v2": "my favorite player is their starting striker.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "anthony martial"
+    },
+    {
+        "q2": "what player is your least favorite from manchester united?",
+        "a2": "alexis sanchez, didn't like the way he left arsenal",
+        "kgER2": {
+            "anthony martial": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object didn't like the way he left @entity",
+        "a2_v2": "alexis sanchez, didn't like the way he left arsenal",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "manchester united"
+    },
+    {
+        "q3": "what choice did he have? he had to leave.",
+        "a3": "he wanted to play for jose mourinho.",
+        "kgER3": {
+            "anthony martial": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "he wanted to play for @object",
+        "a3_v2": "he wanted to play for jose mourinho.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "paul pogba is my favorite player from manchester united.",
+        "a4": "he is a good striker",
+        "kgER4": {
+            "anthony martial": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "paul pogba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a4_skt": "he is a good striker",
+        "a4_v2": "he is a good striker",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "who do you think is the most talented player, regardless of whether you personally like them?",
+        "a5": "james robson is the most talented because of the amazing goal he scored this season against west ham. ",
+        "kgER5": {
+            "anthony martial": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "paul pogba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a5_skt": "james robson is the most talented because of the amazing @relation he scored this season against west ham. ",
+        "a5_v2": "james robson is the most talented because of the amazing goal he scored this season against west ham. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q6": "manchester united is definitely a talented team. i have to run. have a good day!",
+        "a6": "yes very talented but ok you do the same.",
+        "kgER6": {
+            "anthony martial": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "paul pogba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a6_skt": "yes very talented but ok you do the same.",
+        "a6_v2": "yes very talented but ok you do the same.",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "manchester united"
+    }
+]

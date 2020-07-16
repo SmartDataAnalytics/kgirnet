@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "check weather for new_york city",
+        "a1": "new_york is supposed to be fair with a chance of rain on saturday with the highs in the 90s and lows in the 20s",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "saturday",
+        "obj1": "rain",
+        "input_ent1": "new_york",
+        "kvr_entlist_qa1": [
+            "saturday",
+            "rain",
+            "new_york"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "glad to help",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

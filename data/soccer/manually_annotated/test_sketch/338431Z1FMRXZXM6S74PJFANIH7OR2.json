@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "bayern ",
+        "a1": "great german side",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "great @entity side",
+        "a1_v2": "great german side",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "whats the team name from bayern?",
+        "a2": "fc bayern munich ev",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "fc @entity ev",
+        "a2_v2": "fc bayern munich ev",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bayern munich"
+    },
+    {
+        "q3": "when was the team established?",
+        "a3": "february 27, 1900",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "@founded_on",
+        "corr_rel3": "founded on",
+        "obj3": "1900",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "who's their current president?",
+        "a4": "uli hoeneb",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "uli hoeneb",
+        "a4_v2": "uli hoeneb",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is their all time top scorer?",
+        "a5": "what was the team's overall score this season?",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "what was the team's overall score this season?",
+        "a5_v2": "what was the team's overall score this season?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

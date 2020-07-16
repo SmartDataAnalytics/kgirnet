@@ -1,0 +1,139 @@
+[
+    {
+        "q1": "i admire belgium",
+        "a1": "i too like belgium",
+        "kgER1": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i too like @entity",
+        "a1_v2": "i too like belgium",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "belgium"
+    },
+    {
+        "q2": "who is their best player?",
+        "a2": "i would say eden hazard or kevin de bruyne",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i would say @object or @object",
+        "a2_v2": "i would say eden hazard or kevin de bruyne",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "where did they finish in the world cup?",
+        "a3": "they finished third in the world cup",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they finished third in the world cup",
+        "a3_v2": "they finished third in the world cup",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "which league does eden hazard play for? he looked great at the world cup.",
+        "a4": "play in the premier league of england in chelsea f.c ",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "play in the premier league of england in @entity f.c ",
+        "a4_v2": "play in the premier league of england in chelsea f.c ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "eden hazard"
+    },
+    {
+        "q5": "can belguim resign eden or no?",
+        "a5": "it would be a recommendation. ",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "it would be a recommendation. ",
+        "a5_v2": "it would be a recommendation. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "emre can"
+    }
+]

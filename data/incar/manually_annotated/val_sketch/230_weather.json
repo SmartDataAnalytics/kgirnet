@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "what s the weather like today and tomorrow",
+        "a1": "what city do you want the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "manhattan please",
+        "a2": "the weather for manhattan will be snow low of 70f high of 90f on monday and hot low of 70f high of 90f on tuesday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday,tuesday",
+        "obj2": "snow,70f,90f,hot",
+        "input_ent2": "manhattan",
+        "kvr_entlist_qa2": [
+            "monday",
+            "snow",
+            "tuesday",
+            "70f",
+            "manhattan",
+            "90f",
+            "hot"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

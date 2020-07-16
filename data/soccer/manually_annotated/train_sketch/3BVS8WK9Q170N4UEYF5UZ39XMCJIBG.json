@@ -1,0 +1,88 @@
+[
+    {
+        "q1": "good short ",
+        "a1": "barcelona's been doing great lately",
+        "kgER1": {},
+        "a1_skt": "@entity been doing great lately",
+        "a1_v2": "barcelona's been doing great lately",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "whats is barcelona?",
+        "a2": "they are a soccer team based in spain.",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they are a soccer team based in spain.",
+        "a2_v2": "they are a soccer team based in spain.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "barcelona"
+    },
+    {
+        "q3": "are they top of their table?",
+        "a3": "yes",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "yes",
+        "a3_v2": "yes",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "could barcelona win?",
+        "a4": "win what?",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "win what?",
+        "a4_v2": "win what?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "the cup i meant",
+        "a5": "definitely",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "definitely",
+        "a5_v2": "definitely",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i really love the team ac milan",
+        "a1": "yes,true.me too",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes,true.me too",
+        "a1_v2": "yes,true.me too",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "do you like them because of their winning streak?",
+        "a2": "no, i like them for the players they bring to the team in the past few years, their defense is really good.",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "no, i like them for the players they bring to the team in the past few years, their @relation is really good.",
+        "a2_v2": "no, i like them for the players they bring to the team in the past few years, their defense is really good.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "what kind of tournament does this team play? ",
+        "a3": "well, in addition to their domestic league and cup, ac milan qualified for the 2018/19 uefa europa  league.",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "well, in addition to their domestic league and cup, ac milan qualified for the 2018/19 uefa europa  league.",
+        "a3_v2": "well, in addition to their domestic league and cup, ac milan qualified for the 2018/19 uefa europa  league.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what are their summer transfers?",
+        "a4": "there were quite a few but the most expensive was gonzalo higua\u00edn from juventes.",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "there were quite a few but the most expensive was @object from juventes.",
+        "a4_v2": "there were quite a few but the most expensive was gonzalo higua\u00edn from juventes.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "do you think higua\u00edn was worth it?",
+        "a5": "i think so however we won't know until the season starts",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i think so however we won't know until the season starts",
+        "a5_v2": "i think so however we won't know until the season starts",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "gonzalo higuain"
+    }
+]

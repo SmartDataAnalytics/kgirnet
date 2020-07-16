@@ -1,0 +1,161 @@
+[
+    {
+        "q1": "i think portugal was lucky winning the european championship in 2016? what do you think?",
+        "a1": " good team",
+        "kgER1": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": " good team",
+        "a1_v2": " good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "who do you think has a better team mexico or portugal?",
+        "a2": "i think portugal has the better players but mexico works better as a team.",
+        "kgER2": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i think @entity has the better players but @entity works better as a team.",
+        "a2_v2": "i think portugal has the better players but mexico works better as a team.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "mexico"
+    },
+    {
+        "q3": "what do you think will happen when they next meet?",
+        "a3": "i think that portugal would win tighly",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think that @entity would win tighly",
+        "a3_v2": "i think that portugal would win tighly",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "do you think the team heavily relies on ronaldo?",
+        "a4": "yeah, he's their top scorer and captain.",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yeah, he's their top scorer and @relation",
+        "a4_v2": "yeah, he's their top scorer and captain.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "cristiano ronaldo"
+    },
+    {
+        "q5": " you do not have to win by ronaldo there are many good players and you have many abilities",
+        "a5": "would they be significantly crippled without him though? ",
+        "kgER5": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "would they be significantly crippled without him though? ",
+        "a5_v2": "would they be significantly crippled without him though? ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "cristiano ronaldo"
+    }
+]

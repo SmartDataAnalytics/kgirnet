@@ -1,0 +1,118 @@
+[
+    {
+        "q1": "i really love the team argentina",
+        "a1": "argentina has a strong defense, that's why a lot of people like the team.",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity has a strong defense, that's why a lot of people like the team.",
+        "a1_v2": "argentina has a strong defense, that's why a lot of people like the team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "who's their best defensive player?",
+        "a2": "marcos rojo might be the best.",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object might be the best.",
+        "a2_v2": "marcos rojo might be the best.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "in my opinion it is market",
+        "a3": "i would agree with rojo being the best.",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i would agree with rojo being the best.",
+        "a3_v2": "i would agree with rojo being the best.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "who\u2019s argentina\u2019s best midfielder ",
+        "a4": "who are the defenders on argentina?",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a4_skt": "who are the @relation on @entity",
+        "a4_v2": "who are the defenders on argentina?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "argentina"
+    },
+    {
+        "q5": "pavon is a mascherano",
+        "a5": "marcos rojo",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "marcos rojo",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

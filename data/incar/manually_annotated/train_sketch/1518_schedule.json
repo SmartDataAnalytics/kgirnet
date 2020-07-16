@@ -1,0 +1,27 @@
+[
+    {
+        "q1": "what date and location is my conference and who is going to be attending",
+        "a1": "you have two conference scheduled one on the_12th in conference_room_100 with the infrastructure_team and another on the_15th at conference_room_100 with your boss",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "room,party,date",
+        "obj1": "the_15th,infrastructure_team,boss,conference_room_100,the_12th,conference",
+        "input_ent1": "conference",
+        "kvr_entlist_qa1": [
+            "the_15th",
+            "infrastructure_team",
+            "boss",
+            "conference_room_100",
+            "the_12th",
+            "conference"
+        ]
+    },
+    {
+        "q2": "okay the first one will do thanks",
+        "a2": "glad i can assist",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

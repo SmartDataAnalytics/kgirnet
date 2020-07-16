@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "where can i get pizza",
+        "a1": "there is two close one is pizza_chicago which is 2_miles away and round_table at 2_miles too which do you prefer",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "pizza_chicago",
+        "input_ent1": "pizza_restaurant",
+        "kvr_entlist_qa1": [
+            "round_table",
+            "pizza_chicago",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "pick the one whose route avoid all heavy_traffic please",
+        "a2": "pizza_chicago only has moderate_traffic listed and only 2_miles away i think this would be the quickest",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel2": "distance",
+        "obj2": "2_miles",
+        "input_ent2": "pizza_chicago",
+        "kvr_entlist_qa2": [
+            "pizza_chicago",
+            "2_miles",
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q3": "then let s go there thank you car",
+        "a3": "i sent the route on your gps you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

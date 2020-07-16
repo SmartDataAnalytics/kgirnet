@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "what is the date of my next tennis_activity and who will be attending",
+        "a1": "you have two tennis appointment scheduled for the same time and date both on the_2nd at 11am but one with father and one with jeff is that a problem",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "date,time,party",
+        "obj1": "father,jeff,the_2nd,11am",
+        "input_ent1": "tennis_activity",
+        "kvr_entlist_qa1": [
+            "11am",
+            "jeff",
+            "the_2nd",
+            "father"
+        ]
+    },
+    {
+        "q2": "no everything is fine thank you",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

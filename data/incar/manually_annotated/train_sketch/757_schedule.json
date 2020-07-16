@@ -1,0 +1,26 @@
+[
+    {
+        "q1": "i need to find out the time and the parties attending my yoga_activity",
+        "a1": "you have two yoga_activity scheduled one at 3pm with ana and another at 4pm with jeff would you like to know the dates as well",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "time,party",
+        "obj1": "4pm,jeff,3pm,ana",
+        "input_ent1": "yoga_activity",
+        "kvr_entlist_qa1": [
+            "yoga_activity",
+            "4pm",
+            "jeff",
+            "3pm",
+            "ana"
+        ]
+    },
+    {
+        "q2": "no i just needed the times thank you very much",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "q1": "take me to the nearest grocery_store",
+        "a1": "there is a safeway 2_miles away would you like to get its address",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "safeway",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "safeway",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "yes",
+        "a2": "safeway is at 452_arcadia_pl",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "safeway",
+            "452_arcadia_pl"
+        ]
+    },
+    {
+        "q3": "thank you car pick a route with no_traffic and let s go there",
+        "a3": "the only route has moderate_traffic is that going to be okay",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q4": "where is the nearest grocery_store with no_traffic",
+        "a4": "safeway is the only grocery_store listed it has moderate_traffic will that be ok",
+        "input_rel4": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel4": "poi",
+        "obj4": "safeway",
+        "input_ent4": "grocery_store",
+        "kvr_entlist_qa4": [
+            "safeway",
+            "moderate_traffic",
+            "grocery_store"
+        ]
+    },
+    {
+        "q5": "yes please set the gps for there",
+        "a5": "setting destination now",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    },
+    {
+        "q6": "thank you",
+        "a6": "you re welcome",
+        "input_rel6": "",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "",
+        "kvr_entlist_qa6": []
+    }
+]

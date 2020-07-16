@@ -1,0 +1,108 @@
+[
+    {
+        "q1": "paris sg is a winning team.",
+        "a1": "a winning team for winning fans!",
+        "kgER1": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "a winning team for winning fans!",
+        "a1_v2": "a winning team for winning fans!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "paris sg"
+    },
+    {
+        "q2": "who is paris sg's biggest rival?",
+        "a2": "currently in his league is the monaco",
+        "kgER2": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "currently in his league is the monaco",
+        "a2_v2": "currently in his league is the monaco",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "paris sg"
+    },
+    {
+        "q3": "last year was monaco, probably it will continue to be ",
+        "a3": "who else could challenge paris sg this year?",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "who else could challenge paris sg this year?",
+        "a3_v2": "who else could challenge paris sg this year?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "lyon are best placed to challenge psg",
+        "a4": "paris sg will win again. with neymar they can't be stopped until champions league.",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "paris sg will win again. with @object they can't be stopped until champions league.",
+        "a4_v2": "paris sg will win again. with neymar they can't be stopped until champions league.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "would you say neymar is the best player on the team?",
+        "a5": "no. he's reaching past his prime age now. its down hill from here. ",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "no. he's reaching past his prime @relation now. its down hill from here. ",
+        "a5_v2": "no. he's reaching past his prime age now. its down hill from here. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "neymar"
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "q1": "what is crotia's highest fifa standing?",
+        "a1": "croatia's highest fifa ranking was number 3 in january 1999.",
+        "kgER1": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "croatia's @relation fifa ranking was number @object in january 1999.",
+        "a1_v2": "croatia's highest fifa ranking was number 3 in january 1999.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "did croatia beat france in the 2018 world cup finals?",
+        "a2": "no they didn't",
+        "kgER2": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no they didn't",
+        "a2_v2": "no they didn't",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2018"
+    },
+    {
+        "q3": "croatia   flag what i  color? ",
+        "a3": "their flag has red, white, and blue in it. ",
+        "kgER3": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "their flag has @object @object and @object in it. ",
+        "a3_v2": "their flag has red, white, and blue in it. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "croatia"
+    }
+]

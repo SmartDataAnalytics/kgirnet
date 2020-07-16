@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "how many british players does bvb dortmund have? ",
+        "a1": "they have plenty of players",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they have plenty of players",
+        "a1_v2": "they have plenty of players",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "can you give me a specific number?",
+        "a2": "they have one british player, jadon sancho",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they have one british player, @object",
+        "a2_v2": "they have one british player, jadon sancho",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "where are the others players from that play for bvb dortmund?",
+        "a3": "rapha\u00ebl adelino jos\u00e9 guerreiro is portugese",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "rapha\u00ebl adelino jos\u00e9 guerreiro is portugese",
+        "a3_v2": "rapha\u00ebl adelino jos\u00e9 guerreiro is portugese",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "is guerreiro one of their best players?",
+        "a4": "no i personally dont think he is",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "no i personally dont think he is",
+        "a4_v2": "no i personally dont think he is",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "raphael guerreiro"
+    },
+    {
+        "q5": "who is their best player in your opinion?",
+        "a5": "by far, christian pulisic.",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "by far, christian pulisic.",
+        "a5_v2": "by far, christian pulisic.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

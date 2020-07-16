@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "tell me will there be snow in redwood_city on monday",
+        "a1": "no snow in redwood_city on monday it will rain",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "monday",
+        "obj1": "rain",
+        "input_ent1": "redwood_city",
+        "kvr_entlist_qa1": [
+            "monday",
+            "snow",
+            "rain",
+            "redwood_city"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

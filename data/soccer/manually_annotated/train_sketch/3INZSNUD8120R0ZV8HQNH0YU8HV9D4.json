@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who is atletico madrid 's coach right now \\?",
+        "a1": "diego simeone is the current coach",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object is the current @relation",
+        "a1_v2": "@coach is the current coach",
+        "corr_rel1": "coach",
+        "obj1": "diego simeone",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "diego simone born in place",
+        "a2": "if you mean place of birth , he was born in buenos aires",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "if you mean place of birth , he was born in buenos aires",
+        "a2_v2": "if you mean place of birth , he was born in buenos aires",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "diego costa"
+    },
+    {
+        "q3": "how old is he \\?",
+        "a3": "he is 48 years old in coach",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "he is @object years old in @relation",
+        "a3_v2": "he is 48 years old in coach",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "old trafford"
+    },
+    {
+        "q4": "when did he join \\?",
+        "a4": "cristiano ronaldo join",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object join",
+        "a4_v2": "cristiano ronaldo join",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "name the 1st coach of atletico madrid \\?",
+        "a5": "will atletico madrid win la liga this year \\?",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "will @entity win la liga this year \\?",
+        "a5_v2": "will atletico madrid win la liga this year \\?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "atletico madrid"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "what will be the lowest_temperature in grand_rapids over the next seven days",
+        "a1": "the lowest_temperature in grand_rapids over the next seven days will be 20f on saturday",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "saturday",
+        "obj1": "20f",
+        "input_ent1": "grand_rapids",
+        "kvr_entlist_qa1": [
+            "saturday",
+            "grand_rapids",
+            "20f",
+            "lowest_temperature"
+        ]
+    },
+    {
+        "q2": "thank you car",
+        "a2": "you are very welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

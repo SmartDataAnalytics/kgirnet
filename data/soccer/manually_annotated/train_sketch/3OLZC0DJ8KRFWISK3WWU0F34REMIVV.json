@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "did n't france win the soccer championship last year \\?",
+        "a1": "they have just won the world cup",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they have just won the world cup",
+        "a1_v2": "they have just won the world cup",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "france"
+    },
+    {
+        "q2": "how many world cups has france won \\?",
+        "a2": "france also won the world cup in 1998 the star player at that time was zidane also , the current coach , deschamps , played on the 98 team",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity also won the world cup in @object the star player at that time was zidane also , the current @relation , deschamps , played on the @object team",
+        "a2_v2": "@entity also won the world cup in @world_cup_champions the star player at that time was zidane also , the current number of world cup champion , deschamps , played on the @world_cup_champions team",
+        "corr_rel2": "number of world cup champion",
+        "obj2": "2",
+        "input_ent2": "france"
+    },
+    {
+        "q3": "who is france 's best midfield player \\?",
+        "a3": "n'golo kante is the best he 's good at passing and wins the ball back from the other team",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "n'golo kante is the best he 's good at passing and wins the ball back from the other team",
+        "a3_v2": "n'golo kante is the best he 's good at passing and wins the ball back from the other team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "france"
+    },
+    {
+        "q4": "if it is the best sentro canpista ngolo kante",
+        "a4": "i think he 's better pogba midfielder",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i think he 's better pogba @relation",
+        "a4_v2": "i think he 's better pogba midfielder",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "n'golo kante"
+    },
+    {
+        "q5": "for france dont you think they have different roles \\?",
+        "a5": "they do different roles for won the world cups",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they do different roles for won the world cups",
+        "a5_v2": "they do different roles for won the world cups",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "france"
+    }
+]

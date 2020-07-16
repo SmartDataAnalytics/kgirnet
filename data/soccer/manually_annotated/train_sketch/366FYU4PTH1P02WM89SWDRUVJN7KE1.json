@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "who is the most valuable player on the bayern munich roster?",
+        "a1": "neuer",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "neuer",
+        "a1_v2": "neuer",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "do you think bayern will win the cl this year?",
+        "a2": "i don't think bayern has enough good players to win the cl.",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i don't think bayern has enough good players to win the cl.",
+        "a2_v2": "i don't think bayern has enough good players to win the cl.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bayern munich"
+    },
+    {
+        "q3": " is it lock-down defense?",
+        "a3": "yes, bayern munich has a great defense",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "yes, @entity has a great @relation",
+        "a3_v2": "yes, bayern munich has a great defense",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "is in agreement with my team is a team that has a lot to win every competition",
+        "a4": "yes they do have a lot to win but still need to remain focused dont you think",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "yes they do have a lot to win but still need to remain focused dont you think",
+        "a4_v2": "yes they do have a lot to win but still need to remain focused dont you think",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "how many european cups have bayern won",
+        "a5": "more than 5times",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "more than 5times",
+        "a5_v2": "more than 5times",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bayern munich"
+    }
+]

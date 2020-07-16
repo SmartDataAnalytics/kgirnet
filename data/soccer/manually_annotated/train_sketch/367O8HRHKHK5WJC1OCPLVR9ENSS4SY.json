@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i completely love germany",
+        "a1": "they did not do very well in this world cup",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they did not do very well in this world cup",
+        "a1_v2": "they did not do very well in this world cup",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "has germanyever had deaths on the field \\?",
+        "a2": "not that i know of",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "not that i know of",
+        "a2_v2": "not that i know of",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is germany 's best player \\?",
+        "a3": "muller",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "muller",
+        "a3_v2": "muller",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "germany"
+    },
+    {
+        "q4": "when did they last win the world cup \\?",
+        "a4": "the last time was in 2014",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "the last time was in @object",
+        "a4_v2": "the last time was in @world_cup_champions",
+        "corr_rel4": "world cup champions",
+        "obj4": "2014",
+        "input_ent4": "germany"
+    },
+    {
+        "q5": "if in 2014 and this year they were a failure",
+        "a5": "yes they were better then",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes they were better then",
+        "a5_v2": "yes they were better then",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "2014"
+    }
+]

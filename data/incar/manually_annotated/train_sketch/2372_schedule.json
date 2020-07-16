@@ -1,0 +1,28 @@
+[
+    {
+        "q1": "what is the date and time of my next swimming_activity",
+        "a1": "you have swimming_activity on the_8th and 13th which one are you asking about",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "date",
+        "obj1": "the_8th,13th",
+        "input_ent1": "swimming_activity",
+        "kvr_entlist_qa1": [
+            "the_8th",
+            "13th",
+            "swimming_activity"
+        ]
+    },
+    {
+        "q2": "the one on the_8th",
+        "a2": "the swimming_activity on the_8th is at 11am",
+        "input_rel2": "date",
+        "corr_rel2": "date",
+        "obj2": "the_8th,11am",
+        "input_ent2": "the_8th",
+        "kvr_entlist_qa2": [
+            "the_8th",
+            "11am",
+            "swimming_activity"
+        ]
+    }
+]

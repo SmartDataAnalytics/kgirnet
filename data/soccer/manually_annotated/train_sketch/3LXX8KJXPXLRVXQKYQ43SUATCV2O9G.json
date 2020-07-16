@@ -1,0 +1,141 @@
+[
+    {
+        "q1": "i don't think portugal are a very good team. if they didn't have ronaldo they probably wouldn't qualify for world cup.",
+        "a1": "i think they are a good team that is lacking stars other than ronaldo at the moment. they need a few young players to replace guys like ronaldo and pepe.",
+        "kgER1": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i think they are a good team that is lacking stars other than ronaldo at the moment. they need a few young players to replace guys like ronaldo and pepe.",
+        "a1_v2": "i think they are a good team that is lacking stars other than ronaldo at the moment. they need a few young players to replace guys like ronaldo and pepe.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "who do you think could replace the players on portugal",
+        "a2": "i think juventus is very good replace player on portugal",
+        "kgER2": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i think @entity is very good replace player on @entity",
+        "a2_v2": "i think juventus is very good replace player on portugal",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "what color jerseys (kits) does portugal wear?",
+        "a3": "they have both red and white jerseys.",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they have both @object and @object jerseys.",
+        "a3_v2": "they have both red and white jerseys.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "portugal"
+    },
+    {
+        "q4": "is portugal's kit nicer than spain's?",
+        "a4": "yes, i think it's the nice portugal kit",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes, i think it's the nice @entity kit",
+        "a4_v2": "yes, i think it's the nice portugal kit",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "spain"
+    },
+    {
+        "q5": "what color is the uniform of portugal? ",
+        "a5": "red",
+        "kgER5": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "red",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "portugal"
+    }
+]

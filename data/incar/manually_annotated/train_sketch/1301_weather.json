@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "what is the weather today and tomorrow",
+        "a1": "what city shall i give you today and tomorrow s forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "today",
+            "tomorrow"
+        ]
+    },
+    {
+        "q2": "will it be warm in durham today",
+        "a2": "it will be humid with a high of 70f in durham today",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "humid,70f,today",
+        "input_ent2": "durham",
+        "kvr_entlist_qa2": [
+            "humid",
+            "70f",
+            "durham",
+            "today"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

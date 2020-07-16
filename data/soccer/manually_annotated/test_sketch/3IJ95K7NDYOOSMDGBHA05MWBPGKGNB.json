@@ -1,0 +1,116 @@
+[
+    {
+        "q1": "did you catch liverpool's ludicrous display?",
+        "a1": "i did not see the game",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i did not see the game",
+        "a1_v2": "i did not see the game",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "are you a supporter of liverpool?",
+        "a2": "no, you do have to respect their talent.",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "no, you do have to respect their talent.",
+        "a2_v2": "no, you do have to respect their talent.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "why are you not a supporter?",
+        "a3": "never been a fan of liverpool. don\u2019t like their players.",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "never been a fan of @entity don\u2019t like their players.",
+        "a3_v2": "never been a fan of liverpool. don\u2019t like their players.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "do you like the coach?",
+        "a4": "klopp's one of the most interesting managers in the league, and is an amazing fit for liverpool's style and ethics. he has the fans on his side for sure.",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "klopp's one of the most interesting managers in the league, and is an amazing fit for @entity style and ethics. he has the fans on his side for sure.",
+        "a4_v2": "klopp's one of the most interesting managers in the league, and is an amazing fit for liverpool's style and ethics. he has the fans on his side for sure.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "but does he have what it takes to get us the championship?",
+        "a5": "yes futbol ",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes futbol ",
+        "a5_v2": "yes futbol ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    },
+    {
+        "q6": "who do you think liverpool's main rivals might be? ",
+        "a6": "i think liverpool's main rivals will be manchester united.",
+        "kgER6": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a6_skt": "i think @entity main rivals will be @entity",
+        "a6_v2": "i think liverpool's main rivals will be manchester united.",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "liverpool"
+    }
+]

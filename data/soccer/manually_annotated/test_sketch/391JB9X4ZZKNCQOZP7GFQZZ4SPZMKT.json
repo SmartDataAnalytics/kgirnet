@@ -1,0 +1,179 @@
+[
+    {
+        "q1": "are the italians more interested in fashion than football?",
+        "a1": "hahaha! italy will surprise everyone in the next world cup in qatar. ",
+        "kgER1": {
+            "willian": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a1_skt": "hahaha! @entity will surprise everyone in the next world cup in qatar. ",
+        "a1_v2": "hahaha! italy will surprise everyone in the next world cup in qatar. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "do you like the italians soccer jersey?",
+        "a2": "i think they are average. ",
+        "kgER2": {
+            "willian": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a2_skt": "i think they are average. ",
+        "a2_v2": "i think they are average. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "do you think gianluigi buffon is retired from the national italy team?",
+        "a3": "on 6 july 2018, buffon signed a one-year contract, with the option for a second year, with paris saint-germain.",
+        "kgER3": {
+            "willian": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "gianluigi buffon": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "on @object july @object buffon signed a one-year contract, with the option for a second year, with paris saint-germain.",
+        "a3_v2": "on 6 july 2018, buffon signed a one-year contract, with the option for a second year, with paris saint-germain.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "gianluigi buffon"
+    },
+    {
+        "q4": "that's excellent because i consider that buffon has a lot to offer in the european leagues and in his national team in italy",
+        "a4": " if i am in agreement with you",
+        "kgER4": {
+            "willian": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "gianluigi buffon": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": " if i am in agreement with you",
+        "a4_v2": " if i am in agreement with you",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "italy"
+    },
+    {
+        "q5": "who would be the best of all time",
+        "a5": "i am not totally sure but i will give it thought ",
+        "kgER5": {
+            "willian": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "gianluigi buffon": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "i am not totally sure but i will give it thought ",
+        "a5_v2": "i am not totally sure but i will give it thought ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

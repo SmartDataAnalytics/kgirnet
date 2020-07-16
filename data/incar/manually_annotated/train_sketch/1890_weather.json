@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "what s the forecast for the weather today",
+        "a1": "what city are you wanting to know the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i want to know chicago s weather",
+        "a2": "today in chicago the weather is forecast predicts snow with a low of 90f and a high of 100f",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "90f",
+            "100f",
+            "today",
+            "snow"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

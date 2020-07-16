@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "can brazil ever win another world cup? ",
+        "a1": " definitely",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": " definitely",
+        "a1_v2": " definitely",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "when is the last time they one the world cup?",
+        "a2": "true or false, pele is history of brazil?",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "true or false, pele is history of @entity",
+        "a2_v2": "true or false, pele is history of brazil?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "if pele is history in brazil",
+        "a3": "soccer's national treasure",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "soccer's national treasure",
+        "a3_v2": "soccer's national treasure",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "brazil"
+    },
+    {
+        "q4": "every year brazil is won the world cup",
+        "a4": "thats  correct ",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "thats  correct ",
+        "a4_v2": "thats  correct ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "brazil"
+    },
+    {
+        "q5": "do you think they'll win the next one?",
+        "a5": "i doubt it since they haven't one since 2002.",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i doubt it since they haven't one since @object",
+        "a5_v2": "i doubt it since they haven't one since 2002.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

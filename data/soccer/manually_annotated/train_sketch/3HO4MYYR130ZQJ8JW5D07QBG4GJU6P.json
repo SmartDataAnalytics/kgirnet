@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "i like the team senegal",
+        "a1": "what do you think of their future chances? ",
+        "kgER1": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "what do you think of their future chances? ",
+        "a1_v2": "what do you think of their future chances? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "senegal"
+    },
+    {
+        "q2": "i think they need to develop more players.",
+        "a2": "totally agree, they need to develop more players",
+        "kgER2": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "totally agree, they need to develop more players",
+        "a2_v2": "totally agree, they need to develop more players",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "senegal players are great at club level, can't seem to pull it together at national level.",
+        "a3": "what is their win/loss record?",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "what is their win/loss record?",
+        "a3_v2": "what is their win/loss record?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "senegal"
+    },
+    {
+        "q4": "senegal top most player name?",
+        "a4": "the best player in senegal is sadio mane ",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "the @relation in @entity is @object ",
+        "a4_v2": "the best player in senegal is sadio mane ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "senegal"
+    },
+    {
+        "q5": "who\u2019s the head coach of the senegal ? ",
+        "a5": "aliou ciss\u00e9 is the current head coach.",
+        "kgER5": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object is the current head @relation",
+        "a5_v2": "aliou cisse is the current head coach.",
+        "corr_rel5": "coach",
+        "obj5": "aliou cisse",
+        "input_ent5": "senegal"
+    }
+]

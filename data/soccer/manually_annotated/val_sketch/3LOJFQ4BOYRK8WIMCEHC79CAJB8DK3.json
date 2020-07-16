@@ -1,0 +1,103 @@
+[
+    {
+        "q1": "i love bvb dortmund",
+        "a1": "i think that they are over-rated ",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i think that they are over-rated ",
+        "a1_v2": "i think that they are over-rated ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "why are they overrated?",
+        "a2": "they havent achieved very much in their history",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they havent achieved very much in their history",
+        "a2_v2": "they havent achieved very much in their history",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "they have not achieved much in their history, because they have more capital in the players",
+        "a3": "i don't know what bvb dortmund is.",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i don't know what bvb dortmund is.",
+        "a3_v2": "i don't know what bvb dortmund is.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "have dortmund always played in yellow",
+        "a4": "may be. ",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "may be. ",
+        "a4_v2": "may be. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "yellow"
+    },
+    {
+        "q5": "when does bvb play next?",
+        "a5": "they lay monday 8-20 at 11:45 ",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "they lay monday 8-20 at 11:45 ",
+        "a5_v2": "they lay monday 8-20 at 11:45 ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bvb dortmund"
+    }
+]

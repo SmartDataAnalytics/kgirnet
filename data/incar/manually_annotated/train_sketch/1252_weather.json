@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "is it going to snow next_week",
+        "a1": "where should i check for snow",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "snow"
+        ]
+    },
+    {
+        "q2": "cleveland please",
+        "a2": "sunday it will snow on cleveland",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "sunday",
+        "obj2": "snow",
+        "input_ent2": "cleveland",
+        "kvr_entlist_qa2": [
+            "sunday",
+            "snow",
+            "cleveland"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "great",
+        "a4": "no problem",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

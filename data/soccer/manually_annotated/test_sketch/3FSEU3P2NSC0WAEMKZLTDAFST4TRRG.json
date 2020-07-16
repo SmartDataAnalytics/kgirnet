@@ -1,0 +1,100 @@
+[
+    {
+        "q1": "what is love ?",
+        "a1": "real madrid",
+        "kgER1": {},
+        "a1_skt": "@entity",
+        "a1_v2": "real madrid",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "what team should real madrid play ",
+        "a2": "with barcelona",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "with @entity",
+        "a2_v2": "with barcelona",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "which stadium is the best?",
+        "a3": "the stadium of juve is very modern like the santiago bernabeu are world class  ",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "the stadium of juve is very modern like the santiago bernabeu are world class  ",
+        "a3_v2": "the stadium of juve is very modern like the santiago bernabeu are world class  ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "allianz stadium"
+    },
+    {
+        "q4": "which team is the best team?",
+        "a4": "in europe? i like liverpool, if you count the uk as europe ",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "in europe? i like @entity if you count the uk as europe ",
+        "a4_v2": "in europe? i like liverpool, if you count the uk as europe ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is in the qualifying league in the france world cup?",
+        "a5": "qauilifying for the ryder cup would be the jockey.",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "qauilifying for the ryder cup would be the jockey.",
+        "a5_v2": "qauilifying for the ryder cup would be the jockey.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "france"
+    }
+]

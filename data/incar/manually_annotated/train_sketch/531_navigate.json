@@ -1,0 +1,60 @@
+[
+    {
+        "q1": "where can i get coffee",
+        "a1": "there is palo_alto_cafe 2_miles away or if you prefer philz 6_miles away",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "palo_alto_cafe, philz",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "2_miles",
+            "philz",
+            "6_miles",
+            "palo_alto_cafe"
+        ]
+    },
+    {
+        "q2": "give me the address of philz",
+        "a2": "philz is at 583_alester_ave",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "583_alester_ave",
+        "input_ent2": "philz",
+        "kvr_entlist_qa2": [
+            "583_alester_ave",
+            "philz"
+        ]
+    },
+    {
+        "q3": "thanks so much is that the fastest route available",
+        "a3": "no actually there is another coffee shop that s just two miles away it s called palo_alto_cafe and located at 436_alger_dr",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "436_alger_dr",
+        "input_ent3": "coffee_or_tea_place",
+        "kvr_entlist_qa3": [
+            "436_alger_dr",
+            "palo_alto_cafe"
+        ]
+    },
+    {
+        "q4": "set gps for the fastest route to palo_alto_cafe",
+        "a4": "setting gps to fastest route to palo_alto_cafe now",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": [
+            "palo_alto_cafe"
+        ]
+    },
+    {
+        "q5": "thanks bud",
+        "a5": "no problem",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

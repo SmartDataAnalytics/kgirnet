@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "can you find me a nearby shopping_center",
+        "a1": "there is stanford_shopping_center 7_miles away with moderate_traffic on its way",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi,distance",
+        "obj1": "stanford_shopping_center,7_miles",
+        "input_ent1": "shopping_center",
+        "kvr_entlist_qa1": [
+            "7_miles",
+            "moderate_traffic",
+            "stanford_shopping_center"
+        ]
+    },
+    {
+        "q2": "set the address in the navigation",
+        "a2": "i sent its position and the route with moderate_traffic on your screen drive carefully",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "",
+        "input_ent2": "stanford_shopping_center",
+        "kvr_entlist_qa2": [
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q3": "thanks can you tell me the address please",
+        "a3": "navigation is set to 773_alger_drive have a great day",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel3": "address",
+        "obj3": "773_alger_drive",
+        "input_ent3": "stanford_shopping_center",
+        "kvr_entlist_qa3": []
+    }
+]

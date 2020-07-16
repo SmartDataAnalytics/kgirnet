@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "is there a parking_garage around here",
+        "a1": "the civic_center_garage is located 1_miles away would you like directions",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "civic_center_garage",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "1_miles",
+            "civic_center_garage"
+        ]
+    },
+    {
+        "q2": "yes please",
+        "a2": "the civic_center_garage is located at 270_altaire_walk it is one miles away please be advised there is a car_collision_nearby",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "address, traffic_info",
+        "obj2": "270_altaire_walk, car_collision_nearby",
+        "input_ent2": "civic_center_garage",
+        "kvr_entlist_qa2": [
+            "270_altaire_walk",
+            "car_collision_nearby",
+            "civic_center_garage"
+        ]
+    },
+    {
+        "q3": "please pick the quickest way through it and let s go there thank you",
+        "a3": "i have set the quickest route available",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thank you very much car",
+        "a4": "you re welcome i m here to assist you",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "q1": "i can talk about this team all day",
+        "a1": "what is it that you like about them? ",
+        "kgER1": {},
+        "a1_skt": "what is it that you like about them? ",
+        "a1_v2": "what is it that you like about them? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "emre can"
+    },
+    {
+        "q2": "their attitude. why do you think players seem to want to play for bayern munich more?",
+        "a2": "bayern are a very big club that has been more successful recently. ",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "bayern are a very big club that has been more successful recently. ",
+        "a2_v2": "bayern are a very big club that has been more successful recently. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bayern munich"
+    },
+    {
+        "q3": "bvb dortmund has grown much more than bayern in the last 10 years. compare where bayern was 10 years ago and is now. and compare where dortmund was 10 years ago. dortmunders have done a much better job.",
+        "a3": "bvb dortmund is definitely a much better team than bayern munich.",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "bvb dortmund is definitely a much better team than @entity",
+        "a3_v2": "bvb dortmund is definitely a much better team than bayern munich.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "i\u2019d say bayern are better than dortmund overall",
+        "a4": "the reason that bayern is so good is because the club has the most money. i really think dortmund is better than bayern and i like their attitude",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "the reason that bayern is so good is because the club has the most money. i really think dortmund is better than bayern and i like their attitude",
+        "a4_v2": "the reason that bayern is so good is because the club has the most money. i really think dortmund is better than bayern and i like their attitude",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "i really like the colors of bvb dortmund.",
+        "a5": "yes they are swank.",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes they are swank.",
+        "a5_v2": "yes they are swank.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bvb dortmund"
+    }
+]

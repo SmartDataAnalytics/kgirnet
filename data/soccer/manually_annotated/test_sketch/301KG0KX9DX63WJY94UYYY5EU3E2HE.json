@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "who is number 11 on senegal?",
+        "a1": "32-year-old midfielder cheikh n'doye.",
+        "kgER1": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "32-year-old @relation cheikh n'doye.",
+        "a1_v2": "32-year-old midfielder cheikh n'doye.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "senegal"
+    },
+    {
+        "q2": "who is the senegal team captain?",
+        "a2": "will senegal win the african nations?",
+        "kgER2": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "will @entity win the african nations?",
+        "a2_v2": "will senegal win the african nations?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "senegal"
+    },
+    {
+        "q3": "no but they should do quite well ",
+        "a3": "who is senegal's coach?",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "who is senegal's @relation",
+        "a3_v2": "who is senegal's coach?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "aliou ciss\u00e9.",
+        "a4": "do senegal have many players in europe? ",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "do @entity have many players in europe? ",
+        "a4_v2": "do senegal have many players in europe? ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "aliou cisse"
+    },
+    {
+        "q5": "senegal is not in europe",
+        "a5": "yes, a lot of their squad members play club football in europe, including mane at liverpool and koulibaly at napoli. ",
+        "kgER5": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes, a lot of their squad members play club football in europe, including mane at @entity and koulibaly at napoli. ",
+        "a5_v2": "yes, a lot of their squad members play club football in europe, including mane at liverpool and koulibaly at napoli. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "senegal"
+    }
+]

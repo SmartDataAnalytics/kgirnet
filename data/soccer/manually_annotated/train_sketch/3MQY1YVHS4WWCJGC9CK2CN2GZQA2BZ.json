@@ -1,0 +1,166 @@
+[
+    {
+        "q1": "what does the bvb stand for in bvb dortmund?",
+        "a1": "something in german, i believe. ",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "something in german, i believe. ",
+        "a1_v2": "something in german, i believe. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "are they the best team in germany?",
+        "a2": "no bayern munich are",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no @entity are",
+        "a2_v2": "no bayern munich are",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "germany"
+    },
+    {
+        "q3": "have they played against bayern munich?",
+        "a3": "several times and is considered a clash of titans of sort. ",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "several times and is considered a clash of titans of sort. ",
+        "a3_v2": "several times and is considered a clash of titans of sort. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "if they have played and it is one of the best football matches ",
+        "a4": "yes its always fun when two big clubs face each other, even in league play",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "yes its always fun when two big clubs face each other, even in league play",
+        "a4_v2": "yes its always fun when two big clubs face each other, even in league play",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "white and red"
+    },
+    {
+        "q5": "who is bvb dortmund's best player?",
+        "a5": "marco reus",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "marco reus",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bvb dortmund"
+    }
+]

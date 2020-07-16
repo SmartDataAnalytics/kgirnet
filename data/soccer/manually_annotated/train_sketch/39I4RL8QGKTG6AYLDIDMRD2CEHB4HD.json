@@ -1,0 +1,62 @@
+[
+    {
+        "q1": "this is a good team",
+        "a1": "how do they compare with other teams in their league \\?",
+        "kgER1": {},
+        "a1_skt": "how do they compare with other teams in their league \\?",
+        "a1_v2": "how do they compare with other teams in their league \\?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "they are often victorious",
+        "a2": "did n't they win the league title this past season \\? they 're very good",
+        "kgER2": {},
+        "a2_skt": "did n't they win the league title this past season \\? they 're very good",
+        "a2_v2": "did n't they win the league title this past season \\? they 're very good",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "even if they did not win , the team has a lot of skill for soccer",
+        "a3": "i think they are very good , but they do not compare with other teams",
+        "kgER3": {},
+        "a3_skt": "i think they are very good , but they do not compare with other teams",
+        "a3_v2": "i think they are very good , but they do not compare with other teams",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "they dont compare to which teams \\?",
+        "a4": "these teams can not be compared with the porto",
+        "kgER4": {},
+        "a4_skt": "these teams can not be compared with the porto",
+        "a4_v2": "these teams can not be compared with the porto",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is the keeper coach for fc porto \\?",
+        "a5": "sergio conceicao is their current coach right now",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a5_skt": "sergio conceicao is their current @relation right now",
+        "a5_v2": "sergio conceicao is their current coach right now",
+        "corr_rel5": "coach",
+        "obj5": "sergio conceicao",
+        "input_ent5": "fc. porto"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "what s the quickest route to the hospital",
+        "a1": "there are 2 available hospitals and both are 6_miles away with heavy_traffic on their direction which one do you prefer between palo_alto_medical_foundation and stanford_express_care",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "palo_alto_medical_foundation,stanford_express_care",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "stanford_express_care",
+            "palo_alto_medical_foundation",
+            "6_miles",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q2": "i would rather go to stanford express please what s the address",
+        "a2": "stanford_express_care is located at 214_el_camino_real",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "214_el_camino_real",
+        "input_ent2": "stanford_express_care",
+        "kvr_entlist_qa2": [
+            "stanford_express_care",
+            "214_el_camino_real"
+        ]
+    },
+    {
+        "q3": "thank you car please pick a route with the least traffic to go there",
+        "a3": "i sent the info on your screen and you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

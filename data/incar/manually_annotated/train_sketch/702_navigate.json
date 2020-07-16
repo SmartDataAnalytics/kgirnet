@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "show me the route to coffee shop",
+        "a1": "we are 2_miles away from teavana would you like me to send you its address on screen",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "teavana",
+        "input_ent1": "peets_coffee",
+        "kvr_entlist_qa1": [
+            "teavana",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "is it the quickest to get to from my current location",
+        "a2": "yes teavana is the only place close to you at 2_miles away located at 145_amherst_st do you want me to set the gps",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "poi,address",
+        "obj2": "teavana,145_amherst_st",
+        "input_ent2": "peets_coffee",
+        "kvr_entlist_qa2": [
+            "teavana",
+            "145_amherst_st",
+            "2_miles"
+        ]
+    },
+    {
+        "q3": "set gps on route to avoid heavy_traffic",
+        "a3": "i found some alternate road follow your gps and let s hope to not get lost just kidding",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thank you car",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

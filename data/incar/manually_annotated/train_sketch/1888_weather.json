@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "what s the weather forecast in new_york",
+        "a1": "new_york is forecasted to be windy with a low of 60f and a high of 80f",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "monday",
+        "obj1": "60f,80f,windy",
+        "input_ent1": "new_york",
+        "kvr_entlist_qa1": [
+            "windy",
+            "60f",
+            "new_york",
+            "80f"
+        ]
+    },
+    {
+        "q2": "okay will it be humid in new_york next_week",
+        "a2": "it will not be humid in new_york next_week",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "new_york",
+        "kvr_entlist_qa2": [
+            "humid",
+            "next_week",
+            "new_york"
+        ]
+    },
+    {
+        "q3": "okay great thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

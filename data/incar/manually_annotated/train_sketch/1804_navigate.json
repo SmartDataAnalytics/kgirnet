@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "find me a hospital with the least amount of traffic on the way",
+        "a1": "we re 5_miles away from palo_alto_medical_foundation and there is no_traffic on our way would you like to go there",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "palo_alto_medical_foundation",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "palo_alto_medical_foundation",
+            "no_traffic"
+        ]
+    },
+    {
+        "q2": "yes i need the fastest route please",
+        "a2": "taking you to palo_alto_medical_foundation",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "palo_alto_medical_foundation",
+        "kvr_entlist_qa2": [
+            "palo_alto_medical_foundation"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

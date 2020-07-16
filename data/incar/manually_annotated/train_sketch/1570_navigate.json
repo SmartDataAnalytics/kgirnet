@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "where s the nearest place to get a hot cup of tea",
+        "a1": "the nearest is coupa 8_miles away at 394_van_ness_ave would you like directions there",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "coupa",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "394_van_ness_ave",
+            "8_miles",
+            "coupa"
+        ]
+    },
+    {
+        "q2": "please pick a route with no_traffic for me and send all the directions on my map",
+        "a2": "ok heading to coupa",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "none",
+        "obj2": "none",
+        "input_ent2": "coupda",
+        "kvr_entlist_qa2": [
+            "coupa"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

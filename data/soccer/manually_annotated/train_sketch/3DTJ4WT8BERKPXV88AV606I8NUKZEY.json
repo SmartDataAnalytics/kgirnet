@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "have you been watching the european leagues lately? barcelona has been doing really well.",
+        "a1": "yeah i was impressed with them too",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yeah i was impressed with them too",
+        "a1_v2": "yeah i was impressed with them too",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "what player is doing the best this year?",
+        "a2": "victor valdez with barcelona fc",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "victor valdez with @entity fc",
+        "a2_v2": "victor valdez with barcelona fc",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "which player is the best?",
+        "a3": "i think valdez is ",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think valdez is ",
+        "a3_v2": "i think valdez is ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what position is he again?",
+        "a4": "i think victor valdez left a while ago, but he used to play goal keeper.",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i think victor valdez left a while ago, but he used to play @relation",
+        "a4_v2": "i think victor valdez left a while ago, but he used to play goal keeper.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is the new goalie for barcelona?",
+        "a5": "marc andre ter stagen",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "marc andre ter stagen",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "barcelona"
+    }
+]

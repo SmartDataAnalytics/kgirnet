@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "is f.c. porto the biggest rival to benfica?",
+        "a1": "did fc porto sell any players this season?",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "did fc porto sell any players this season?",
+        "a1_v2": "did fc porto sell any players this season?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "who won the portuguese league last year? ",
+        "a2": "fc porto won the league",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "fc porto won the league",
+        "a2_v2": "fc porto won the league",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how many times have they won that now?",
+        "a3": "they have won the league a total of 28 times.",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they have won the league a total of @object times.",
+        "a3_v2": "they have won the league a total of 28 times.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is fc porto manager?",
+        "a4": "s\u00e9rgio paulo marceneiro da concei\u00e7\u00e3o is a former portuguese footballer who played mostly as a right winger, and is the current manager of fc porto.",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a4_skt": "s\u00e9rgio paulo marceneiro da concei\u00e7\u00e3o is a former portuguese footballer who played mostly as a right winger, and is the current manager of fc porto.",
+        "a4_v2": "sergio paulo marceneiro da conceicao is a former portuguese footballer who played mostly as a right winger, and is the current manager of fc porto.",
+        "corr_rel4": "coach",
+        "obj4": "sergio conceicao",
+        "input_ent4": "fc. porto"
+    },
+    {
+        "q5": "should they switch players?",
+        "a5": "if you want to win titles if what you want to do",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a5_skt": "if you want to win titles if what you want to do",
+        "a5_v2": "if you want to win titles if what you want to do",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

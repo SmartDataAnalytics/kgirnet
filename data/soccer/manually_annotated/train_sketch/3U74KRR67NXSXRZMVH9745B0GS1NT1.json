@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i love the team sweden",
+        "a1": "i have no hard feeling about them.",
+        "kgER1": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i have no hard feeling about them.",
+        "a1_v2": "i have no hard feeling about them.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "sweden"
+    },
+    {
+        "q2": "who is the coach for the swedish football team?",
+        "a2": "janne andersson",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "@coach",
+        "corr_rel2": "coach",
+        "obj2": "janne andersson",
+        "input_ent2": "sweden"
+    },
+    {
+        "q3": "sweden gave the world zlatan ibrahimovi\u0107",
+        "a3": "yes they did ,one of the best players from sweden in my opinion.",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes they did ,one of the best players from @entity in my opinion.",
+        "a3_v2": "yes they did ,one of the best players from sweden in my opinion.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "sweden"
+    },
+    {
+        "q4": "who is the best player at the moment?",
+        "a4": "zlatan ibrahimovi\u0107",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "zlatan ibrahimovi\u0107",
+        "a4_v2": "zlatan ibrahimovi\u0107",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what is the outlook for sweden in future games?",
+        "a5": "sweden is a very small selection ",
+        "kgER5": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity is a very small selection ",
+        "a5_v2": "sweden is a very small selection ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "sweden"
+    }
+]

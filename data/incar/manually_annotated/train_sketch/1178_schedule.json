@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "what date is my yoga_activity and who is attending",
+        "a1": "i have two driver one on tuesday with alex and one on the_16th with marie which one",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "date,party",
+        "obj1": "marie,alex,the_16th",
+        "input_ent1": "yoga_activity",
+        "kvr_entlist_qa1": [
+            "marie",
+            "the_16th",
+            "tuesday",
+            "alex"
+        ]
+    },
+    {
+        "q2": "it is the one with marie thank you",
+        "a2": "no problem",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

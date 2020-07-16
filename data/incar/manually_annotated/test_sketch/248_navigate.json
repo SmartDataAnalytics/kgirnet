@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "give me directions to the closest grocery_store",
+        "a1": "we re 3_miles away from willows_market but there is a car_collision_nearby",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "willows_market",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "willows_market",
+            "car_collision_nearby",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "what is the next closest location",
+        "a2": "i m sorry but there are no other options nearby",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "ok well make a route to the willows_market then try to avoid the car accident",
+        "a3": "ok driver making a route to willows_market and avoiding the car accident",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "willows_market"
+        ]
+    },
+    {
+        "q4": "that s great thank you car",
+        "a4": "you are welcome driver",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

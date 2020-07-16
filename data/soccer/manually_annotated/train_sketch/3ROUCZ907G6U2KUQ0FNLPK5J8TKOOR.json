@@ -1,0 +1,70 @@
+[
+    {
+        "q1": "how many games did they win last year?",
+        "a1": "i dont know, should be around 20",
+        "kgER1": {},
+        "a1_skt": "i dont know, should be around @object",
+        "a1_v2": "i dont know, should be around 20",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "did they have any really significant wins? ",
+        "a2": "a lot actually",
+        "kgER2": {},
+        "a2_skt": "a lot actually",
+        "a2_v2": "a lot actually",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is their cheapest player?",
+        "a3": "suso is the cheapest player of ac milan",
+        "kgER3": {},
+        "a3_skt": "suso is the @relation of ac milan",
+        "a3_v2": "suso is the cheapest player of ac milan",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "is inter better than ac milan?",
+        "a4": "in my opinion,no.",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "in my opinion,no.",
+        "a4_v2": "in my opinion,no.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "why is ac milan better?",
+        "a5": "they are equal to every other team.",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "they are equal to every other team.",
+        "a5_v2": "they are equal to every other team.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ac milan"
+    }
+]

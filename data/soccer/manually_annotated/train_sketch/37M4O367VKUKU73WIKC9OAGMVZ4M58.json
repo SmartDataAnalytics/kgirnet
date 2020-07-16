@@ -1,0 +1,150 @@
+[
+    {
+        "q1": "what colors are the fc porto home shirts \\?",
+        "a1": "very good team",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "is fc porto the best team in portugal \\?",
+        "a2": "no , they are the worst",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no , they are the worst",
+        "a2_v2": "no , they are the worst",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "portugal"
+    },
+    {
+        "q3": "whos the coach \\?",
+        "a3": "sergio conceicao",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "sergio conceicao",
+        "a3_v2": "sergio conceicao",
+        "corr_rel3": "coach",
+        "obj3": "sergio conceicao",
+        "input_ent3": "fc. porto"
+    },
+    {
+        "q4": "i think that porto is a very good team",
+        "a4": "that is incorrect they have a terrible team compared to the pittsburgh steelers",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "that is incorrect they have a terrible team compared to the pittsburgh steelers",
+        "a4_v2": "that is incorrect they have a terrible team compared to the pittsburgh steelers",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "fc. porto"
+    },
+    {
+        "q5": "in comparison , porto is a good team and can beat any team if it is proposed",
+        "a5": "yes they just need to lock it up",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes they just need to lock it up",
+        "a5_v2": "yes they just need to lock it up",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "emre can"
+    }
+]

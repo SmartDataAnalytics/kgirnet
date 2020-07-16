@@ -1,0 +1,32 @@
+[
+    {
+        "q1": "is it humid over the next two_days",
+        "a1": "what city are you in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "new_york",
+        "a2": "it will not be humid in new_york anytime soon",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "new_york",
+        "kvr_entlist_qa2": [
+            "humid",
+            "new_york"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

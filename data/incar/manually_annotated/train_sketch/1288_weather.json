@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "will it be stormy in exeter on wednesday",
+        "a1": "no it s not gonna be stormy in exeter on wednesday the weather forecast calls for it to be cloudy",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "wednesday",
+        "obj1": "cloudy",
+        "input_ent1": "exeter",
+        "kvr_entlist_qa1": [
+            "exeter",
+            "cloudy",
+            "stormy",
+            "wednesday"
+        ]
+    },
+    {
+        "q2": "thank you",
+        "a2": "glad i could help out",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

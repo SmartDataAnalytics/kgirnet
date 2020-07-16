@@ -1,0 +1,55 @@
+[
+    {
+        "q1": "where is the closest hospital",
+        "a1": "stanford_childrens_health is 5_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "stanford_childrens_health",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "stanford_childrens_health"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "899_ames_ct we re 5_miles away i sent the info on your screen anything else ?!",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "899_ames_ct",
+        "input_ent2": "stanford_childrens_health",
+        "kvr_entlist_qa2": [
+            "5_miles",
+            "899_ames_ct"
+        ]
+    },
+    {
+        "q3": "let s go there through the fastest way and with least traffic too please",
+        "a3": "displaying the route now there is moderate_traffic on the way there",
+        "input_rel3": "party",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "hr",
+        "kvr_entlist_qa3": [
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q4": "thank you",
+        "a4": "you are welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    },
+    {
+        "q5": "thanks once again",
+        "a5": "have a great day",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

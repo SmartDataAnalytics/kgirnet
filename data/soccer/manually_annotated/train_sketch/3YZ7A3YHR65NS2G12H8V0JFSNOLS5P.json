@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "what is the signification of the name juventus?",
+        "a1": "juventus means youth.",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "@entity means youth.",
+        "a1_v2": "juventus means youth.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "will juventus do better in europe this season?",
+        "a2": "they have ronaldo now so that should help.",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "they have ronaldo now so that should help.",
+        "a2_v2": "they have ronaldo now so that should help.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "juventus"
+    },
+    {
+        "q3": "when is the last time juventus won the championship?",
+        "a3": "if i totally agree that now it will be a great team having cristiano ronaldo, they won the championship last season",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "if i totally agree that now it will be a great team having @object they won the championship last season",
+        "a3_v2": "if i totally agree that now it will be a great team having cristiano ronaldo, they won the championship last season",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "juventus"
+    },
+    {
+        "q4": "where does juventus play its home matches?",
+        "a4": "the stadium of juventus is, the juventus stadium",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "the stadium of @entity is, the @entity stadium",
+        "a4_v2": "the stadium of juventus is, the juventus stadium",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "juventus"
+    },
+    {
+        "q5": "did they change the uniform for away games this year?",
+        "a5": "yes they did, they're a new color now.",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "yes they did, they're a new color now.",
+        "a5_v2": "yes they did, they're a new color now.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "q1": "in what stadium do they play in \\?",
+        "a1": "westfalenstadion is their home ground",
+        "kgER1": {},
+        "a1_skt": "@object is their home @relation",
+        "a1_v2": "westfalenstadion is their home ground",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "allianz stadium"
+    },
+    {
+        "q2": "do you know the date the team was founded \\?",
+        "a2": "they were founded in 1909",
+        "kgER2": {},
+        "a2_skt": "they were @relation in @object",
+        "a2_v2": "they were founded on in @founded_on",
+        "corr_rel2": "founded on",
+        "obj2": "1909",
+        "input_ent2": "bvb dortmund"
+    },
+    {
+        "q3": "what makes the bvb dortmund stadium so special \\?",
+        "a3": "crazy and loyal fans",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "crazy and loyal fans",
+        "a3_v2": "crazy and loyal fans",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "is bvb dortmund or bayern munich the bette team \\?",
+        "a4": "i believe bayern munich is the best team",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i believe @entity is the best team",
+        "a4_v2": "i believe bayern munich is the best team",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "what in particular makes them the best right now \\?",
+        "a5": "they were first in bundesliga last season",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "they were first in bundesliga last season",
+        "a5_v2": "they were first in bundesliga last season",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

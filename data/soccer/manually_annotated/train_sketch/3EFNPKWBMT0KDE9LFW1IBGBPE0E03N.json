@@ -1,0 +1,133 @@
+[
+    {
+        "q1": "i love the team bayern munich",
+        "a1": "who is their best goal scorer? ",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "who is their best @relation scorer? ",
+        "a1_v2": "who is their best goal scorer? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "robert lewandowski is there best goal scorer, but who is their best keeper?",
+        "a2": "manual neuer",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "robert lewandowski": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "manual neuer",
+        "a2_v2": "manual neuer",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "robert lewandowski"
+    },
+    {
+        "q3": "how well will bayern munich do this season?",
+        "a3": "i think that in this season the bayern munich will have a good performance for the effort they have shown in putting together a good team",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "robert lewandowski": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "i think that in this season the @entity will have a good performance for the effort they have shown in putting together a good team",
+        "a3_v2": "i think that in this season the bayern munich will have a good performance for the effort they have shown in putting together a good team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "can they win the champions league this year?",
+        "a4": "yes, i think they can.",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "robert lewandowski": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "yes, i think they can.",
+        "a4_v2": "yes, i think they can.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "emre can"
+    },
+    {
+        "q5": "who is the key player for bayern munich this year?",
+        "a5": "robert lewandowski",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "robert lewandowski": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@has_player",
+        "corr_rel5": "has player",
+        "obj5": "robert lewandowski",
+        "input_ent5": "bayern munich"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "find a gas_station that is not farther than 3_miles away",
+        "a1": "i have a shell gas_station 1_miles away",
+        "input_rel1": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel1": "poi",
+        "obj1": "shell",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "shell",
+            "1_miles",
+            "gas_station"
+        ]
+    },
+    {
+        "q2": "ok where is it and i need a quick route there",
+        "a2": "shell is located at 53_university_av",
+        "input_rel2": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel2": "address",
+        "obj2": "53_university_av",
+        "input_ent2": "shell",
+        "kvr_entlist_qa2": [
+            "shell",
+            "53_university_av"
+        ]
+    },
+    {
+        "q3": "give me the directions there with the quickest route",
+        "a3": "okay heading to shell",
+        "input_rel3": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel3": "",
+        "obj3": "none",
+        "input_ent3": "shell",
+        "kvr_entlist_qa3": [
+            "shell"
+        ]
+    }
+]

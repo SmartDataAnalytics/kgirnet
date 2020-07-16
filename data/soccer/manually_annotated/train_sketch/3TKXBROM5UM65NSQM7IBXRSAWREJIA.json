@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who do you think is brazil's best player?",
+        "a1": "neymar jr is their best player by far.",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object jr is their @relation by far.",
+        "a1_v2": "neymar jr is their best player by far.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "how many world cups has brazil won?",
+        "a2": "brazil has won the world cup 5 times. 2002, 1994, 1970, 1962, 1958.",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity has won the world cup @object times. 2002 1994 1970 1962 1958.",
+        "a2_v2": "@entity has won the world cup @number_of_world_cup_champion times. 2002 1994 1970 1962 1958.",
+        "corr_rel2": "number of world cup champion",
+        "obj2": "5",
+        "input_ent2": "brazil"
+    },
+    {
+        "q3": "when do you think they will win again? ",
+        "a3": "the next time they play!",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "the next time they play!",
+        "a3_v2": "the next time they play!",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "when is the next time they play?",
+        "a4": "i wish they were playing today.",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i wish they were playing today.",
+        "a4_v2": "i wish they were playing today.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "since the world cup just ended, they will probably take a break. many clubs are also just now starting their seasons",
+        "a5": "i think they are preparing for the next cup",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think they are preparing for the next cup",
+        "a5_v2": "i think they are preparing for the next cup",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

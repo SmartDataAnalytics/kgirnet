@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "get me directions to the nearest coffee shop",
+        "a1": "the nearest coffee shop is 6_miles away at 792_bedoin_street and there is no_traffic",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "address",
+        "obj1": "792_bedoin_street",
+        "input_ent1": "starbucks",
+        "kvr_entlist_qa1": [
+            "no_traffic",
+            "6_miles",
+            "792_bedoin_street"
+        ]
+    },
+    {
+        "q2": "great please find the fastest possible route to get there",
+        "a2": "i ve already set the gps and there is no_traffic now you should reach there in few minutes",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "no_traffic",
+        "input_ent2": "starbucks",
+        "kvr_entlist_qa2": [
+            "no_traffic"
+        ]
+    },
+    {
+        "q3": "that s great thank you car",
+        "a3": "happy to help",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

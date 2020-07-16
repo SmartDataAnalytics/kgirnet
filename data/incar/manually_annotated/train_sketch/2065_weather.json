@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "will it rain this week",
+        "a1": "where do you want to know if it will rain",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "rain"
+        ]
+    },
+    {
+        "q2": "in san_mateo please",
+        "a2": "it might rain in san_mateo today and on sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "rain",
+        "input_ent2": "san_mateo",
+        "kvr_entlist_qa2": [
+            "san_mateo",
+            "sunday",
+            "rain",
+            "today"
+        ]
+    },
+    {
+        "q3": "okay great thank you",
+        "a3": "you re very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

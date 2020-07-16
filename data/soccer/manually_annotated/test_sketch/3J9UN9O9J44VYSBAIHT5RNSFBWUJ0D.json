@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "do you think barcelona will win something this season? ",
+        "a1": "barcelona will win 5 tournaments.",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity will win @object tournaments.",
+        "a1_v2": "barcelona will win 5 tournaments.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "i think the league is the liga?",
+        "a2": "yes thats correct its, la liga.",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes thats correct its, la liga.",
+        "a2_v2": "yes thats correct its, la liga.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what is your favorite team?",
+        "a3": "my favorite team in la liga is barcelona. ",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "my favorite team in la liga is @entity ",
+        "a3_v2": "my favorite team in la liga is barcelona. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what is so special about them? ",
+        "a4": "they are special because they have many talented members on their team.",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "they are special because they have many talented members on their team.",
+        "a4_v2": "they are special because they have many talented members on their team.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what's the name of the stadium that barcelona play at?",
+        "a5": "they play in camp nou",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "they play in camp nou",
+        "a5_v2": "they play in camp nou",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "barcelona"
+    }
+]

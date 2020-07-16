@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i admire italy",
+        "a1": "italy plays too much in the middle, they need to take more risks.",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity plays too much in the middle, they need to take more risks.",
+        "a1_v2": "italy plays too much in the middle, they need to take more risks.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "italy have always been defensive, not taking too many risks. why should they stop playing that way? ",
+        "a2": "because italy isn't scoring enough using their defensive strategy.",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "because @entity isn't scoring enough using their defensive strategy.",
+        "a2_v2": "because italy isn't scoring enough using their defensive strategy.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "because it is composed of a good defense, its players are excellent ",
+        "a3": "military",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "military",
+        "a3_v2": "military",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what can they change in their formation to start being more effective?",
+        "a4": "they need to pressure one side of the field more instead of spreading out during offensive plays.",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they need to pressure one side of the @object more instead of spreading out during offensive plays.",
+        "a4_v2": "they need to pressure one side of the field more instead of spreading out during offensive plays.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "emre can"
+    },
+    {
+        "q5": "who is the current manager of italy?",
+        "a5": "roberto mancini",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@coach",
+        "corr_rel5": "coach",
+        "obj5": "roberto mancini",
+        "input_ent5": "italy"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "get me directions to the nearest coffee shop",
+        "a1": "the nearest coffee shop is 3_miles away would you like the name and address of it",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "distance",
+        "obj1": "3_miles",
+        "input_ent1": "peets_coffee",
+        "kvr_entlist_qa1": [
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "yes please and also pick the route to avoid all heavy_traffic",
+        "a2": "the name of the nearest coffee shop is coupa and the address is 394_van_ness_ave the current moderate_traffic route is now set on your gps",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "394_van_ness_ave",
+        "input_ent2": "peets_coffee",
+        "kvr_entlist_qa2": [
+            "394_van_ness_ave",
+            "moderate_traffic",
+            "coupa"
+        ]
+    },
+    {
+        "q3": "thank you car let s go there",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

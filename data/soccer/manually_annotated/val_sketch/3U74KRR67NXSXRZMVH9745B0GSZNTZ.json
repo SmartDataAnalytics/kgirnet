@@ -1,0 +1,121 @@
+[
+    {
+        "q1": "who is their longest serving manager?",
+        "a1": "no idea",
+        "kgER1": {
+            "sergio aguero": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a1_skt": "no idea",
+        "a1_v2": "no idea",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "you couldn't just google it?",
+        "a2": "helmut sch\u00f6n was the longest serving trainer of the german national team.",
+        "kgER2": {
+            "sergio aguero": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a2_skt": "helmut sch\u00f6n was the longest serving trainer of the @entity national team.",
+        "a2_v2": "helmut sch\u00f6n was the longest serving trainer of the german national team.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "in what year did wembley host it's first ever fa cup final?  1923",
+        "a3": "i'm totally unhappy because wembley is from england, and his year was 1923",
+        "kgER3": {
+            "sergio aguero": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a3_skt": "i'm totally unhappy because wembley is from england, and his year was @object",
+        "a3_v2": "i'm totally unhappy because wembley is from england, and his year was 1923",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ever banega"
+    },
+    {
+        "q4": "why do some people think that wembley is related to the germany team?",
+        "a4": "reallly?who thinks that then.",
+        "kgER4": {
+            "sergio aguero": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "reallly?who thinks that then.",
+        "a4_v2": "reallly?who thinks that then.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "germany"
+    },
+    {
+        "q5": "all the people asking about wembley and the fa cup.",
+        "a5": "i am not sure how to answer this question",
+        "kgER5": {
+            "sergio aguero": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i am not sure how to answer this question",
+        "a5_v2": "i am not sure how to answer this question",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "white and red"
+    }
+]

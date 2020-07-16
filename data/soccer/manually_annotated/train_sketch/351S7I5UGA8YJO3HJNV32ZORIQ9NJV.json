@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "france played really well in the world up , do n't you think \\?",
+        "a1": "yep , they put in the effort and it paid off in the end",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yep , they put in the effort and it paid off in the end",
+        "a1_v2": "yep , they put in the effort and it paid off in the end",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "france"
+    },
+    {
+        "q2": "who is france 's starting striker \\?",
+        "a2": "france 's starting striker at the world cup was olivier giroud",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity 's starting striker at the world cup was olivier @relation",
+        "a2_v2": "@entity 's starting striker at the world cup was olivier forward",
+        "corr_rel2": "forward",
+        "obj2": "olivier giroud",
+        "input_ent2": "france"
+    },
+    {
+        "q3": "who did france beat in the 2018 final \\?",
+        "a3": "croatia",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity",
+        "a3_v2": "croatia",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "2018"
+    },
+    {
+        "q4": "did you find the final exciting \\?",
+        "a4": "yes very exciting did you",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes very exciting did you",
+        "a4_v2": "yes very exciting did you",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "when did france win their first world cup \\?",
+        "a5": "1998",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@world_cup_champions",
+        "corr_rel5": "world cup champions",
+        "obj5": "1998",
+        "input_ent5": "france"
+    }
+]

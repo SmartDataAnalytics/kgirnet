@@ -1,0 +1,91 @@
+[
+    {
+        "q1": "i think this team is going to win",
+        "a1": "they did not win but they did very well ",
+        "kgER1": {},
+        "a1_skt": "they did not win but they did very well ",
+        "a1_v2": "they did not win but they did very well ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who is their best midfielder?",
+        "a2": "kante is raising as one of the best defensive midfielder in the world",
+        "kgER2": {
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a2_skt": "kante is raising as one of the best defensive @relation in the world",
+        "a2_v2": "kante is raising as one of the best defensive midfielder in the world",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "midfielder"
+    },
+    {
+        "q3": "name the 1st captain name?",
+        "a3": "modric is the captain.",
+        "kgER3": {
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a3_skt": "@object is the @relation",
+        "a3_v2": "@captain is the captain",
+        "corr_rel3": "captain",
+        "obj3": "luka modric",
+        "input_ent3": "croatia"
+    },
+    {
+        "q4": "how will they do in the next world cup?",
+        "a4": "i don't think they will do as well, since it was very lucky for them to get to the final. ",
+        "kgER4": {
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a4_skt": "i don't think they will do as well, since it was very lucky for them to get to the final. ",
+        "a4_v2": "i don't think they will do as well, since it was very lucky for them to get to the final. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "croatia is a very good team almost wins the 2018 world cup and its best player and captain is luka modric ",
+        "a5": "will luka modric play for them at the next world cup?",
+        "kgER5": {
+            "midfielder": [
+                "position"
+            ],
+            "luka modric": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "midfielder"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "will @object play for them at the next world cup?",
+        "a5_v2": "will luka modric play for them at the next world cup?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "luka modric"
+    }
+]

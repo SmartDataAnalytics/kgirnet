@@ -1,0 +1,162 @@
+[
+    {
+        "q1": "how many wins for chelsea this season in the premier league?",
+        "a1": "they have not played a game in the premier league this season.",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "they have not played a game in the premier league this season.",
+        "a1_v2": "they have not played a game in the premier league this season.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "not started",
+        "a2": "chelsea signed jorginho from napoli.",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "@entity signed @object from napoli.",
+        "a2_v2": "chelsea signed jorginho from napoli.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how do you think jorginho will do for them?",
+        "a3": "he'll be very useful in midfield.",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "jorginho": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a3_skt": "he'll be very useful in @relation",
+        "a3_v2": "he'll be very useful in midfield.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "for me, if i think that this tenporada jorginho",
+        "a4": "mention 3 best players of chelsea",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "jorginho": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a4_skt": "mention @object best players of @entity",
+        "a4_v2": "mention 3 best players of chelsea",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "jorginho"
+    },
+    {
+        "q5": "do you think pedro, eden hazard, and mateo kovacic are the best players on chelsea?",
+        "a5": "i think eden hazard is the best one, no doubt.",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "jorginho": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "pedro": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "mateo kovacic": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think @object is the best one, no doubt.",
+        "a5_v2": "i think eden hazard is the best one, no doubt.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "mateo kovacic"
+    }
+]

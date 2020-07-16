@@ -1,0 +1,88 @@
+[
+    {
+        "q1": "this would be an awesome team",
+        "a1": "it is an awesome team.",
+        "kgER1": {},
+        "a1_skt": "it is an awesome team.",
+        "a1_v2": "it is an awesome team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "where does arsenal play?",
+        "a2": "emirates stadium, london",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object london",
+        "a2_v2": "emirates stadium, london",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "arsenal"
+    },
+    {
+        "q3": "how many people does it fit?",
+        "a3": "tens of thousands easily ",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "tens of thousands easily ",
+        "a3_v2": "tens of thousands easily ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what is their average gate?",
+        "a4": "i have never been there but around 30 i think",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i have never been there but around @object i think",
+        "a4_v2": "i have never been there but around 30 i think",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what are their team colors?",
+        "a5": "red and yellow",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object and @object",
+        "a5_v2": "red and yellow",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

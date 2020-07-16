@@ -1,0 +1,48 @@
+[
+    {
+        "q1": "send me to the nearest gas_station",
+        "a1": "valero is the nearest gas_station at 200_alester_ave",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "valero",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "200_alester_ave",
+            "gas_station",
+            "valero"
+        ]
+    },
+    {
+        "q2": "does it have the least traffic of all choices",
+        "a2": "valero is the only choice and has moderate_traffic",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel2": "traffic_info",
+        "obj2": "moderate_traffic",
+        "input_ent2": "valero",
+        "kvr_entlist_qa2": [
+            "moderate_traffic",
+            "valero"
+        ]
+    },
+    {
+        "q3": "pick a quick route to get there and send the address on my map please",
+        "a3": "sending the address and route to valero at 200_alester_ave to your map",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel3": "address",
+        "obj3": "200_alester_ave",
+        "input_ent3": "valero",
+        "kvr_entlist_qa3": [
+            "200_alester_ave",
+            "valero"
+        ]
+    },
+    {
+        "q4": "thank you",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

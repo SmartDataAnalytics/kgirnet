@@ -1,0 +1,114 @@
+[
+    {
+        "q1": "love fc. porto",
+        "a1": "what is it that you like about them? ",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "what is it that you like about them? ",
+        "a1_v2": "what is it that you like about them? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "i like their goalkeeper, do you?",
+        "a2": "i don't really know a ton about their goalkeeper, honestly. ",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a2_skt": "i don't really know a ton about their @relation honestly. ",
+        "a2_v2": "i don't really know a ton about their goalkeeper, honestly. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "goalkeeper"
+    },
+    {
+        "q3": "i do not like his goalkeeper very much, but i do trust the team",
+        "a3": "i think the porto goalkeeper is a good goalkeeper because he has good performances in the team",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "i think the porto @relation is a good @relation because he has good performances in the team",
+        "a3_v2": "i think the porto goalkeeper is a good goalkeeper because he has good performances in the team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "fc. porto  flag what i  color? ",
+        "a4": "the flag is blue and white stripes with fc porto logo",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "the flag is @object and @object stripes with fc porto logo",
+        "a4_v2": "the flag is blue and white stripes with fc porto logo",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "fc. porto"
+    },
+    {
+        "q5": "yes, that's the fc porto flag",
+        "a5": "who is the goalkeeper of fc porto?",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "who is the @relation of fc porto?",
+        "a5_v2": "who is the goalkeeper of fc porto?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "fc. porto"
+    }
+]

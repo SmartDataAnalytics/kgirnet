@@ -1,0 +1,163 @@
+[
+    {
+        "q1": "good short paris sg ",
+        "a1": "were you looking for a player or for kit gear?",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "were you looking for a player or for kit gear?",
+        "a1_v2": "were you looking for a player or for kit gear?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "paris sg"
+    },
+    {
+        "q2": "who is the best player on paris sg?",
+        "a2": "kaka",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "kaka",
+        "a2_v2": "kaka",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "paris sg"
+    },
+    {
+        "q3": "who is their worst player?",
+        "a3": "georgen",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "georgen",
+        "a3_v2": "georgen",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "psg is back !! and now they signed buffon to be their goalkeeper !",
+        "a4": "gianluigi buffon: psg signs goalkeeper great to one-year deal",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "@object psg signs @relation great to one-year deal",
+        "a4_v2": "gianluigi buffon: psg signs goalkeeper great to one-year deal",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "goalkeeper"
+    },
+    {
+        "q5": "does paris sg have a shot at the world cup?",
+        "a5": "no, they are a club team only",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "no, they are a club team only",
+        "a5_v2": "no, they are a club team only",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "paris sg"
+    }
+]

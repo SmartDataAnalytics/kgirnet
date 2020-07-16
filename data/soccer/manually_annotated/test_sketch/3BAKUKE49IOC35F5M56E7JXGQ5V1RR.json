@@ -1,0 +1,66 @@
+[
+    {
+        "q1": "do you think the attitude of the referees play a role in how many people get carded? ",
+        "a1": "of course it does.",
+        "kgER1": {},
+        "a1_skt": "of course it does.",
+        "a1_v2": "of course it does.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "do you think it is harder to referee a football game now, especially with so many tv cameras pointed at the game?",
+        "a2": "it's certainly harder in that every decision they make on the pitch is reviewed by multiple cameras that see way more than they possibly can.",
+        "kgER2": {},
+        "a2_skt": "it's certainly harder in that every decision they make on the pitch is reviewed by multiple cameras that see way more than they possibly can.",
+        "a2_v2": "it's certainly harder in that every decision they make on the pitch is reviewed by multiple cameras that see way more than they possibly can.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "world cup 2026 host by usa, mexico and canada",
+        "a3": "correct.",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "correct.",
+        "a3_v2": "correct.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mexico"
+    },
+    {
+        "q4": "who is the most popular player?",
+        "a4": "most popular player is probably ronaldo or messi as they are the 2 biggest stars in football right now",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "most popular player is probably ronaldo or messi as they are the @object biggest stars in football right now",
+        "a4_v2": "most popular player is probably ronaldo or messi as they are the 2 biggest stars in football right now",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    }
+]

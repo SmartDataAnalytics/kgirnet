@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "i m in pain navigate me to the nearest hospital",
+        "a1": "i have two hospitals located 1_miles away which one would you like to know about",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "distance",
+        "obj1": "1_miles",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "1_miles"
+        ]
+    },
+    {
+        "q2": "pick the fastest to reach on the quickest route",
+        "a2": "then let s go at palo_alto_medical_foundation there is no_traffic on our way and its address is 611_ames_ave",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "palo_alto_medical_foundation",
+        "input_ent2": "hospital",
+        "kvr_entlist_qa2": [
+            "palo_alto_medical_foundation",
+            "611_ames_ave",
+            "no_traffic"
+        ]
+    },
+    {
+        "q3": "sounds great thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

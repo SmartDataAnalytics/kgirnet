@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "is it snowing next_week",
+        "a1": "what city would you like me to check to see if it s snowing",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "in durham",
+        "a2": "it will snow on wednesday saturday and sunday in durham",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "saturday,sunday,wednesday",
+        "obj2": "snow",
+        "input_ent2": "durham",
+        "kvr_entlist_qa2": [
+            "snow",
+            "wednesday",
+            "sunday",
+            "saturday",
+            "durham"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you are very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

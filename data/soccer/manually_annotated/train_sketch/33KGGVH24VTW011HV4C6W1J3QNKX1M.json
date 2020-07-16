@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who is ac milan 's manager currently \\?",
+        "a1": "their current manager is named gennaro gattuso",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "their current manager is named @object",
+        "a1_v2": "their current manager is named @coach",
+        "corr_rel1": "coach",
+        "obj1": "gennaro gattuso",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "he has won many titles in the past",
+        "a2": "15 in total if you include his junior years",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object in total if you include his junior years",
+        "a2_v2": "15 in total if you include his junior years",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "what colour is ac milan home shirt \\?",
+        "a3": "red and black",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object and black",
+        "a3_v2": "red and black",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ac milan"
+    },
+    {
+        "q4": "who is the owner of od team \\?",
+        "a4": "rossoneri sport investment lux owns ac milan",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "rossoneri sport investment lux owns ac milan",
+        "a4_v2": "rossoneri sport investment lux owns ac milan",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "is he wanting to sell ac \\?",
+        "a5": "not that i'm aware of it",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "not that i'm aware of it",
+        "a5_v2": "not that i'm aware of it",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ac milan"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "can you please find me the time date and what is planned for the next meeting i have scheduled in my calendar",
+        "a1": "your meeting is on the_5th at 1pm the purpose is to go over the quarterly report",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,date",
+        "obj1": "the_5th,1pm",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "the_5th",
+            "1pm",
+            "meeting"
+        ]
+    },
+    {
+        "q2": "thank you",
+        "a2": "i m here to serve",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

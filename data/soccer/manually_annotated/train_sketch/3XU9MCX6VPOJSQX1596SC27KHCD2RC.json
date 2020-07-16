@@ -1,0 +1,141 @@
+[
+    {
+        "q1": "how many goals did croatia score in the 2018 world cup?",
+        "a1": "croatia scored 14 goals in the 2018 world cup",
+        "kgER1": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity scored @object @relation in the @object world cup",
+        "a1_v2": "croatia scored 14 goals in the 2018 world cup",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "2018"
+    },
+    {
+        "q2": "how many games did they win?",
+        "a2": "they won 5 games.",
+        "kgER2": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they won @object games.",
+        "a2_v2": "they won 5 games.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "and was the score of their last game at the cup?",
+        "a3": "they score alot of games",
+        "kgER3": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they score alot of games",
+        "a3_v2": "they score alot of games",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "white and red"
+    },
+    {
+        "q4": "they lost 4-2 to france in the world cup final.",
+        "a4": "they were very unlucky to lose",
+        "kgER4": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they were very unlucky to lose",
+        "a4_v2": "they were very unlucky to lose",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "france"
+    },
+    {
+        "q5": "did the game go into pks?",
+        "a5": "no, the gamed was finished after the regular time.",
+        "kgER5": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "no, the gamed was finished after the regular time.",
+        "a5_v2": "no, the gamed was finished after the regular time.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

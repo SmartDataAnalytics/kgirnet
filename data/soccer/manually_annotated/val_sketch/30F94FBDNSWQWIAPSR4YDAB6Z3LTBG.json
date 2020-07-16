@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "how popular is football in sweden?",
+        "a1": "it is actually the country's most popular sport, particularly among young people. ",
+        "kgER1": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "it is actually the country's most popular sport, particularly among young people. ",
+        "a1_v2": "it is actually the country's most popular sport, particularly among young people. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "sweden"
+    },
+    {
+        "q2": "are sweden better than england?",
+        "a2": "according to history they are relatively equals. two of the three times they have met in competitive play have ended in ties.",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "according to history they are relatively equals. two of the three times they have met in competitive play have ended in ties.",
+        "a2_v2": "according to history they are relatively equals. two of the three times they have met in competitive play have ended in ties.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "sweden"
+    },
+    {
+        "q3": "is sweden england's rival?",
+        "a3": "they played each other in world cup 2018, with england winning that game.who knows, maybe they will play again in 2020 euros?",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they played each other in world cup @object with england winning that game.who knows, maybe they will play again in @object euros?",
+        "a3_v2": "they played each other in world cup 2018, with england winning that game.who knows, maybe they will play again in 2020 euros?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "sweden"
+    },
+    {
+        "q4": "who\u2019s sweden\u2019s best player",
+        "a4": "sweden best player is marcus berg",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity @relation is @object",
+        "a4_v2": "sweden best player is marcus berg",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "sweden"
+    },
+    {
+        "q5": "how goals did marcus berg score at the wc? ",
+        "a5": "he scored 0 goals",
+        "kgER5": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "marcus berg": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "he scored @object @relation",
+        "a5_v2": "he scored @goals goals",
+        "corr_rel5": "goals",
+        "obj5": "0",
+        "input_ent5": "sweden"
+    }
+]

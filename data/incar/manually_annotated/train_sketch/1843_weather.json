@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "is it supposed to rain this week",
+        "a1": "what city are you inquiring about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "the big apple new_york city",
+        "a2": "it is forecast to rain in new_york on wednesday of this week",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "wednesday",
+        "obj2": "rain",
+        "input_ent2": "new_york",
+        "kvr_entlist_qa2": [
+            "week",
+            "rain",
+            "new_york",
+            "wednesday"
+        ]
+    }
+]

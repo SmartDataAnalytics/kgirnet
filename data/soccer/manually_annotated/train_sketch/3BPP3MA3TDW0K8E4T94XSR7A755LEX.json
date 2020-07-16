@@ -1,0 +1,148 @@
+[
+    {
+        "q1": "hey- did you watch the match last night with spain playing?",
+        "a1": "got to be honest i hate watching spain play.  there is only so much pointless passing you can watch.",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "got to be honest i hate watching @entity play.  there is only so much pointless passing you can watch.",
+        "a1_v2": "got to be honest i hate watching spain play.  there is only so much pointless passing you can watch.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "spain"
+    },
+    {
+        "q2": "q1: hey, did you watch the football last night? i can't believe spain managed to lose again!  a: yes, i did. i can't believe it as well considering the quality of players on their side.  ",
+        "a2": "it's true. spain is always hit or miss.",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "it's true. @entity is always hit or miss.",
+        "a2_v2": "it's true. spain is always hit or miss.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "spain"
+    },
+    {
+        "q3": "it is so frustrating how inconsistent they are!",
+        "a3": "why do you think spain are so inconsistent?",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "why do you think @entity are so inconsistent?",
+        "a3_v2": "why do you think spain are so inconsistent?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "they seem to lack a finality in front of goal they used to have with players like david villa.",
+        "a4": "spain has a well balanced team core in the midfield they can use to score.",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity has a well balanced team core in the @relation they can use to score.",
+        "a4_v2": "spain has a well balanced team core in the midfield they can use to score.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "david silva"
+    },
+    {
+        "q5": "does their coach have what it takes to get them to the next level?",
+        "a5": "now that they hired the former barcelona coach they will be a contender in the next tournament. ",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "now that they hired the former @entity @relation they will be a contender in the next tournament. ",
+        "a5_v2": "now that they hired the former barcelona coach they will be a contender in the next tournament. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    },
+    {
+        "q6": "yes barcelona wil contender next tournament?",
+        "a6": "yes and i hope they will do a good job this time",
+        "kgER6": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a6_skt": "yes and i hope they will do a good job this time",
+        "a6_v2": "yes and i hope they will do a good job this time",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "barcelona"
+    }
+]

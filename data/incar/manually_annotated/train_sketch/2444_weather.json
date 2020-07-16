@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "what is the weather is it going to rain",
+        "a1": "what city do you want the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "menlo_park find out if it will rain today",
+        "a2": "today in menlo_park there will be lowest_temperature with low of 60f and high of 80f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "60f,80f,today",
+        "input_ent2": "menlo_park",
+        "kvr_entlist_qa2": [
+            "80f",
+            "lowest_temperature",
+            "60f",
+            "today",
+            "menlo_park"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

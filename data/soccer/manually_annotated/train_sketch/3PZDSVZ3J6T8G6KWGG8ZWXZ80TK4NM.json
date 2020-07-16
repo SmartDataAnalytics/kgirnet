@@ -1,0 +1,100 @@
+[
+    {
+        "q1": "i don't even know what this team does",
+        "a1": "they are nicknamed the lions of teranga.",
+        "kgER1": {},
+        "a1_skt": "they are nicknamed the lions of teranga.",
+        "a1_v2": "they are nicknamed the lions of teranga.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "can senegal recover from losing their goalie?",
+        "a2": "probably not, as senegal is a small team.",
+        "kgER2": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "probably not, as @entity is a small team.",
+        "a2_v2": "probably not, as senegal is a small team.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "senegal"
+    },
+    {
+        "q3": "even though senegal is a small team,  they will look for a talented goalie as they pick another player for their team.  ",
+        "a3": "i totally agree with a small team and i try to improve and look for one to improve",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i totally agree with a small team and i try to improve and look for one to improve",
+        "a3_v2": "i totally agree with a small team and i try to improve and look for one to improve",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "senegal"
+    },
+    {
+        "q4": "does senegal have the budget to get better players?",
+        "a4": "it's not about their budget necessarily but how good the players are who come from senegal. ",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "it's not about their budget necessarily but how good the players are who come from @entity ",
+        "a4_v2": "it's not about their budget necessarily but how good the players are who come from senegal. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "senegal"
+    },
+    {
+        "q5": "will we see senegal players in top leagues?",
+        "a5": "yes, for example man\u00e9 plays at liverpool",
+        "kgER5": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes, for example man\u00e9 plays at @entity",
+        "a5_v2": "yes, for example man\u00e9 plays at liverpool",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "senegal"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "q1": "can you tell me what day and what the agenda is for the business meeting i have in the 100 conference room",
+        "a1": "your business meeting with the executive_team in conference_room_100 is set for wednesday at 1pm to discuss to go_over_budget",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,room,agenda,party",
+        "obj1": "executive_team,conference_room_100,1pm,go_over_budget",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "wednesday",
+            "executive_team",
+            "conference_room_100",
+            "meeting",
+            "1pm",
+            "go_over_budget"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

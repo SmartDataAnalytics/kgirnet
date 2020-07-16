@@ -1,0 +1,144 @@
+[
+    {
+        "q1": "i love the team italy",
+        "a1": "who is their current manager? ",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "who is their current manager? ",
+        "a1_v2": "who is their current manager? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "i believe it is antonio conte.",
+        "a2": "if he is the current chelsea coach",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "if he is the current @entity @relation",
+        "a2_v2": "if he is the current chelsea coach",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "antonio candreva"
+    },
+    {
+        "q3": " he is no longer the coach of chelsea he was of italy",
+        "a3": "what is italy's couching staff like now?",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "what is italy's couching staff like now?",
+        "a3_v2": "what is italy's couching staff like now?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "chelsea"
+    },
+    {
+        "q4": "do the coaches on italy get paid well>",
+        "a4": "yes, all coaches are well paid. ",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "yes, all @relation are well paid. ",
+        "a4_v2": "yes, all coaches are well paid. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "italy"
+    },
+    {
+        "q5": "who's your favorite player on italy?",
+        "a5": "lorenzo insigne.",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "lorenzo insigne.",
+        "a5_v2": "lorenzo insigne.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "italy"
+    }
+]

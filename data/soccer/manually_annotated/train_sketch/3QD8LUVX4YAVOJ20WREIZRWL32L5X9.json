@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "which colors are used in bvb dortmund logo \\?",
+        "a1": "black and yellow",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "black and @object",
+        "a1_v2": "black and @jersey_color",
+        "corr_rel1": "jersey color",
+        "obj1": "yellow",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "who is bvb dortmund 's best player of all time \\?",
+        "a2": "marco reus",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "marco reus",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bvb dortmund"
+    },
+    {
+        "q3": "who is bvb dortmund 's worst player \\?",
+        "a3": "that 's a very difficult question",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "that 's a very difficult question",
+        "a3_v2": "that 's a very difficult question",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "which league do they play in \\?",
+        "a4": "bundesliga",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "bundesliga",
+        "a4_v2": "bundesliga",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "how many goals does reus have for bvb \\?",
+        "a5": "he has 75 goals for dortmund",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "he has @object @relation for dortmund",
+        "a5_v2": "he has 75 goals for dortmund",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "marco reus"
+    }
+]

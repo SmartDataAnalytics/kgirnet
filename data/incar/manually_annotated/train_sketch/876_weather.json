@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "what is the temperature for the next 7 days weather forecast",
+        "a1": "what city are you wanting the temperature for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "oakland",
+        "a2": "in oakland on monday the temperature will be between 80f - 100f on tuesday 70f - 80f wednesday 60f - 70f thursday 80f - 90f friday 40f - 60f saturday 70f - 90f and sunday 70f - 80f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "70f,100f,80f,90f,60f,40f",
+        "input_ent2": "oakland",
+        "kvr_entlist_qa2": [
+            "70f",
+            "100f",
+            "80f",
+            "oakland",
+            "90f",
+            "60f",
+            "monday",
+            "wednesday",
+            "sunday",
+            "saturday",
+            "40f",
+            "tuesday",
+            "thursday",
+            "friday"
+        ]
+    }
+]

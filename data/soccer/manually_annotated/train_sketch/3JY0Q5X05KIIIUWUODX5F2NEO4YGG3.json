@@ -1,0 +1,207 @@
+[
+    {
+        "q1": "if italy had made it into the world cup, how far do you think they would have made it?",
+        "a1": "maybe the quarter finals.",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "maybe the quarter finals.",
+        "a1_v2": "maybe the quarter finals.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "i disagree, with a loss to argentina before the world cup, italy showed that they didn't deserve to be there in the first place.",
+        "a2": "agree, they were bad in qualifying.  maybe they need to be away from it to realise how much they missed it.",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "agree, they were bad in qualifying.  maybe they need to be away from it to realise how much they missed it.",
+        "a2_v2": "agree, they were bad in qualifying.  maybe they need to be away from it to realise how much they missed it.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "argentina"
+    },
+    {
+        "q3": "what do you think italy needs to do, to be better prepared next time?",
+        "a3": "they need to stop relying on their older players and embrace the next generation. players like andrea belotti and tiziano tullisi. ",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "they need to stop relying on their older players and embrace the next generation. players like andrea belotti and tiziano tullisi. ",
+        "a3_v2": "they need to stop relying on their older players and embrace the next generation. players like andrea belotti and tiziano tullisi. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "how many time did italy win in the world cup anyways?",
+        "a4": "italy won the world cup 4 times.",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "@entity won the world cup @object times.",
+        "a4_v2": "italy won the world cup 4 times.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "italy"
+    },
+    {
+        "q5": "when was the latest one?",
+        "a5": "it was in 2006!",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "it was in @object",
+        "a5_v2": "it was in 2006!",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    },
+    {
+        "q6": "how does italy travel to the world cup?",
+        "a6": "italy either uses their private bus or they have a jet.",
+        "kgER6": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a6_skt": "@entity either uses their private bus or they have a jet.",
+        "a6_v2": "italy either uses their private bus or they have a jet.",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "italy"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "q1": "do you think liverpool will reach the champions league final again?",
+        "a1": "yes because they have a strong team.",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "yes because they have a strong team.",
+        "a1_v2": "yes because they have a strong team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "who won the game last time?",
+        "a2": "it could well have been liverpool. ",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "it could well have been @entity ",
+        "a2_v2": "it could well have been liverpool. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how many times has liverpool reached the champions league final?",
+        "a3": "a total of 4 times this century.",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "a total of @object times this century.",
+        "a3_v2": "a total of 4 times this century.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "how many games did they win last season?",
+        "a4": "leveland browns finish 2017 season 0-16",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "leveland browns finish 2017 season 0-16",
+        "a4_v2": "leveland browns finish 2017 season 0-16",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is liverpool's coach again?",
+        "a5": "jurgen klopp",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "jurgen klopp",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

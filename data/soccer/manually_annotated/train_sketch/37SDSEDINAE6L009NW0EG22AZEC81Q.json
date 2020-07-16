@@ -1,0 +1,107 @@
+[
+    {
+        "q1": "who is the most valuable player in real madrid? ",
+        "a1": "it was christiano ronaldo until he left. now it's probably christian bale.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "it was @object until he left. now it's probably christian bale.",
+        "a1_v2": "it was christiano ronaldo until he left. now it's probably christian bale.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "what is the club's nickname?  the gunners",
+        "a2": "toni kroos is now. ",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object is now. ",
+        "a2_v2": "toni kroos is now. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is the manager of real madrid?",
+        "a3": "totally disagree because the nickname of the club are the meringues",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "totally disagree because the nickname of the club are the meringues",
+        "a3_v2": "totally disagree because the nickname of the club are the meringues",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "who is the best player on real madrid? ",
+        "a4": "marcelo i believe",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object i believe",
+        "a4_v2": "marcelo i believe",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "marcelo is the 2nd best player",
+        "a5": "who is the first then",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "marcelo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ]
+        },
+        "a5_skt": "who is the first then",
+        "a5_v2": "who is the first then",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "marcelo"
+    }
+]

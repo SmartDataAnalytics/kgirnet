@@ -1,0 +1,154 @@
+[
+    {
+        "q1": "i really love the team mexico",
+        "a1": "why do you feel a connection with the mexican team?",
+        "kgER1": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "why do you feel a connection with the mexican team?",
+        "a1_v2": "why do you feel a connection with the mexican team?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "mexico"
+    },
+    {
+        "q2": "because i love guillermo ochoa",
+        "a2": "ochoa is a very good goalkeeper ",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "guillermo ochoa": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "ochoa is a very good @relation ",
+        "a2_v2": "ochoa is a very good goalkeeper ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "guillermo ochoa"
+    },
+    {
+        "q3": "who is another good player on the team?",
+        "a3": "javier hernandez is also great and so is giovani dos santos.",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "guillermo ochoa": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "@object is also great and so is @object",
+        "a3_v2": "javier hernandez is also great and so is giovani dos santos.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is the goalkeeper of mexico",
+        "a4": "guillermo ochoa.",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "guillermo ochoa": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "@goalkeeper",
+        "corr_rel4": "goalkeeper",
+        "obj4": "guillermo ochoa",
+        "input_ent4": "mexico"
+    },
+    {
+        "q5": "do they have a sub goal keeoer?",
+        "a5": "the sub goalkeeper in the mexican team is alfredo talavera.",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "guillermo ochoa": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "the sub @relation in the mexican team is alfredo talavera.",
+        "a5_v2": "the sub goalkeeper in the mexican team is alfredo talavera.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

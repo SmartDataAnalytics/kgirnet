@@ -1,0 +1,111 @@
+[
+    {
+        "q1": "what nationality are fc porto?",
+        "a1": "fc porto are portuguese.",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "fc porto are portuguese.",
+        "a1_v2": "fc porto are portuguese.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "seems like it should be portu instead.",
+        "a2": "but they are named after the city of porto",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "but they are named after the city of porto",
+        "a2_v2": "but they are named after the city of porto",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how many losses at home does fc porto have this season ?",
+        "a3": "how many wins away does fc. porto have this season?",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a3_skt": "how many wins away does fc. porto have this season?",
+        "a3_v2": "how many wins away does fc. porto have this season?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "fc. porto"
+    },
+    {
+        "q4": "3 so far",
+        "a4": "who is f.c porto best player",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a4_skt": "who is f.c porto @relation",
+        "a4_v2": "who is f.c porto best player",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "porto's best player is probably rodriguez.",
+        "a5": "even adrian lopez is good.",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "even @object is good.",
+        "a5_v2": "even adrian lopez is good.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "fc. porto"
+    }
+]

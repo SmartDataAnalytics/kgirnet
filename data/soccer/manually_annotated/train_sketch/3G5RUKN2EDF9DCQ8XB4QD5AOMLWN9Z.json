@@ -1,0 +1,101 @@
+[
+    {
+        "q1": "what was used in the fa cup final and never used again?",
+        "a1": "orange ball",
+        "kgER1": {
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "orange ball",
+        "a1_v2": "orange ball",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "white and red"
+    },
+    {
+        "q2": "why did they use an orange ball? ",
+        "a2": "because snow was predicted ",
+        "kgER2": {
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "because snow was predicted ",
+        "a2_v2": "because snow was predicted ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "flame orange color scheme"
+    },
+    {
+        "q3": "is there a relationship between orange color and real madrid?",
+        "a3": "not for me the madrid has nothing to do with the color orange",
+        "kgER3": {
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "not for me the madrid has nothing to do with the color orange",
+        "a3_v2": "not for me the madrid has nothing to do with the color orange",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "has real madrid ever used another colored ball?",
+        "a4": "no, the orange ball was special because of this fact.",
+        "kgER4": {
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "no, the orange ball was special because of this fact.",
+        "a4_v2": "no, the orange ball was special because of this fact.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    }
+]

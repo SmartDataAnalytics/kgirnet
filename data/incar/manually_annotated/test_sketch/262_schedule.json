@@ -1,0 +1,43 @@
+[
+    {
+        "q1": "what time is my doctor apartment and who is it with",
+        "a1": "are you talking about the doctor_appointment on wednesday or the one on the_5th",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "wednesday",
+            "the_5th",
+            "doctor_appointment"
+        ]
+    },
+    {
+        "q2": "the one on wednesday",
+        "a2": "your doctor_appointment on wednesday is at 7pm with your father",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "father",
+            "wednesday",
+            "7pm",
+            "doctor_appointment"
+        ]
+    },
+    {
+        "q3": "and how about the one on the_5th",
+        "a3": "your doctor_appointment on the_5th is at 6pm with alex",
+        "input_rel3": "date,time,party",
+        "corr_rel3": "time,party",
+        "obj3": "6pm,alex",
+        "input_ent3": "the_5th",
+        "kvr_entlist_qa3": [
+            "6pm",
+            "the_5th",
+            "doctor_appointment",
+            "alex"
+        ]
+    }
+]

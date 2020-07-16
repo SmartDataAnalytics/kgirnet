@@ -1,0 +1,88 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "what about bvb dortmund?",
+        "kgER1": {},
+        "a1_skt": "what about bvb dortmund?",
+        "a1_v2": "what about bvb dortmund?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "if they play good, then they will ",
+        "a2": "they have as good a shot as anyone else. injuries can happen and place any team in the back. ",
+        "kgER2": {},
+        "a2_skt": "they have as good a shot as anyone else. injuries can happen and place any team in the back. ",
+        "a2_v2": "they have as good a shot as anyone else. injuries can happen and place any team in the back. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "does bvb dortmund have any injured players right now?",
+        "a3": "borussia dortmund injury update heading into the international break ",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "borussia dortmund injury update heading into the international break ",
+        "a3_v2": "borussia dortmund injury update heading into the international break ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "i do not have that information",
+        "a4": "you can always look it up! , who is your favorite player from dortmund?",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "you can always look it up! , who is your favorite player from dortmund?",
+        "a4_v2": "you can always look it up! , who is your favorite player from dortmund?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "marcos reus is my favorite player",
+        "a5": " mine equal",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": " mine equal",
+        "a5_v2": " mine equal",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "marco reus"
+    }
+]

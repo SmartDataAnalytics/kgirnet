@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "who is the current goalkeeper of real madrid?",
+        "a1": "courtois",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a1_skt": "courtois",
+        "a1_v2": "courtois",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "what is the nickname for real madrid?",
+        "a2": "i heard commentators refer to real madrid as \"los merengues\". ",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a2_skt": "i heard commentators refer to @entity as \"los merengues\". ",
+        "a2_v2": "i heard commentators refer to real madrid as \"los merengues\". ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "are there any other nicknames for that team?",
+        "a3": "what stadium does real madrid play in",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "what stadium does @entity play in",
+        "a3_v2": "what stadium does real madrid play in",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "santiago bernab\u00e9u stadium",
+        "a4": "how big is santiago bernab\u00e9u stadium",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "how big is @object",
+        "a4_v2": "how big is santiago bernab\u00e9u stadium",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "santiago bernabeu stadium"
+    },
+    {
+        "q5": "81044",
+        "a5": "who will replace christian ronaldo",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "who will replace @object",
+        "a5_v2": "who will replace christian ronaldo",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

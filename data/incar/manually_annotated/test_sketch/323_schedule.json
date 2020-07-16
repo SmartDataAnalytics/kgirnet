@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "i would like to know who is attending my meeting and when it is",
+        "a1": "your boss will be at the meeting on monday at 1pm",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,party",
+        "obj1": "boss,1pm",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "1pm",
+            "boss",
+            "monday",
+            "meeting"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "happy to help",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

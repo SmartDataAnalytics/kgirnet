@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who is the new manager of the arsenal?",
+        "a1": "unai emery ",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object ",
+        "a1_v2": "@coach",
+        "corr_rel1": "coach",
+        "obj1": "unai emery",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "no, unay emery is the manager of the psg team.",
+        "a2": "he was the manager of psg, now he is the manager of arsenal ",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "he was the manager of psg, now he is the manager of @entity ",
+        "a2_v2": "he was the manager of psg, now he is the manager of arsenal ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "unai emery"
+    },
+    {
+        "q3": "who is their capitan?",
+        "a3": "ozil seguira en arsenal",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "ozil seguira en @entity",
+        "a3_v2": "ozil seguira en arsenal",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "does arsenal have a mascot?",
+        "a4": "im pretty sure they have a mascot",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "im pretty sure they have a mascot",
+        "a4_v2": "im pretty sure they have a mascot",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "arsenal"
+    },
+    {
+        "q5": "will arsenal qualify for the champions league this season?",
+        "a5": "they could still replace liverpool or tottenham in the top four and qualify for the champions league.",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "they could still replace @entity or tottenham in the top four and qualify for the champions league.",
+        "a5_v2": "they could still replace liverpool or tottenham in the top four and qualify for the champions league.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "arsenal"
+    }
+]

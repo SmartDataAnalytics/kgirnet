@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "who do you think the best american player in the world is?",
+        "a1": "pulisic",
+        "kgER1": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "pulisic",
+        "a1_v2": "pulisic",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "do you think pulisic can help the national team improve?",
+        "a2": "he's good, but his teamwork is lacking.",
+        "kgER2": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "he's good, but his teamwork is lacking.",
+        "a2_v2": "he's good, but his teamwork is lacking.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "does ronaldo win the champions league with juventus?",
+        "a3": "he has always won a champion league on any new team he goes, something tells me he would with juventus.",
+        "kgER3": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "he has always won a champion league on any new team he goes, something tells me he would with @entity",
+        "a3_v2": "he has always won a champion league on any new team he goes, something tells me he would with juventus.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "juventus"
+    },
+    {
+        "q4": "will his age affect his performance this year?",
+        "a4": "i don\u2019t ink so! i think he is still a strong player",
+        "kgER4": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "i don\u2019t ink so! i think he is still a strong player",
+        "a4_v2": "i don\u2019t ink so! i think he is still a strong player",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who do you think will win it all this year?",
+        "a5": "i like ronaldo",
+        "kgER5": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "i like ronaldo",
+        "a5_v2": "i like ronaldo",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

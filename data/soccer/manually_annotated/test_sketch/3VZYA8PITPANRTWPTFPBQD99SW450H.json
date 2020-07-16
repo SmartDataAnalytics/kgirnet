@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "i completely love portugal",
+        "a1": "i dont",
+        "kgER1": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i dont",
+        "a1_v2": "i dont",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "portugal"
+    },
+    {
+        "q2": "who is portugal's best player?",
+        "a2": "cristiano ronaldo ",
+        "kgER2": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object ",
+        "a2_v2": "cristiano ronaldo ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "portugal"
+    },
+    {
+        "q3": "what is the name of the goalkeeper",
+        "a3": "it's rui pedro dos santos patr\u00edcio",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "it's @object",
+        "a3_v2": "it's @goalkeeper",
+        "corr_rel3": "goalkeeper",
+        "obj3": "rui patricio",
+        "input_ent3": "portugal"
+    },
+    {
+        "q4": "were you dissappointed in their performance in the world cup?",
+        "a4": "yes.",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "yes.",
+        "a4_v2": "yes.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "do you think they deserved to win euro 2016?",
+        "a5": "yes, it was very boring to watch them play but they deserved it.",
+        "kgER5": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "yes, it was very boring to watch them play but they deserved it.",
+        "a5_v2": "yes, it was very boring to watch them play but they deserved it.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

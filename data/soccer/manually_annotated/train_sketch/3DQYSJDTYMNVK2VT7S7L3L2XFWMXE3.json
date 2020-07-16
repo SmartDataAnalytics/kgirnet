@@ -1,0 +1,81 @@
+[
+    {
+        "q1": "how many games have they won?",
+        "a1": "if you count the 2018 world cup, sweden managed three victories.",
+        "kgER1": {},
+        "a1_skt": "if you count the @object world cup, @entity managed three victories.",
+        "a1_v2": "if you count the 2018 world cup, sweden managed three victories.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "do you ever see sweden winning a world cup title?",
+        "a2": "not really, i know they reached the final in 1958, but football has changed a lot since then.",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "not really, i know they reached the final in @object but football has changed a lot since then.",
+        "a2_v2": "not really, i know they reached the final in 1958, but football has changed a lot since then.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "sweden"
+    },
+    {
+        "q3": "have sweden ever won the euro cup?",
+        "a3": "their best was the semi-final spot in 1992.",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "their best was the semi-final spot in 1992.",
+        "a3_v2": "their best was the semi-final spot in 1992.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "sweden"
+    },
+    {
+        "q4": "who is the best player in sweden?",
+        "a4": "definitely zlatan",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "definitely zlatan",
+        "a4_v2": "definitely zlatan",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "sweden"
+    }
+]

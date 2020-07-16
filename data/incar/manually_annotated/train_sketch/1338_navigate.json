@@ -1,0 +1,50 @@
+[
+    {
+        "q1": "i m in need of coffee is there any near my current location",
+        "a1": "starbucks and teavana are close",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "teavana",
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "which is closer",
+        "a2": "teavana is 3_miles away with heavy_traffic and starbucks is 4_miles with moderate_traffic which do you prefer",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "teavana",
+            "moderate_traffic",
+            "3_miles",
+            "4_miles",
+            "starbucks",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "let s try starbucks today",
+        "a3": "there is moderate_traffic on our way but i sent the best possible route on your screen",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "traffic_info",
+        "obj3": "moderate_traffic",
+        "input_ent3": "starbucks",
+        "kvr_entlist_qa3": [
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q4": "thanks for the help",
+        "a4": "you re welcome always happy to help",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

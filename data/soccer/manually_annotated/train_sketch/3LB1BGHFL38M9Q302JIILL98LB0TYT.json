@@ -1,0 +1,100 @@
+[
+    {
+        "q1": "who will win barcelona or tottenham on 04 october 2018 \\?",
+        "a1": "barcelona will for sure !",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity will for sure !",
+        "a1_v2": "barcelona will for sure !",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "2018"
+    },
+    {
+        "q2": "who 's your favorite player on barcelona \\?",
+        "a2": "i guess it has to be messi , one of the all time great players",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i guess it has to be messi , one of the all time great players",
+        "a2_v2": "i guess it has to be messi , one of the all time great players",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "barcelona"
+    },
+    {
+        "q3": "what will happen to that side after he moves on \\?",
+        "a3": "they could do better or worse",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they could do better or worse",
+        "a3_v2": "they could do better or worse",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "now what you should do better than before",
+        "a4": "they can do alot better than before",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "they can do alot better than before",
+        "a4_v2": "they can do alot better than before",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "do you know the name of the goalkeeper \\?",
+        "a5": "marc andre ter stegen",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@goalkeeper",
+        "corr_rel5": "has player",
+        "obj5": "marc-andre ter stegen",
+        "input_ent5": "barcelona"
+    }
+]

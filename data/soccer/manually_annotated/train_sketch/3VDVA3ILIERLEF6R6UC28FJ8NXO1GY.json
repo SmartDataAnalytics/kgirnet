@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "i absolutely adore mexico",
+        "a1": "what is the name of the arena for the mexican football team?",
+        "kgER1": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "what is the name of the arena for the mexican football team?",
+        "a1_v2": "what is the name of the arena for the mexican football team?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "mexico"
+    },
+    {
+        "q2": "pele became honorary president of which football club in 2010? new york cosmos is the  honorary president of football",
+        "a2": "new york cosmos in mexico",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "new york cosmos in @entity",
+        "a2_v2": "new york cosmos in mexico",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "how many soccer teams are there in mexico?",
+        "a3": "a total of 215 teams",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "a total of @object teams",
+        "a3_v2": "a total of 215 teams",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mexico"
+    },
+    {
+        "q4": "what is the name of the main mexican league?",
+        "a4": "liga mx. it has 18 clubs and the highest level of mexican football.",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "liga mx. it has @object clubs and the @relation level of mexican football.",
+        "a4_v2": "liga mx. it has 18 clubs and the highest level of mexican football.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "do you think mexico will qualify for the world cup?",
+        "a5": "yes they always do.",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes they always do.",
+        "a5_v2": "yes they always do.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "mexico"
+    }
+]

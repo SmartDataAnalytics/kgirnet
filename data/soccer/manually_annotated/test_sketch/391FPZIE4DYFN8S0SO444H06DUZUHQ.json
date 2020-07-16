@@ -1,0 +1,146 @@
+[
+    {
+        "q1": "i really love the team real madrid",
+        "a1": "who is their best defender? ",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "who is their best @relation ",
+        "a1_v2": "who is their best defender? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "sergio ramos.",
+        "a2": "bale",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "sergio ramos": [
+                "captain",
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "bale",
+        "a2_v2": "bale",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "sergio ramos"
+    },
+    {
+        "q3": "how commits the least fouls of the real madrid's defenders?",
+        "a3": "sergio ramos is one of the defenses of the world",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "sergio ramos": [
+                "captain",
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a3_skt": "@object is one of the defenses of the world",
+        "a3_v2": "sergio ramos is one of the defenses of the world",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "didn't he play rough and disliked from a lot of people?",
+        "a4": "after hurting salah in the champions league final, ramos is despised by the liverpool fans!",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "sergio ramos": [
+                "captain",
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a4_skt": "after hurting salah in the champions league final, ramos is despised by the @entity fans!",
+        "a4_v2": "after hurting salah in the champions league final, ramos is despised by the liverpool fans!",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "white and red"
+    },
+    {
+        "q5": "can bale be a great replacement for ronaldo?",
+        "a5": "yes, ronaldo is not that good.",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "sergio ramos": [
+                "captain",
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a5_skt": "yes, ronaldo is not that good.",
+        "a5_v2": "yes, ronaldo is not that good.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "gareth bale"
+    }
+]

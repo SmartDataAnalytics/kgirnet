@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "when is my yoga",
+        "a1": "your yoga class will be this tuesday at 4pm with marie",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "time,party",
+        "obj1": "4pm,marie",
+        "input_ent1": "yoga_activity",
+        "kvr_entlist_qa1": [
+            "4pm",
+            "marie",
+            "tuesday"
+        ]
+    },
+    {
+        "q2": "okay tuesday at 4pm with marie thank you",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

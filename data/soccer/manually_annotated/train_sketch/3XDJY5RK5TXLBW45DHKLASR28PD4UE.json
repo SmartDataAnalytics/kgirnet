@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is the best player on germany's team?",
+        "a1": "manuel neuer.",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "manuel neuer.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "how often has germany been to the world cup?",
+        "a2": "19 times",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object times",
+        "a2_v2": "19 times",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "germany"
+    },
+    {
+        "q3": "how many times have they won the world cup?",
+        "a3": "a cattle 4 times the world cup",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "a cattle @object times the world cup",
+        "a3_v2": "a cattle @number_of_world_cup_champion times the world cup",
+        "corr_rel3": "number of world cup champion",
+        "obj3": "4",
+        "input_ent3": "germany"
+    },
+    {
+        "q4": "when was the last time germany won the world cup?",
+        "a4": "it was 2014 in brazil.",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "it was @object in @entity",
+        "a4_v2": "it was @number_of_world_cup_champion in @entity",
+        "corr_rel4": "world cup champions",
+        "obj4": "2014",
+        "input_ent4": "germany"
+    },
+    {
+        "q5": "how do you see germany now? ",
+        "a5": "they didn't do as well as expected this year.",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they didn't do as well as expected this year.",
+        "a5_v2": "they didn't do as well as expected this year.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "germany"
+    }
+]

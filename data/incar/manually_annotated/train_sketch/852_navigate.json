@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "find me a hotel nearby",
+        "a1": "the nearest hotel is the_westin it s 4_miles away at 329_el_camino_real",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "poi,address",
+        "obj1": "the_westin,329_el_camino_real",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "329_el_camino_real",
+            "4_miles",
+            "the_westin"
+        ]
+    },
+    {
+        "q2": "pick the fastes route and let s go there",
+        "a2": "navigating you to the_westin",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "the_westin",
+        "kvr_entlist_qa2": [
+            "the_westin"
+        ]
+    },
+    {
+        "q3": "thanks for the help",
+        "a3": "there is currently no_traffic on the way to the_westin",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "no_traffic",
+            "the_westin"
+        ]
+    },
+    {
+        "q4": "thanks again",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

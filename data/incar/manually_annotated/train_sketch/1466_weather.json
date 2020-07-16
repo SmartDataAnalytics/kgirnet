@@ -1,0 +1,27 @@
+[
+    {
+        "q1": "look in mountain_view and tell me if there will be hail this weekend",
+        "a1": "this weekend in mountain_view there will be stormy weather on saturday and misty on sunday",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "saturday,sunday",
+        "obj1": "misty,stormy",
+        "input_ent1": "mountain_view",
+        "kvr_entlist_qa1": [
+            "misty",
+            "weekend",
+            "sunday",
+            "saturday",
+            "stormy",
+            "mountain_view"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

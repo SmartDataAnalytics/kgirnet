@@ -1,0 +1,16 @@
+[
+    {
+        "q1": "what is the forecast for new_york city",
+        "a1": "the forecast for new_york predicts overcast skies with a low of 80f with a high of 90f",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "monday",
+        "obj1": "90f,80f,overcast",
+        "input_ent1": "new_york",
+        "kvr_entlist_qa1": [
+            "90f",
+            "overcast",
+            "new_york",
+            "80f"
+        ]
+    }
+]

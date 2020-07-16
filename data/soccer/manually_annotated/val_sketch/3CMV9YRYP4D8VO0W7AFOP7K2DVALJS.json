@@ -1,0 +1,164 @@
+[
+    {
+        "q1": "who is the most popular player on the real madrid football team?",
+        "a1": "it would have to be marcelo.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "it would have to be @object",
+        "a1_v2": "it would have to be marcelo.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "will marcelo be real this year?",
+        "a2": "he is still currently with real madrid, but there is interest from juventus.",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "marcelo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ]
+        },
+        "a2_skt": "he is still currently with @entity but there is interest from @entity",
+        "a2_v2": "he is still currently with real madrid, but there is interest from juventus.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "marcelo"
+    },
+    {
+        "q3": "do you think that he'll move to juventus?",
+        "a3": "definitely ",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "marcelo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "definitely ",
+        "a3_v2": "definitely ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "juventus"
+    },
+    {
+        "q4": "when was the last time they won the champions league?",
+        "a4": "they won last season didnt they?",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "marcelo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "they won last season didnt they?",
+        "a4_v2": "they won last season didnt they?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "real madrid is the greatest champion of the champions? ",
+        "a5": "yes they are the greatest champion of the champions",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "marcelo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "yes they are the greatest champion of the champions",
+        "a5_v2": "yes they are the greatest champion of the champions",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "where is a gas_station within 2_miles",
+        "a1": "i do not have a gas_station listed in the 2_miles range the closest one is 4_miles away",
+        "input_rel1": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,distance",
+        "corr_rel1": "distance",
+        "obj1": "4_miles",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "2_miles",
+            "4_miles",
+            "gas_station"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "chevron is located 4_miles away at 783_arcadia_pl with no_traffic",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "783_arcadia_pl",
+        "input_ent2": "chevron",
+        "kvr_entlist_qa2": [
+            "chevron",
+            "no_traffic",
+            "4_miles",
+            "783_arcadia_pl"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

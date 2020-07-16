@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "my dad hates barcelona's playing but i think it's pretty good",
+        "a1": "barcelona is great.",
+        "kgER1": {
+            "red and white": [
+                "jersey color"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity is great.",
+        "a1_v2": "barcelona is great.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "your dad is right",
+        "a2": "it's true, barcelona relies too much on messi. ",
+        "kgER2": {
+            "red and white": [
+                "jersey color"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "it's true, @entity relies too much on messi. ",
+        "a2_v2": "it's true, barcelona relies too much on messi. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "that is not true. they are all around talented.",
+        "a3": "barcelona plays really well. they have made many goals and have won many games. ",
+        "kgER3": {
+            "red and white": [
+                "jersey color"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@entity plays really well. they have made many @relation and have won many games. ",
+        "a3_v2": "barcelona plays really well. they have made many goals and have won many games. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "do you think barcelona will win champions league this year ? ",
+        "a4": "i think they have a good chance.",
+        "kgER4": {
+            "red and white": [
+                "jersey color"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i think they have a good chance.",
+        "a4_v2": "i think they have a good chance.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "barcelona does have a really good chance of winning champions league!",
+        "a5": "yes they do",
+        "kgER5": {
+            "red and white": [
+                "jersey color"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes they do",
+        "a5_v2": "yes they do",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "barcelona"
+    }
+]

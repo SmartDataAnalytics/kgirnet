@@ -1,0 +1,152 @@
+[
+    {
+        "q1": "hello everyone, how are you? will messi and argentina ever win the world cup?",
+        "a1": "unfortunately not. argentina doesn't have good coach and messi alone won't do much.",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a1_skt": "unfortunately not. @entity doesn't have good @relation and messi alone won't do much.",
+        "a1_v2": "unfortunately not. argentina doesn't have good coach and messi alone won't do much.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "i think russia 2018 was the last chance for messi",
+        "a2": "how many times has messi played in a world cup for argentina",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "how many times has messi played in a world cup for @entity",
+        "a2_v2": "how many times has messi played in a world cup for argentina",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2018"
+    },
+    {
+        "q3": "this was the fourth time (2006 - 2018). will he even be a starter still in 2022?",
+        "a3": "pretty sure this is his last world cup, think his time is coming to an end.",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "pretty sure this is his last world cup, think his time is coming to an end.",
+        "a3_v2": "pretty sure this is his last world cup, think his time is coming to an end.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "2006"
+    },
+    {
+        "q4": "why is this going to be his last world cup?",
+        "a4": "with no results with national team he will quit playing for argentina very soon",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "with no results with national team he will quit playing for @entity very soon",
+        "a4_v2": "with no results with national team he will quit playing for argentina very soon",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "will he retire after argentina?",
+        "a5": "not strong enough. aguero is criminally underrated and underused",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "not strong enough. aguero is criminally underrated and underused",
+        "a5_v2": "not strong enough. aguero is criminally underrated and underused",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "argentina"
+    },
+    {
+        "q6": "how many goals does aguero have for agentina? ",
+        "a6": "2",
+        "kgER6": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a6_skt": "@object",
+        "a6_v2": "@number_of_world_cup_champion",
+        "corr_rel6": "goals",
+        "obj6": "2",
+        "input_ent6": "sergio aguero"
+    }
+]

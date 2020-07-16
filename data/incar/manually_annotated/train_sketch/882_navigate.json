@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "show me the directions to starbucks",
+        "a1": "i m sorry i do not have a listing for starbucks i have alternate coffee shops available would you be interested in learning more about them",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "okay find the closet coffee_or_tea_place and find the quick way there please",
+        "a2": "the closest coffee shop is philz would you like directions",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "philz",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "philz"
+        ]
+    },
+    {
+        "q3": "yes please",
+        "a3": "436_alger_dr no problem",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "436_alger_dr",
+        "input_ent3": "philz",
+        "kvr_entlist_qa3": [
+            "436_alger_dr"
+        ]
+    }
+]

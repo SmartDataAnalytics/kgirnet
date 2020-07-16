@@ -1,0 +1,43 @@
+[
+    {
+        "q1": "where can i go shopping",
+        "a1": "ravenswood_shopping_center is close",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "ravenswood_shopping_center"
+        ]
+    },
+    {
+        "q2": "is it within 3_miles of my location",
+        "a2": "yes ravenswood_shopping_center is within 3_miles with moderate_traffic noted",
+        "input_rel2": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel2": "distance",
+        "obj2": "ravenswood_shopping_center",
+        "input_ent2": "3_miles",
+        "kvr_entlist_qa2": [
+            "moderate_traffic",
+            "3_miles"
+        ]
+    },
+    {
+        "q3": "please give me the quickest route",
+        "a3": "i sent the quickest route on your screen drive carefully",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thank you",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

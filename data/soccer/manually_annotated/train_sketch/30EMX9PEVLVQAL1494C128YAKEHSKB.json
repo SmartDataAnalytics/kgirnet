@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "chelsea is not a good team",
+        "a1": "for a not good team they have an impressive track record. ",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "for a not good team they have an impressive track record. ",
+        "a1_v2": "for a not good team they have an impressive track record. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "you are biased since you are a fan, aren't you? ",
+        "a2": "i don't understand why you think chelsea is bad.  they have a great track record.  and actually, i'm a liverpool fan.",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "i don't understand why you think @entity is bad.  they have a great track record.  and actually, i'm a @entity fan.",
+        "a2_v2": "i don't understand why you think chelsea is bad.  they have a great track record.  and actually, i'm a liverpool fan.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how many championships have they won?",
+        "a3": "chelsea has won 28 major trophies. ",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "@entity has won @object major trophies. ",
+        "a3_v2": "chelsea has won 28 major trophies. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who\u2019s chelsea\u2019s greatest player",
+        "a4": "n'golo kante is the best player...",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "n'golo kante is the best player...",
+        "a4_v2": "n'golo kante is the best player...",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "chelsea"
+    },
+    {
+        "q5": "who will be top scorer this season?",
+        "a5": "i think eden hazard will be the top scorer.",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "i think @object will be the top scorer.",
+        "a5_v2": "i think eden hazard will be the top scorer.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

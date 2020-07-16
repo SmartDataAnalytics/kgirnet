@@ -1,0 +1,41 @@
+[
+    {
+        "q1": "look for parking",
+        "a1": "the nearest parking is palo alto garage about 5_miles from you the address is 481_amaranta_ave would you like directions",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "address",
+        "obj1": "481_amaranta_ave",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "481_amaranta_ave"
+        ]
+    },
+    {
+        "q2": "yes please send on my screen a route with no_traffic to reach there",
+        "a2": "there is a car collision on route",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "parking_garage",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "is there a quickest route to reach",
+        "a3": "i sent on your map the best route drive carefully",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thanks",
+        "a4": "you re welcome drive carefully",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

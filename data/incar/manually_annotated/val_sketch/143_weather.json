@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "will it rain next_week",
+        "a1": "for which city would you like to know if there is going to be rain next_week",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "next_week",
+            "rain"
+        ]
+    },
+    {
+        "q2": "seattle",
+        "a2": "it will drizzle tuesday saturday and sunday in seattle",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "saturday,sunday",
+        "obj2": "drizzle",
+        "input_ent2": "seattle",
+        "kvr_entlist_qa2": [
+            "saturday",
+            "sunday",
+            "tuesday",
+            "drizzle",
+            "seattle"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "q1": "is neymar still with paris sg?",
+        "a1": "yes. check out this espn article http://www.espn.com/soccer/soccer-transfers/story/3498950/neymar-will-stay-at-paris-saint-germain-next-season-unai-emery",
+        "kgER1": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes. check out this espn article http://www.espn.com/soccer/soccer-transfers/story/3498950/neymar-will-stay-at-paris-saint-germain-next-season-unai-emery",
+        "a1_v2": "yes. check out this espn article http://www.espn.com/soccer/soccer-transfers/story/3498950/neymar-will-stay-at-paris-saint-germain-next-season-unai-emery",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "paris sg"
+    },
+    {
+        "q2": "has neymar won a world cup?",
+        "a2": "no ",
+        "kgER2": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "no ",
+        "a2_v2": "no ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "neymar"
+    },
+    {
+        "q3": "who is paris sg's youngest player?",
+        "a3": "kylian mbappe, he is only 19 years old",
+        "kgER3": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object he is only @object years old",
+        "a3_v2": "kylian mbappe, he is only 19 years old",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "paris sg"
+    },
+    {
+        "q4": "didnt they sign mbappe last season?",
+        "a4": "i think so",
+        "kgER4": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i think so",
+        "a4_v2": "i think so",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "kylian mbappe"
+    }
+]

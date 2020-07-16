@@ -1,0 +1,198 @@
+[
+    {
+        "q1": "were you supporting croatia in the world cup final? i was!",
+        "a1": "i liked both teams but croatia was the underdog to root for because of how hard they worked to get there.",
+        "kgER1": {
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i liked both teams but @entity was the underdog to root for because of how hard they worked to get there.",
+        "a1_v2": "i liked both teams but croatia was the underdog to root for because of how hard they worked to get there.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "croatia"
+    },
+    {
+        "q2": "yes, i had to like croatia better. ",
+        "a2": "croatia put in the effort, but france were better overall.",
+        "kgER2": {
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity put in the effort, but @entity were better overall.",
+        "a2_v2": "croatia put in the effort, but france were better overall.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "croatia"
+    },
+    {
+        "q3": "what do you think of france's defense?",
+        "a3": "i think their defense is young and strong, especially samuel umtiti and benjamin pavard. ",
+        "kgER3": {
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think their @relation is young and strong, especially @object and @object ",
+        "a3_v2": "i think their defense is young and strong, especially samuel umtiti and benjamin pavard. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "france"
+    },
+    {
+        "q4": "who is croatias captain?",
+        "a4": "luka modric",
+        "kgER4": {
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "@captain",
+        "corr_rel4": "captain",
+        "obj4": "luka modric",
+        "input_ent4": "croatia"
+    },
+    {
+        "q5": "can croatia repeat next wc?",
+        "a5": "i think so, they have the right squad",
+        "kgER5": {
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think so, they have the right squad",
+        "a5_v2": "i think so, they have the right squad",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "croatia"
+    }
+]

@@ -1,0 +1,133 @@
+[
+    {
+        "q1": "how many times has switzerland played in the world cup finals?",
+        "a1": "they never have.",
+        "kgER1": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they never have.",
+        "a1_v2": "they never have.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "switzerland has never reach a world cup final.",
+        "a2": "who there best player?",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "who there best player?",
+        "a2_v2": "who there best player?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "switzerland"
+    },
+    {
+        "q3": "switzerland's best player is shaqiri.",
+        "a3": "what club team does shaqiri play for?",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "what club team does shaqiri play for?",
+        "a3_v2": "what club team does shaqiri play for?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "switzerland"
+    },
+    {
+        "q4": "shaqiri plays for liverpool",
+        "a4": "switzerland has some solid players playing.",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity has some solid players playing.",
+        "a4_v2": "switzerland has some solid players playing.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    },
+    {
+        "q5": "does switzerland have a chance at reaching the world cup this year?",
+        "a5": "yes if switzerland get a easy draw",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes if @entity get a easy draw",
+        "a5_v2": "yes if switzerland get a easy draw",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "switzerland"
+    }
+]

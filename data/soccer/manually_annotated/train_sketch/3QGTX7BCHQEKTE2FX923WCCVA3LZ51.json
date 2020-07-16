@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is more important to germany: the wingers or the defense?",
+        "a1": "the wingers are pretty important but they just fall short of the importance of the defense.",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "the wingers are pretty important but they just fall short of the importance of the defense.",
+        "a1_v2": "the wingers are pretty important but they just fall short of the importance of the defense.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "defence, germany is renowned for its defensive ability.",
+        "a2": "defense is big for germany.",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@relation is big for @entity",
+        "a2_v2": "defense is big for germany.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "germany"
+    },
+    {
+        "q3": "should germany have done better in the world cup",
+        "a3": "germany is one of the top teams in the world so yes they should have done much better than they did. ",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity is one of the top teams in the world so yes they should have done much better than they did. ",
+        "a3_v2": "germany is one of the top teams in the world so yes they should have done much better than they did. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "germany"
+    },
+    {
+        "q4": "why did germany do poorly in the world cup?",
+        "a4": "germany won the 2014 world cup and it was for the great defense of their kross players among others and the great goal of never but the cup 2018 did not have the same luck",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity won the @object world cup and it was for the great @object of their kross players among others and the great @relation of never but the cup @object did not have the same luck",
+        "a4_v2": "germany won the 2014 world cup and it was for the great defense of their kross players among others and the great goal of never but the cup 2018 did not have the same luck",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "germany"
+    },
+    {
+        "q5": "there was a general arrogance with how germany approached the world cup. their preparation didn't seem as focused as it should have been. ",
+        "a5": "germany is normally everyones' choice to win, but france beat them out this year.",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity is normally everyones' choice to win, but @entity beat them out this year.",
+        "a5_v2": "germany is normally everyones' choice to win, but france beat them out this year.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "germany"
+    }
+]

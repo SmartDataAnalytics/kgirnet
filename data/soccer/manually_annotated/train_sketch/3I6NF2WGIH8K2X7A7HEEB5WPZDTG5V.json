@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "will brazil make it into the world cup next year?",
+        "a1": "yes definitely, brazil makes it to every world cup.",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes definitely, @entity makes it to every world cup.",
+        "a1_v2": "yes definitely, brazil makes it to every world cup.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "that is because pele' is brazil's best teammate, is he not?",
+        "a2": "pele is known as brazil best player. ",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "pele is known as @entity best player. ",
+        "a2_v2": "pele is known as brazil best player. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "brazil"
+    },
+    {
+        "q3": "i'd say he was the world's best player ",
+        "a3": "i agree on pele, better than maradona",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i agree on pele, better than maradona",
+        "a3_v2": "i agree on pele, better than maradona",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is brazil's manager?",
+        "a4": "brazil will make it to the cup for sure.",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity will make it to the cup for sure.",
+        "a4_v2": "brazil will make it to the cup for sure.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "brazil"
+    },
+    {
+        "q5": "brazil has one of the best offense",
+        "a5": "neymar is the best player in brazil ",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object is the @relation in @entity ",
+        "a5_v2": "neymar is the best player in brazil ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "brazil"
+    }
+]

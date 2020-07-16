@@ -1,0 +1,121 @@
+[
+    {
+        "q1": "i love the team mexico",
+        "a1": "mexico are great , bless chicharito",
+        "kgER1": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity are great , bless chicharito",
+        "a1_v2": "mexico are great , bless chicharito",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "mexico"
+    },
+    {
+        "q2": "who is your favorite player \\?",
+        "a2": "chicharito is the best player in mexico",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "chicharito is the @relation in @entity",
+        "a2_v2": "chicharito is the best player in mexico",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how many goals has chicharito scored for mexico \\?",
+        "a3": "he has scored 50 for mexico",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "he has scored @object for @entity",
+        "a3_v2": "he has scored 50 for mexico",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mexico"
+    },
+    {
+        "q4": "how is mexico 's manager \\?",
+        "a4": "osorio left the job and they are currently look to replace him",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "osorio left the job and they are currently look to replace him",
+        "a4_v2": "osorio left the job and they are currently look to replace him",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "mexico"
+    },
+    {
+        "q5": "who was mexico 's best manager \\?",
+        "a5": "miguel herrera was pretty interesting to watch",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "miguel herrera was pretty interesting to watch",
+        "a5_v2": "miguel herrera was pretty interesting to watch",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "mexico"
+    }
+]

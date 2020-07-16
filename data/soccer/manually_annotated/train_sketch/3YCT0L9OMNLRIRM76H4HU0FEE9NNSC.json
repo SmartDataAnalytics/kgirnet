@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "love atletico madrid",
+        "a1": "i also like this team!",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i also like this team!",
+        "a1_v2": "i also like this team!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "do you think atletico madrid's manager is any good?",
+        "a2": "a2: yes, he has a very strong track record.",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "a2: yes, he has a very strong track record.",
+        "a2_v2": "a2: yes, he has a very strong track record.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "atletico madrid"
+    },
+    {
+        "q3": "i hope he wins champions this year ",
+        "a3": "i would like to see the derby between real and atletico this season. going to be a great match.",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i would like to see the derby between real and atletico this season. going to be a great match.",
+        "a3_v2": "i would like to see the derby between real and atletico this season. going to be a great match.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "atlecatl madrid has a real shot at winning that match.",
+        "a4": "when do atletico madrid and real madrid play each other?",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "when do @entity and @entity play each other?",
+        "a4_v2": "when do atletico madrid and real madrid play each other?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "tomorrow!",
+        "a5": "real madrid will probably win",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@entity will probably win",
+        "a5_v2": "real madrid will probably win",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

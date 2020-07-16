@@ -1,0 +1,48 @@
+[
+    {
+        "q1": "what time is my meeting",
+        "a1": "1pm",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time",
+        "obj1": "1pm",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "1pm"
+        ]
+    },
+    {
+        "q2": "please set a reminder for 1pm for meeting",
+        "a2": "set reminder for meeting thursday at 1pm",
+        "input_rel2": "time",
+        "corr_rel2": "time",
+        "obj2": "1pm",
+        "input_ent2": "meeting",
+        "kvr_entlist_qa2": [
+            "thursday",
+            "meeting",
+            "1pm"
+        ]
+    },
+    {
+        "q3": "yes please",
+        "a3": "reminder is set for meeting on thursday at 1pm",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "thursday",
+            "meeting",
+            "1pm"
+        ]
+    },
+    {
+        "q4": "perfect thanks",
+        "a4": "no problem",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

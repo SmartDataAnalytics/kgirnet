@@ -1,0 +1,74 @@
+[
+    {
+        "q1": "love bayern munich",
+        "a1": "i like bayern munich, they are the best from germany.",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i like @entity they are the best from @entity",
+        "a1_v2": "i like bayern munich, they are the best from germany.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "when were bayern munich founded?",
+        "a2": "it was founded on february 27, 1900 ",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "it was @relation on @object",
+        "a2_v2": "it was founded on on @founded_on",
+        "corr_rel2": "founded on",
+        "obj2": "1900",
+        "input_ent2": "bayern munich"
+    },
+    {
+        "q3": "is that a mens only team?",
+        "a3": "almost every team in europe has a womens team.",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "almost every team in europe has a womens team.",
+        "a3_v2": "almost every team in europe has a womens team.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "how much does bayern munich make in a year?",
+        "a4": "biliions probably ",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "biliions probably ",
+        "a4_v2": "biliions probably ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bayern munich"
+    }
+]

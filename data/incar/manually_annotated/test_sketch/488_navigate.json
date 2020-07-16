@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "please give me the address and directions to home within 5_miles of here avoiding all heavy_traffic",
+        "a1": "i m sorry the only route home has heavy_traffic it will be a 7_miles drive to 10_ames_street",
+        "input_rel1": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel1": "address",
+        "obj1": "10_ames_street",
+        "input_ent1": "home",
+        "kvr_entlist_qa1": [
+            "heavy_traffic",
+            "home",
+            "10_ames_street",
+            "7_miles"
+        ]
+    },
+    {
+        "q2": "ok that will do thank you",
+        "a2": "you re very welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

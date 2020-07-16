@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is the captain of iceland?",
+        "a1": "aron gunnarsson",
+        "kgER1": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@captain",
+        "corr_rel1": "captain",
+        "obj1": "aron gunnarsson",
+        "input_ent1": "iceland"
+    },
+    {
+        "q2": "what is the largest stadium in iceland?",
+        "a2": "the largest stadium in iceland is laugardalsv\u00f6llur that has a capacity of 15,000.",
+        "kgER2": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "the largest stadium in @entity is laugardalsv\u00f6llur that has a @relation of @object",
+        "a2_v2": "the largest stadium in iceland is laugardalsv\u00f6llur that has a capacity of 15,000.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "iceland"
+    },
+    {
+        "q3": "who is the best player on iceland?",
+        "a3": "there are a few, they all played well this year",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "there are a few, they all played well this year",
+        "a3_v2": "there are a few, they all played well this year",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "iceland"
+    },
+    {
+        "q4": "do you think they will play well next year too?",
+        "a4": "iceland will dominate all next year!",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity will dominate all next year!",
+        "a4_v2": "iceland will dominate all next year!",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "what league does iceland play in?",
+        "a5": "i think he plays uefa",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think he plays uefa",
+        "a5_v2": "i think he plays uefa",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "iceland"
+    }
+]

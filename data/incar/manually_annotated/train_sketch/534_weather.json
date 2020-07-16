@@ -1,0 +1,49 @@
+[
+    {
+        "q1": "does the forecast say it will snow",
+        "a1": "what city do you want to know the snow forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "snow"
+        ]
+    },
+    {
+        "q2": "i need to know about compton for my trip",
+        "a2": "do you want me to check if it will snow on a specific day or the entire week",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "compton",
+        "kvr_entlist_qa2": [
+            "week",
+            "snow"
+        ]
+    },
+    {
+        "q3": "please check if it will snow today or tomorrow",
+        "a3": "frost is predicted in compton today but there is no snow for today or tomorrow",
+        "input_rel3": "party",
+        "corr_rel3": "monday, tuesday",
+        "obj3": "frost,today,snow,tomorrow",
+        "input_ent3": "compton",
+        "kvr_entlist_qa3": [
+            "frost",
+            "compton",
+            "today",
+            "snow",
+            "tomorrow"
+        ]
+    },
+    {
+        "q4": "thank you",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

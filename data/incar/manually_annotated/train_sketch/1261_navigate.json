@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "i have to go grocery shopping can you give me directions to the nearest grocery_store",
+        "a1": "the closest grocery_store is 4_miles away would you like the name and address of it",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "obj1": "4_miles",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "4_miles",
+            "grocery_store"
+        ]
+    },
+    {
+        "q2": "yes and please tell me if there is any traffic",
+        "a2": "let s go at sigona_farmers_market it s 4_miles away at 638_amherst_st and in this moment there is no_traffic",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "sigona_farmers_market",
+        "input_ent2": "grocery_store",
+        "kvr_entlist_qa2": [
+            "638_amherst_st",
+            "4_miles",
+            "sigona_farmers_market",
+            "no_traffic"
+        ]
+    },
+    {
+        "q3": "thanks a lot",
+        "a3": "you re very welcome have a great day",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

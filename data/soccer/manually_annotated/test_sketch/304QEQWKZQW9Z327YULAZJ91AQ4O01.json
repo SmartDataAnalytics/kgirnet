@@ -1,0 +1,125 @@
+[
+    {
+        "q1": "how did you like the fifa world cup 2018?",
+        "a1": "i thought it was great because the teams were not what everyone expected this year.",
+        "kgER1": {},
+        "a1_skt": "i thought it was great because the teams were not what everyone expected this year.",
+        "a1_v2": "i thought it was great because the teams were not what everyone expected this year.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "2018"
+    },
+    {
+        "q2": "who scored the most goals at this years world cup?",
+        "a2": "barcelona",
+        "kgER2": {
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "@entity",
+        "a2_v2": "barcelona",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "lionel messi will miss u",
+        "a3": "who is the best team",
+        "kgER3": {
+            "red": [
+                "jersey color"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "who is the best team",
+        "a3_v2": "who is the best team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "lionel messi"
+    },
+    {
+        "q4": "i think france is the best team",
+        "a4": "france in the best team",
+        "kgER4": {
+            "red": [
+                "jersey color"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity in the best team",
+        "a4_v2": "france in the best team",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "france"
+    },
+    {
+        "q5": "france is good but could they have been better?",
+        "a5": "they could if they knew how to play.",
+        "kgER5": {
+            "red": [
+                "jersey color"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they could if they knew how to play.",
+        "a5_v2": "they could if they knew how to play.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "france"
+    }
+]

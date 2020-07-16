@@ -1,0 +1,81 @@
+[
+    {
+        "q1": "football is cool",
+        "a1": "greatest game ever",
+        "kgER1": {},
+        "a1_skt": "greatest game ever",
+        "a1_v2": "greatest game ever",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "do you think germany are good?",
+        "a2": "germany is one of the best teams out there",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity is one of the best teams out there",
+        "a2_v2": "germany is one of the best teams out there",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "germany"
+    },
+    {
+        "q3": "after their world cup performance, do you think they can reclaim their glory?",
+        "a3": "they are a strong, hard working team. they always can make a comeback.",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they are a strong, hard working team. they always can make a comeback.",
+        "a3_v2": "they are a strong, hard working team. they always can make a comeback.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    },
+    {
+        "q4": "they embarrassed themselves at the cup though. ",
+        "a4": "they still have a fantastic record in the world cup though.",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they still have a fantastic record in the world cup though.",
+        "a4_v2": "they still have a fantastic record in the world cup though.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    }
+]

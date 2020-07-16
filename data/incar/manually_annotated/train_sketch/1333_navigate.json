@@ -1,0 +1,57 @@
+[
+    {
+        "q1": "car i need a parking_garage closest to my position help me please",
+        "a1": "webster_garage is 4_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "webster_garage",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "webster_garage",
+            "4_miles"
+        ]
+    },
+    {
+        "q2": "is that the closest one if so send me the address as soon as possible",
+        "a2": "webster_garage is at 880_ames_ct",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "880_ames_ct",
+        "input_ent2": "webster_garage",
+        "kvr_entlist_qa2": [
+            "webster_garage",
+            "880_ames_ct"
+        ]
+    },
+    {
+        "q3": "is that the closest one with no_traffic if so give me directions",
+        "a3": "here are directions to webster_garage",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel3": "none",
+        "obj3": "webster_garage",
+        "input_ent3": "parking_garage",
+        "kvr_entlist_qa3": [
+            "webster_garage"
+        ]
+    },
+    {
+        "q4": "plot the fastest route to webster_garage with no_traffic",
+        "a4": "there is moderate_traffic on our route but you should reach fast anyway i sent the info on your screen drive carefully",
+        "input_rel4": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel4": "traffic_info",
+        "obj4": "moderate_traffic",
+        "input_ent4": "webster_garage",
+        "kvr_entlist_qa4": [
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q5": "thank you car",
+        "a5": "you re welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

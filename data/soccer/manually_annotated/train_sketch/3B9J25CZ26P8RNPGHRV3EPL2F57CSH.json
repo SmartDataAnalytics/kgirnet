@@ -1,0 +1,120 @@
+[
+    {
+        "q1": "who is the captain \\?",
+        "a1": "the captain is hugo lloris",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "the @relation is @object",
+        "a1_v2": "the captain is hugo lloris",
+        "corr_rel1": "captain",
+        "obj1": "hugo lloris",
+        "input_ent1": "france"
+    },
+    {
+        "q2": "hugo is still the captain for france , are you sure \\?",
+        "a2": "yes hugo is the captain",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes hugo is the @relation",
+        "a2_v2": "yes hugo is the captain",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "france"
+    },
+    {
+        "q3": "when did hugo become captain of france \\?",
+        "a3": "it 's the captain who came from france",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "it 's the @relation who came from @entity",
+        "a3_v2": "it 's the captain who came from france",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "france"
+    },
+    {
+        "q4": "how many caps does he have \\?",
+        "a4": "france has 1",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity has @object",
+        "a4_v2": "@entity has @jersey",
+        "corr_rel4": "caps",
+        "obj4": "110",
+        "input_ent4": "france"
+    },
+    {
+        "q5": "who is france 's goalkeeper \\?",
+        "a5": "hugo lloris usually plays in goal for them",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "@object usually plays in @relation for them",
+        "a5_v2": "@captain usually plays in goalkeeper for them",
+        "corr_rel5": "goalkeeper",
+        "obj5": "hugo lloris",
+        "input_ent5": "france"
+    }
+]

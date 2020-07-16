@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i love the team barcelona",
+        "a1": "how many goals did they score in their last game? ",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "how many @relation did they score in their last game? ",
+        "a1_v2": "how many goals did they score in their last game? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "who won the game between barcelona and sevilla",
+        "a2": "won barcelona and scored 2 goals in his last game",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "won @entity and scored @object @relation in his last game",
+        "a2_v2": "won barcelona and scored 2 goals in his last game",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "barcelona"
+    },
+    {
+        "q3": "who scored the goals? ",
+        "a3": "messi",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "messi",
+        "a3_v2": "messi",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "does messi play for barcelona?",
+        "a4": "yes, messi plays for barcelona. and he has only played club football for barcelona.",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "yes, messi plays for @entity and he has only played club football for @entity",
+        "a4_v2": "yes, messi plays for barcelona. and he has only played club football for barcelona.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "do you think messi will continue to play for argentina though?",
+        "a5": "yeah messi won't leave for barcelona.",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yeah messi won't leave for @entity",
+        "a5_v2": "yeah messi won't leave for barcelona.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "argentina"
+    }
+]

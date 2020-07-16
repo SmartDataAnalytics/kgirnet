@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is italy's current manager?",
+        "a1": "roberto mancini.",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@coach",
+        "corr_rel1": "coach",
+        "obj1": "roberto mancini",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "how come italy failed to qualify to world cup 2018?",
+        "a2": "because they lost to sweden in the qualifiers.",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "because they lost to @entity in the qualifiers.",
+        "a2_v2": "because they lost to sweden in the qualifiers.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2018"
+    },
+    {
+        "q3": "but they are a good team .. why did they lose? ",
+        "a3": "because their squad was filled with old players at the end of their careers.",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "because their squad was filled with old players at the end of their careers.",
+        "a3_v2": "because their squad was filled with old players at the end of their careers.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "can italy rebuild their team before the next world cup and qualify?",
+        "a4": "not likely. ",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "not likely. ",
+        "a4_v2": "not likely. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "italy"
+    },
+    {
+        "q5": "italy hasn't had time to build up new, strong players",
+        "a5": "they didn't qualify for the last world cup so they should have enough time to overhaul the team",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they didn't qualify for the last world cup so they should have enough time to overhaul the team",
+        "a5_v2": "they didn't qualify for the last world cup so they should have enough time to overhaul the team",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "italy"
+    }
+]

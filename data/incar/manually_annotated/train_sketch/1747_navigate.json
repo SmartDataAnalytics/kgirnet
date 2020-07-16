@@ -1,0 +1,32 @@
+[
+    {
+        "q1": "take me to the nearest hospital",
+        "a1": "the nearest hospital is stanford_childrens_health would you like directions",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "stanford_childrens_health",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "hospital",
+            "stanford_childrens_health"
+        ]
+    },
+    {
+        "q2": "yes please",
+        "a2": "navigating you to stanford children s health",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "hospital",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "thanks",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

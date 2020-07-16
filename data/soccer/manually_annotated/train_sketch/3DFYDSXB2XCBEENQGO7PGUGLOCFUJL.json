@@ -1,0 +1,106 @@
+[
+    {
+        "q1": "what do you think of the barcelona players now?",
+        "a1": "they have a great team now",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they have a great team now",
+        "a1_v2": "they have a great team now",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "tell me more about the team. ",
+        "a2": "futbol club barcelona, commonly known as barcelona and familiarly as bar\u00e7a, is a professional football club based in barcelona, catalonia, spain.",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "futbol club @entity, commonly known as @entity and familiarly as bar\u00e7a, is a professional football club based in @entity, catalonia, spain.",
+        "a2_v2": "futbol club barcelona, commonly known as barcelona and familiarly as bar\u00e7a, is a professional football club based in barcelona, catalonia, spain.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "best club in europe, with a storied history. do your research and you will see they are a different club ever since they hired johan cruyff as their manager.",
+        "a3": "yeah absolutely!",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "yeah absolutely!",
+        "a3_v2": "yeah absolutely!",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ever banega"
+    },
+    {
+        "q4": "when did they hire him?",
+        "a4": "a while back they hired him!",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "a while back they hired him!",
+        "a4_v2": "a while back they hired him!",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what year was this?",
+        "a5": "late 1980s",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "late 1980s",
+        "a5_v2": "late 1980s",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

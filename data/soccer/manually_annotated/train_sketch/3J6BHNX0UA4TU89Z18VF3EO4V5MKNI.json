@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "are you watching the england sweden world cup game now \\?",
+        "a1": "yes ! good game so far",
+        "kgER1": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes ! good game so far",
+        "a1_v2": "yes ! good game so far",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "sweden"
+    },
+    {
+        "q2": "im supporting sweden",
+        "a2": "i am happy england won actually",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i am happy england won actually",
+        "a2_v2": "i am happy england won actually",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "sweden"
+    },
+    {
+        "q3": "has sweden ever won a world cup \\?",
+        "a3": "i think so they 're a great team",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think so they 're a great team",
+        "a3_v2": "i think so they 're a great team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "sweden"
+    },
+    {
+        "q4": "when did they win \\?",
+        "a4": "sweden has not won a world cup",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity has not won a world cup",
+        "a4_v2": "sweden has not won a world cup",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what is the closest sweden have come to winning the world cup \\?",
+        "a5": "1958 runners up",
+        "kgER5": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object runners up",
+        "a5_v2": "@world_cup_runners-up runners up",
+        "corr_rel5": "world cup runners-up",
+        "obj5": "1958",
+        "input_ent5": "sweden"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "q1": "what is their record?",
+        "a1": "i think they have a winning record.",
+        "kgER1": {},
+        "a1_skt": "i think they have a winning record.",
+        "a1_v2": "i think they have a winning record.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "paris sg scored 93 points 2017 aeason. they have been pretty good past few season and hopefully continues this upcomin season. there is a ton of talent on this team to win a championship. good overall young players to keep the wins coming.",
+        "a2": "ligue 1 is a poor league once you get past the first 3 teams. psg should win every year.",
+        "kgER2": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "ligue @object is a poor league once you get past the first @object teams. psg should win every year.",
+        "a2_v2": "ligue 1 is a poor league once you get past the first 3 teams. psg should win every year.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "paris sg"
+    },
+    {
+        "q3": "what are the different leagues involved?",
+        "a3": "i'm not sure, let me google it",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "i'm not sure, let me google it",
+        "a3_v2": "i'm not sure, let me google it",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "which young players would you mark as especially promising? ",
+        "a4": "i honestly don\u2019t think any of their young guys are any good",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "i honestly don\u2019t think any of their young guys are any good",
+        "a4_v2": "i honestly don\u2019t think any of their young guys are any good",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ashley young"
+    },
+    {
+        "q5": "i think kylian mbappe is really good. what do you think?",
+        "a5": "he's really fast, long strides.  he had a great world cup.  ",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "kylian mbappe": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a5_skt": "he's really fast, long strides.  he had a great world cup.  ",
+        "a5_v2": "he's really fast, long strides.  he had a great world cup.  ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "kylian mbappe"
+    },
+    {
+        "q6": "do you think any other players on the team are especially good? ",
+        "a6": "yes, neymar is extremely talented, even if he sometimes flops.",
+        "kgER6": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "kylian mbappe": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a6_skt": "yes, @object is extremely talented, even if he sometimes flops.",
+        "a6_v2": "yes, neymar is extremely talented, even if he sometimes flops.",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "estadio do dragaoporto, portugal"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "mexico did really great in the fifa world cu 2018.",
+        "a1": "yes, especially in the first half against germany.",
+        "kgER1": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes, especially in the first half against @entity",
+        "a1_v2": "yes, especially in the first half against germany.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "2018"
+    },
+    {
+        "q2": "will they have a better one next fifa world cup?",
+        "a2": "i think they will. they just need to keep their game on the ground and they might have a better chance next cup.",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i think they will. they just need to keep their game on the @relation and they might have a better chance next cup.",
+        "a2_v2": "i think they will. they just need to keep their game on the ground and they might have a better chance next cup.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who are their top players?",
+        "a3": "hernandez",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "@has_player",
+        "corr_rel3": "has player",
+        "obj3": "javier hernandez",
+        "input_ent3": "mexico"
+    },
+    {
+        "q4": "i think it's two saints giovani",
+        "a4": "can they play?",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "can they play?",
+        "a4_v2": "can they play?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "giovani dos santos"
+    },
+    {
+        "q5": "yes, i think mexico will give a good championship",
+        "a5": "what position does hernandez play??",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "what @relation does hernandez play??",
+        "a5_v2": "what position does hernandez play??",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "mexico"
+    }
+]

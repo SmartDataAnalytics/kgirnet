@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "portugal has never won the world cup, have they?",
+        "a1": "no, portugal has never won the world cup. ",
+        "kgER1": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "no, @entity has never won the world cup. ",
+        "a1_v2": "no, portugal has never won the world cup. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "portugal"
+    },
+    {
+        "q2": "do you think they will win a world cup one day?",
+        "a2": "yes, i do.",
+        "kgER2": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes, i do.",
+        "a2_v2": "yes, i do.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "they might be able to win a world cup, but they have to improve more theirs skills and have an objetive clear.",
+        "a3": "i think pepe has to improve his discipline. do you agree?",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think pepe has to improve his discipline. do you agree?",
+        "a3_v2": "i think pepe has to improve his discipline. do you agree?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "white and red"
+    },
+    {
+        "q4": "yes i agree. ronaldo however gives them an edge",
+        "a4": "cristiano ronaldo contributes a lot to portugal",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object contributes a lot to @entity",
+        "a4_v2": "cristiano ronaldo contributes a lot to portugal",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "cristiano ronaldo"
+    },
+    {
+        "q5": "if i agree with no christian do not go far",
+        "a5": "i disagree, i think that he is only one player and any one player can be replaced",
+        "kgER5": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i disagree, i think that he is only one player and any one player can be replaced",
+        "a5_v2": "i disagree, i think that he is only one player and any one player can be replaced",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "christian benteke"
+    }
+]

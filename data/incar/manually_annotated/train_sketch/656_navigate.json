@@ -1,0 +1,39 @@
+[
+    {
+        "q1": "where is the nearest rest_stop",
+        "a1": "the nearest one is the four_seasons it s 3_miles away but if you prefer there is also the travelers_lodge that s 6_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "travelers_lodge,four_seasons",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "four_seasons",
+            "travelers_lodge",
+            "6_miles",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "give me the address and directions to the hotel that is located on the quickest route",
+        "a2": "the four_seasons is at 465_arcadia_pl 3_miles away with no_traffic setting navigation now",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "address",
+        "obj2": "465_arcadia_pl",
+        "input_ent2": "four_seasons",
+        "kvr_entlist_qa2": [
+            "four_seasons",
+            "no_traffic",
+            "465_arcadia_pl",
+            "3_miles"
+        ]
+    },
+    {
+        "q3": "thank you car assistant",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

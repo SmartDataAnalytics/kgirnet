@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i love the team manchester united",
+        "a1": "are you a fan of other british teams as well?",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "are you a fan of other british teams as well?",
+        "a1_v2": "are you a fan of other british teams as well?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "how many teams are in britain?",
+        "a2": "did you like how play manchester united?",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "did you like how play @entity",
+        "a2_v2": "did you like how play manchester united?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "i think they're a visually exciting team ",
+        "a3": "is pogba one of the reasons you think they are so exciting?",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "is pogba one of the reasons you think they are so exciting?",
+        "a3_v2": "is pogba one of the reasons you think they are so exciting?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "i think it is pogba and their history",
+        "a4": "i think he played very well, and he has good players",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i think he played very well, and he has good players",
+        "a4_v2": "i think he played very well, and he has good players",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "paul pogba"
+    },
+    {
+        "q5": "is pogba the best player on the team?",
+        "a5": "paul pogba and alexis sanchez are the best players",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object and @object are the best players",
+        "a5_v2": "paul pogba and alexis sanchez are the best players",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "paul pogba"
+    }
+]

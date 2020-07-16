@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "italy win the world cup?",
+        "a1": "in 2006",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "in @object",
+        "a1_v2": "in 2006",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "how many world cup's win by italy?",
+        "a2": "italy have won 4 world cups",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity have won @object world cups",
+        "a2_v2": "italy have won 4 world cups",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "what is italys mascot?",
+        "a3": "i am not sure if they have one",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i am not sure if they have one",
+        "a3_v2": "i am not sure if they have one",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what is the name of the italian national anthem?",
+        "a4": "marcan bien italy",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "marcan bien @entity",
+        "a4_v2": "marcan bien italy",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is the coach?",
+        "a5": "roberto mancini is the coach",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object is the @relation",
+        "a5_v2": "@coach is the coach",
+        "corr_rel5": "coach",
+        "obj5": "roberto mancini",
+        "input_ent5": "italy"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "unfortunatly given their previous results i do not think that they will qualify.",
+        "kgER1": {},
+        "a1_skt": "unfortunatly given their previous results i do not think that they will qualify.",
+        "a1_v2": "unfortunatly given their previous results i do not think that they will qualify.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "do they need to improve their youth department to be a consistent participant in the world cups?",
+        "a2": "for sure. also senegal has a chance, but africa can be very competitive.  ghana, nigeria, and egypt make it very tough to qualify.",
+        "kgER2": {},
+        "a2_skt": "for sure. also @entity has a chance, but africa can be very competitive.  ghana, @entity and egypt make it very tough to qualify.",
+        "a2_v2": "for sure. also senegal has a chance, but africa can be very competitive.  ghana, nigeria, and egypt make it very tough to qualify.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "would a new coach help the senegal qualify?",
+        "a3": "they should win but they practice in good coach",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they should win but they practice in good @relation",
+        "a3_v2": "they should win but they practice in good coach",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "senegal"
+    },
+    {
+        "q4": "did senegal do enough in this world cup to make you beleive that they can be a regular in the world cup?",
+        "a4": "i think they'll make it again next time around. they seemed solid.",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i think they'll make it again next time @relation they seemed solid.",
+        "a4_v2": "i think they'll make it again next time around. they seemed solid.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "senegal"
+    }
+]

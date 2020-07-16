@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "what 's france s greatest win",
+        "a1": "they won the fifa world cup in 1998",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they won the fifa world cup in @object",
+        "a1_v2": "they won the fifa world cup in @world_cup_champions",
+        "corr_rel1": "world cup champions",
+        "obj1": "1998",
+        "input_ent1": "france"
+    },
+    {
+        "q2": "how many times has france won a world cup \\?",
+        "a2": "2",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "@number_of_world_cup_champion",
+        "corr_rel2": "number of world cup champion",
+        "obj2": "2",
+        "input_ent2": "france"
+    },
+    {
+        "q3": "has france ever won the uefa euro cup \\?",
+        "a3": "yes , twice in 1984 2000",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes , twice in @object 2000",
+        "a3_v2": "yes , twice in 1984 2000",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "france"
+    },
+    {
+        "q4": "i agree , france is achieving great things in recent years",
+        "a4": "what changed for france \\?",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "what changed for @entity \\?",
+        "a4_v2": "what changed for france \\?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "france"
+    },
+    {
+        "q5": "free navigo pass",
+        "a5": "how many events has france won \\?",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "how many events has @entity won \\?",
+        "a5_v2": "how many events has france won \\?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

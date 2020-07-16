@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "please give me the address and quickest route directions to the nearest gas_station",
+        "a1": "the closest gas_station is 1_miles away at 200_alester_ave valero has a road block reported nearby",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "200_alester_ave,valero",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "200_alester_ave",
+            "1_miles",
+            "gas_station",
+            "valero"
+        ]
+    },
+    {
+        "q2": "which one is it the quickest way to reach there",
+        "a2": "i have put the quickest route on your screen",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

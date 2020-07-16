@@ -1,0 +1,137 @@
+[
+    {
+        "q1": "i love the team real madrid",
+        "a1": "so do i.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "so do i.",
+        "a1_v2": "so do i.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "arthur kinnard the 11th lord kinnard played in how many fa cup finals?  9",
+        "a2": "9 total",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "arthur": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a2_skt": "@object total",
+        "a2_v2": "9 total",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "arthur"
+    },
+    {
+        "q3": "who\u2019s real madrid\u2019s no 10",
+        "a3": "it is luka modri\u0107",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "arthur": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a3_skt": "it is @object",
+        "a3_v2": "it is luka modri\u0107",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "what will real madrid do know without ronaldo?",
+        "a4": "i think the rest of the time is fine, they don't need ronaldo.",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "arthur": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a4_skt": "i think the rest of the time is fine, they don't need ronaldo.",
+        "a4_v2": "i think the rest of the time is fine, they don't need ronaldo.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "is zidane good enough to carry the team on his own? ",
+        "a5": "zidane is pretty good to handle. ",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "arthur": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a5_skt": "zidane is pretty good to handle. ",
+        "a5_v2": "zidane is pretty good to handle. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "zinedine zidane"
+    }
+]

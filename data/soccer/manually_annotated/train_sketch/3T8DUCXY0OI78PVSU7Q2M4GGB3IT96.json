@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "who is the current goalkeeper of bvb dortmund \\?",
+        "a1": "roman burki",
+        "kgER1": {
+            "goalkeeper": [
+                "position"
+            ],
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "roman burki",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "do you think he will be better than roman weidenfeller \\?",
+        "a2": "no chance",
+        "kgER2": {
+            "goalkeeper": [
+                "position"
+            ],
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "no chance",
+        "a2_v2": "no chance",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "roman burki"
+    },
+    {
+        "q3": "isnt he younger and has higher ceiling \\?",
+        "a3": "yes he is younger but no quite as tall",
+        "kgER3": {
+            "goalkeeper": [
+                "position"
+            ],
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "yes he is younger but no quite as tall",
+        "a3_v2": "yes he is younger but no quite as tall",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "white and red"
+    },
+    {
+        "q4": "did the bvb dortmund will make it to the next round \\?",
+        "a4": "foundation and early years",
+        "kgER4": {
+            "goalkeeper": [
+                "position"
+            ],
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "foundation and early years",
+        "a4_v2": "foundation and early years",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bvb dortmund"
+    },
+    {
+        "q5": "what is the name of the dortmund coach \\?",
+        "a5": "lucien favre is the current coach",
+        "kgER5": {
+            "goalkeeper": [
+                "position"
+            ],
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is the current @relation",
+        "a5_v2": "@coach is the current coach",
+        "corr_rel5": "coach",
+        "obj5": "lucien favre",
+        "input_ent5": "bvb dortmund"
+    }
+]

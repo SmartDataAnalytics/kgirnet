@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "ac milan has a strong team this year.",
+        "a1": "milan look good this year.",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "milan look good this year.",
+        "a1_v2": "milan look good this year.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "sure, but don't they look good every year? ",
+        "a2": "yes, they are a top team.",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes, they are a top team.",
+        "a2_v2": "yes, they are a top team.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "what makes ac milan so good this year according to you?",
+        "a3": "honesty",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "honesty",
+        "a3_v2": "honesty",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ac milan"
+    },
+    {
+        "q4": "what color are ac milan's jerseys?",
+        "a4": "black and red ",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object ",
+        "a4_v2": "@jersey_color",
+        "corr_rel4": "jersey color",
+        "obj4": "black and red",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "which stadium does ac milan play the home games?",
+        "a5": "san siro stadium",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "san siro stadium",
+        "a5_v2": "san siro stadium",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ac milan"
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "q1": "i very good at football",
+        "a1": "very good team",
+        "kgER1": {},
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "not a bad side",
+        "a2": "athletico madrid.",
+        "kgER2": {},
+        "a2_skt": "@entity",
+        "a2_v2": "athletico madrid.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is mexico's best defensive player?",
+        "a3": "for my diego lainez is the best player",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "for my diego lainez is the @relation",
+        "a3_v2": "for my diego lainez is the best player",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mexico"
+    },
+    {
+        "q4": "for my chicharito it is the best ",
+        "a4": "chicharito is not the player he was anymore, i believe midfielder hector herrera is the best, and their is potential for hirving lozano(el chucky) and maybe jesus corona(el tecatito) to be better. ",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "chicharito is not the player he was anymore, i believe @relation @object is the best, and their is potential for @object chucky) and maybe jesus corona(el tecatito) to be better. ",
+        "a4_v2": "chicharito is not the player he was anymore, i believe midfielder hector herrera is the best, and their is potential for hirving lozano(el chucky) and maybe jesus corona(el tecatito) to be better. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "did mexico play in 2008 finals?",
+        "a5": "there wasn't a world cup in 2008, but they did play in the 2006 tournament. ",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "there wasn't a world cup in 2008, but they did play in the @object tournament. ",
+        "a5_v2": "there wasn't a world cup in 2008, but they did play in the 2006 tournament. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "mexico"
+    }
+]

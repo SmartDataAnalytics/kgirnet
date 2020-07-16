@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "check weather",
+        "a1": "what city would you like the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i want to hear the two_day forecast for brentwood",
+        "a2": "monday will be cloudy in brentwood tuesday will have a high temperature of 70f and a low of 50f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday,tuesday",
+        "obj2": "cloudy,70f,50f",
+        "input_ent2": "brentwood",
+        "kvr_entlist_qa2": [
+            "brentwood",
+            "monday",
+            "tuesday",
+            "70f",
+            "cloudy",
+            "50f"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

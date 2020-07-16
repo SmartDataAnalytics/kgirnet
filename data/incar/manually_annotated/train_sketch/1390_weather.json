@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "what is the weather for the next 7 days",
+        "a1": "in what city are you",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "cleveland",
+        "a2": "in cleveland it will be rain on monday blizzard on tuesday raining on wednesday foggy on thursday overcast on friday cloudy on saturday lowest_temperature on sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "blizzard,cloudy,foggy,overcast,rain,cleveland",
+        "input_ent2": "cleveland",
+        "kvr_entlist_qa2": [
+            "blizzard",
+            "lowest_temperature",
+            "monday",
+            "cloudy",
+            "wednesday",
+            "sunday",
+            "saturday",
+            "foggy",
+            "overcast",
+            "tuesday",
+            "thursday",
+            "rain",
+            "cleveland",
+            "friday"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

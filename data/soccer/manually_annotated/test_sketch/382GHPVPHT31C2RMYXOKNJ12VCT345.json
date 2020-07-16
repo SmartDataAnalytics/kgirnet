@@ -1,0 +1,72 @@
+[
+    {
+        "q1": "this is one of my favorite team ",
+        "a1": "do you have a second favourite team? ",
+        "kgER1": {},
+        "a1_skt": "do you have a second favourite team? ",
+        "a1_v2": "do you have a second favourite team? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "sporting lisboa",
+        "a2": "i do not have a second team, only one and it is porto",
+        "kgER2": {},
+        "a2_skt": "i do not have a second team, only one and it is porto",
+        "a2_v2": "i do not have a second team, only one and it is porto",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "porto is my favorite team",
+        "a3": "fc porto is ok, but arsenal is the best.",
+        "kgER3": {},
+        "a3_skt": "fc porto is ok, but @entity is the best.",
+        "a3_v2": "fc porto is ok, but arsenal is the best.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "fc. porto"
+    },
+    {
+        "q4": "what was fc portos record last season?",
+        "a4": "49 points after 23/39 wins",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object points after 23/39 wins",
+        "a4_v2": "49 points after 23/39 wins",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is the winning team this year?",
+        "a5": "senegal was dominate in the regular season.",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@entity was dominate in the regular season.",
+        "a5_v2": "senegal was dominate in the regular season.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

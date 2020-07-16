@@ -1,0 +1,48 @@
+[
+    {
+        "q1": "find a pizza_restaurant that is open near me",
+        "a1": "pizza_chicago pizza_hut and pizza_my_heart are all near",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "pizza_my_heart",
+        "input_ent1": "pizza_restaurant",
+        "kvr_entlist_qa1": [
+            "pizza_my_heart",
+            "pizza_chicago",
+            "pizza_hut"
+        ]
+    },
+    {
+        "q2": "what has the least traffic",
+        "a2": "pizza_chicago has no_traffic",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "no_traffic",
+        "input_ent2": "pizza_chicago",
+        "kvr_entlist_qa2": [
+            "no_traffic",
+            "pizza_chicago"
+        ]
+    },
+    {
+        "q3": "what is the address",
+        "a3": "915_arbol_dr we re 2_miles away i sent its position on your screen",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "915_arbol_dr",
+        "input_ent3": "pizza_chicago",
+        "kvr_entlist_qa3": [
+            "915_arbol_dr",
+            "2_miles"
+        ]
+    },
+    {
+        "q4": "thanks so much for your help",
+        "a4": "you re welcome have a good day",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

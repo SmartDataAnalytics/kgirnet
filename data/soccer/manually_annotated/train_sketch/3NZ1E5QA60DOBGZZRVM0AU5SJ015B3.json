@@ -1,0 +1,133 @@
+[
+    {
+        "q1": "i admire paris sg",
+        "a1": "you would be surprised how many places have teams like paris sg that you make like too.",
+        "kgER1": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "you would be surprised how many places have teams like paris sg that you make like too.",
+        "a1_v2": "you would be surprised how many places have teams like paris sg that you make like too.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "paris sg"
+    },
+    {
+        "q2": "chelsea's title win was confirmed with a 1-0 win away at which club?  west bromwich albion club",
+        "a2": "if it was a great victory",
+        "kgER2": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "if it was a great victory",
+        "a2_v2": "if it was a great victory",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "chelsea"
+    },
+    {
+        "q3": "who are the best players on paris sg?",
+        "a3": "neymar, mbappe, cavani",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "@object mbappe, cavani",
+        "a3_v2": "neymar, mbappe, cavani",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "paris sg"
+    },
+    {
+        "q4": "what league does paris play in?",
+        "a4": "ligue 1",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "ligue @object",
+        "a4_v2": "ligue 1",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "paris sg"
+    },
+    {
+        "q5": "what is psg's best finish in champions' league?",
+        "a5": "they finished 1st a few seasons ago.",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "they finished 1st a few seasons ago.",
+        "a5_v2": "they finished 1st a few seasons ago.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

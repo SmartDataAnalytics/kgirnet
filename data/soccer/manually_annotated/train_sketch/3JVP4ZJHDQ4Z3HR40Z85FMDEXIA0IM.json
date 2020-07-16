@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "who is the goal keeper for uraguay \\?",
+        "a1": "fernando muslera is the current no 1 goalkeeper",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object is the current no @object @relation",
+        "a1_v2": "fernando muslera is the current no 1 goalkeeper",
+        "corr_rel1": "goalkeeper",
+        "obj1": "fernando muslera",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": "do you think their goalkeeper is playing well \\?",
+        "a2": "he is playing decent for now",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a2_skt": "he is playing decent for now",
+        "a2_v2": "he is playing decent for now",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "goalkeeper"
+    },
+    {
+        "q3": "you are giving a good participation , you must continue like this and improve",
+        "a3": "have uruguay ever made a world cup final \\?",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "have @entity ever made a @relation \\?",
+        "a3_v2": "have uruguay ever made a world cup final \\?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "white and red"
+    },
+    {
+        "q4": "uruguay have made a final do you think they make one at the next world cup \\?",
+        "a4": "uruguay is a strong team , and yes they have potential to be one more time world cup winners",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "@entity is a strong team , and yes they have potential to be one more time @relation",
+        "a4_v2": "uruguay is a strong team , and yes they have potential to be one more time world cup winners",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "uruguay"
+    },
+    {
+        "q5": "i would agree but who is their biggest competition \\?",
+        "a5": "brazil",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "@entity",
+        "a5_v2": "brazil",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

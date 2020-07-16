@@ -1,0 +1,84 @@
+[
+    {
+        "q1": "who's the best player?",
+        "a1": "kaka",
+        "kgER1": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "kaka",
+        "a1_v2": "kaka",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "q1: who is atletico madrid's starting goalkeeper?",
+        "a2": "ricardo kaka jan oblak ",
+        "kgER2": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a2_skt": "ricardo kaka @object ",
+        "a2_v2": "ricardo kaka jan oblak ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "atletico madrid"
+    },
+    {
+        "q3": "who is the captain for atletico madrid?",
+        "a3": "diego godin",
+        "kgER3": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "diego godin",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "atletico madrid"
+    }
+]

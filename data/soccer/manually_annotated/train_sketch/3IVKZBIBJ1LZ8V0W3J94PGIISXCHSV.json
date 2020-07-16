@@ -1,0 +1,145 @@
+[
+    {
+        "q1": "barcelona is doing great. do you think they will take the world cup?",
+        "a1": "bacelona do not play in the world cup, spain do.",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity do not play in the world cup, @entity do.",
+        "a1_v2": "bacelona do not play in the world cup, spain do.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "oh, i though barcelona was spain, my bad.",
+        "a2": "no they are not.",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no they are not.",
+        "a2_v2": "no they are not.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "spain"
+    },
+    {
+        "q3": "will barcelona win the champions league?",
+        "a3": "they have a good chance every season",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they have a good chance every season",
+        "a3_v2": "they have a good chance every season",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "barcelona"
+    },
+    {
+        "q4": "what is the difference between barcelona and spain? are they in different leagues? comparable to like a major league and a minor league set-up? i don't understand soccer so i am unaware. ",
+        "a4": "barcelona is a great team",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity is a great team",
+        "a4_v2": "barcelona is a great team",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "spain"
+    },
+    {
+        "q5": "yes, but are they in different leagues or ranks?",
+        "a5": "barca are a club, spain are a country",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "barca are a club, @entity are a country",
+        "a5_v2": "barca are a club, spain are a country",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

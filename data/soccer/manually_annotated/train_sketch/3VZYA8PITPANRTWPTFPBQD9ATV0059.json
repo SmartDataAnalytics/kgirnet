@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i think brazil was a disappointment ",
+        "a1": " if i also, i think they could do it better",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": " if i also, i think they could do it better",
+        "a1_v2": " if i also, i think they could do it better",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "i agree, they did not put much effort into the games and just let themselves go.",
+        "a2": "these aren't questions i can answer, but i think brazil can be a good team again.",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "these aren't questions i can answer, but i think @entity can be a good team again.",
+        "a2_v2": "these aren't questions i can answer, but i think brazil can be a good team again.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "white and red"
+    },
+    {
+        "q3": "can brazil win the 2022 world cup in qatar?",
+        "a3": "we can hope they will",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "we can hope they will",
+        "a3_v2": "we can hope they will",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "brazil"
+    },
+    {
+        "q4": "how many times has brazil won the world cup?",
+        "a4": "they have won 5 times",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they have won @object times",
+        "a4_v2": "they have won 5 times",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "brazil"
+    },
+    {
+        "q5": "when was the last time they won? ",
+        "a5": "they won in 2002 last ",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they won in @object last ",
+        "a5_v2": "they won in 2002 last ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

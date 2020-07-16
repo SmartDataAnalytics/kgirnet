@@ -1,0 +1,46 @@
+[
+    {
+        "q1": "tell me the closest place to get a cup of hot tea",
+        "a1": "coupa is located 8_miles away from here at 394_van_ness_ave would you like directions there",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "poi",
+        "obj1": "coupa",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "394_van_ness_ave",
+            "8_miles",
+            "coupa"
+        ]
+    },
+    {
+        "q2": "is there a coffee shop within 4_miles if not please give me directions via the shortest route",
+        "a2": "coupa is the only nearby coffee shop do you want to go there",
+        "input_rel2": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel2": "distance",
+        "obj2": "coupa",
+        "input_ent2": "4_miles",
+        "kvr_entlist_qa2": [
+            "coupa"
+        ]
+    },
+    {
+        "q3": "yes thank you car let s go",
+        "a3": "setting navigation now to coupa",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "coupa"
+        ]
+    },
+    {
+        "q4": "thank you",
+        "a4": "you are welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

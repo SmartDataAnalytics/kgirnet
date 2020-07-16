@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "in what league does bvb dortmund play \\?",
+        "a1": "i'm not sure",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i'm not sure",
+        "a1_v2": "i'm not sure",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "good short bvb dortmund",
+        "a2": "i think they 're a good team though",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i think they 're a good team though",
+        "a2_v2": "i think they 're a good team though",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bvb dortmund"
+    },
+    {
+        "q3": "can bvb dortmund beat bayern munich \\?",
+        "a3": "i think bayern munich is better but dortmund may be able to beat them",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think @entity is better but dortmund may be able to beat them",
+        "a3_v2": "i think bayern munich is better but dortmund may be able to beat them",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "who is dortmunds star player \\?",
+        "a4": "marco reus is the top player for dortmund",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object is the top player for dortmund",
+        "a4_v2": "@has_player is the top player for dortmund",
+        "corr_rel4": "has player",
+        "obj4": "marco reus",
+        "input_ent4": "bvb dortmund"
+    }
+]

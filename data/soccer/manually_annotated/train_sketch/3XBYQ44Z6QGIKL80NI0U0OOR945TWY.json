@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i love the team real madrid",
+        "a1": "how long have you liked them? since i was a kid.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "how long have you liked them? since i was a kid.",
+        "a1_v2": "how long have you liked them? since i was a kid.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "did you ever go to any real madrid games as a kid?",
+        "a2": "i have never been to a real madrid game.",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i have never been to a @entity game.",
+        "a2_v2": "i have never been to a real madrid game.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "will the real madrid please stand up?",
+        "a3": "we are here and proud !",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "we are here and proud !",
+        "a3_v2": "we are here and proud !",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "real madrid have a strong worldwide fan base and have many fans all around the world ",
+        "a4": "what is real madrid ranking?",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "what is @entity ranking?",
+        "a4_v2": "what is real madrid ranking?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "real madrid are ranking #1 in world, continetal and national.",
+        "a5": "real madrid is number 1 among all clubs",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@entity is number @object among all clubs",
+        "a5_v2": "real madrid is number 1 among all clubs",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

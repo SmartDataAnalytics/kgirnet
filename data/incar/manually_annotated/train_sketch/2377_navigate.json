@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "any pizza close",
+        "a1": "pizza_my_heart is 5_miles away at 528_anton_ct is that a good one",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi,distance",
+        "obj1": "pizza_my_heart,5_miles",
+        "input_ent1": "pizza_restaurant",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "528_anton_ct",
+            "pizza_my_heart"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "anytime",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

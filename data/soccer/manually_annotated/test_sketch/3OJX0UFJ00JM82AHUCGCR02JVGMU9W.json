@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "do you like croatia?",
+        "a1": "croatia has modric one of the best players in the world cup",
+        "kgER1": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity has modric one of the best players in the world cup",
+        "a1_v2": "croatia has modric one of the best players in the world cup",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "croatia"
+    },
+    {
+        "q2": "where is croatia currently ranked?",
+        "a2": "now at days they are the number 4 at fifa ranking ",
+        "kgER2": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "now at days they are the number @object at fifa ranking ",
+        "a2_v2": "now at days they are the number 4 at fifa ranking ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "croatia"
+    },
+    {
+        "q3": "is that higher or lower than england? ",
+        "a3": "higher",
+        "kgER3": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "higher",
+        "a3_v2": "higher",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is croatia's record goalscorer?",
+        "a4": "currently it's ivan perisic",
+        "kgER4": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "currently it's @object",
+        "a4_v2": "currently it's ivan perisic",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "croatia"
+    },
+    {
+        "q5": "how old is ivan perisic? ",
+        "a5": "he is 29 years old.",
+        "kgER5": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "ivan perisic": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "he is @object years old.",
+        "a5_v2": "he is 29 years old.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ivan perisic"
+    }
+]

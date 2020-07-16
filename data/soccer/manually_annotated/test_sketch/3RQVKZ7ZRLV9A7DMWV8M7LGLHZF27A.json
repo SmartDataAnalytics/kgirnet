@@ -1,0 +1,131 @@
+[
+    {
+        "q1": "which country nationality sergio ramos has?",
+        "a1": "he plays for real madrid and spain.",
+        "kgER1": {
+            "sergio ramos": [
+                "captain",
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "he plays for @entity and spain.",
+        "a1_v2": "he plays for real madrid and spain.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "sergio ramos"
+    },
+    {
+        "q2": "mariano d\u00edaz mej\u00eda ",
+        "a2": "nowadays, mariano diaz mej\u00eda is playing on real madrid as a forward",
+        "kgER2": {
+            "sergio ramos": [
+                "captain",
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "nowadays, @object mej\u00eda is playing on @entity as a @relation",
+        "a2_v2": "nowadays, mariano diaz mej\u00eda is playing on real madrid as a forward",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "mariano diaz"
+    },
+    {
+        "q3": "when is real madrid's next match?",
+        "a3": "tomorrow!",
+        "kgER3": {
+            "sergio ramos": [
+                "captain",
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "tomorrow!",
+        "a3_v2": "tomorrow!",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "who are they playing against?",
+        "a4": "against leganes ",
+        "kgER4": {
+            "sergio ramos": [
+                "captain",
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "against leganes ",
+        "a4_v2": "against leganes ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "do they have any injuries?",
+        "a5": "jesus vallejo",
+        "kgER5": {
+            "sergio ramos": [
+                "captain",
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "jesus vallejo",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "did italy win the championship in soccer last year?",
+        "a1": "no",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "no",
+        "a1_v2": "no",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "did italy win a match?",
+        "a2": "italy won at least 3 matches.",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity won at least @object matches.",
+        "a2_v2": "italy won at least 3 matches.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "only 3? did they have any draws?",
+        "a3": "italy never even qualified for the fifa world cup",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity never even qualified for the fifa world cup",
+        "a3_v2": "italy never even qualified for the fifa world cup",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what city is italy's team based in?",
+        "a4": "wikipedia shows their major training ground is in florence.",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "wikipedia shows their major training @relation is in florence.",
+        "a4_v2": "wikipedia shows their major training ground is in florence.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "italy"
+    },
+    {
+        "q5": "what is italy's worst soccer player?",
+        "a5": "italy won't have a worst player, their team has to support each other all the time, as long as the team works then their play works.",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity won't have a worst player, their team has to support each other all the time, as long as the team works then their play works.",
+        "a5_v2": "italy won't have a worst player, their team has to support each other all the time, as long as the team works then their play works.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "italy"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "when is ac milan's next game?",
+        "a1": "the next game is on august 19 2018.",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "the next game is on august @object @object",
+        "a1_v2": "the next game is on august 19 2018.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "how do you think they will do? ",
+        "a2": "i think they will tie.",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i think they will tie.",
+        "a2_v2": "i think they will tie.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "i think they're going to win ",
+        "a3": "i think they will make a good game ",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think they will make a good game ",
+        "a3_v2": "i think they will make a good game ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "i think they will make at least 7 goals",
+        "a4": "seven goals in one match is a big target.",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "seven @relation in one match is a big target.",
+        "a4_v2": "seven goals in one match is a big target.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "7 (first in 1966)"
+    },
+    {
+        "q5": "ac milan will make 9 goals",
+        "a5": "milan is the best team in the italian league ",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "milan is the best team in the italian league ",
+        "a5_v2": "milan is the best team in the italian league ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ac milan"
+    }
+]

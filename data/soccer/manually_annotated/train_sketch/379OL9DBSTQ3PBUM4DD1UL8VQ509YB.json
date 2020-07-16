@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who is real madrid weakest player \\?",
+        "a1": "kiko casilla",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "kiko casilla",
+        "a1_v2": "kiko casilla",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "who is real madrid goalie \\?",
+        "a2": "their golie is kaylor navas",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "their golie is kaylor navas",
+        "a2_v2": "their golie is kaylor navas",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "how competent do you consider him to be \\?",
+        "a3": "one of the best out there",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "one of the best out there",
+        "a3_v2": "one of the best out there",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "which player wears the jersey 11 \\?",
+        "a4": "gareth bale",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "@has_player",
+        "corr_rel4": "has player",
+        "obj4": "gareth bale",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "who is real madrid 's strongest player \\?",
+        "a5": "varane is one of real madrid 's best players",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "varane is one of @entity 's best players",
+        "a5_v2": "varane is one of real madrid 's best players",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

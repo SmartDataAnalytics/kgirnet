@@ -1,0 +1,66 @@
+[
+    {
+        "q1": "have you ever seen them play \\?",
+        "a1": "i have seen the games on television but never in real life at a stadium",
+        "kgER1": {},
+        "a1_skt": "i have seen the games on television but never in real life at a stadium",
+        "a1_v2": "i have seen the games on television but never in real life at a stadium",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ever banega"
+    },
+    {
+        "q2": "who is the bayern munich goalie \\?",
+        "a2": "manuel neuer",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "manuel neuer",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bayern munich"
+    },
+    {
+        "q3": "which stadium does bayern munich play in \\?",
+        "a3": "allianz arena",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "allianz arena",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "who is the coach for bayern munich \\?",
+        "a4": "niko kovac",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "niko kovac",
+        "a4_v2": "niko kovac",
+        "corr_rel4": "coach",
+        "obj4": "niko kovac",
+        "input_ent4": "bayern munich"
+    }
+]

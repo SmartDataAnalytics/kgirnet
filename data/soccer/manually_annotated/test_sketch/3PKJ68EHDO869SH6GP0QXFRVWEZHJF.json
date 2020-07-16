@@ -1,0 +1,121 @@
+[
+    {
+        "q1": "what league does ac milan play in?",
+        "a1": "italian club team ac milan plays in the serie a",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "italian club team ac milan plays in the serie a",
+        "a1_v2": "italian club team ac milan plays in the serie a",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "what other teams does ac milan play?",
+        "a2": "ac milan recently played against manchester united",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "ac milan recently played against @entity",
+        "a2_v2": "ac milan recently played against manchester united",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "did they win it?",
+        "a3": "ac milan tied man u 1-1",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "ac milan tied man u @object",
+        "a3_v2": "ac milan tied man u 1-1",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "this article is about the men's football club from milan, italy. for the women's team, see a.c. milan women. for other sports teams called milan, see milan (disambiguation) \u00a7 sports.  ",
+        "a4": "what\u2019s ac milan\u2019s ground called",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "what\u2019s ac milan\u2019s @relation called",
+        "a4_v2": "what\u2019s ac milan\u2019s ground called",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "stadium giuseppe meazza",
+        "a5": "is ac milan a good team?",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "is ac milan a good team?",
+        "a5_v2": "is ac milan a good team?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "allianz stadium"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "what colour are real madrid playing in now? ",
+        "a1": "they have a very white uniform.",
+        "kgER1": {
+            "flame orange color scheme": [
+                "away jersey"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they have a very @object uniform.",
+        "a1_v2": "they have a very white uniform.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "when did they last change their uniform?",
+        "a2": "they have a very white uniform and they have a very black uniform",
+        "kgER2": {
+            "flame orange color scheme": [
+                "away jersey"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they have a very @object uniform and they have a very black uniform",
+        "a2_v2": "they have a very white uniform and they have a very black uniform",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what is their stadium called?",
+        "a3": "their home stadium is called the bernabeu. ",
+        "kgER3": {
+            "flame orange color scheme": [
+                "away jersey"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "their home stadium is called the bernabeu. ",
+        "a3_v2": "their home stadium is called the bernabeu. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "allianz stadium"
+    },
+    {
+        "q4": "how many people fit in the real madrid stadium?",
+        "a4": "the real madrid stadium can hold 80,000 people. its pitch measures 106 x 70 metres",
+        "kgER4": {
+            "flame orange color scheme": [
+                "away jersey"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "the @entity stadium can hold 80,000 people. its pitch measures @object x @object metres",
+        "a4_v2": "the real madrid stadium can hold 80,000 people. its pitch measures 106 x 70 metres",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "how many fans on average came to the home games last year?",
+        "a5": "65000",
+        "kgER5": {
+            "flame orange color scheme": [
+                "away jersey"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "65000",
+        "a5_v2": "65000",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

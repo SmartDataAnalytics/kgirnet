@@ -1,0 +1,55 @@
+[
+    {
+        "q1": "where is the closest parking_garage",
+        "a1": "civic_center_garage is 5_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "civic_center_garage",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "civic_center_garage"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "civic_center_garage is located at 270_altaire_walk want me to set the gps",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "270_altaire_walk",
+        "input_ent2": "civic_center_garage",
+        "kvr_entlist_qa2": [
+            "270_altaire_walk",
+            "civic_center_garage"
+        ]
+    },
+    {
+        "q3": "yes set the gps tio the fastest route with no_traffic",
+        "a3": "there is heavy_traffic in our route but you should be able to reach fast enough",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel3": "traffic_info",
+        "obj3": "heavy_traffic",
+        "input_ent3": "civic_center_garage",
+        "kvr_entlist_qa3": [
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q4": "ok thanks for the help",
+        "a4": "you re welcome drive carefully",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    },
+    {
+        "q5": "[ end of conversation ]",
+        "a5": "you are welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

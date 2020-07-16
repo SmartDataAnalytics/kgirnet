@@ -1,0 +1,62 @@
+[
+    {
+        "q1": "i love juventus ",
+        "a1": "me too",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "me too",
+        "a1_v2": "me too",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "what is so special about them, particularly? ",
+        "a2": "they have many talented players",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "they have many talented players",
+        "a2_v2": "they have many talented players",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what is their strongest point?",
+        "a3": "juventus has the best defense in the world",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "@entity has the best @relation in the world",
+        "a3_v2": "juventus has the best defense in the world",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "give me directions to the nearest parking_garage",
+        "a1": "the nearest garage is palo_alto_garage_r it s 2_miles away on 481_amaranta_ave",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance,address",
+        "corr_rel1": "poi,distance,address",
+        "obj1": "palo_alto_garage_r,2_miles,481_amaranta_ave",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "481_amaranta_ave",
+            "2_miles",
+            "palo_alto_garage_r"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "no problem",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

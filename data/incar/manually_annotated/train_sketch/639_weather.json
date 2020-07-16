@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "what s the weather like in grand_rapids",
+        "a1": "the weather predicted for grand_rapids is rain the temperature is a low of 30f with a high of 40f",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj1": "rain,30f,40f",
+        "input_ent1": "grand_rapids",
+        "kvr_entlist_qa1": [
+            "30f",
+            "rain",
+            "grand_rapids",
+            "40f"
+        ]
+    },
+    {
+        "q2": "will it be windy in grand_rapids during next_week",
+        "a2": "it should not be windy next_week in grand_rapids",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "grand_rapids",
+        "kvr_entlist_qa2": [
+            "grand_rapids",
+            "next_week",
+            "windy"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "q1": "who was germany 's greatest player",
+        "a1": "probably , toni kroos is right now",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "probably , @object is right now",
+        "a1_v2": "probably , toni kroos is right now",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "how many times has toni kroos played for germany \\?",
+        "a2": "i was n't keeping count but i am sure somebody was",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "toni kroos": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "i was n't keeping count but i am sure somebody was",
+        "a2_v2": "i was n't keeping count but i am sure somebody was",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "toni kroos"
+    },
+    {
+        "q3": "is kroos or someone else their team captain \\?",
+        "a3": "manuel neuer is captain when fit",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "toni kroos": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "@object is @relation when fit",
+        "a3_v2": "@captain is captain when fit",
+        "corr_rel3": "captain",
+        "obj3": "manuel neuer",
+        "input_ent3": "germany"
+    },
+    {
+        "q4": "toni kroos and his captain the never",
+        "a4": "kroos is a very good player",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "toni kroos": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "kroos is a very good player",
+        "a4_v2": "kroos is a very good player",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "toni kroos"
+    },
+    {
+        "q5": "what do you think about manuel neuer \\?",
+        "a5": "he was a great keeper but riddled with injuries",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "toni kroos": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "manuel neuer": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "goalkeeper"
+            ]
+        },
+        "a5_skt": "he was a great keeper but riddled with injuries",
+        "a5_v2": "he was a great keeper but riddled with injuries",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "manuel neuer"
+    }
+]

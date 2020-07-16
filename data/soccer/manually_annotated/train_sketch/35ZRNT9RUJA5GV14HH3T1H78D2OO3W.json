@@ -1,0 +1,95 @@
+[
+    {
+        "q1": "bayern munich win the bundesliga?",
+        "a1": "they can easily with 80 points",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they can easily with @object points",
+        "a1_v2": "they can easily with 80 points",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "who will be bayerns rivals this season?",
+        "a2": "probably real madrid will be the main rival for them.",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "probably @entity will be the main rival for them.",
+        "a2_v2": "probably real madrid will be the main rival for them.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how many cl titles have they won?",
+        "a3": "i am not sure on the exact amount of cl titles they've won.",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i am not sure on the exact amount of cl titles they've won.",
+        "a3_v2": "i am not sure on the exact amount of cl titles they've won.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what's bayern next match?",
+        "a4": "vfb stuttgart",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "vfb stuttgart",
+        "a4_v2": "vfb stuttgart",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "who is a forward for bayern munich",
+        "a5": "their forward is currently robert lewandowski",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a5_skt": "their @relation is currently @object",
+        "a5_v2": "their forward is currently robert lewandowski",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bayern munich"
+    }
+]

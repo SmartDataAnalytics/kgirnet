@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "when was the last time brazil won a world cup?",
+        "a1": "1996.",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "1996.",
+        "a1_v2": "1996.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "brazil won it in 2002",
+        "a2": "brazil won in 2002 against germany.",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity won in @object against @entity",
+        "a2_v2": "brazil won in 2002 against germany.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2002"
+    },
+    {
+        "q3": "do you think they will win the next world cup?",
+        "a3": "no i dont think they will.",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "no i dont think they will.",
+        "a3_v2": "no i dont think they will.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "i think we will have to wait to see. they have an entire season ahead of them.",
+        "a4": "this is true, they have a lot of young talent as well. ",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "this is true, they have a lot of young talent as well. ",
+        "a4_v2": "this is true, they have a lot of young talent as well. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is brazil's all time leading scorer?",
+        "a5": "pele has always been so.",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "pele has always been so.",
+        "a5_v2": "pele has always been so.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "brazil"
+    }
+]

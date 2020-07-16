@@ -1,0 +1,16 @@
+[
+    {
+        "q1": "when is the meeting",
+        "a1": "your meeting with the sales_team in on friday at 7pm",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time",
+        "obj1": "7pm",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "7pm",
+            "meeting",
+            "sales_team",
+            "friday"
+        ]
+    }
+]

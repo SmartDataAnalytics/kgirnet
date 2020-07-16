@@ -1,0 +1,42 @@
+[
+    {
+        "q1": "what time is my tennis_activity",
+        "a1": "you have 3 upcoming tennis_activity the_13th at 7pm sunday at 3pm and wednesday at 4pm",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "time,date",
+        "obj1": "7pm,4pm,the_13th,3pm",
+        "input_ent1": "tennis_activity",
+        "kvr_entlist_qa1": [
+            "7pm",
+            "tennis_activity",
+            "wednesday",
+            "4pm",
+            "sunday",
+            "the_13th",
+            "3pm"
+        ]
+    },
+    {
+        "q2": "who will be attending tennis with me on wednesday",
+        "a2": "your tennis_activity on wednesday at 4pm is with jeff",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "4pm",
+            "jeff",
+            "tennis_activity",
+            "wednesday"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

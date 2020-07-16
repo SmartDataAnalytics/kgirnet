@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "how many times has germany won the world cup?",
+        "a1": "4",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@number_of_world_cup_champion",
+        "corr_rel1": "number of world cup champion",
+        "obj1": "4",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "when did germany last win?",
+        "a2": "they won in 2014 in brazil.",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they won in @object in @entity",
+        "a2_v2": "they won in @world_cup_champions in @entity",
+        "corr_rel2": "world cup champions",
+        "obj2": "2014",
+        "input_ent2": "germany"
+    },
+    {
+        "q3": "what makes the german's so consistent?",
+        "a3": "klose",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "klose",
+        "a3_v2": "klose",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "german pezzella"
+    },
+    {
+        "q4": "do you think germany can recover from this past world cup?",
+        "a4": "i think it needs time and a new coach. ",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i think it needs time and a new @relation ",
+        "a4_v2": "i think it needs time and a new coach. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "germany"
+    },
+    {
+        "q5": "what is wrong with germany's current coach?",
+        "a5": "he is very disorganised.",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "he is very disorganised.",
+        "a5_v2": "he is very disorganised.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "germany"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "q1": "do you like honey?",
+        "a1": "no",
+        "kgER1": {},
+        "a1_skt": "no",
+        "a1_v2": "no",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "how about fish sticks?",
+        "a2": "do you garden?",
+        "kgER2": {},
+        "a2_skt": "do you garden?",
+        "a2_v2": "do you garden?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "love soccer",
+        "a3": "which soccer leagues to you follow? ",
+        "kgER3": {},
+        "a3_skt": "which soccer leagues to you follow? ",
+        "a3_v2": "which soccer leagues to you follow? ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "my favorite has always been barcelona.",
+        "a4": "have you ever been to barcelona?",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "have you ever been to @entity",
+        "a4_v2": "have you ever been to barcelona?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "i have not been to barcelona but i would like to visit some ",
+        "a5": "what would you like to see in barcelona?",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "what would you like to see in @entity",
+        "a5_v2": "what would you like to see in barcelona?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "barcelona"
+    }
+]

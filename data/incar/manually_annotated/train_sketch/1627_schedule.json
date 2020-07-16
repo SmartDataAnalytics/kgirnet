@@ -1,0 +1,26 @@
+[
+    {
+        "q1": "what time is my meeting and at what location",
+        "a1": "your meeting is scheduled on the_3rd at 11am",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,date",
+        "obj1": "11am,the_3rd",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "11am",
+            "meeting",
+            "the_3rd"
+        ]
+    },
+    {
+        "q2": "where is the meeting",
+        "a2": "your meeting is in the 100_conference_room",
+        "input_rel2": "room,date,time,agenda,party",
+        "corr_rel2": "room",
+        "obj2": "100_conference_room",
+        "input_ent2": "meeting",
+        "kvr_entlist_qa2": [
+            "meeting"
+        ]
+    }
+]

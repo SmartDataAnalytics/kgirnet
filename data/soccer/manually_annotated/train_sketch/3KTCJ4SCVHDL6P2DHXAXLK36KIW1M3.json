@@ -1,0 +1,61 @@
+[
+    {
+        "q1": "which is the oldest football club in the world?",
+        "a1": "sheffield fc are considered to be the oldest football club still in existence.",
+        "kgER1": {},
+        "a1_skt": "sheffield fc are considered to be the oldest football club still in existence.",
+        "a1_v2": "sheffield fc are considered to be the oldest football club still in existence.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "have you ever been to sheffield and what did you think? ",
+        "a2": "i have never been to sheffield",
+        "kgER2": {},
+        "a2_skt": "i have never been to sheffield",
+        "a2_v2": "i have never been to sheffield",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ever banega"
+    },
+    {
+        "q3": "who is the best team of all time?",
+        "a3": "brazil is ",
+        "kgER3": {},
+        "a3_skt": "@entity is ",
+        "a3_v2": "brazil is ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "in club football? ",
+        "a4": "the best team of all time is real madrid.",
+        "kgER4": {},
+        "a4_skt": "the best team of all time is @entity",
+        "a4_v2": "the best team of all time is real madrid.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "why would you judge real madrid as the all time best?",
+        "a5": "for all the trophies they have won",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "for all the trophies they have won",
+        "a5_v2": "for all the trophies they have won",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

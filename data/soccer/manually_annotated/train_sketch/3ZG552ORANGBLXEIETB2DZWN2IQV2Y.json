@@ -1,0 +1,103 @@
+[
+    {
+        "q1": "i love bvb dortmund",
+        "a1": "i dont ",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i dont ",
+        "a1_v2": "i dont ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "how do you rate their manager?",
+        "a2": "i'm not sure. they did just get a new one, lucien favre. wonder how well he'll be",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i'm not sure. they did just get a new one, @object wonder how well he'll be",
+        "a2_v2": "i'm not sure. they did just get a new one, lucien favre. wonder how well he'll be",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "why did bvb dortmund let go of their old coach?",
+        "a3": "five reasons jurgen klopp is leaving borussia dortmund",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "five reasons @object is leaving borussia dortmund",
+        "a3_v2": "five reasons jurgen klopp is leaving borussia dortmund",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "the contract expired",
+        "a4": "which contract expired?",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "which contract expired?",
+        "a4_v2": "which contract expired?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is dortmund's coach?",
+        "a5": "ballspielverein borussia 09 e.v. dortmund",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "ballspielverein borussia @object e.v. dortmund",
+        "a5_v2": "ballspielverein borussia 09 e.v. dortmund",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bvb dortmund"
+    }
+]

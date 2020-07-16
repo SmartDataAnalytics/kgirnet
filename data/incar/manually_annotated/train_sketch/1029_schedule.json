@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "who is going with me to the optometrist_appointment",
+        "a1": "your mother will be going to the optometrist_appointment",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "party",
+        "obj1": "mother",
+        "input_ent1": "optometrist_appointment",
+        "kvr_entlist_qa1": [
+            "mother",
+            "optometrist_appointment"
+        ]
+    },
+    {
+        "q2": "what time do we need to be there",
+        "a2": "your appointment starts at 6pm on sunday",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "6pm",
+            "sunday"
+        ]
+    },
+    {
+        "q3": "okay wonderful thank you so much",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

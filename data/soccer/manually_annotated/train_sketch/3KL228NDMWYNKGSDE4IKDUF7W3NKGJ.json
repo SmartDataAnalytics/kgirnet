@@ -1,0 +1,115 @@
+[
+    {
+        "q1": "who is the best player on real madrid \\?",
+        "a1": "luka modric",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "luka modric",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "what position does modric play \\?",
+        "a2": "modric is the midfielder on real madrid",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "modric is the @relation on @entity",
+        "a2_v2": "modric is the position on @entity",
+        "corr_rel2": "position",
+        "obj2": "defender",
+        "input_ent2": "luka modric"
+    },
+    {
+        "q3": "how does modric feel after ronaldo 's transfer \\?",
+        "a3": "he is probably will be playing more often and be even more important player to rely on for the real 's team",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "he is probably will be playing more often and be even more important player to rely on for the real 's team",
+        "a3_v2": "he is probably will be playing more often and be even more important player to rely on for the real 's team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "cristiano ronaldo"
+    },
+    {
+        "q4": "karim benzema has been the worst player for the blancos in 2017 the might have won the champions league and la liga , but the frenchman 's contribution to them was very erratic",
+        "a4": "he has a lot of critics , but it is hard to find better free striker now",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "karim benzema": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "he has a lot of critics , but it is hard to find better free striker now",
+        "a4_v2": "he has a lot of critics , but it is hard to find better free striker now",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "karim benzema"
+    },
+    {
+        "q5": "but i think for real madrid it 's enough to win",
+        "a5": "if it is very difficult but they are going to give everything this time",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "karim benzema": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "if it is very difficult but they are going to give everything this time",
+        "a5_v2": "if it is very difficult but they are going to give everything this time",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

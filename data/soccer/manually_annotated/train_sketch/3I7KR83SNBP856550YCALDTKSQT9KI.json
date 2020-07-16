@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "why is a team like barcelona always so dominant in league play?",
+        "a1": "they have strong chemistry. a variety of nationalities so each player feels secure and at home. they also sign players with the most potential and have hardworking players, such as paulinho.",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they have strong chemistry. a variety of nationalities so each player feels secure and at home. they also sign players with the most potential and have hardworking players, such as @object",
+        "a1_v2": "they have strong chemistry. a variety of nationalities so each player feels secure and at home. they also sign players with the most potential and have hardworking players, such as paulinho.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "who is barcelona's team captain?",
+        "a2": "the captain of the messi team",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "the @relation of the messi team",
+        "a2_v2": "the captain of the messi team",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "barcelona"
+    },
+    {
+        "q3": "barcelona will win against madrid in their next game together. ",
+        "a3": "i agree, barcelona typically dominates madrid.",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i agree, @entity typically dominates madrid.",
+        "a3_v2": "i agree, barcelona typically dominates madrid.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "barcelona"
+    },
+    {
+        "q4": "will they have a good defense?",
+        "a4": "what is barcelona's biggest weakness?",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "what is @entity biggest weakness?",
+        "a4_v2": "what is barcelona's biggest weakness?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "they tend to keep passing even if it doesn't work ",
+        "a5": "messi needs to shoot as much as ronaldo, instead of passing all the time. ",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "messi needs to shoot as much as ronaldo, instead of passing all the time. ",
+        "a5_v2": "messi needs to shoot as much as ronaldo, instead of passing all the time. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

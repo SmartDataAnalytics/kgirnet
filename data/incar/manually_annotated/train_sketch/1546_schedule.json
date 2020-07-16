@@ -1,0 +1,30 @@
+[
+    {
+        "q1": "what is the date and time for the meeting and what is the agenda",
+        "a1": "you have three meeting scheduled one on wednesday at 10am to onboard_new_members another on thursday at 4pm to discuss the dress code and one on the_6th at 7pm to discuss_dress_code",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,agenda,date",
+        "obj1": "7pm,10am,discuss_dress_code,onboard_new_members,4pm,the_6th",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "7pm",
+            "10am",
+            "discuss_dress_code",
+            "onboard_new_members",
+            "wednesday",
+            "4pm",
+            "the_6th",
+            "thursday",
+            "meeting"
+        ]
+    },
+    {
+        "q2": "thanks for the info",
+        "a2": "my pleasure goodbye",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

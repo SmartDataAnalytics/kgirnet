@@ -1,0 +1,88 @@
+[
+    {
+        "q1": "i love football",
+        "a1": "very good team",
+        "kgER1": {},
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "not enough quality",
+        "a2": "yes this one is true",
+        "kgER2": {},
+        "a2_skt": "yes this one is true",
+        "a2_v2": "yes this one is true",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "is hernandez mexicos number one player?",
+        "a3": "yes he is at this moment",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes he is at this moment",
+        "a3_v2": "yes he is at this moment",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "lucas hernandez"
+    },
+    {
+        "q4": "i agree with that, hernandez has great weight in that country and is fundamental ",
+        "a4": "is he also the captain of the team?",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "is he also the @relation of the team?",
+        "a4_v2": "is he also the captain of the team?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "lucas hernandez"
+    },
+    {
+        "q5": "no, andr\u00e9s guardado is the captain for mexico.",
+        "a5": "who is mexicos coach?",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "who is @entity @relation",
+        "a5_v2": "who is mexicos coach?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

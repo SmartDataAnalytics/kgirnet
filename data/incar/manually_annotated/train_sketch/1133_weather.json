@@ -1,0 +1,48 @@
+[
+    {
+        "q1": "what is the temperature going to be like this week",
+        "a1": "what location do you want the temperature for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "boston next_week",
+        "a2": "the temperature in boston on next_week will be low of 40f and high of 50f on monday low of 80f and high of 100f on tuesday low of 80f and high of 100f on wednesday low of 40f and high of 50f on thursday low of 90f and high of 100f on friday low of 20f and high of 30f on saturday low of 60f and high of 70f on sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "70f,100f,80f,90f,60f,20f,40f,30f,50f",
+        "input_ent2": "boston",
+        "kvr_entlist_qa2": [
+            "boston",
+            "70f",
+            "100f",
+            "80f",
+            "90f",
+            "60f",
+            "monday",
+            "next_week",
+            "20f",
+            "wednesday",
+            "sunday",
+            "saturday",
+            "40f",
+            "tuesday",
+            "thursday",
+            "30f",
+            "friday",
+            "50f"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

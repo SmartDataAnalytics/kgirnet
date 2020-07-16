@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "i really love the team atletico madrid",
+        "a1": "why do you like this team?",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "why do you like this team?",
+        "a1_v2": "why do you like this team?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "are players from atletico madrid more modest than from real madrid?",
+        "a2": "in general they want to win, they show more effort, but madrid continues to be more competitive ",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "in general they want to win, they show more effort, but madrid continues to be more competitive ",
+        "a2_v2": "in general they want to win, they show more effort, but madrid continues to be more competitive ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "who do you think is atletico madrid's best player?",
+        "a3": "antonie griezmann is the best footballer in the athletic",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object is the best footballer in the athletic",
+        "a3_v2": "antonie griezmann is the best footballer in the athletic",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "atletico madrid"
+    },
+    {
+        "q4": " if i agree it's the best",
+        "a4": "how many points does he have while at atletico madrid",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "how many points does he have while at @entity",
+        "a4_v2": "how many points does he have while at atletico madrid",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "do you mean goals?",
+        "a5": "according to wikipedia, he has 79 with atletico madrid.",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "according to wikipedia, he has @object with @entity",
+        "a5_v2": "according to wikipedia, he has 79 with atletico madrid.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

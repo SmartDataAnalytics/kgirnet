@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "what s today s and tomorrow s forecast",
+        "a1": "what city do you want the forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i want to know the temperature in danville",
+        "a2": "for what day would you like to know the temperature",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "today and tomorrow",
+        "a3": "today monday will be a low of 90f high of 100f and tomorrow also a low of 90f high of 100f",
+        "input_rel3": "party",
+        "corr_rel3": "monday,tuesday",
+        "obj3": "100f,90f",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "100f",
+            "90f",
+            "monday",
+            "today",
+            "tomorrow"
+        ]
+    },
+    {
+        "q4": "thank you car",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

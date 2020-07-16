@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "give me this week s high temperature",
+        "a1": "what city do you want the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "give me the temperature in downtown_chicago for the week",
+        "a2": "in chicago it will be 90f - 100f monday wednesday and friday on tuesday and thursday it will be 60f - 80f saturday will be 30f - 40f and sunday will be 70f - 80f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "70f,100f,80f,90f,60f,40f,30f",
+        "input_ent2": "downtown_chicago",
+        "kvr_entlist_qa2": [
+            "70f",
+            "100f",
+            "80f",
+            "90f",
+            "60f",
+            "monday",
+            "wednesday",
+            "sunday",
+            "saturday",
+            "40f",
+            "tuesday",
+            "thursday",
+            "30f",
+            "friday"
+        ]
+    },
+    {
+        "q3": "perfect",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

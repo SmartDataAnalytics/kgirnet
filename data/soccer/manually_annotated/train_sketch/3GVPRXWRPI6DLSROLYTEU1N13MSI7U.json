@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "how is ac milan doing now \\?",
+        "a1": "i think they 're doing pretty well actually",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i think they 're doing pretty well actually",
+        "a1_v2": "i think they 're doing pretty well actually",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "who is the current coach for ac milan \\?",
+        "a2": "gennaro gattuso",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "@coach",
+        "corr_rel2": "coach",
+        "obj2": "gennaro gattuso",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "did gattuso ever play for ac milan \\?",
+        "a3": "yes he did",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "yes he did",
+        "a3_v2": "yes he did",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ac milan"
+    },
+    {
+        "q4": "how is ac milan \\?",
+        "a4": "ac milan are 10th in the table",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "ac milan are 10th in the table",
+        "a4_v2": "ac milan are 10th in the table",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "who is above them \\?",
+        "a5": "genoa",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "genoa",
+        "a5_v2": "genoa",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

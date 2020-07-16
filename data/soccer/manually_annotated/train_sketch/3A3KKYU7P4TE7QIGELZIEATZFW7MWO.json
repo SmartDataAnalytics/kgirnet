@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who 's liverpool 's coach \\?",
+        "a1": "jurgen klopp is the coach for liverpool",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object is the @relation for @entity",
+        "a1_v2": "@coach is the coach for @entity",
+        "corr_rel1": "coach",
+        "obj1": "jurgen klopp",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "does liverpool has multiple coaches \\?",
+        "a2": "no , just jurgen klopp , though there will be other trainers",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "no , just @object , though there will be other trainers",
+        "a2_v2": "no , just jurgen klopp , though there will be other trainers",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "who are the trainers \\?",
+        "a3": "they have many other staff in various positions like assistant coach , academy coaches , under 23 under 18 coaches , fitness conditioning coaches , goalkeeping coaches , and more",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they have many other staff in various positions like assistant @relation , academy @relationes , under @object under @object @relationes , fitness conditioning @relationes , @object @relationes , and more",
+        "a3_v2": "they have many other staff in various positions like assistant coach , academy coaches , under 23 under 18 coaches , fitness conditioning coaches , goalkeeping coaches , and more",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is the youngest player for this team \\?",
+        "a4": "ben woodburn",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "ben woodburn",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is the oldest liverpool player \\?",
+        "a5": "ben woodburn is the oldest player in liverpool",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is the oldest player in @entity",
+        "a5_v2": "ben woodburn is the oldest player in liverpool",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

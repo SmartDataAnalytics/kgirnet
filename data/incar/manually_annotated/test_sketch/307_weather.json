@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "what is the weather like right now",
+        "a1": "what city shall i check for you",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "please check exeter is it humid",
+        "a2": "today is not humid in exeter it is stormy low of 40f high of 50f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "stormy,50f,40f",
+        "input_ent2": "exeter",
+        "kvr_entlist_qa2": [
+            "stormy",
+            "today",
+            "humid",
+            "exeter",
+            "50f",
+            "40f"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

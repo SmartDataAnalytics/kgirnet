@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i think manchester united will win something this season and you ",
+        "a1": "manchester united has great chances of winning \"something.\"",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity has great chances of winning \"something.\"",
+        "a1_v2": "manchester united has great chances of winning \"something.\"",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "will man utd win ucl?",
+        "a2": "i think that manchester united is a very good team but it still lacks",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i think that @entity is a very good team but it still lacks",
+        "a2_v2": "i think that manchester united is a very good team but it still lacks",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "will jose last until the end of the season?",
+        "a3": "alexis s\u00e1nchez ",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object ",
+        "a3_v2": "alexis s\u00e1nchez ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "jose gimenez"
+    },
+    {
+        "q4": "who is most likely to take over if jose leaves ?",
+        "a4": "zindane",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "zindane",
+        "a4_v2": "zindane",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "jose gimenez"
+    },
+    {
+        "q5": "arch rivalry of man ud?",
+        "a5": "i think liverpool ",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i think @entity ",
+        "a5_v2": "i think liverpool ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "directions to the nearest takeout chinese_restaurant",
+        "a1": "the nearest chinese_restaurant would be mandarin_roots which is at 271_springer_street",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "mandarin_roots",
+        "input_ent1": "chinese_restaurant",
+        "kvr_entlist_qa1": [
+            "chinese_restaurant",
+            "271_springer_street",
+            "mandarin_roots"
+        ]
+    },
+    {
+        "q2": "is it the quickest within 3_miles",
+        "a2": "it s actually 4_miles away and there is moderate_traffic too but it s the best option",
+        "input_rel2": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel2": "",
+        "obj2": "4_miles",
+        "input_ent2": "chinese_restaurant",
+        "kvr_entlist_qa2": [
+            "moderate_traffic",
+            "4_miles"
+        ]
+    },
+    {
+        "q3": "ok thanks set the gps for there",
+        "a3": "gps set for mandarin_roots",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel3": "poi",
+        "obj3": "mandarin_roots",
+        "input_ent3": "chinese_restaurant",
+        "kvr_entlist_qa3": [
+            "mandarin_roots"
+        ]
+    },
+    {
+        "q4": "thank you car",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

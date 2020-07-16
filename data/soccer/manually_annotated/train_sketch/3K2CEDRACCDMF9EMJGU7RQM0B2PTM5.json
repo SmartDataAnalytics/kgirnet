@@ -1,0 +1,88 @@
+[
+    {
+        "q1": "why is karrius still on the team?",
+        "a1": "because he has good football.",
+        "kgER1": {},
+        "a1_skt": "because he has good football.",
+        "a1_v2": "because he has good football.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "because no one wants him",
+        "a2": "which position does he play?",
+        "kgER2": {},
+        "a2_skt": "which @relation does he play?",
+        "a2_v2": "which position does he play?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "allison is liverpool's new goalkeeper, but is karris a good back up ?",
+        "a3": "yeah, he's good too.",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "yeah, he's good too.",
+        "a3_v2": "yeah, he's good too.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "goalkeeper"
+    },
+    {
+        "q4": "both goalkeepers are excellent, but only one is left and that is the best performance ",
+        "a4": "karius is a good back up",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "karius is a good back up",
+        "a4_v2": "karius is a good back up",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "white and red"
+    },
+    {
+        "q5": "is karius better than ming for liverpool ?",
+        "a5": "yes, because he is a good backup already. ",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "yes, because he is a good backup already. ",
+        "a5_v2": "yes, because he is a good backup already. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

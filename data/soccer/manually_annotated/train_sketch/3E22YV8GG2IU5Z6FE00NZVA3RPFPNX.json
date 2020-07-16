@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who is liverpool's best player?",
+        "a1": "mohammed salah is their best current player.",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object is their best current player.",
+        "a1_v2": "mohammed salah is their best current player.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "who is the best player to play for liverpool?",
+        "a2": "luis suarez is the best player to play for liverpool.",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object is the @relation to play for @entity",
+        "a2_v2": "luis suarez is the best player to play for liverpool.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "i like the game of salah more than the one of suarez since suarez concentrates in making goals and salah in moving to the team salah it is more a net 10 and indispensable in the liverpool",
+        "a3": "how many french people are in the liverpool squad currently? ",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "how many french people are in the @entity squad currently? ",
+        "a3_v2": "how many french people are in the liverpool squad currently? ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mohamed salah"
+    },
+    {
+        "q4": "who has liverpool beat that was good this year?",
+        "a4": "dortmund",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "dortmund",
+        "a4_v2": "dortmund",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    },
+    {
+        "q5": "will liverpool finish at the top of the leaderboard?",
+        "a5": "yes, they going to be the champions",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes, they going to be the champions",
+        "a5_v2": "yes, they going to be the champions",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

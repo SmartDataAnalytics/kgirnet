@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "take me to the nearest starbucks please",
+        "a1": "the nearest starbucks is 6_miles away would you like to know the address",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "distance",
+        "obj1": "6_miles",
+        "input_ent1": "starbucks",
+        "kvr_entlist_qa1": [
+            "6_miles",
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "yes please send the address on my screen and pick the quickest route for me",
+        "a2": "the address is 792_bedoin_street i sent it on your screen and we re on a route with no_traffic enjoy your trip",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "792_bedoin_street",
+        "input_ent2": "starbucks",
+        "kvr_entlist_qa2": [
+            "no_traffic",
+            "792_bedoin_street"
+        ]
+    },
+    {
+        "q3": "thank you car you rock",
+        "a3": "so do you driver goodbye",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

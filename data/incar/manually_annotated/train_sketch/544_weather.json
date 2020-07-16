@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "what s the weather forecast in new_york",
+        "a1": "what information can i give you about new_york s weather",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "new_york",
+        "kvr_entlist_qa1": [
+            "new_york"
+        ]
+    },
+    {
+        "q2": "i need to know what the lowest_temperature will be in new_york in the next_few_days",
+        "a2": "it will be 30f on wednesday in new_york",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "30f",
+        "input_ent2": "new_york",
+        "kvr_entlist_qa2": [
+            "30f",
+            "new_york",
+            "wednesday"
+        ]
+    },
+    {
+        "q3": "thank you so much let s hope it won t be rainy",
+        "a3": "i hope so too",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

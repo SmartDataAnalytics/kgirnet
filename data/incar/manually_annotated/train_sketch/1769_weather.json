@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "give me the full weekly weather forecast",
+        "a1": "what city are you interested in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "san_mateo please",
+        "a2": "in san_mateo this week it there will be clear_skies frost drizzle and dry",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "frost,clear_skies,san_mateo, dry,drizzle,week",
+        "input_ent2": "san_mateo",
+        "kvr_entlist_qa2": [
+            "frost",
+            "clear_skies",
+            "san_mateo",
+            "dry",
+            "drizzle",
+            "week"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "no problem i m here to help",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

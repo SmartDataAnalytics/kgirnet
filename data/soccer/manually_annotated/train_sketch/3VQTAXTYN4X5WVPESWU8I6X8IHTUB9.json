@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "in what country does bayern munich play \\?",
+        "a1": "bayern munich is a german club",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity is a @entity club",
+        "a1_v2": "bayern munich is a german club",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "when did bayern last win the bundesliga \\?",
+        "a2": "bayern last won bundesliga in the 2017 2018 season",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "bayern last won bundesliga in the 2017 @object season",
+        "a2_v2": "bayern last won bundesliga in the 2017 2018 season",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bayern munich"
+    },
+    {
+        "q3": "who are bayern munich 's most famous players \\?",
+        "a3": "james rodriguez is pretty famous",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object is pretty famous",
+        "a3_v2": "james rodriguez is pretty famous",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "what 's bayern 's ground called",
+        "a4": "allianz arena",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "@ground",
+        "corr_rel4": "ground",
+        "obj4": "allianz arena",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "can it fit more than fifty thousand spectators in \\?",
+        "a5": "yes , it can fit even 75 000 visitors",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes , it can fit even @object 000 visitors",
+        "a5_v2": "yes , it can fit even 75 000 visitors",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "emre can"
+    }
+]

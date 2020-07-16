@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "is colombia a world class team?",
+        "a1": "no colombia is good but not world class.",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "no @entity is good but not world class.",
+        "a1_v2": "no colombia is good but not world class.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "colombia"
+    },
+    {
+        "q2": "decent not world class",
+        "a2": "colombia might not be the best in south america, but they are better than most of the rest of the world.",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity might not be the best in south america, but they are better than most of the rest of the world.",
+        "a2_v2": "colombia might not be the best in south america, but they are better than most of the rest of the world.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "not that great but they continue to be better.",
+        "a3": "yes, they are still top 30 world wide",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes, they are still top @object world wide",
+        "a3_v2": "yes, they are still top 30 world wide",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "when colombia won the championship?",
+        "a4": "he has not won a championship many years ago ",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "he has not won a championship many years ago ",
+        "a4_v2": "he has not won a championship many years ago ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "colombia"
+    },
+    {
+        "q5": "is colombia a better team than uruguay?",
+        "a5": "i don't believe so.  uruguay did better at the world cup.",
+        "kgER5": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i don't believe so.  @entity did better at the world cup.",
+        "a5_v2": "i don't believe so.  uruguay did better at the world cup.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "uruguay"
+    }
+]

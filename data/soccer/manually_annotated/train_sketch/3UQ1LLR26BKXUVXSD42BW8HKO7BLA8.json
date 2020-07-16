@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "does atletico madrid have other divisions besides soccer?",
+        "a1": "i think that they have",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i think that they have",
+        "a1_v2": "i think that they have",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "does ateltico madrid have a womens team?",
+        "a2": "yes they have a womens team. it was founded in 2001.",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes they have a womens team. it was @relation in 2001.",
+        "a2_v2": "yes they have a womens team. it was founded in 2001.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "they win the womens champions?",
+        "a3": "yes they did and quite well too ",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "yes they did and quite well too ",
+        "a3_v2": "yes they did and quite well too ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "can you name a female player? ",
+        "a4": "what is the name of their women's team?",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "what is the name of their women's team?",
+        "a4_v2": "what is the name of their women's team?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "emre can"
+    },
+    {
+        "q5": "how many times have they won this year?",
+        "a5": "if we're talking about atelitco's women's team, they have yet to play this season.  the men's team have two wins this season.",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "if we're talking about atelitco's women's team, they have yet to play this season.  the men's team have two wins this season.",
+        "a5_v2": "if we're talking about atelitco's women's team, they have yet to play this season.  the men's team have two wins this season.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

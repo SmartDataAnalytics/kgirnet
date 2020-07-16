@@ -1,0 +1,61 @@
+[
+    {
+        "q1": "do you like bvb or dortmund better?",
+        "a1": "i prefer dortmund, because my parents support them!",
+        "kgER1": {},
+        "a1_skt": "i prefer dortmund, because my parents support them!",
+        "a1_v2": "i prefer dortmund, because my parents support them!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "dortmund",
+        "a2": "bvb is better.",
+        "kgER2": {},
+        "a2_skt": "bvb is better.",
+        "a2_v2": "bvb is better.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bvb dortmund"
+    },
+    {
+        "q3": "will bvb or dortmund finish higher in the standings?",
+        "a3": "they are the same club!",
+        "kgER3": {},
+        "a3_skt": "they are the same club!",
+        "a3_v2": "they are the same club!",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "it's a great team and my favorite player plays in the ",
+        "a4": "my favorite player plays in the dortmund and it's frame reus",
+        "kgER4": {},
+        "a4_skt": "my favorite player plays in the dortmund and it's frame reus",
+        "a4_v2": "my favorite player plays in the dortmund and it's frame reus",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "white and red"
+    },
+    {
+        "q5": "will bvb dortmund win the league?",
+        "a5": "yes, they are a strong team and have a good chance of winning",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes, they are a strong team and have a good chance of winning",
+        "a5_v2": "yes, they are a strong team and have a good chance of winning",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bvb dortmund"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "q1": "do you like peanut butter?",
+        "a1": "i do like penut butter. it is very high in natural fats and protien. it is very good to eat if you are bodybuilding.",
+        "kgER1": {},
+        "a1_skt": "i do like penut butter. it is very @relation in natural fats and protien. it is very good to eat if you are bodybuilding.",
+        "a1_v2": "i do like penut butter. it is very high in natural fats and protien. it is very good to eat if you are bodybuilding.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "what else should i eat if i work out and want to stay fit?",
+        "a2": "meat",
+        "kgER2": {},
+        "a2_skt": "meat",
+        "a2_v2": "meat",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "white and red"
+    },
+    {
+        "q3": "which position on a soccer team is most important?",
+        "a3": "goal keeper is the most important",
+        "kgER3": {},
+        "a3_skt": "@relation is the most important",
+        "a3_v2": "goal keeper is the most important",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "has a goalkeeper ever scored a goal ?",
+        "a4": "yes many have scored goals",
+        "kgER4": {
+            "goalkeeper": [
+                "position"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "yes many have scored @relation",
+        "a4_v2": "yes many have scored goals",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "goalkeeper"
+    },
+    {
+        "q5": "but how? surely it is very difficult, and the opposing team must have made a horrible mistake to allow the goalkeeper to score!",
+        "a5": "goalkeepers spent the majority of there time in the penalty area of their own team a marked area around the goal they are defending in which they can handles the ball.",
+        "kgER5": {
+            "goalkeeper": [
+                "position"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "@relation spent the majority of there time in the penalty area of their own team a marked area around the goal they are defending in which they can handles the ball.",
+        "a5_v2": "goalkeepers spent the majority of there time in the penalty area of their own team a marked area around the goal they are defending in which they can handles the ball.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "goalkeeper"
+    }
+]

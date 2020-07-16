@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "how many world cup finals did switzerland participate in?",
+        "a1": "none - switzerland has never participated in a world cup final.",
+        "kgER1": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "none - @entity has never participated in a world cup final.",
+        "a1_v2": "none - switzerland has never participated in a world cup final.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "has the world cup ever been located in switzerland?",
+        "a2": "switzerland hosted the world cup in 1954.",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity hosted the world cup in @object",
+        "a2_v2": "switzerland hosted the world cup in 1954.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "switzerland"
+    },
+    {
+        "q3": "few countries have hosted twice.",
+        "a3": "yes this one is true",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes this one is true",
+        "a3_v2": "yes this one is true",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "do you think that hosting the world cup gives the national team an advantage?",
+        "a4": "yes, definitely. ",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes, definitely. ",
+        "a4_v2": "yes, definitely. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "how many tourists visited switzerland when they held the world cup?",
+        "a5": "i think not many.",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think not many.",
+        "a5_v2": "i think not many.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "switzerland"
+    }
+]

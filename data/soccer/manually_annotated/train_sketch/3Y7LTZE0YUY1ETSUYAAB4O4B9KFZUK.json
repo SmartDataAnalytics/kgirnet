@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "what does bvb stand for in the football team bvb dortmund?",
+        "a1": "the full name for the team is ballspiel-verein borussia. this is commonly shortened to bvb.",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "the full name for the team is ballspiel-verein borussia. this is commonly shortened to bvb.",
+        "a1_v2": "the full name for the team is ballspiel-verein borussia. this is commonly shortened to bvb.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "which year was bvb dortmund founded?",
+        "a2": "1909",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "@founded_on",
+        "corr_rel2": "founded on",
+        "obj2": "1909",
+        "input_ent2": "bvb dortmund"
+    },
+    {
+        "q3": "what does bvb stand for?",
+        "a3": "ballspielverein borussia",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "ballspielverein borussia",
+        "a3_v2": "ballspielverein borussia",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "are you a fan of them",
+        "a4": "i like them but i don't think they're consistent enough to ever be a major player.",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i like them but i don't think they're consistent enough to ever be a major player.",
+        "a4_v2": "i like them but i don't think they're consistent enough to ever be a major player.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is the best player for bvb dortmund?",
+        "a5": "they didnt have any good players this year",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "they didnt have any good players this year",
+        "a5_v2": "they didnt have any good players this year",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bvb dortmund"
+    }
+]

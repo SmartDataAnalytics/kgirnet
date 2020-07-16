@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "what is the strength of the france football team?",
+        "a1": "yes, number 1 in ranking",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes, number @object in ranking",
+        "a1_v2": "yes, number 1 in ranking",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "france"
+    },
+    {
+        "q2": "are you sure the recent world cup win counts?",
+        "a2": "france is a very good team.",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity is a very good team.",
+        "a2_v2": "france is a very good team.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "is france a great team?",
+        "a3": "good team",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "good team",
+        "a3_v2": "good team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "france"
+    },
+    {
+        "q4": "france is a great team and competes with any other team",
+        "a4": "france was a powerhouse last season. but can they be that good next year?",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity was a powerhouse last season. but can they be that good next year?",
+        "a4_v2": "france was a powerhouse last season. but can they be that good next year?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "france"
+    },
+    {
+        "q5": "do you  know? ",
+        "a5": "i believe they can be that good again",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i believe they can be that good again",
+        "a5_v2": "i believe they can be that good again",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

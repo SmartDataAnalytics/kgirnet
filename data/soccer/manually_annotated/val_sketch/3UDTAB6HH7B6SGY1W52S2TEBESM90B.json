@@ -1,0 +1,127 @@
+[
+    {
+        "q1": "what was the highest scoring fifa sanctionned match of all time?",
+        "a1": "i think it was when america somoa played vs australia",
+        "kgER1": {},
+        "a1_skt": "i think it was when america somoa played vs australia",
+        "a1_v2": "i think it was when america somoa played vs australia",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who won, and by how much?",
+        "a2": "australia has won but i'm remember the score.",
+        "kgER2": {},
+        "a2_skt": "australia has won but i'm remember the score.",
+        "a2_v2": "australia has won but i'm remember the score.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "white and red"
+    },
+    {
+        "q3": "i know that brazil lost 8-1 against germany not too long ago.",
+        "a3": "that was a big scoreline for a game in the knock-out round. ",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "that was a big scoreline for a game in the knock-out @relation ",
+        "a3_v2": "that was a big scoreline for a game in the knock-out round. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "germany"
+    },
+    {
+        "q4": "do they have a rule in soccor that if you are up by such amount the game is done. ",
+        "a4": "no, they do not ",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "no, they do not ",
+        "a4_v2": "no, they do not ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "when was the last time america won the world cup? ",
+        "a5": "if you are referring to the united states, never.",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "if you are referring to the united states, never.",
+        "a5_v2": "if you are referring to the united states, never.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

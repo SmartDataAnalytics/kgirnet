@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "are you a fan of team sweden?",
+        "a1": "no. nobody should like sweden.",
+        "kgER1": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "no. nobody should like @entity",
+        "a1_v2": "no. nobody should like sweden.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "sweden"
+    },
+    {
+        "q2": "nobody, not even swedes?",
+        "a2": "zlatan likes sweden, i can assure you that.",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "zlatan likes @entity i can assure you that.",
+        "a2_v2": "zlatan likes sweden, i can assure you that.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "is zlatan the only reason we support sweden in international football?",
+        "a3": "if by zlatan it is sweden that is conose but now without sweden is good team",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "if by zlatan it is @entity that is conose but now without @entity is good team",
+        "a3_v2": "if by zlatan it is sweden that is conose but now without sweden is good team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "sweden"
+    },
+    {
+        "q4": "how old is zlatan? ",
+        "a4": "he is 36 years old ",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "he is @object years old ",
+        "a4_v2": "he is 36 years old ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "old trafford"
+    },
+    {
+        "q5": "that's kind of old for a player.",
+        "a5": "will zlatan become a coach soon?",
+        "kgER5": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "will zlatan become a @relation soon?",
+        "a5_v2": "will zlatan become a coach soon?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "old trafford"
+    }
+]

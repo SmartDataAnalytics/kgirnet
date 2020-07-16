@@ -1,0 +1,88 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "no, and you've asked this same dumb question lots of times. ",
+        "kgER1": {},
+        "a1_skt": "no, and you've asked this same dumb question lots of times. ",
+        "a1_v2": "no, and you've asked this same dumb question lots of times. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "what lineup does liverpool typically run?",
+        "a2": "i'm not sure",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i'm not sure",
+        "a2_v2": "i'm not sure",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "can liverpool win its league this next time?",
+        "a3": "it is in a great state, it is possible ",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "it is in a great state, it is possible ",
+        "a3_v2": "it is in a great state, it is possible ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "the liverpool usually runs the alignment 4-3-3",
+        "a4": "liverpool is a best team?",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity is a best team?",
+        "a4_v2": "liverpool is a best team?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    },
+    {
+        "q5": "i think they will finish second best this season.",
+        "a5": "why not first?",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "why not first?",
+        "a5_v2": "why not first?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

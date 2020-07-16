@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "what s the forecast going to be for today and tomorrow",
+        "a1": "in what city can i check today and tomorrow s forecast",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "today",
+            "tomorrow"
+        ]
+    },
+    {
+        "q2": "brentwood please there will be any blizzard",
+        "a2": "there will be no blizzard in brentwood next_week",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "brentwood",
+        "kvr_entlist_qa2": [
+            "brentwood",
+            "blizzard",
+            "next_week"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome have a great day",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "is it gonna be misty in san_francisco on tuesday",
+        "a1": "it will not be misty on tuesday in san_francisco the weather is predicted to be dry",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday",
+        "obj1": "dry",
+        "input_ent1": "san_francisco",
+        "kvr_entlist_qa1": [
+            "misty",
+            "san_francisco",
+            "dry",
+            "tuesday"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "anytime",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

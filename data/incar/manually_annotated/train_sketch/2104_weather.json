@@ -1,0 +1,63 @@
+[
+    {
+        "q1": "give me the 7 day weather forecast",
+        "a1": "what city do you want the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "san_mateo",
+        "a2": "it will be warm in the beginning of the week and turn to rain and snow in san_mateo next_week it will be 30f - 40f monday 70f - 80f tuesday 60f - 70f wednesday 30f - 40f thursday 90f - 100f friday 90f - 100f saturday and 40f - 60f sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "70f,warm,100f,80f,90f,60f,rain,40f,30f,snow",
+        "input_ent2": "san_mateo",
+        "kvr_entlist_qa2": [
+            "70f",
+            "warm",
+            "100f",
+            "80f",
+            "san_mateo",
+            "90f",
+            "60f",
+            "next_week",
+            "monday",
+            "wednesday",
+            "sunday",
+            "saturday",
+            "rain",
+            "40f",
+            "tuesday",
+            "thursday",
+            "30f",
+            "week",
+            "snow",
+            "friday"
+        ]
+    },
+    {
+        "q3": "will it be windy at all next_week in san_mateo",
+        "a3": "it will not be windy in san_mateo next_week",
+        "input_rel3": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel3": "",
+        "obj3": "none",
+        "input_ent3": "san_mateo",
+        "kvr_entlist_qa3": [
+            "san_mateo",
+            "next_week",
+            "windy"
+        ]
+    },
+    {
+        "q4": "thanks for the info",
+        "a4": "anytime",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

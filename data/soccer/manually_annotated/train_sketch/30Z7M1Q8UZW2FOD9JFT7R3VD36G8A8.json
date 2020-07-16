@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "is manchester united still good?",
+        "a1": "hmm, i'm not sure, i don't really follow manchester united.",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "hmm, i'm not sure, i don't really follow @entity",
+        "a1_v2": "hmm, i'm not sure, i don't really follow manchester united.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "when did they last win the premier league?",
+        "a2": "i think within the past 5 years",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i think within the past @object years",
+        "a2_v2": "i think within the past 5 years",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is going to play for manchester united this coming season?",
+        "a3": "de gea will return for sure, but i don't know about any others.",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "de gea will return for sure, but i don't know about any others.",
+        "a3_v2": "de gea will return for sure, but i don't know about any others.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "manchester united"
+    },
+    {
+        "q4": "what was the great coincident the team?",
+        "a4": "who is the best player ?",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "who is the @relation ?",
+        "a4_v2": "who is the best player ?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "list of best players?",
+        "a5": "de gea is the best fire sure",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "de gea is the best fire sure",
+        "a5_v2": "de gea is the best fire sure",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

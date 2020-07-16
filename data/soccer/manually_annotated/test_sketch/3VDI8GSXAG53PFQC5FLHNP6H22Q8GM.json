@@ -1,0 +1,70 @@
+[
+    {
+        "q1": "what stadium do dortmund play in?",
+        "a1": "they play in westfalenstadion stadium in germany",
+        "kgER1": {},
+        "a1_skt": "they play in @object stadium in @entity",
+        "a1_v2": "they play in westfalenstadion stadium in germany",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "i like that play",
+        "a2": "who is dortmund's head coach?",
+        "kgER2": {},
+        "a2_skt": "who is dortmund's head @relation",
+        "a2_v2": "who is dortmund's head coach?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "mascot of dortmund 2018/19 season?",
+        "a3": "search it up and see",
+        "kgER3": {},
+        "a3_skt": "search it up and see",
+        "a3_v2": "search it up and see",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "2018"
+    },
+    {
+        "q4": "gran motivacion del publico bvb dortmund ",
+        "a4": "son ingreibles bvb dortmund ",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "son ingreibles bvb dortmund ",
+        "a4_v2": "son ingreibles bvb dortmund ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bvb dortmund"
+    },
+    {
+        "q5": "id the dortmund qualify for any wc",
+        "a5": "dortmund, is a german sports club based in dortmund, north rhine-westphali?",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "dortmund, is a @entity sports club based in dortmund, north rhine-westphali?",
+        "a5_v2": "dortmund, is a german sports club based in dortmund, north rhine-westphali?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bvb dortmund"
+    }
+]

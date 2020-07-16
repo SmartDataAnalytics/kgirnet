@@ -1,0 +1,120 @@
+[
+    {
+        "q1": "in what year did spain win the world cup?",
+        "a1": "spain was the soccer world cup  champion in 2010.",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity was the soccer world cup  champion in @object",
+        "a1_v2": "@entity was the soccer world cup  champion in @number_of_world_cup_champion",
+        "corr_rel1": "world cup champions",
+        "obj1": "2010",
+        "input_ent1": "spain"
+    },
+    {
+        "q2": "how many players are on the spain team?",
+        "a2": "i think there is usually a squad of 23, but its membership fluctuates.",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i think there is usually a squad of @object but its membership fluctuates.",
+        "a2_v2": "i think there is usually a squad of 23, but its membership fluctuates.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "spain"
+    },
+    {
+        "q3": "which player has most caps on their current team?",
+        "a3": "sergio ramos",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "sergio ramos",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "sergio busque",
+        "a4": "quien se retiro de spain? ",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "quien se retiro de spain? ",
+        "a4_v2": "quien se retiro de spain? ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "sergio ramos"
+    },
+    {
+        "q5": "piqu\u00e9, who retired from spain ",
+        "a5": "how did spain finish in the 2018 world cup?",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "how did @entity finish in the @object world cup?",
+        "a5_v2": "how did spain finish in the 2018 world cup?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "spain"
+    }
+]

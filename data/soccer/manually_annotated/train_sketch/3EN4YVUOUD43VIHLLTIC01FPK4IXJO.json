@@ -1,0 +1,171 @@
+[
+    {
+        "q1": "who is the manager for the chelsea soccer team? ",
+        "a1": "maurizio sarri",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@coach",
+        "corr_rel1": "coach",
+        "obj1": "maurizio sarri",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "who is chelsee's most important player?",
+        "a2": "edan hazard ",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "edan hazard ",
+        "a2_v2": "edan hazard ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how is chelsea doing this season?",
+        "a3": "they're killing it this season.",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "they're killing it this season.",
+        "a3_v2": "they're killing it this season.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "chelsea"
+    },
+    {
+        "q4": "david luiz is the best defender for chelsea",
+        "a4": "peter sillet is one of the most important  player",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "david luiz": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a4_skt": "peter sillet is one of the most important  player",
+        "a4_v2": "peter sillet is one of the most important  player",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "david luiz"
+    },
+    {
+        "q5": "so who is the best between sillet and luiz?",
+        "a5": "who are the new players for chelsea this season?",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "david luiz": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a5_skt": "who are the new players for @entity this season?",
+        "a5_v2": "who are the new players for chelsea this season?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "david luiz"
+    }
+]

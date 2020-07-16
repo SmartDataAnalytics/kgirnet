@@ -1,0 +1,70 @@
+[
+    {
+        "q1": "i wonder what this team is all about",
+        "a1": "this team is all about winning.",
+        "kgER1": {},
+        "a1_skt": "this team is all about winning.",
+        "a1_v2": "this team is all about winning.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "what color are the jerseys?",
+        "a2": "i think new jerseys are white",
+        "kgER2": {},
+        "a2_skt": "i think new jerseys are @object",
+        "a2_v2": "i think new jerseys are @jersey_color",
+        "corr_rel2": "jersey color",
+        "obj2": "white",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "do you like the colours? ",
+        "a3": "i do not like real madrid's colors because my favorite color is red.",
+        "kgER3": {},
+        "a3_skt": "i do not like real madrid's colors because my favorite color is @object",
+        "a3_v2": "i do not like real madrid's colors because my favorite color is red.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "what is real madrid's greatest need at the moment?",
+        "a4": "ronaldo's replacement",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "ronaldo's replacement",
+        "a4_v2": "ronaldo's replacement",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "do they need more money?",
+        "a5": "i doubt it, they have plenty.",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i doubt it, they have plenty.",
+        "a5_v2": "i doubt it, they have plenty.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

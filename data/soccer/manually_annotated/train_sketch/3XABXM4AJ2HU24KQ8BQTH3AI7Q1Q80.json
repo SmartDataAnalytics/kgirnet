@@ -1,0 +1,189 @@
+[
+    {
+        "q1": "how many caps did diego forlan have for uruguay?",
+        "a1": "the striker won 112 caps and scored 36 goals since his debut in 2002",
+        "kgER1": {
+            "diego simeone": [
+                "coach"
+            ],
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "the striker won @object @relation and scored @object goals since his debut in @object",
+        "a1_v2": "the striker won 112 caps and scored 36 goals since his debut in 2002",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": "has he retired?",
+        "a2": "he has retired from the national team but he is still playing for clubs.",
+        "kgER2": {
+            "diego simeone": [
+                "coach"
+            ],
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "he has retired from the national team but he is still playing for clubs.",
+        "a2_v2": "he has retired from the national team but he is still playing for clubs.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "so diego forlan doesn't play for uruguay anymore then?",
+        "a3": "he does not retire from the selection in the villarreal and now he plays in a uruguayan team",
+        "kgER3": {
+            "diego simeone": [
+                "coach"
+            ],
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "he does not retire from the selection in the villarreal and now he plays in a uruguayan team",
+        "a3_v2": "he does not retire from the selection in the villarreal and now he plays in a uruguayan team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "uruguay"
+    },
+    {
+        "q4": "forlan is arguably the best player from uruguay of all time. ",
+        "a4": "jose nasazzi (1923-37, 41 caps, no goals) ",
+        "kgER4": {
+            "diego simeone": [
+                "coach"
+            ],
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "jose nasazzi (1923-37, @object caps, no @relation ",
+        "a4_v2": "jose nasazzi (1923-37, 41 caps, no goals) ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "uruguay"
+    },
+    {
+        "q5": "i'm a good player",
+        "a5": "what made him the best urguay player?",
+        "kgER5": {
+            "diego simeone": [
+                "coach"
+            ],
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "what made him the best @entity player?",
+        "a5_v2": "what made him the best urguay player?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

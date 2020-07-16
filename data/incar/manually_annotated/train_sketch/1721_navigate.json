@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "bring me to the nearest starbucks",
+        "a1": "starbucks is 1_miles away at 792_bedoin_street",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "address",
+        "obj1": "792_bedoin_street",
+        "input_ent1": "starbucks",
+        "kvr_entlist_qa1": [
+            "792_bedoin_street",
+            "1_miles",
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "how is the traffic",
+        "a2": "this route has moderate_traffic",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "moderate_traffic",
+        "input_ent2": "starbucks",
+        "kvr_entlist_qa2": [
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q3": "okay thank you",
+        "a3": "you re welcome drive safely and enjoy",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

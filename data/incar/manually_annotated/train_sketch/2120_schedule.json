@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "what time does my next dinner gathering start and who will be attending",
+        "a1": "your next dinner gathering is the_12th at 7pm with marie",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "date,time,party",
+        "obj1": "the_12th,dinner,7pm,marie",
+        "input_ent1": "dinner",
+        "kvr_entlist_qa1": [
+            "dinner",
+            "the_12th",
+            "7pm",
+            "marie"
+        ]
+    },
+    {
+        "q2": "ok will anyone else be attending",
+        "a2": "no just martha",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "martha"
+        ]
+    },
+    {
+        "q3": "ok thanks",
+        "a3": "you re welcome goodbye",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what is the weather forecast like in the city",
+        "a1": "can you tell me what city i should give you the weather information about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "find out if there will be snow in cleveland this wednesday please",
+        "a2": "there will be no snow this wednesday in cleveland",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "cleveland",
+        "kvr_entlist_qa2": [
+            "snow",
+            "cleveland",
+            "wednesday"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

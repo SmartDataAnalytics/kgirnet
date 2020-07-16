@@ -1,0 +1,17 @@
+[
+    {
+        "q1": "check to see if i have any meeting or conference in the near future",
+        "a1": "i see that you have a meeting on tuesday at 10am with hr in conference_room_102 to go over the budget",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,room,party",
+        "obj1": "10am,hr,conference_room_102",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "10am",
+            "hr",
+            "conference_room_102",
+            "tuesday",
+            "meeting"
+        ]
+    }
+]

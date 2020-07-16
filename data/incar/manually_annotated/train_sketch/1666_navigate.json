@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "where can i get gas",
+        "a1": "76 is 2_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi,distance",
+        "obj1": "76,2_miles",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "76",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "are you able to provide me with the fastest route and no_traffic on it",
+        "a2": "there is a car_collision_nearby but i sent on your screen the best available route",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel2": "traffic_info",
+        "obj2": "car_collision_nearby",
+        "input_ent2": "gas_station",
+        "kvr_entlist_qa2": [
+            "car_collision_nearby"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

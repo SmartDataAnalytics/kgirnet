@@ -1,0 +1,128 @@
+[
+    {
+        "q1": "i love nigeria",
+        "a1": "they flop a lot",
+        "kgER1": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they flop a lot",
+        "a1_v2": "they flop a lot",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "nigeria"
+    },
+    {
+        "q2": "a team like nigeria will probably never been good, they don't have enough star power",
+        "a2": "what was nigeria record in 2009?",
+        "kgER2": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "what was @entity record in 2009?",
+        "a2_v2": "what was nigeria record in 2009?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "nigeria"
+    },
+    {
+        "q3": "in 2009 what nigeria only won 3 games for world cup qualifying.",
+        "a3": "how far did they come in the world cup?",
+        "kgER3": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "how far did they come in the world cup?",
+        "a3_v2": "how far did they come in the world cup?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "nigeria"
+    },
+    {
+        "q4": "2nd place",
+        "a4": "no, they were not in second place - croatia were ",
+        "kgER4": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "no, they were not in second place - @entity were ",
+        "a4_v2": "no, they were not in second place - croatia were ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "i like senegal than nigeria",
+        "a5": "senegal is more lowkey.",
+        "kgER5": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity is more lowkey.",
+        "a5_v2": "senegal is more lowkey.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "nigeria"
+    }
+]

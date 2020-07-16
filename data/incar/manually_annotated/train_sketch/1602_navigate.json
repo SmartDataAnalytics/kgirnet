@@ -1,0 +1,58 @@
+[
+    {
+        "q1": "directions to the grocery_store",
+        "a1": "there is one nearby grocery_store which is whole_foods on 819_alma_st is that acceptable",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "whole_foods",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "819_alma_st",
+            "whole_foods",
+            "grocery_store"
+        ]
+    },
+    {
+        "q2": "is it within 3_miles from my current location",
+        "a2": "yes it is only 2_miles away",
+        "input_rel2": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel2": "distance",
+        "obj2": "2_miles",
+        "input_ent2": "3_miles",
+        "kvr_entlist_qa2": [
+            "2_miles"
+        ]
+    },
+    {
+        "q3": "and is there any traffic",
+        "a3": "there is currently heavy_traffic to 819_alma_st",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel3": "traffic_info",
+        "obj3": "heavy_traffic",
+        "input_ent3": "whole_foods",
+        "kvr_entlist_qa3": [
+            "819_alma_st",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q4": "i guess i will have to deal with it set the gps to there",
+        "a4": "navigating to whole_foods",
+        "input_rel4": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel4": "poi",
+        "obj4": "whole_foods",
+        "input_ent4": "grocery_store",
+        "kvr_entlist_qa4": [
+            "whole_foods"
+        ]
+    },
+    {
+        "q5": "thank you",
+        "a5": "you re welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "is there any traffic on the route home",
+        "a1": "currently there is heavy_traffic on the route home",
+        "input_rel1": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel1": "traffic_info",
+        "obj1": "heavy_traffic",
+        "input_ent1": "home",
+        "kvr_entlist_qa1": [
+            "home",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q2": "ok send me the address and set the gps i have to get home",
+        "a2": "setting gps to 56_cadwell_street",
+        "input_rel2": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel2": "address",
+        "obj2": "56_cadwell_street",
+        "input_ent2": "home",
+        "kvr_entlist_qa2": [
+            "56_cadwell_street"
+        ]
+    },
+    {
+        "q3": "if you can avoid all heavy_traffic thanks",
+        "a3": "sounds great you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

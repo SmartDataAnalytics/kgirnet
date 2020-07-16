@@ -1,0 +1,56 @@
+[
+    {
+        "q1": "what grocery_stores are around",
+        "a1": "i have two grocery_stores listed which would you like to know about",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "which has less traffic",
+        "a2": "they both have moderate_traffic",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel2": "traffic_info",
+        "obj2": "moderate_traffic",
+        "input_ent2": "whole_foods",
+        "kvr_entlist_qa2": [
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q3": "could you please tell me their name and address",
+        "a3": "whole_foods is 6_miles away and sigona_farmers_market is 2_miles away which do you prefer",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "poi",
+        "obj3": "sigona_farmers_market,whole_foods,6_miles,2_miles",
+        "input_ent3": "whole_foods",
+        "kvr_entlist_qa3": [
+            "sigona_farmers_market",
+            "whole_foods",
+            "6_miles",
+            "2_miles"
+        ]
+    },
+    {
+        "q4": "let s go to sigona_farmers_market please",
+        "a4": "alright heading to sigona_farmers_market at 648 amherst st",
+        "input_rel4": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel4": "",
+        "obj4": "sigona_farmers_market",
+        "input_ent4": "sigona_farmers_market",
+        "kvr_entlist_qa4": [
+            "sigona_farmers_market"
+        ]
+    },
+    {
+        "q5": "thank you",
+        "a5": "you re welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

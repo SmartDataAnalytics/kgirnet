@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i completely love bayern munich",
+        "a1": "i think bayern is okay.",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i think bayern is okay.",
+        "a1_v2": "i think bayern is okay.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "is bayern munich the best german team?",
+        "a2": "yes, they are the best team of germany ",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes, they are the best team of @entity ",
+        "a2_v2": "yes, they are the best team of germany ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bayern munich"
+    },
+    {
+        "q3": "why are they the best?",
+        "a3": "because of their work ethic i believe.",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "because of their work ethic i believe.",
+        "a3_v2": "because of their work ethic i believe.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who was your favorite bayern munich manager?",
+        "a4": "niko kova\u010d",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "@coach",
+        "corr_rel4": "coach",
+        "obj4": "niko kovac",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "will kovac play any 3 at the back this year?",
+        "a5": "i think he's injured, so he might not be playing this year.",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i think he's injured, so he might not be playing this year.",
+        "a5_v2": "i think he's injured, so he might not be playing this year.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "niko kovac"
+    }
+]

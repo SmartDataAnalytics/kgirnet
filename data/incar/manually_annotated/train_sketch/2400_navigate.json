@@ -1,0 +1,61 @@
+[
+    {
+        "q1": "can you give me directions to the nearest starbucks",
+        "a1": "there is no starbucks nearby",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "starbucks",
+        "kvr_entlist_qa1": [
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "how about the address to any coffee shop",
+        "a2": "ther are cafe_venetia and philz 2_miles away and palo_alto_cafe 3_miles away which one do you prefer",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "",
+        "obj2": "poi",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "philz",
+            "palo_alto_cafe",
+            "cafe_venetia",
+            "3_miles",
+            "2_miles"
+        ]
+    },
+    {
+        "q3": "the one with the quickest route",
+        "a3": "then let s go at philz it s the nearest one and there is no_traffic on our way",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "",
+        "obj3": "philz",
+        "input_ent3": "starbucks",
+        "kvr_entlist_qa3": [
+            "no_traffic",
+            "philz"
+        ]
+    },
+    {
+        "q4": "okay give me the address to philz and set navigation to find the quickest route there",
+        "a4": "philz is at 583_alester_ave and navigation is set",
+        "input_rel4": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel4": "address",
+        "obj4": "583_alester_ave",
+        "input_ent4": "philz",
+        "kvr_entlist_qa4": [
+            "583_alester_ave",
+            "philz"
+        ]
+    },
+    {
+        "q5": "thank you",
+        "a5": "you re welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "q1": "find out immediately the location time and date for my meeting",
+        "a1": "for which one i have one in conference_room_100 at 10am on friday and one in conference_room_50 at 10am on saturday",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,room",
+        "obj1": "10am,conference_room_100,conference_room_50",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "10am",
+            "saturday",
+            "conference_room_100",
+            "conference_room_50",
+            "friday"
+        ]
+    },
+    {
+        "q2": "that will do just fine thanks",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

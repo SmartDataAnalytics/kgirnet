@@ -1,0 +1,50 @@
+[
+    {
+        "q1": "is this the best team that real madris has ever had?",
+        "a1": "that's subjective, but i think it is definitely one of their best teams.",
+        "kgER1": {},
+        "a1_skt": "that's subjective, but i think it is definitely one of their best teams.",
+        "a1_v2": "that's subjective, but i think it is definitely one of their best teams.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "what is it about real madrid that makes them so good now?",
+        "a2": "thibaut courtois",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "thibaut courtois",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "did they win la liga in the 2017/2018 season?",
+        "a3": "no, barcelona won la liga. ",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "no, @entity won la liga. ",
+        "a3_v2": "no, barcelona won la liga. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "2018"
+    }
+]

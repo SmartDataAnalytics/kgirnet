@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "car i need a rest_stop in the area please pick something and avoid all heavy_traffic",
+        "a1": "the_westin is 4_miles away with moderate_traffic will that help",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "the_westin",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "4_miles",
+            "the_westin",
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q2": "sounds great send me that address",
+        "a2": "the_westin is at 329_el_camino_real do you need me to set the navigation",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "329_el_camino_real",
+        "input_ent2": "the_westin",
+        "kvr_entlist_qa2": [
+            "329_el_camino_real",
+            "the_westin"
+        ]
+    },
+    {
+        "q3": "sure please do",
+        "a3": "navigation set have a great day",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

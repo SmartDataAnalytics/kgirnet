@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "how many euro cup's win france?",
+        "a1": "they have won twice",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they have won twice",
+        "a1_v2": "they have won twice",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "france"
+    },
+    {
+        "q2": "what years did they win?",
+        "a2": "they won it in 1984 and 2000",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they won it in @object and @object",
+        "a2_v2": "they won it in @world_cup_champions and @world_cup_champions",
+        "corr_rel2": "world cup champions",
+        "obj2": "1998",
+        "input_ent2": "france"
+    },
+    {
+        "q3": "how many world cups as france won",
+        "a3": "only the two but they have come close several times ",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "only the two but they have come close several times ",
+        "a3_v2": "only the two but they have come close several times ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "france"
+    },
+    {
+        "q4": "el gran equipo de la copa del mundo france",
+        "a4": "no tienen mejores rivaes france ",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "no tienen mejores rivaes @entity ",
+        "a4_v2": "no tienen mejores rivaes france ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "france"
+    },
+    {
+        "q5": "fracotiradores france ",
+        "a5": "yes, they have some good marksmen up front",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes, they have some good marksmen up front",
+        "a5_v2": "yes, they have some good marksmen up front",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "france"
+    }
+]

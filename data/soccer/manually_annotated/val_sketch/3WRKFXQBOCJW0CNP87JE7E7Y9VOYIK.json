@@ -1,0 +1,109 @@
+[
+    {
+        "q1": "i love this team",
+        "a1": "their next game is august 18th.",
+        "kgER1": {},
+        "a1_skt": "their next game is august 18th.",
+        "a1_v2": "their next game is august 18th.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "do you think having cristiano ronaldo will help?",
+        "a2": "he will definitely help them in the champions league.",
+        "kgER2": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "he will definitely help them in the champions league.",
+        "a2_v2": "he will definitely help them in the champions league.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "cristiano ronaldo"
+    },
+    {
+        "q3": "yes, he is a superlative player ",
+        "a3": "how does a player reach that level of skill in the game? ",
+        "kgER3": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "how does a player reach that level of skill in the game? ",
+        "a3_v2": "how does a player reach that level of skill in the game? ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": " the super pass is a very good player his skills and techniques are extraordinary for me he is the best player in the world",
+        "a4": "who do you see dropping from the roster of juventus next year?",
+        "kgER4": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "who do you see dropping from the roster of @entity next year?",
+        "a4_v2": "who do you see dropping from the roster of juventus next year?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "white and red"
+    },
+    {
+        "q5": "how many more people will watch juventus because cristiano ronaldo is on the team now?",
+        "a5": "probably not many.",
+        "kgER5": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "probably not many.",
+        "a5_v2": "probably not many.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "cristiano ronaldo"
+    }
+]

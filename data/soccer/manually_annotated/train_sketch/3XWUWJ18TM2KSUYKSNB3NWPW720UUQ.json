@@ -1,0 +1,62 @@
+[
+    {
+        "q1": "did your team play in the world cup?",
+        "a1": "yes england",
+        "kgER1": {},
+        "a1_skt": "yes england",
+        "a1_v2": "yes england",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "were you surprised by how far they made it?",
+        "a2": "i was no surprised at how far they made it.",
+        "kgER2": {},
+        "a2_skt": "i was no surprised at how far they made it.",
+        "a2_v2": "i was no surprised at how far they made it.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "they did well but they choked",
+        "a3": "disappointment gareth southgate's charges were praised highly for a fine campaign.",
+        "kgER3": {},
+        "a3_skt": "disappointment gareth southgate's charges were praised highly for a fine campaign.",
+        "a3_v2": "disappointment gareth southgate's charges were praised highly for a fine campaign.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "yes they did",
+        "a4": "what number does ronaldo receive in juventus? ",
+        "kgER4": {},
+        "a4_skt": "what number does ronaldo receive in @entity ",
+        "a4_v2": "what number does ronaldo receive in juventus? ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "he's number 7 for juventus. ",
+        "a5": "he is number 7",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "he is number @object",
+        "a5_v2": "he is number 7",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "juventus"
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "q1": "never heard of this team",
+        "a1": "you did now !",
+        "kgER1": {},
+        "a1_skt": "you did now !",
+        "a1_v2": "you did now !",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "have you ever been to a match \\?",
+        "a2": "i have been to the emirates once , the seats are very comfortable",
+        "kgER2": {},
+        "a2_skt": "i have been to the emirates once , the seats are very comfortable",
+        "a2_v2": "i have been to the emirates once , the seats are very comfortable",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ever banega"
+    },
+    {
+        "q3": "does their new manager suit arsenal \\?",
+        "a3": "yes , but it will take time to change their playing style",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "yes , but it will take time to change their playing style",
+        "a3_v2": "yes , but it will take time to change their playing style",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "arsenal"
+    },
+    {
+        "q4": "unai emery says 'we will create a new future for arsenal' as spaniard unveiled as arsene wenger 's successor",
+        "a4": "it sounds like he can do good for arsenal",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "unai emery": [
+                "coach"
+            ]
+        },
+        "a4_skt": "it sounds like he can do good for @entity",
+        "a4_v2": "it sounds like he can do good for arsenal",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "unai emery"
+    },
+    {
+        "q5": "who is now the manager \\?",
+        "a5": "emery is the manager",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "unai emery": [
+                "coach"
+            ]
+        },
+        "a5_skt": "emery is the manager",
+        "a5_v2": "emery is the manager",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

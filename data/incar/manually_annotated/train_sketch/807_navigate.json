@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "what are some nearby restaurant",
+        "a1": "there are two chinese_restaurant nearby mandarin_roots 4_miles away and p_.f_._changs 6_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "mandarin_roots",
+        "input_ent1": "pizza_restaurant",
+        "kvr_entlist_qa1": [
+            "chinese_restaurant",
+            "6_miles",
+            "4_miles",
+            "mandarin_roots"
+        ]
+    },
+    {
+        "q2": "pick the quickest one and show me the quick route to reach please",
+        "a2": "the quickest route is to mandarin_roots which is 4_miles away and located at 271_springer_street",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "distance, address",
+        "obj2": "4_miles, 271_springer_street",
+        "input_ent2": "mandarin_roots",
+        "kvr_entlist_qa2": [
+            "4_miles",
+            "271_springer_street",
+            "mandarin_roots"
+        ]
+    },
+    {
+        "q3": "thank you very much car",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

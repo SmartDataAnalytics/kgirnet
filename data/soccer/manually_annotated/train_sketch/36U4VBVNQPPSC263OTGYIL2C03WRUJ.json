@@ -1,0 +1,104 @@
+[
+    {
+        "q1": "love ",
+        "a1": "which team is it?",
+        "kgER1": {},
+        "a1_skt": "which team is it?",
+        "a1_v2": "which team is it?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "italy of course. ",
+        "a2": "too bad they didn't make it to the world cup",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "too bad they didn't make it to the world cup",
+        "a2_v2": "too bad they didn't make it to the world cup",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "historically, they have been very good. i do not see them making any world cup appearances soon.",
+        "a3": "is italy as beautiful as everyone says it is?",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "is @entity as beautiful as everyone says it is?",
+        "a3_v2": "is italy as beautiful as everyone says it is?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "it is great, always love to go there!",
+        "a4": "italy is beautiful and its football team is good but lacks technique ",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity is beautiful and its football team is good but lacks technique ",
+        "a4_v2": "italy is beautiful and its football team is good but lacks technique ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "the pizza of italy is bad ",
+        "a5": "not meparese very good mencanta",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "not meparese very good mencanta",
+        "a5_v2": "not meparese very good mencanta",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "italy"
+    }
+]

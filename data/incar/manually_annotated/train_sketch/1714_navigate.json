@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "where are there rest_stops",
+        "a1": "the_clement_hotel is 2_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "the_clement_hotel",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "the_clement_hotel",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "657_ames_ave it s 2_miles away do you want me to set the navigation there",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "657_ames_ave",
+        "input_ent2": "the_clement_hotel",
+        "kvr_entlist_qa2": [
+            "657_ames_ave",
+            "2_miles"
+        ]
+    },
+    {
+        "q3": "thanks i got it",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

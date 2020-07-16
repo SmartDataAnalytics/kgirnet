@@ -1,0 +1,56 @@
+[
+    {
+        "q1": "where can i find a rest_stop",
+        "a1": "we re 8_miles away from travelers_lodge but there is heavy_traffic on our way",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "travelers_lodge",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "heavy_traffic",
+            "travelers_lodge",
+            "8_miles"
+        ]
+    },
+    {
+        "q2": "is there any other options",
+        "a2": "no there is not",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "what is the address",
+        "a3": "travelers_lodge is at 333_arbol_dr want me to set the gps",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "poi,address",
+        "obj3": "travelers_lodge,333_arbol_dr",
+        "input_ent3": "travelers_lodge",
+        "kvr_entlist_qa3": [
+            "travelers_lodge",
+            "333_arbol_dr"
+        ]
+    },
+    {
+        "q4": "set gps for the quickest route please",
+        "a4": "gps set for quickest route to travelers_lodge",
+        "input_rel4": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel4": "address",
+        "obj4": "333_arbol_dr",
+        "input_ent4": "rest_stop",
+        "kvr_entlist_qa4": [
+            "travelers_lodge"
+        ]
+    },
+    {
+        "q5": "thank you",
+        "a5": "anytime",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

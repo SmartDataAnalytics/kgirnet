@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "when did italy last change its football manager \\?",
+        "a1": "italy changed around a decade ago",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity changed around a decade ago",
+        "a1_v2": "italy changed around a decade ago",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "when does italy play their next game \\?",
+        "a2": "i do not know where it will be but i guess it will be a friendly game",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i do not know where it will be but i guess it will be a friendly game",
+        "a2_v2": "i do not know where it will be but i guess it will be a friendly game",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "mario balotelli",
+        "a3": "he a very good italian player in league 1",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "he a very good italian player in league @object",
+        "a3_v2": "he a very good italian player in league 1",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "joao mario"
+    },
+    {
+        "q4": "who is their youngest player \\?",
+        "a4": "i think its mario balotelli",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i think its mario balotelli",
+        "a4_v2": "i think its mario balotelli",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is the coach for italy \\?",
+        "a5": "roberto mancini",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@coach",
+        "corr_rel5": "coach",
+        "obj5": "roberto mancini",
+        "input_ent5": "italy"
+    }
+]

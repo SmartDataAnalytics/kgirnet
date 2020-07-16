@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "how many times does germany play next year?",
+        "a1": "germany will play 9 games during the 2018-19 season.",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity will play @object games during the 2018-1@object season.",
+        "a1_v2": "germany will play 9 games during the 2018-19 season.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "who's the goalkeeper for this season?",
+        "a2": "there are 4 - manuel neuer, kevin trapp, bernd leno, and marc-andre ter stegen",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a2_skt": "there are @object - @object kevin trapp, @object and @object",
+        "a2_v2": "there are 4 - manuel neuer, kevin trapp, bernd leno, and marc-andre ter stegen",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "goalkeeper"
+    },
+    {
+        "q3": "do you think they have a chance to go all the way?",
+        "a3": "they did badly recently, but one rule of thumb is to never bet against germany.",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "they did badly recently, but one rule of thumb is to never bet against @entity",
+        "a3_v2": "they did badly recently, but one rule of thumb is to never bet against germany.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "do you think they have been consistent lately? ",
+        "a4": "yes i do",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "yes i do",
+        "a4_v2": "yes i do",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "do you think germany will make it to world cup this year?",
+        "a5": "i dont think so",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "i dont think so",
+        "a5_v2": "i dont think so",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "germany"
+    }
+]

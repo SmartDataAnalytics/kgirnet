@@ -1,0 +1,41 @@
+[
+    {
+        "q1": "what is the forecast for today and tomorrow",
+        "a1": "what city do you want the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "will it be overcast in downtown_chicago today or tomorrow",
+        "a2": "there will be no overcast today and tomorrow in chicago the forecast for monday is hot low of 80f high of 90f the forecast for tuesday will be snow low of 60f high of 70f",
+        "input_rel2": "party",
+        "corr_rel2": "monday,tuesday",
+        "obj2": "80f,snow,overcast,70f,90f,60f,hot",
+        "input_ent2": "downtown_chicago",
+        "kvr_entlist_qa2": [
+            "tomorrow",
+            "monday",
+            "80f",
+            "tuesday",
+            "snow",
+            "overcast",
+            "70f",
+            "90f",
+            "60f",
+            "today",
+            "hot"
+        ]
+    },
+    {
+        "q3": "very nice to know thanks",
+        "a3": "great talking with you goodbye",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "q1": "spain have been a huge disappointment this past year, and to top it all off they had a terrible world cup.",
+        "a1": "very good team",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "spain"
+    },
+    {
+        "q2": "skilled players",
+        "a2": "are numerous to list for spain.",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "are numerous to list for spain.",
+        "a2_v2": "are numerous to list for spain.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how many players on the spain team?",
+        "a3": "23 players in the spain squad",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object players in the @entity squad",
+        "a3_v2": "23 players in the spain squad",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "spain"
+    },
+    {
+        "q4": "which of those 23 players is the best player for spain?",
+        "a4": "that one guy that score the goals.",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "that one guy that score the @relation",
+        "a4_v2": "that one guy that score the goals.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "spain"
+    },
+    {
+        "q5": "will spain redeem themselves after the crushing loss in wc 2018?",
+        "a5": "absolutely. it might take a while though.",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "absolutely. it might take a while though.",
+        "a5_v2": "absolutely. it might take a while though.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "2018"
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "do you think real madrid will win the next champions league?",
+        "a1": "i think they have a fighting chance but i can't know for sure. ",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i think they have a fighting chance but i can't know for sure. ",
+        "a1_v2": "i think they have a fighting chance but i can't know for sure. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "is real madrid better than barcelona?",
+        "a2": "real madrid is sometimes better than barcelona.",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@entity is sometimes better than @entity",
+        "a2_v2": "real madrid is sometimes better than barcelona.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "real madrid is way better than barcelona.",
+        "a3": "real madrid has often been better than barcelona, but there are always new players coming up that could change that.",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@entity has often been better than @entity but there are always new players coming up that could change that.",
+        "a3_v2": "real madrid has often been better than barcelona, but there are always new players coming up that could change that.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "who are their prime players?",
+        "a4": "ronaldo, bale, and benzema are the best scoreres.",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "ronaldo, bale, and benzema are the best scoreres.",
+        "a4_v2": "ronaldo, bale, and benzema are the best scoreres.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "didn\u2019t ronaldo just leave the team?",
+        "a5": "cristiano ronaldo is playing in juventus ",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is playing in @entity ",
+        "a5_v2": "cristiano ronaldo is playing in juventus ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "cristiano ronaldo"
+    }
+]

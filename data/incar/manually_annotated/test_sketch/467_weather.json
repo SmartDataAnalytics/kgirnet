@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "please let me know the weather forecast for tomorrow",
+        "a1": "what city are you interested in the forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "los_angeles",
+        "a2": "it will snow in los_angeles tomorrow with a low of 70f and a high of 90f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday",
+        "obj2": "snow,70f,90f",
+        "input_ent2": "los_angeles",
+        "kvr_entlist_qa2": [
+            "90f",
+            "70f",
+            "tomorrow",
+            "snow",
+            "los_angeles"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

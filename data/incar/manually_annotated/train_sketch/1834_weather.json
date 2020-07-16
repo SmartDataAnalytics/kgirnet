@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "what s the temperature going to be this week",
+        "a1": "what city are you inquiring about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "fresno",
+        "a2": "this week in fresno the temperatures will be low of 80f and a high of 90f on monday low of 20f high of 40f on tuesday low of 70f high of 80f on wednesday low of 80f high of 100f on thursday low of 20f high of 40f on friday low of 40f high of 50f on saturday and a low of 30f high of 40f on sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "70f,100f,50f,80f,90f,20f,40f,30f",
+        "input_ent2": "fresno",
+        "kvr_entlist_qa2": [
+            "70f",
+            "100f",
+            "50f",
+            "80f",
+            "fresno",
+            "90f",
+            "monday",
+            "20f",
+            "wednesday",
+            "sunday",
+            "saturday",
+            "40f",
+            "tuesday",
+            "thursday",
+            "30f",
+            "week",
+            "friday"
+        ]
+    },
+    {
+        "q3": "okay thank you for looking",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

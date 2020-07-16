@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "find me all the nearest hotels",
+        "a1": "the only rest_stop in the area is the four_seasons located 5_miles away do you need the address",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "four_season",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "four_seasons",
+            "rest_stop"
+        ]
+    },
+    {
+        "q2": "yes please send it on map along with the fastest route too",
+        "a2": "navigating to the four_seasons",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "four_season",
+        "input_ent2": "rest_stop",
+        "kvr_entlist_qa2": [
+            "four_seasons"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

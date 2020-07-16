@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "is there any rain in the local forecast",
+        "a1": "what city do you want the rain forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "rain"
+        ]
+    },
+    {
+        "q2": "for compton will it rain on wednesday",
+        "a2": "it should not rain in compton on wednesday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "compton",
+        "kvr_entlist_qa2": [
+            "rain",
+            "compton",
+            "wednesday"
+        ]
+    },
+    {
+        "q3": "thank you car this sounds awesome",
+        "a3": "you are very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

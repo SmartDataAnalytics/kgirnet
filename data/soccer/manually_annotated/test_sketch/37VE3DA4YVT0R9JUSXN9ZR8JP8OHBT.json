@@ -1,0 +1,115 @@
+[
+    {
+        "q1": "who is manchester united's best player?",
+        "a1": "lukaku, no question. ",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "lukaku, no question. ",
+        "a1_v2": "lukaku, no question. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "who is manchester uniteds best ever goalkeeper? ",
+        "a2": " edwin van der sar remains a legend  ",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a2_skt": " edwin van der sar remains a legend  ",
+        "a2_v2": " edwin van der sar remains a legend  ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "goalkeeper"
+    },
+    {
+        "q3": "what is the main problem between mourinho and pogba?",
+        "a3": "tiene un gran capo manchester united",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "tiene un gran capo @entity",
+        "a3_v2": "tiene un gran capo manchester united",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "jose mourinho"
+    },
+    {
+        "q4": "who is a forward for manchester united",
+        "a4": "gran pegada manchester united ",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a4_skt": "gran pegada @entity ",
+        "a4_v2": "gran pegada manchester united ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "does manchester often lose or win?",
+        "a5": "they win more than lose,but it is not enough to wil league",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a5_skt": "they win more than lose,but it is not enough to wil league",
+        "a5_v2": "they win more than lose,but it is not enough to wil league",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "manchester united"
+    }
+]

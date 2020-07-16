@@ -1,0 +1,60 @@
+[
+    {
+        "q1": "where can i get tea",
+        "a1": "there is 2 tea shops near you teavana is 4_miles away and cafe_venetia is 5_miles away which one do you want",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "teavana",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "teavana",
+            "4_miles",
+            "cafe_venetia"
+        ]
+    },
+    {
+        "q2": "which one is the quickest is there any traffic",
+        "a2": "teavana is the fastest journey because there is no_traffic on the way there cafe_venetia has moderate_traffic should we go to teavana",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "teavana",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "teavana",
+            "cafe_venetia",
+            "moderate_traffic",
+            "no_traffic"
+        ]
+    },
+    {
+        "q3": "yes teavana please",
+        "a3": "i sent on your screen its position and the fastest route to get there",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "ok can you tell me the address please",
+        "a4": "teavana is located at 145_amherst_st",
+        "input_rel4": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel4": "address",
+        "obj4": "145_amherst_st",
+        "input_ent4": "teavana",
+        "kvr_entlist_qa4": [
+            "145_amherst_st",
+            "teavana"
+        ]
+    },
+    {
+        "q5": "thanks for all the help",
+        "a5": "you re welcome glad i could be of assistance",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

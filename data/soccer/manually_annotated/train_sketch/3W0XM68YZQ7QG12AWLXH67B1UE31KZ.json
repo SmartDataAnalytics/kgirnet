@@ -1,0 +1,209 @@
+[
+    {
+        "q1": "does the andr\u00e9s guardado a captain of the mexico national team?",
+        "a1": "yes, currently andres guardado is the captain of the mexican national soccer team.",
+        "kgER1": {
+            "andres iniesta": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "andre silva": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "yes, currently @object is the @relation of the mexican national soccer team.",
+        "a1_v2": "yes, currently @captain is the captain of the mexican national soccer team.",
+        "corr_rel1": "captain",
+        "obj1": "andres guardado",
+        "input_ent1": "mexico"
+    },
+    {
+        "q2": "who is captain if guardado is injured?",
+        "a2": "didn't he play injured during the game? ",
+        "kgER2": {
+            "andres iniesta": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "andre silva": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "didn't he play injured during the game? ",
+        "a2_v2": "didn't he play injured during the game? ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "this team does not have a lot of good players",
+        "a3": "aren't players like ochoa, lozano, herrera, moreno, vela, chicharito, corona, etc. all good enough though?",
+        "kgER3": {
+            "andres iniesta": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "andre silva": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "aren't players like ochoa, lozano, herrera, moreno, vela, chicharito, corona, etc. all good enough though?",
+        "a3_v2": "aren't players like ochoa, lozano, herrera, moreno, vela, chicharito, corona, etc. all good enough though?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "those players could probably be captain and i think it speaks volumes how much talent is on the mexican national team.",
+        "a4": "do mexico still play in green",
+        "kgER4": {
+            "andres iniesta": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "andre silva": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "do @entity still play in green",
+        "a4_v2": "do mexico still play in green",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "white and red"
+    },
+    {
+        "q5": "how can i  tell? ",
+        "a5": "you can watch their match and see.",
+        "kgER5": {
+            "andres iniesta": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "andre silva": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "you can watch their match and see.",
+        "a5_v2": "you can watch their match and see.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "emre can"
+    }
+]

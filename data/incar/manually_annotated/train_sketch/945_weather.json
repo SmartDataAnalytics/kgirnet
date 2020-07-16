@@ -1,0 +1,39 @@
+[
+    {
+        "q1": "tell me what the temperature will be like for the next_week",
+        "a1": "for what city are you interested in the weather",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "alameda please",
+        "a2": "the temperature in alameda will be between 30f to 60f from monday to wednesday and between 50f to 80f from thursday to sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "80f,60f,30f,50f",
+        "input_ent2": "alameda",
+        "kvr_entlist_qa2": [
+            "80f",
+            "60f",
+            "monday",
+            "wednesday",
+            "sunday",
+            "thursday",
+            "30f",
+            "alameda",
+            "50f"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

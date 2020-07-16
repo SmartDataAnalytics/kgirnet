@@ -1,0 +1,149 @@
+[
+    {
+        "q1": "who is manchester united's best player?",
+        "a1": "many would say stuart mathieson.",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "many would say stuart mathieson.",
+        "a1_v2": "many would say stuart mathieson.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "a lot would say are you joking ?  david de gea the goalkeeper is proba my the best player.",
+        "a2": "goalkeeper is definitely an important position, but, mathieson is still very good at what he does.",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "david de gea": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "goalkeeper"
+            ]
+        },
+        "a2_skt": "@relation is definitely an important position, but, mathieson is still very good at what he does.",
+        "a2_v2": "goalkeeper is definitely an important position, but, mathieson is still very good at what he does.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "david de gea"
+    },
+    {
+        "q3": "will man utd win the premier league ",
+        "a3": "not this year.",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "david de gea": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "goalkeeper"
+            ]
+        },
+        "a3_skt": "not this year.",
+        "a3_v2": "not this year.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what are manchester's colors?",
+        "a4": "manchester's colors are red and yellow",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "david de gea": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "goalkeeper"
+            ]
+        },
+        "a4_skt": "manchester's colors are @object and @object",
+        "a4_v2": "manchester's colors are red and yellow",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "name some players in the manchester team?",
+        "a5": "fred,paul pogba,alexis sanchez",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "david de gea": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "goalkeeper"
+            ]
+        },
+        "a5_skt": "fred,@object,alexis sanchez",
+        "a5_v2": "fred,@has_palyer,alexis sanchez",
+        "corr_rel5": "has player",
+        "obj5": "paul pogba",
+        "input_ent5": "manchester united"
+    }
+]

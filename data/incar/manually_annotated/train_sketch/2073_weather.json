@@ -1,0 +1,27 @@
+[
+    {
+        "q1": "what s today s and tomorrow s forecast",
+        "a1": "for what location do you need the forecast for today and tomorrow",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "today",
+            "tomorrow"
+        ]
+    },
+    {
+        "q2": "i would like to know if it s going to be hot in atherton",
+        "a2": "it will be cold today in altherton but tomorrow is going to be high near 100 with low near 90",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "cold",
+        "input_ent2": "atherton",
+        "kvr_entlist_qa2": [
+            "cold",
+            "today",
+            "tomorrow"
+        ]
+    }
+]

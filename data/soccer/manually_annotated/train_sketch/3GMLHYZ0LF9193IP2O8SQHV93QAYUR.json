@@ -1,0 +1,153 @@
+[
+    {
+        "q1": "did you know that uruguay won the inaugural world cup?",
+        "a1": "yes i did",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes i did",
+        "a1_v2": "yes i did",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": "who is uruguay's most important player?",
+        "a2": "luis su\u00e1rez is.",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "luis su\u00e1rez is.",
+        "a2_v2": "luis su\u00e1rez is.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "uruguay"
+    },
+    {
+        "q3": " i agree with luis suarez",
+        "a3": "luis suarez is a killer ",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object is a killer ",
+        "a3_v2": "luis suarez is a killer ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "luis suarez"
+    },
+    {
+        "q4": "how many has luis suarez scored for uruguay?",
+        "a4": "i think that luis suarez is the top scorer for uruguay",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "i think that @object is the top scorer for @entity",
+        "a4_v2": "i think that luis suarez is the top scorer for uruguay",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "luis suarez"
+    },
+    {
+        "q5": "what other player has scored more goals than luis suarez?",
+        "a5": "no-one, suarez is the best goalscorer for uruguay.",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "no-one, suarez is the best goalscorer for @entity",
+        "a5_v2": "no-one, suarez is the best goalscorer for uruguay.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "luis suarez"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "need directions to the nearest hotel",
+        "a1": "the nearest hotel is the_clement_hotel 4_miles away would you like the address",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "poi",
+        "obj1": "the_clement_hotel",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "4_miles",
+            "the_clement_hotel"
+        ]
+    },
+    {
+        "q2": "yes please with the quickest route",
+        "a2": "the_clement_hotel is 4_miles away at 657_ames_ave",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "address, distance",
+        "obj2": "657_ames_ave,4_miles",
+        "input_ent2": "rest_stop",
+        "kvr_entlist_qa2": [
+            "657_ames_ave",
+            "4_miles",
+            "the_clement_hotel"
+        ]
+    },
+    {
+        "q3": "set the gps thanks",
+        "a3": "you re welcome have a great day",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

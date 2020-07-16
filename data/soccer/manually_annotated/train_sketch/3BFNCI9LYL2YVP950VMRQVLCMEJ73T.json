@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "i love the team juventus",
+        "a1": "they have some really good players on their team.",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "they have some really good players on their team.",
+        "a1_v2": "they have some really good players on their team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "juventus had 11 players taking part in the competition.",
+        "a2": " if juventus has many international players",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": " if @entity has many international players",
+        "a2_v2": " if juventus has many international players",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "juventus"
+    },
+    {
+        "q3": "they have ronaldo now!!!",
+        "a3": "he is a great player, i expect a lot from him this season ",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "he is a great player, i expect a lot from him this season ",
+        "a3_v2": "he is a great player, i expect a lot from him this season ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "cristiano ronaldo"
+    },
+    {
+        "q4": "why don't you? ",
+        "a4": "yes, he is a great player",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "yes, he is a great player",
+        "a4_v2": "yes, he is a great player",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "he is only one man though. ",
+        "a5": " he\u2019s smart ",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": " he\u2019s smart ",
+        "a5_v2": " he\u2019s smart ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

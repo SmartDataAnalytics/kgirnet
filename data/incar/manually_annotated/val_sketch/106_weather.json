@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "what s the weather supposed to be like in new_york city this week",
+        "a1": "this week in new_york will be rainy and windy with overcast skies",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj1": "windy,overcast",
+        "input_ent1": "new_york",
+        "kvr_entlist_qa1": [
+            "week",
+            "windy",
+            "overcast",
+            "new_york"
+        ]
+    },
+    {
+        "q2": "will be dry any day this week",
+        "a2": "there aren t any days predicted to be dry in new_york this week",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "week",
+            "dry",
+            "new_york"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "glad to help",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "q1": "how many goals in average does your team make per game?",
+        "a1": "well during the world cup 2.64 goals were scored per game",
+        "kgER1": {
+            "avram glazer": [
+                "chairman"
+            ]
+        },
+        "a1_skt": "well during the world cup 2.64 @relation were scored per game",
+        "a1_v2": "well during the world cup 2.64 goals were scored per game",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "griezmann is great",
+        "a2": "france scored 4 goals in the world cup.",
+        "kgER2": {
+            "avram glazer": [
+                "chairman"
+            ]
+        },
+        "a2_skt": "@entity scored @object @relation in the world cup.",
+        "a2_v2": "france scored 4 goals in the world cup.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "antoine griezmann"
+    },
+    {
+        "q3": "who is the leading scorer of all time for france?",
+        "a3": "thierry henry has scored 51 goals.",
+        "kgER3": {
+            "avram glazer": [
+                "chairman"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "thierry henry has scored @object @relation",
+        "a3_v2": "thierry henry has scored 51 goals.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "france"
+    },
+    {
+        "q4": "how many times has france won the cup?",
+        "a4": "twice",
+        "kgER4": {
+            "avram glazer": [
+                "chairman"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "twice",
+        "a4_v2": "twice",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "france"
+    },
+    {
+        "q5": "after henry is antoine griezmann",
+        "a5": "you mean top goal scorers?",
+        "kgER5": {
+            "avram glazer": [
+                "chairman"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "antoine griezmann": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a5_skt": "you mean top @relation scorers?",
+        "a5_v2": "you mean top goal scorers?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "antoine griezmann"
+    }
+]

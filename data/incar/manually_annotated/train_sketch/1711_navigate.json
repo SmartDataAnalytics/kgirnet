@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "directions to the parking_garage",
+        "a1": "the closest parking_garage is dish_parking would you like directions",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "dish_parking",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "parking_garage",
+            "dish_parking"
+        ]
+    },
+    {
+        "q2": "yes please give me the quickest route",
+        "a2": "i m sorry i have searched and found another parking_garage that is only 3_miles away because both have heavy_traffic would you like that address instead",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel2": "distance",
+        "obj2": "3_miles",
+        "input_ent2": "dish_parking",
+        "kvr_entlist_qa2": [
+            "heavy_traffic",
+            "parking_garage",
+            "3_miles"
+        ]
+    },
+    {
+        "q3": "that will work fine sure thank you car set the navigation there too",
+        "a3": "setting navigation to webster_garage",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel3": "none",
+        "obj3": "none",
+        "input_ent3": "parking_garage",
+        "kvr_entlist_qa3": [
+            "webster_garage"
+        ]
+    },
+    {
+        "q4": "thanks",
+        "a4": "no problem",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

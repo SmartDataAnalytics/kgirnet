@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "i admire chelsea",
+        "a1": "who is your favorite player?",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "who is your favorite player?",
+        "a1_v2": "who is your favorite player?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "i like chelsea the best. how about you?",
+        "a2": "my favorite team is everton.",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "my favorite team is everton.",
+        "a2_v2": "my favorite team is everton.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "chelsea"
+    },
+    {
+        "q3": "how do chelsea compare with everton? ",
+        "a3": "chelsea is better than everton",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "@entity is better than everton",
+        "a3_v2": "chelsea is better than everton",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "chelsea"
+    },
+    {
+        "q4": "ronald koeman says everton man has accepted lack of first team chances",
+        "a4": "this is not a question but i agree to that statement.",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "this is not a question but i agree to that statement.",
+        "a4_v2": "this is not a question but i agree to that statement.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "when was the chelsea team founded?",
+        "a5": "1905",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@founded_on",
+        "corr_rel5": "founded on",
+        "obj5": "1905",
+        "input_ent5": "chelsea"
+    }
+]

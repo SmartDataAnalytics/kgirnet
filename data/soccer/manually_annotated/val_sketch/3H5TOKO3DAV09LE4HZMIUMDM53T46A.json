@@ -1,0 +1,91 @@
+[
+    {
+        "q1": "were you surprised that crostia made it to the 2018 world cup finals?",
+        "a1": "very good team",
+        "kgER1": {},
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "2018"
+    },
+    {
+        "q2": "did your team do as well as they anticipated in the world cup finals?",
+        "a2": "no, croatia is not my team. ",
+        "kgER2": {},
+        "a2_skt": "no, @entity is not my team. ",
+        "a2_v2": "no, croatia is not my team. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "do you think croatia can repeat and go far in the next world cup?",
+        "a3": "absolutely, they are very good. ",
+        "kgER3": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "absolutely, they are very good. ",
+        "a3_v2": "absolutely, they are very good. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "croatia"
+    },
+    {
+        "q4": "who do you think is croatia's best player?",
+        "a4": "luka modric is a best player of this team.",
+        "kgER4": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object is a @relation of this team.",
+        "a4_v2": "luka modric is a best player of this team.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "croatia"
+    },
+    {
+        "q5": "yes mario manzucich is class aswell",
+        "a5": "croatia needs better goalkeeping ",
+        "kgER5": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity needs better @relation ",
+        "a5_v2": "croatia needs better goalkeeping ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "joao mario"
+    }
+]

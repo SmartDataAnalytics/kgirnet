@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "give me directions to the nearest shopping mall",
+        "a1": "there is the midtown_shopping_center 3_miles away and no_traffic on the route set this destination on your gps",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "midtown_shopping_center",
+        "input_ent1": "shopping_center",
+        "kvr_entlist_qa1": [
+            "midtown_shopping_center",
+            "3_miles",
+            "no_traffic"
+        ]
+    },
+    {
+        "q2": "yes please that sounds perfect",
+        "a2": "setting gps to midtown_shopping_center anything else",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "midtown_shopping_center"
+        ]
+    },
+    {
+        "q3": "that will be all thanks",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

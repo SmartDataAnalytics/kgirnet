@@ -1,0 +1,106 @@
+[
+    {
+        "q1": "which english team did bayern munich beat in a european cup final?",
+        "a1": "chelsea did",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity did",
+        "a1_v2": "chelsea did",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "home stadium of bayern munich?",
+        "a2": "the allianz arena",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "the @object",
+        "a2_v2": "the allianz arena",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bayern munich"
+    },
+    {
+        "q3": "who is bayern munich's goalkeeper?",
+        "a3": "manuel neuer",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "manuel neuer",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "do you know how old is he? ",
+        "a4": "he is currently 32 years old",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "he is currently @object years old",
+        "a4_v2": "he is currently 32 years old",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "old trafford"
+    },
+    {
+        "q5": "is alphonso davies a good signing this year?",
+        "a5": "i think so",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "i think so",
+        "a5_v2": "i think so",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

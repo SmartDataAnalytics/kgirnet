@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "where is the closest tea house",
+        "a1": "peets_coffee also serves tea they are 2_miles away at 9981_archuleta_ave",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "peets_coffee,9981_archuleta_ave",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "2_miles",
+            "peets_coffee",
+            "9981_archuleta_ave"
+        ]
+    },
+    {
+        "q2": "how s the traffic",
+        "a2": "moderate_traffic is listed to peets_coffee",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel2": "traffic_info",
+        "obj2": "moderate_traffic",
+        "input_ent2": "peets_coffee",
+        "kvr_entlist_qa2": [
+            "peets_coffee",
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q3": "sounds good let s get going",
+        "a3": "displaying directions now",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thanks for the help",
+        "a4": "you re welcome drive safely and enjoy",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

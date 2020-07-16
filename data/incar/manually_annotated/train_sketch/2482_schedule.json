@@ -1,0 +1,15 @@
+[
+    {
+        "q1": "what time is my yoga class and who all will be there",
+        "a1": "it is at 3pm on the_4th with your sister have a good time",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "date,time,party",
+        "obj1": "sister,the_4th,3pm",
+        "input_ent1": "yoga_activity",
+        "kvr_entlist_qa1": [
+            "sister",
+            "the_4th",
+            "3pm"
+        ]
+    }
+]

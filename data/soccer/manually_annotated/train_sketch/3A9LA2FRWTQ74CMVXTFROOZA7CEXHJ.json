@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "what football club is currently the champion of the colombian leaugue?",
+        "a1": "deportes tolima, although this isnt common as they are one of the lesser successful sides in terms of silverware.",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "deportes tolima, although this isnt common as they are one of the lesser successful sides in terms of silverware.",
+        "a1_v2": "deportes tolima, although this isnt common as they are one of the lesser successful sides in terms of silverware.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "are colombia going to qualify for the next world cup?",
+        "a2": "they have a good chance but their south american competitors will have something to say about it.",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they have a good chance but their south american competitors will have something to say about it.",
+        "a2_v2": "they have a good chance but their south american competitors will have something to say about it.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "colombia"
+    },
+    {
+        "q3": "how many players does colombia have?",
+        "a3": "they took a 23 man squad to the world cup - but i'm not sure how many people play professional football in the whole country.",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they took a @object man squad to the world cup - but i'm not sure how many people play professional football in the whole country.",
+        "a3_v2": "they took a 23 man squad to the world cup - but i'm not sure how many people play professional football in the whole country.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "colombia"
+    },
+    {
+        "q4": "who is the best colombia player currently? ",
+        "a4": "has colombia ever won a world cup?",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "has @entity ever won a world cup?",
+        "a4_v2": "has colombia ever won a world cup?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "colombia"
+    },
+    {
+        "q5": "no they haven\u2019t yet anyway",
+        "a5": "it seems to me that the best player in colombia is james rodriguez",
+        "kgER5": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "it seems to me that the @relation in @entity is @object",
+        "a5_v2": "it seems to me that the best player in colombia is james rodriguez",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

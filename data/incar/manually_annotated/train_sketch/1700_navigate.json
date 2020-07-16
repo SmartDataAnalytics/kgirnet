@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "car i need a hotel please pick the fastest place to reach",
+        "a1": "the_clement_hotel is 6_miles away",
+        "input_rel1": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "the_clement_hotel",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "6_miles",
+            "the_clement_hotel"
+        ]
+    },
+    {
+        "q2": "is it the quickest route",
+        "a2": "no town_and_country is the quickest option",
+        "input_rel2": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "town_and_country",
+        "input_ent2": "rest_stop",
+        "kvr_entlist_qa2": [
+            "town_and_country"
+        ]
+    },
+    {
+        "q3": "town_and_country it is then thank you",
+        "a3": "you re welcome we should arrive shortly",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

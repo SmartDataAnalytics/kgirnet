@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "has an argentina player won the golden boot?",
+        "a1": "well, it wasn't called the golden boot back then, but the top goalscorer in the 1930 world cup was guillermo st\u00e1bile and in 1978 it was mario kempes.",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "well, it wasn't called the golden boot back then, but the top goalscorer in the @object world cup was guillermo st\u00e1bile and in @object it was mario kempes.",
+        "a1_v2": "well, it wasn't called the golden boot back then, but the top goalscorer in the 1930 world cup was guillermo st\u00e1bile and in 1978 it was mario kempes.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "do you think that any of the argentinian players are good enough to win it?",
+        "a2": "probably messi, but he never seems to score enough during the world cup. ",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "probably messi, but he never seems to score enough during the world cup. ",
+        "a2_v2": "probably messi, but he never seems to score enough during the world cup. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "how many good players are on this team?",
+        "a3": "i can think only think of messi and de maria.",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i can think only think of messi and de maria.",
+        "a3_v2": "i can think only think of messi and de maria.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "is messi a good leader in the argentinian team?",
+        "a4": "if he is the best player in the world and is a good team leader, he is not missing anything, only companions that support him ",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "if he is the @relation in the world and is a good team leader, he is not missing anything, only companions that support him ",
+        "a4_v2": "if he is the best player in the world and is a good team leader, he is not missing anything, only companions that support him ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "lionel messi"
+    },
+    {
+        "q5": "yes, i agree with this",
+        "a5": "if messi had better teammates, it would be much better",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "if messi had better teammates, it would be much better",
+        "a5_v2": "if messi had better teammates, it would be much better",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

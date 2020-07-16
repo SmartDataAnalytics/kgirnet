@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "how many times in the history italy won world cup \\?",
+        "a1": "italy have won the world cup 4 times , in 2006 , 1982 , 1938 and 1934",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity have won the world cup @object times , in @object , @object , @object and 193@object",
+        "a1_v2": "@entity have won the world cup @world_cup_champions times , in @world_cup_champions , @world_cup_champions , @world_cup_champions and 193@world_cup_champions",
+        "corr_rel1": "number of world cup champion",
+        "obj1": "4",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "4 2006 , 1982 , 1938 , 1934",
+        "a2": "what 4 years has italy won the world cup \\?",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "what @object years has @entity won the world cup \\?",
+        "a2_v2": "what 4 years has italy won the world cup \\?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2006"
+    },
+    {
+        "q3": "do you think they will play in the 2022 world cup \\?",
+        "a3": "i think they will fight hard to recover from this world cup and represent in 2022",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think they will fight hard to recover from this world cup and represent in @object",
+        "a3_v2": "i think they will fight hard to recover from this world cup and represent in 2022",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "will there even be a world cup in 2022 \\? by then it will be the trump cup as he will run the world ! make soccer great again !",
+        "a4": "i would love to see italy do better in 2022",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i would love to see @entity do better in @object",
+        "a4_v2": "i would love to see italy do better in 2022",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "i think that italy won 4 times in worldcup",
+        "a5": "yes megustaria berlos in 2022",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes megustaria berlos in @object",
+        "a5_v2": "yes megustaria berlos in 2022",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "italy"
+    }
+]

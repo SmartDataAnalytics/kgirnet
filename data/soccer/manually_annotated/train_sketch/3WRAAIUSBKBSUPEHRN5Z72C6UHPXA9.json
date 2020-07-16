@@ -1,0 +1,78 @@
+[
+    {
+        "q1": "i love this team",
+        "a1": "iceland did great in the world cup.",
+        "kgER1": {},
+        "a1_skt": "@entity did great in the world cup.",
+        "a1_v2": "iceland did great in the world cup.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "what makes them so great?",
+        "a2": "their players, their teamwork, their skills... everything",
+        "kgER2": {},
+        "a2_skt": "their players, their teamwork, their skills... everything",
+        "a2_v2": "their players, their teamwork, their skills... everything",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "do they have good management? ",
+        "a3": "yes. they wouldn't have made it as far as they did in the world cup without good management.",
+        "kgER3": {},
+        "a3_skt": "yes. they wouldn't have made it as far as they did in the world cup without good management.",
+        "a3_v2": "yes. they wouldn't have made it as far as they did in the world cup without good management.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "will iceland make it far next season?",
+        "a4": "i hop sipo im always supporting the underdogs",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i hop sipo im always supporting the underdogs",
+        "a4_v2": "i hop sipo im always supporting the underdogs",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "iceland"
+    },
+    {
+        "q5": "if i think they reach far they have to defend themselves",
+        "a5": "do you think iceland is going to replace their goaly?",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "do you think @entity is going to replace their goaly?",
+        "a5_v2": "do you think iceland is going to replace their goaly?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

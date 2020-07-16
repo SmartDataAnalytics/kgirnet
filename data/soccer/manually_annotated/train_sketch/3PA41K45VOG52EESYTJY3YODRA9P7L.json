@@ -1,0 +1,137 @@
+[
+    {
+        "q1": "who are the stars of the future for bayern munich?",
+        "a1": "i think david alaba can improve a lot and is not that old yet. but otherwise they'll probably buy some youngsters from other good german clubs which need money.",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i think @object can improve a lot and is not that old yet. but otherwise they'll probably buy some youngsters from other good @entity clubs which need money.",
+        "a1_v2": "i think david alaba can improve a lot and is not that old yet. but otherwise they'll probably buy some youngsters from other good german clubs which need money.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "do you think joshua kimmich could be tranfromed into a winger?",
+        "a2": "i don't think he would be a very good winger but one could try this formation and see what happens.",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "joshua kimmich": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ]
+        },
+        "a2_skt": "i don't think he would be a very good winger but one could try this formation and see what happens.",
+        "a2_v2": "i don't think he would be a very good winger but one could try this formation and see what happens.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "joshua kimmich"
+    },
+    {
+        "q3": "what\u2019s bayern munich\u2019s ground called",
+        "a3": "the allianz arena is the stadium of the munich i think they should buy new and young players",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "joshua kimmich": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ]
+        },
+        "a3_skt": "the @object is the stadium of the munich i think they should buy new and young players",
+        "a3_v2": "the @ground is the stadium of the munich i think they should buy new and young players",
+        "corr_rel3": "ground",
+        "obj3": "allianz arena",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "what is the stadium capacity? ",
+        "a4": "trained for 75,000 people ",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "joshua kimmich": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ]
+        },
+        "a4_skt": "trained for @object people ",
+        "a4_v2": "trained for @capacity people ",
+        "corr_rel4": "capacity",
+        "obj4": "75,000",
+        "input_ent4": "allianz arena"
+    },
+    {
+        "q5": "have you been there in the stadium?",
+        "a5": "i've never been there, but i would love to go!",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "joshua kimmich": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ]
+        },
+        "a5_skt": "i've never been there, but i would love to go!",
+        "a5_v2": "i've never been there, but i would love to go!",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "allianz stadium"
+    }
+]

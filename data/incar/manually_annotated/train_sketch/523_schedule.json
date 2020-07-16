@@ -1,0 +1,23 @@
+[
+    {
+        "q1": "tell me the time of today s meeting",
+        "a1": "the meeting is at 7pm",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time",
+        "obj1": "7pm",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "7pm",
+            "meeting"
+        ]
+    },
+    {
+        "q2": "perfect",
+        "a2": "anything else",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

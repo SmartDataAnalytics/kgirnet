@@ -1,0 +1,15 @@
+[
+    {
+        "q1": "find out what time my eye doctor_appointment is",
+        "a1": "your optometrist_appointment is scheduled for 3pm on thursday",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "time",
+        "obj1": "3pm",
+        "input_ent1": "doctor_appointment",
+        "kvr_entlist_qa1": [
+            "thursday",
+            "optometrist_appointment",
+            "3pm"
+        ]
+    }
+]

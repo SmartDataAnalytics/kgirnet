@@ -1,0 +1,109 @@
+[
+    {
+        "q1": "what colour do bvb dortmund play in \\?",
+        "a1": "black and yellow",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "black and @object",
+        "a1_v2": "black and yellow",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "yellow",
+        "a2": "it looks like the color for their third uniform is mostly a maroon looking color",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "it looks like the color for their third uniform is mostly a maroon looking color",
+        "a2_v2": "it looks like the color for their third uniform is mostly a maroon looking color",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "yellow"
+    },
+    {
+        "q3": "where does bvb dortmund play their home games \\?",
+        "a3": "bvb dortmund plays at westfalenstadion",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "bvb dortmund plays at @object",
+        "a3_v2": "bvb dortmund plays at westfalenstadion",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "and what is the capacity of that stadium \\?",
+        "a4": "the capacity is 81360 people",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "the @relation is @object people",
+        "a4_v2": "the capacity is @capacity people",
+        "corr_rel4": "capacity",
+        "obj4": "81,365",
+        "input_ent4": "westfalenstadion"
+    },
+    {
+        "q5": "who is the young american playing for bvb \\?",
+        "a5": "his name is christian pulisic",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "his name is christian pulisic",
+        "a5_v2": "his name is christian pulisic",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bvb dortmund"
+    }
+]

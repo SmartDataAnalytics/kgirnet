@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "who's the best player in fc. porto?",
+        "a1": "he might not be the best, but moussa marega had the most goals last season for fc porto.",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "he might not be the best, but @object had the most @relation last season for fc porto.",
+        "a1_v2": "he might not be the best, but moussa marega had the most goals last season for fc porto.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "any interest in him from other clubs ?",
+        "a2": "no, they just ignore him.",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "no, they just ignore him.",
+        "a2_v2": "no, they just ignore him.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "any other players to keep an eye on ?",
+        "a3": "\u00f3liver torres is a good young player. he will move to a bigger team soon.",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object is a good young player. he will move to a bigger team soon.",
+        "a3_v2": "\u00f3liver torres is a good young player. he will move to a bigger team soon.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is f.c portos's best u20 player right now?",
+        "a4": "this is one of the greatest team",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a4_skt": "this is one of the greatest team",
+        "a4_v2": "this is one of the greatest team",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": " adalberto penaranda (venezuela and watford)  ",
+        "a5": "how does fc porto stack up?",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a5_skt": "how does fc porto stack up?",
+        "a5_v2": "how does fc porto stack up?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "white and red"
+    }
+]

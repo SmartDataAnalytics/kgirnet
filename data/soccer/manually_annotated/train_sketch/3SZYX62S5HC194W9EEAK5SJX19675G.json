@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "who is the current coach of paris sg \\?",
+        "a1": "thomas tuchel coaches paris sg",
+        "kgER1": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object @relation paris sg",
+        "a1_v2": "@coach coach paris sg",
+        "corr_rel1": "coach",
+        "obj1": "thomas tuchel",
+        "input_ent1": "paris sg"
+    },
+    {
+        "q2": "where did thomas tuchel coach before he came to paris sg \\?",
+        "a2": "he used to manage in germany for bvb",
+        "kgER2": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "thomas tuchel": [
+                "coach"
+            ]
+        },
+        "a2_skt": "he used to manage in @entity for bvb",
+        "a2_v2": "he used to manage in germany for bvb",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "paris sg"
+    },
+    {
+        "q3": "what do you think about the goalkeeper of paris sg \\?",
+        "a3": "buffon",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "thomas tuchel": [
+                "coach"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "buffon",
+        "a3_v2": "buffon",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "paris sg"
+    },
+    {
+        "q4": "who do you think is the best player on paris sg",
+        "a4": "i think thomas",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "thomas tuchel": [
+                "coach"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "i think thomas",
+        "a4_v2": "i think thomas",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "paris sg"
+    },
+    {
+        "q5": "which club did psg sign neymar from \\?",
+        "a5": "barcelona",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "thomas tuchel": [
+                "coach"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity",
+        "a5_v2": "barcelona",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "neymar"
+    }
+]

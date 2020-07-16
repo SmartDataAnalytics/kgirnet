@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "love barcelona",
+        "a1": "yeah, one of the best in the world atm.",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yeah, one of the best in the world atm.",
+        "a1_v2": "yeah, one of the best in the world atm.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "what about their closest rival?",
+        "a2": "barcelona is good but so is their rivals, real madrid.",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@entity is good but so is their rivals, @entity",
+        "a2_v2": "barcelona is good but so is their rivals, real madrid.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "why root for barcelona over madrid? ",
+        "a3": "it all depends on your favorite playstyle.",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "it all depends on your favorite playstyle.",
+        "a3_v2": "it all depends on your favorite playstyle.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "barcelona"
+    },
+    {
+        "q4": "how long will barcelona stay at the top of the soccer world?",
+        "a4": "i do not know but a long time",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i do not know but a long time",
+        "a4_v2": "i do not know but a long time",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "who is their biggest competition right now?",
+        "a5": "real madrid is their main competitor.",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@entity is their main competitor.",
+        "a5_v2": "real madrid is their main competitor.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

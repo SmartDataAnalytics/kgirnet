@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "car i need a parking_garage within 5_miles of my current position",
+        "a1": "civic_center_garage is 4_miles away do you want me to set the gps to get there",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "civic_center_garage",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "4_miles",
+            "civic_center_garage"
+        ]
+    },
+    {
+        "q2": "where is civic_center_garage can i get there while avoiding all heavy_traffic",
+        "a2": "in this moment there is moderate_traffic on our way i will pick for you the fastest route",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "civic_center_garage",
+        "kvr_entlist_qa2": [
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q3": "thanks so much and set the gps",
+        "a3": "you re welcome and the gps is set",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

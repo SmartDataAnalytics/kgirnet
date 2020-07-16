@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "i absolutely adore croatia",
+        "a1": "croatia football represents croatia in international association football.",
+        "kgER1": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity football represents @entity in international association football.",
+        "a1_v2": "croatia football represents croatia in international association football.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "croatia"
+    },
+    {
+        "q2": "the croatia national football team represents croatia in international association football matches. wikipedia founded: 1912 head coach: zlatko dali\u0107 captain: luka modri\u0107",
+        "a2": "that is some very interesting information",
+        "kgER2": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "that is some very interesting information",
+        "a2_v2": "that is some very interesting information",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "croatia"
+    },
+    {
+        "q3": "what are croatia\u2019s colours",
+        "a3": "red blue and white are croatia colors. ",
+        "kgER3": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object @object and @object are @entity colors. ",
+        "a3_v2": "red blue and white are croatia colors. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "croatia"
+    },
+    {
+        "q4": "who\u2019s croatia\u2019s best player",
+        "a4": "andrej kramaric is croatia's best player.",
+        "kgER4": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object is croatia's best player.",
+        "a4_v2": "andrej kramaric is croatia's best player.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "croatia"
+    },
+    {
+        "q5": "given the chance to play france again do you think they would win this time?",
+        "a5": "no, france is still the best team",
+        "kgER5": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "no, @entity is still the best team",
+        "a5_v2": "no, france is still the best team",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "france"
+    }
+]

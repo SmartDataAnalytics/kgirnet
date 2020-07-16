@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "i need a grocery_store near me with no_traffic",
+        "a1": "there is willows_market 1_miles away and the road should be free from cars is it good for you",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "willows_market",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "1_miles",
+            "willows_market"
+        ]
+    },
+    {
+        "q2": "yes please give me the address and directions via the route that avoids all heavy_traffic",
+        "a2": "willows_market is located at 409_bollard_st with no_traffic reported",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "address",
+        "obj2": "409_bollard_st",
+        "input_ent2": "willows_market",
+        "kvr_entlist_qa2": [
+            "409_bollard_st",
+            "no_traffic",
+            "willows_market"
+        ]
+    },
+    {
+        "q3": "awesome thanks",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

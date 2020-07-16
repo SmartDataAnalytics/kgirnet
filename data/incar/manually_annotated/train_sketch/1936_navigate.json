@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "car i need to fill your gas please show me a gas_station near me in the direction we re actually driving",
+        "a1": "there is a valero 6_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "valero",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "6_miles",
+            "valero"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "valero is at 200_alester_ave",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "200_alester_ave",
+        "input_ent2": "valero",
+        "kvr_entlist_qa2": [
+            "200_alester_ave",
+            "valero"
+        ]
+    },
+    {
+        "q3": "how is the traffic there i need to have no_traffic",
+        "a3": "there is no_traffic on the route to valero",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel3": "traffic_info",
+        "obj3": "no_traffic",
+        "input_ent3": "gas_station",
+        "kvr_entlist_qa3": [
+            "no_traffic",
+            "valero"
+        ]
+    },
+    {
+        "q4": "great thanks",
+        "a4": "you re welcome always happy to help",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

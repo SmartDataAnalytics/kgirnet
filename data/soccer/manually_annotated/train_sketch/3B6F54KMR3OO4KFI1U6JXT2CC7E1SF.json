@@ -1,0 +1,107 @@
+[
+    {
+        "q1": "what is the total worth paul pogba?",
+        "a1": "he is worth about three fidity",
+        "kgER1": {
+            "paul pogba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a1_skt": "he is worth about three fidity",
+        "a1_v2": "he is worth about three fidity",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "paul pogba"
+    },
+    {
+        "q2": "for my bullet four points",
+        "a2": "paul pogba is overrated",
+        "kgER2": {
+            "paul pogba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a2_skt": "@object is overrated",
+        "a2_v2": "paul pogba is overrated",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "where are they in the table?",
+        "a3": "they are placed 6th ",
+        "kgER3": {
+            "paul pogba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a3_skt": "they are placed 6th ",
+        "a3_v2": "they are placed 6th ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "how many goal did paul pogba score?",
+        "a4": "he has scored 19 goals in total",
+        "kgER4": {
+            "paul pogba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a4_skt": "he has scored @object @relation in total",
+        "a4_v2": "he has scored 19 goals in total",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "paul pogba"
+    },
+    {
+        "q5": "how many matches did he play for manchester?",
+        "a5": "he has played 77 matches",
+        "kgER5": {
+            "paul pogba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a5_skt": "he has played 77 matches",
+        "a5_v2": "he has played 77 matches",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "manchester united"
+    }
+]

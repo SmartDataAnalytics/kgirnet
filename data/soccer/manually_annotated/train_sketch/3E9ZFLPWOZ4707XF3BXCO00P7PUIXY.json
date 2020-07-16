@@ -1,0 +1,144 @@
+[
+    {
+        "q1": "paris sg has a great line up this year. who do you think will be the allstar?",
+        "a1": "yes he will.",
+        "kgER1": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes he will.",
+        "a1_v2": "yes he will.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "paris sg"
+    },
+    {
+        "q2": "i am not sure, but it appears that neymar and rabiot are their best players.",
+        "a2": "neymar is a game changer for sure.",
+        "kgER2": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object is a game changer for sure.",
+        "a2_v2": "neymar is a game changer for sure.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "neymar"
+    },
+    {
+        "q3": "do you think neymar will be playing for a long time for paris?",
+        "a3": "his contract with them ends in 2022, so time will tell.",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "his contract with them ends in 2022, so time will tell.",
+        "a3_v2": "his contract with them ends in 2022, so time will tell.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "neymar"
+    },
+    {
+        "q4": "where do you think he will transfer after his contract ends?",
+        "a4": "pariks sg won't let him go.",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "pariks sg won't let him go.",
+        "a4_v2": "pariks sg won't let him go.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "what if they are offered a huge amount of money? ",
+        "a5": "he might change his mind if it is a huge amount of money",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "he might change his mind if it is a huge amount of money",
+        "a5_v2": "he might change his mind if it is a huge amount of money",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "q1": "where is a nearby parking_garage",
+        "a1": "the nearest one is palo_alto_garage_r it s just 1_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "palo_alto_garage_r",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "1_miles",
+            "palo_alto_garage_r"
+        ]
+    },
+    {
+        "q2": "oh great job thanks",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

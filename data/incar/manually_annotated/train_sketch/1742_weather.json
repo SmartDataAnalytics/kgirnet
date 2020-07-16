@@ -1,0 +1,48 @@
+[
+    {
+        "q1": "start listening what will be the weather for the week",
+        "a1": "what city can i give you next_week s weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "next_week"
+        ]
+    },
+    {
+        "q2": "can you tell me what if there is going to be a blizzard in cleveland",
+        "a2": "it looks like thursday and sunday cleveland will be seeing some snow",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "thursday",
+        "obj2": "snow",
+        "input_ent2": "cleveland",
+        "kvr_entlist_qa2": [
+            "thursday",
+            "sunday",
+            "snow",
+            "cleveland"
+        ]
+    },
+    {
+        "q3": "okay but is there a blizzard predicted in cleveland this week",
+        "a3": "there aren t any blizzards predicted to hit cleveland this week",
+        "input_rel3": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel3": "",
+        "obj3": "none",
+        "input_ent3": "cleveland",
+        "kvr_entlist_qa3": [
+            "week",
+            "cleveland"
+        ]
+    },
+    {
+        "q4": "thank you",
+        "a4": "you are welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

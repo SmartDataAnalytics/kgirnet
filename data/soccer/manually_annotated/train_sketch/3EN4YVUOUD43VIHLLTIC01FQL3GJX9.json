@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "who will lead after ronaldo in portugal \\?",
+        "a1": "i think it will be adrien silva",
+        "kgER1": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i think it will be adrien silva",
+        "a1_v2": "i think it will be adrien silva",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "portugal"
+    },
+    {
+        "q2": "which club team does he play for \\?",
+        "a2": "he plays for monaco currently",
+        "kgER2": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "he plays for monaco currently",
+        "a2_v2": "he plays for monaco currently",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how many goals has ronaldo scored for portugal \\?",
+        "a3": "ronaldo has scored 85 goals for portugal",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "ronaldo has scored @object @relation for @entity",
+        "a3_v2": "ronaldo has scored @caps goals for @entity",
+        "corr_rel3": "goals",
+        "obj3": "85",
+        "input_ent3": "cristiano ronaldo"
+    },
+    {
+        "q4": "how old is he currenly \\?",
+        "a4": "ronaldo is 34 years old",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "ronaldo is @object years old",
+        "a4_v2": "ronaldo is 34 years old",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "old trafford"
+    },
+    {
+        "q5": "how much does he get paid now \\?",
+        "a5": "30 million eur in a season",
+        "kgER5": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "@object million eur in a season",
+        "a5_v2": "30 million eur in a season",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

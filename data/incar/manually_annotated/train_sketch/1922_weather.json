@@ -1,0 +1,26 @@
+[
+    {
+        "q1": "which one is gonna be the lowest_temperature today in new_york",
+        "a1": "the lowest_temperature in new_york will be 20f on monday and wednesday",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "monday",
+        "obj1": "20f",
+        "input_ent1": "new_york",
+        "kvr_entlist_qa1": [
+            "new_york",
+            "lowest_temperature",
+            "monday",
+            "20f",
+            "wednesday"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "anytime",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "direct me to the nearest starbucks",
+        "a1": "there is no starbucks nearby",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "then tell me about another coffee nearby here and pick the fastest route to reach",
+        "a2": "palo_alto_cafe is only 3_miles away",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "palo_alto_cafe",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "palo_alto_cafe",
+            "3_miles"
+        ]
+    },
+    {
+        "q3": "send the address on my screen and let s go there thank you",
+        "a3": "436_alger_dr sent it on your gps drive carefully",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "436_alger_dr",
+        "input_ent3": "palo_alto_cafe",
+        "kvr_entlist_qa3": [
+            "436_alger_dr"
+        ]
+    }
+]

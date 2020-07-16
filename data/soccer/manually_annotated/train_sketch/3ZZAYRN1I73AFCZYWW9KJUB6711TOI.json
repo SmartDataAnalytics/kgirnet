@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "who is the leader of the bayern munich?",
+        "a1": "manuel neuer is the captain",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object is the @relation",
+        "a1_v2": "manuel neuer is the captain",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "who sponsors bayern munich?",
+        "a2": "they have a ton - t-mobile, adidas, audi, and allianz to name a few. ",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they have a ton - t-mobile, adidas, audi, and allianz to name a few. ",
+        "a2_v2": "they have a ton - t-mobile, adidas, audi, and allianz to name a few. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bayern munich"
+    },
+    {
+        "q3": "who is the best player of bayer munich?",
+        "a3": "i think lewandowski is the best. you can count on him in front of goal",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think lewandowski is the best. you can count on him in front of @relation",
+        "a3_v2": "i think lewandowski is the best. you can count on him in front of goal",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "i think frank ribery is the best.",
+        "a4": "frank ribery is not the best",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object is not the best",
+        "a4_v2": "frank ribery is not the best",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "franck ribery"
+    },
+    {
+        "q5": "this season they are not the best certainly ",
+        "a5": "they do lose some control, actually.",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "they do lose some control, actually.",
+        "a5_v2": "they do lose some control, actually.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

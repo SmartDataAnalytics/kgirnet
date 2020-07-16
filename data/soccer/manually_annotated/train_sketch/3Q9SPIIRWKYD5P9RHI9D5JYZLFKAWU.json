@@ -1,0 +1,132 @@
+[
+    {
+        "q1": "who are switzerland's defenders?",
+        "a1": "the defenders for the 2018 world cup were: manuel akanji (borussia dortmund), johan djourou (antalyaspor), nico elvedi (borussia moenchengladbach), michael lang (basel), stephan lichtsteiner (juventus), jacques-francois moubandje (toulouse), ricardo rodriguez (ac milan), fabian schaer (deportivo la coruna)",
+        "kgER1": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a1_skt": "the @relation for the @object world cup were: @object (borussia dortmund), @object (antalyaspor), @object (borussia moenchengladbach), @object (basel), @object (juventus), jacques-francois moubandje (toulouse), @object (ac milan), @object (deportivo la coruna)",
+        "a1_v2": "the defenders for the 2018 world cup were: manuel akanji (borussia dortmund), johan djourou (antalyaspor), nico elvedi (borussia moenchengladbach), michael lang (basel), stephan lichtsteiner (juventus), jacques-francois moubandje (toulouse), ricardo rodriguez (ac milan), fabian schaer (deportivo la coruna)",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "who is the best defender from that list?",
+        "a2": "lichtensteiner",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a2_skt": "lichtensteiner",
+        "a2_v2": "lichtensteiner",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "defender"
+    },
+    {
+        "q3": "q3: how will switzerland do in the next world cup?",
+        "a3": "they won't make it to the quarter finals",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a3_skt": "they won't make it to the quarter finals",
+        "a3_v2": "they won't make it to the quarter finals",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "switzerland"
+    },
+    {
+        "q4": " betting odds favor urban meyer remaining ohio state coach following latest developments",
+        "a4": "i have no idea what you are talking about, it's not switzerland.",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a4_skt": "i have no idea what you are talking about, it's not @entity",
+        "a4_v2": "i have no idea what you are talking about, it's not switzerland.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "i think switzerland there are many defenders that play perfect in the match",
+        "a5": "you are right.",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a5_skt": "you are right.",
+        "a5_v2": "you are right.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "switzerland"
+    }
+]

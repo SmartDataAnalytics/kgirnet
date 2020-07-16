@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "check today s weather",
+        "a1": "what city would you like today s weather about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "today"
+        ]
+    },
+    {
+        "q2": "i need the weather for compton specifically if it will be overcast",
+        "a2": "it will not be overcast in compton today",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "compton",
+        "kvr_entlist_qa2": [
+            "compton",
+            "overcast",
+            "today"
+        ]
+    },
+    {
+        "q3": "ok thanks",
+        "a3": "not an issue",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "q1": "i really like this team in this is a good subject to talk about",
+        "a1": "what about alemania aachen?",
+        "kgER1": {},
+        "a1_skt": "what about alemania aachen?",
+        "a1_v2": "what about alemania aachen?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "i don't like that team very much. ",
+        "a2": "what's your favorite team?",
+        "kgER2": {},
+        "a2_skt": "what's your favorite team?",
+        "a2_v2": "what's your favorite team?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "is that a real team?",
+        "a3": "my favorite team is spain, i really like it",
+        "kgER3": {},
+        "a3_skt": "my favorite team is spain, i really like it",
+        "a3_v2": "my favorite team is spain, i really like it",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "what is your favourite player?",
+        "a4": "my favorite player from spain is sergio ramos",
+        "kgER4": {},
+        "a4_skt": "my favorite player from @entity is @object",
+        "a4_v2": "my favorite player from spain is sergio ramos",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "spain lacked technical this year to win the world and his captain is sergio ramos ",
+        "a5": "luis enrique will need to rebuild the national team",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "sergio ramos": [
+                "captain",
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "@object will need to rebuild the national team",
+        "a5_v2": "luis enrique will need to rebuild the national team",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "sergio ramos"
+    }
+]

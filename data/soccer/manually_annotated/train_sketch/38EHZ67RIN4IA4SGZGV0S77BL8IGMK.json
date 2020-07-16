@@ -1,0 +1,74 @@
+[
+    {
+        "q1": "who does bayern munich play next?",
+        "a1": "eintracht.",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "eintracht.",
+        "a1_v2": "eintracht.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "will they win?",
+        "a2": "they won",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they won",
+        "a2_v2": "they won",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "they will probably win the league again this year, don't you think?",
+        "a3": "bayern are the best german team",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "bayern are the best @entity team",
+        "a3_v2": "bayern are the best german team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "whos bayerns current manager?",
+        "a4": "niko kovac is their manager right now. ",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "niko kovac is their manager right now. ",
+        "a4_v2": "niko kovac is their manager right now. ",
+        "corr_rel4": "coach",
+        "obj4": "niko kovac",
+        "input_ent4": "bayern munich"
+    }
+]

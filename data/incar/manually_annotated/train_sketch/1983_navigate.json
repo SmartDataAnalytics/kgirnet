@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "get me directions to the grocery_store",
+        "a1": "819_alma_st is the address for whole_foods which is 2_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "whole_foods",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "819_alma_st",
+            "whole_foods",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "give me the route with no_traffic please",
+        "a2": "there is a road_block_nearby but this is the only route i can find to the whole_foods",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel2": "traffic_info",
+        "obj2": "road_block_nearby",
+        "input_ent2": "whole_foods",
+        "kvr_entlist_qa2": [
+            "whole_foods",
+            "road_block_nearby"
+        ]
+    },
+    {
+        "q3": "ok that s fine so long as its via the quickest available route",
+        "a3": "setting gps we will be there shortly",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,194 @@
+[
+    {
+        "q1": "fc. porto is great in portugal, but could it ever be the greatest team in europe?",
+        "a1": "i don't think so. they have too many challenges ahead.",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i don't think so. they have too many challenges ahead.",
+        "a1_v2": "i don't think so. they have too many challenges ahead.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "portugal"
+    },
+    {
+        "q2": "what kind of challenges could fc. porto be facing?",
+        "a2": "they have a new coach that just started this year.",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they have a new @relation that just started this year.",
+        "a2_v2": "they have a new coach that just started this year.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "fc. porto"
+    },
+    {
+        "q3": "whats the coaches name? where did he come from?",
+        "a3": "they got s\u00e9rgio concei\u00e7\u00e3o who came from nantes in france.",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they got @object who came from nantes in @entity",
+        "a3_v2": "they got @coach who came from nantes in @entity",
+        "corr_rel3": "coach",
+        "obj3": "sergio conceicao",
+        "input_ent3": "fc. porto"
+    },
+    {
+        "q4": "does the coach have a winning record?",
+        "a4": "yes 50 goals",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes @object @relation",
+        "a4_v2": "yes 50 goals",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "when was the last time they went to the world cup?",
+        "a5": " so fare away from till now i think its  so long ",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": " so fare away from till now i think its  so long ",
+        "a5_v2": " so fare away from till now i think its  so long ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    },
+    {
+        "q6": "yes, we can only wish ronaldo would play for porto",
+        "a6": "yes, but does ronaldo want to play for porto? i don't know.",
+        "kgER6": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a6_skt": "yes, but does ronaldo want to play for porto? i don't know.",
+        "a6_v2": "yes, but does ronaldo want to play for porto? i don't know.",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "emre can"
+    }
+]

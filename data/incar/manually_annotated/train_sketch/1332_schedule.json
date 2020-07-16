@@ -1,0 +1,26 @@
+[
+    {
+        "q1": "confirm meeting",
+        "a1": "your meeting is set for thursday at 3pm with the executive_team in conference_room_100",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,room,party",
+        "obj1": "executive_team,conference_room_100,3pm",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "executive_team",
+            "conference_room_100",
+            "thursday",
+            "meeting",
+            "3pm"
+        ]
+    },
+    {
+        "q2": "okay that is good",
+        "a2": "happy to help",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

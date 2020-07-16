@@ -1,0 +1,107 @@
+[
+    {
+        "q1": "how many times did liverpool win in the premier league?",
+        "a1": "18",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "18",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "name a great player in liverpool?",
+        "a2": "allison becker. ",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "allison becker. ",
+        "a2_v2": "allison becker. ",
+        "corr_rel2": "has player",
+        "obj2": "alisson",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "do many fans come to the stadium to watch live matches?",
+        "a3": "anfield's capacity is 54,000 and it is nearly always sold out on matchday.",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "anfield's @relation is @object and it is nearly always sold out on matchday.",
+        "a3_v2": "anfield's capacity is 54,000 and it is nearly always sold out on matchday.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "allianz stadium"
+    },
+    {
+        "q4": "who is liverpool's leading goal scorer of all time?",
+        "a4": "luis suarez",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "luis suarez",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    },
+    {
+        "q5": "how many goals did luis suarez score for liverpool.",
+        "a5": "i think it's over 30.",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think it's over @object",
+        "a5_v2": "i think it's over 30.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "luis suarez"
+    }
+]

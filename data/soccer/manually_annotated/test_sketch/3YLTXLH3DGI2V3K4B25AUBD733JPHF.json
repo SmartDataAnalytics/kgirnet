@@ -1,0 +1,100 @@
+[
+    {
+        "q1": "who's your favorite player?",
+        "a1": "messi",
+        "kgER1": {},
+        "a1_skt": "messi",
+        "a1_v2": "messi",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "whats to active?",
+        "a2": "they are definitely an active team..",
+        "kgER2": {},
+        "a2_skt": "they are definitely an active team..",
+        "a2_v2": "they are definitely an active team..",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is spain's top goal scorer?",
+        "a3": "of all time? david villa",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "of all time? david villa",
+        "a3_v2": "of all time? david villa",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "spain"
+    },
+    {
+        "q4": "who is spain\u2019s worst player?",
+        "a4": "worst - jordi alba (spain) was voted",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "worst - @object (spain) was voted",
+        "a4_v2": "worst - jordi alba (spain) was voted",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "spain"
+    },
+    {
+        "q5": "how about that thiago?",
+        "a5": "he is alright",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "thiago": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "he is alright",
+        "a5_v2": "he is alright",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "thiago"
+    }
+]

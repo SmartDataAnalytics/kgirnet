@@ -1,0 +1,128 @@
+[
+    {
+        "q1": "i am very curious about this team",
+        "a1": "the best italian team by far.",
+        "kgER1": {},
+        "a1_skt": "the best italian team by far.",
+        "a1_v2": "the best italian team by far.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "i do know they gained one of chelsea's players tiemoue bakayoko as a transfer. ",
+        "a2": "only for a loan but he will be a good addition in this team",
+        "kgER2": {
+            "tiemoue bakayoko": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "only for a loan but he will be a good addition in this team",
+        "a2_v2": "only for a loan but he will be a good addition in this team",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "tiemoue bakayoko"
+    },
+    {
+        "q3": "how long will be he there for? ",
+        "a3": "tiemoue bakayoko is on loan for a year, with the potential for a buyout after that",
+        "kgER3": {
+            "tiemoue bakayoko": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "@object is on loan for a year, with the potential for a buyout after that",
+        "a3_v2": "tiemoue bakayoko is on loan for a year, with the potential for a buyout after that",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "bakayoko will make a different",
+        "a4": "the best player in milan and is the best team in the italian league ",
+        "kgER4": {
+            "tiemoue bakayoko": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "the @relation in milan and is the best team in the italian league ",
+        "a4_v2": "the best player in milan and is the best team in the italian league ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "tiemoue bakayoko"
+    },
+    {
+        "q5": "for me if he will do it in milan",
+        "a5": "he will do well in milan with support.",
+        "kgER5": {
+            "tiemoue bakayoko": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "he will do well in milan with support.",
+        "a5_v2": "he will do well in milan with support.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ac milan"
+    }
+]

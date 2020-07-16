@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i admire iceland",
+        "a1": "me too",
+        "kgER1": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "me too",
+        "a1_v2": "me too",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "iceland"
+    },
+    {
+        "q2": "has iceland ever won a world cup \\?",
+        "a2": "i do not know",
+        "kgER2": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i do not know",
+        "a2_v2": "i do not know",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "iceland"
+    },
+    {
+        "q3": "when will iceland make it to a world cup final \\?",
+        "a3": "2022",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "2022",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "iceland"
+    },
+    {
+        "q4": "do iceland have any famous players \\?",
+        "a4": "sigurdsson who used to play for swansea is famous",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "sigurdsson who used to play for swansea is famous",
+        "a4_v2": "sigurdsson who used to play for swansea is famous",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "iceland"
+    },
+    {
+        "q5": "who was the captain of the iceland in world cup 2018 \\?",
+        "a5": "aron gunnarsson was their captain",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object was their @relation",
+        "a5_v2": "@captain was their captain",
+        "corr_rel5": "captain",
+        "obj5": "aron gunnarsson",
+        "input_ent5": "iceland"
+    }
+]

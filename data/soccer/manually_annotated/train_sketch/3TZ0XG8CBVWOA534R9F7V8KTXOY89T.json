@@ -1,0 +1,157 @@
+[
+    {
+        "q1": "does uruguay's team have a chance to win the world cup this year?",
+        "a1": "no, they did really poorly",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "no, they did really poorly",
+        "a1_v2": "no, they did really poorly",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": "yeah, but they still have great players like luis suarez.",
+        "a2": "uruguay does have great players.",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity does have great players.",
+        "a2_v2": "uruguay does have great players.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "luis suarez"
+    },
+    {
+        "q3": "what could uruguay do to improve?",
+        "a3": "i think they are achieving close to maximum from their resources",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think they are achieving close to maximum from their resources",
+        "a3_v2": "i think they are achieving close to maximum from their resources",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "uruguay"
+    },
+    {
+        "q4": "how can uruguay get new talent for their football team?",
+        "a4": "they will need to buy a player from brazil.",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a4_skt": "they will need to buy a player from @entity",
+        "a4_v2": "they will need to buy a player from brazil.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "uruguay"
+    },
+    {
+        "q5": "who do you think is the greatest player of all time on uruguay?",
+        "a5": "i would say luis suarez.",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a5_skt": "i would say @object",
+        "a5_v2": "i would say luis suarez.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "uruguay"
+    }
+]

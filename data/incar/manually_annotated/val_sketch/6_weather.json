@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "what will be the highest_temperature in downtown_chicago on tuesday",
+        "a1": "on tuesday the highest_temperature in downtown_chicago is 70f",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday",
+        "obj1": "70f",
+        "input_ent1": "downtown_chicago",
+        "kvr_entlist_qa1": [
+            "tuesday",
+            "highest_temperature",
+            "downtown_chicago",
+            "70f"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "no problem",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

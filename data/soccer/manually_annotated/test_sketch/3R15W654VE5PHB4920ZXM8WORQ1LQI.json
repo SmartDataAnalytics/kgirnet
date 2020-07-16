@@ -1,0 +1,56 @@
+[
+    {
+        "q1": "who were they against?",
+        "a1": "real madrid",
+        "kgER1": {},
+        "a1_skt": "@entity",
+        "a1_v2": "real madrid",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "can they beat madrid?",
+        "a2": "barcelona can for sure beat real madrid",
+        "kgER2": {},
+        "a2_skt": "@entity can for sure beat @entity",
+        "a2_v2": "barcelona can for sure beat real madrid",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "who do you think their best player is?",
+        "a3": "messi",
+        "kgER3": {},
+        "a3_skt": "messi",
+        "a3_v2": "messi",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "what do you think of luis su\u00e1rez?",
+        "a4": "i think he's a decent player, but has poor sportsmanship.",
+        "kgER4": {},
+        "a4_skt": "i think he's a decent player, but has poor sportsmanship.",
+        "a4_v2": "i think he's a decent player, but has poor sportsmanship.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "luis suarez"
+    },
+    {
+        "q5": "any good defenders they have?",
+        "a5": "ramos and marcelo are older but still world class. varane and carvajal are both just reaching their peaks.",
+        "kgER5": {
+            "defender": [
+                "position"
+            ]
+        },
+        "a5_skt": "ramos and @object are older but still world class. varane and carvajal are both just reaching their peaks.",
+        "a5_v2": "ramos and marcelo are older but still world class. varane and carvajal are both just reaching their peaks.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

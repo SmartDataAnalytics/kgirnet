@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "how many times did barcelona win the spanish cup \\?",
+        "a1": "barcelona have 30 copa del rey wins",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity have @object copa del rey wins",
+        "a1_v2": "barcelona have 30 copa del rey wins",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "what is the famously known home stadium of barcelona \\?",
+        "a2": "camp nou",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "camp nou",
+        "a2_v2": "camp nou",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "barcelona"
+    },
+    {
+        "q3": "what color is barcelonas home jersey",
+        "a3": "burgundy and blue",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "burgundy and @object",
+        "a3_v2": "burgundy and blue",
+        "corr_rel3": "jersey color",
+        "obj3": "burgundy and blue",
+        "input_ent3": "barcelona"
+    },
+    {
+        "q4": "who is barcelona s best player",
+        "a4": "messi",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "messi",
+        "a4_v2": "messi",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "what position does he plays in \\?",
+        "a5": "he plays as a forward",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "he plays as a @relation",
+        "a5_v2": "he plays as a position",
+        "corr_rel5": "position",
+        "obj5": "forward",
+        "input_ent5": "lionel messi"
+    }
+]

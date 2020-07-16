@@ -1,0 +1,95 @@
+[
+    {
+        "q1": "what is their record amount of goals scored at a world cup final?",
+        "a1": "146",
+        "kgER1": {
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "146",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "that's a good number!",
+        "a2": "how many did belgium score this year?",
+        "kgER2": {
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "how many did @entity score this year?",
+        "a2_v2": "how many did belgium score this year?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "16",
+        "a3": "16 goals that's good. who do you think the best player is from the belgium team? ",
+        "kgER3": {
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "@object @relation that's good. who do you think the best player is from the @entity team? ",
+        "a3_v2": "16 goals that's good. who do you think the best player is from the belgium team? ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "16 (first in 1930)"
+    },
+    {
+        "q4": "hazard",
+        "a4": "i believe the best players are hazard and de bruyne.",
+        "kgER4": {
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "i believe the best players are hazard and de bruyne.",
+        "a4_v2": "i believe the best players are hazard and de bruyne.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "eden hazard"
+    },
+    {
+        "q5": "eden hazard is the best player in belgium is a very good team and the second best player is from bruyne ",
+        "a5": "lukaku is the third best player",
+        "kgER5": {
+            "red": [
+                "jersey color"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "lukaku is the third @relation",
+        "a5_v2": "lukaku is the third best player",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "eden hazard"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "q1": "what will the weather be like in the city",
+        "a1": "which city are you wanting information for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "redwood_city tell me will it be foggy tomorrow",
+        "a2": "there is no fog predicted for redwood_city tomorrow",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "redwood_city",
+        "kvr_entlist_qa2": [
+            "tomorrow",
+            "redwood_city"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "is this even a real team",
+        "a1": "real in madrid \\)",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "real in madrid \\)",
+        "a1_v2": "real in madrid \\)",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "do n't you think real 's best players are getting a bit too old for a championship",
+        "a2": "no they have young players too",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "no they have young players too",
+        "a2_v2": "no they have young players too",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "what colour do real madrid players wear \\?",
+        "a3": "they wear white at home",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they wear @object at home",
+        "a3_v2": "they wear @jersey_color at home",
+        "corr_rel3": "jersey color",
+        "obj3": "white",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "young players have more confident to achieve a goal",
+        "a4": "but do n't older players bring more experience \\?",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "but do n't older players bring more experience \\?",
+        "a4_v2": "but do n't older players bring more experience \\?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ashley young"
+    },
+    {
+        "q5": "who leads real madrid in all time caps played \\?",
+        "a5": "raul",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "raul",
+        "a5_v2": "raul",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

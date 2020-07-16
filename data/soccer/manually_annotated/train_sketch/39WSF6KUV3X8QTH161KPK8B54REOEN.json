@@ -1,0 +1,141 @@
+[
+    {
+        "q1": "which team beat italy in wc qualifier round \\?",
+        "a1": "italy did n't qualify for the world cup for the first time since 1958 after they lost to sweden 1 0",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity did n't qualify for the world cup for the first time since @object958 after they lost to @entity @object @object",
+        "a1_v2": "italy did n't qualify for the world cup for the first time since 1958 after they lost to sweden 1 0",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "how many times did italy win the world cup \\?",
+        "a2": "i think they have won 4 times",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i think they have won @object times",
+        "a2_v2": "i think they have won @number_of_world_cup_champion times",
+        "corr_rel2": "number of world cup champion",
+        "obj2": "4",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "do you think they will be able to win again \\?",
+        "a3": "very likely to",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "very likely to",
+        "a3_v2": "very likely to",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "do you think italy will beat france \\?",
+        "a4": "that 's really difficult to say",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "that 's really difficult to say",
+        "a4_v2": "that 's really difficult to say",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "france"
+    },
+    {
+        "q5": "who is their current coach \\?",
+        "a5": "roberto mancini is the current coach",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object is the current @relation",
+        "a5_v2": "@coach is the current coach",
+        "corr_rel5": "coach",
+        "obj5": "roberto mancini",
+        "input_ent5": "italy"
+    }
+]

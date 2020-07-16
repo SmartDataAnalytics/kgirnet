@@ -1,0 +1,136 @@
+[
+    {
+        "q1": "do you think neymar stays with psg for 5 more years?",
+        "a1": "well, he has stated that he will stay, so i think so.",
+        "kgER1": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a1_skt": "well, he has stated that he will stay, so i think so.",
+        "a1_v2": "well, he has stated that he will stay, so i think so.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "neymar"
+    },
+    {
+        "q2": "are there any other teams that could tempt him?",
+        "a2": "he might return to the brazil team",
+        "kgER2": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "he might return to the @entity team",
+        "a2_v2": "he might return to the brazil team",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "paris sg was not that great this year.",
+        "a3": "they lack competition in france championship",
+        "kgER3": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they lack competition in @entity championship",
+        "a3_v2": "they lack competition in france championship",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "paris sg"
+    },
+    {
+        "q4": "who do you think is the best coach paris sg has had?",
+        "a4": "i think there current coach is the best!",
+        "kgER4": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i think there current @relation is the best!",
+        "a4_v2": "i think there current coach is the best!",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "paris sg"
+    },
+    {
+        "q5": "thomas tuechel can be great for them, just needs to find balance on roster.",
+        "a5": "i agree for sure",
+        "kgER5": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i agree for sure",
+        "a5_v2": "i agree for sure",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "emre can"
+    }
+]

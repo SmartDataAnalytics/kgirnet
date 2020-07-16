@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "take me to a hospital",
+        "a1": "palo_alto_medical_foundation is the nearest hospital at 611_ames_ave",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "Palo_alto_medical_foundation",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "hospital",
+            "palo_alto_medical_foundation",
+            "611_ames_ave"
+        ]
+    },
+    {
+        "q2": "is it the quickest option",
+        "a2": "yes the route to 611_ames_ave is the quickest available",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "611_ames_ave"
+        ]
+    },
+    {
+        "q3": "that s good please send me its address on the screen thank you",
+        "a3": "i sent you the info on your screen please drive carefully",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "q1": "i want chinese",
+        "a1": "panda_express is 4_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi,distance",
+        "obj1": "panda_express,4_miles",
+        "input_ent1": "chinese_restaurant",
+        "kvr_entlist_qa1": [
+            "4_miles",
+            "panda_express"
+        ]
+    },
+    {
+        "q2": "is it the one with the shortest distance",
+        "a2": "yes panda_express is the closest one noted",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "panda_express",
+        "input_ent2": "chinese_restaurant",
+        "kvr_entlist_qa2": [
+            "panda_express"
+        ]
+    },
+    {
+        "q3": "okay give me the details for panda_express then",
+        "a3": "panda_express is 4_miles away at 842_arrowhead_way",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "distance,address",
+        "obj3": "842_arrowhead_way,4_miles",
+        "input_ent3": "panda_express",
+        "kvr_entlist_qa3": [
+            "842_arrowhead_way",
+            "4_miles",
+            "panda_express"
+        ]
+    },
+    {
+        "q4": "please pick the route with the shortest distance and let s go there thank you",
+        "a4": "setting navigation to panda_express we will arrive shortly",
+        "input_rel4": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel4": "poi",
+        "obj4": "panda_express",
+        "input_ent4": "chinese_restaurant",
+        "kvr_entlist_qa4": [
+            "panda_express"
+        ]
+    }
+]

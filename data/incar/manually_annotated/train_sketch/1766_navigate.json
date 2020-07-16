@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "what s the shortest distance to the nearest rest_stop",
+        "a1": "the_clement_hotel is located nearest to you at 1_miles away would you like directions there",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi,distance",
+        "obj1": "the_clement_hotel,1_miles",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "1_miles",
+            "the_clement_hotel"
+        ]
+    },
+    {
+        "q2": "i need the address for it and to know if there will be any traffic",
+        "a2": "the_clement_hotel is at 657_ames_ave with moderate_traffic noted",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "657_ames_ave",
+        "input_ent2": "the_clement_hotel",
+        "kvr_entlist_qa2": [
+            "657_ames_ave",
+            "moderate_traffic",
+            "the_clement_hotel"
+        ]
+    },
+    {
+        "q3": "ok please direct me there by the shortest distance",
+        "a3": "i sent the directions on your screen please drive carefully",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thank you",
+        "a4": "you are welcome driver",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

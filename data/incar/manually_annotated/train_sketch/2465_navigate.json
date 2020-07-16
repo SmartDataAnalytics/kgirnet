@@ -1,0 +1,48 @@
+[
+    {
+        "q1": "car i need to rest please find some rest_stop near me in the direction we re going now",
+        "a1": "there is a four_seasons and the_clement_hotel",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "four_seasons,the_clement_hotel",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "four_seasons",
+            "the_clement_hotel"
+        ]
+    },
+    {
+        "q2": "which is closer in distance",
+        "a2": "four_seasons is closer",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "four_seasons",
+        "input_ent2": "rest_stop",
+        "kvr_entlist_qa2": [
+            "four_seasons"
+        ]
+    },
+    {
+        "q3": "please send me the quickest way to get there thank you",
+        "a3": "the four_seasons is 1_miles through heavy_traffic the address is 465_arcadia_pl",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address,distance",
+        "corr_rel3": "address,distance",
+        "obj3": "1_miles,465_arcadia_pl",
+        "input_ent3": "four_seasons",
+        "kvr_entlist_qa3": [
+            "four_seasons",
+            "1_miles",
+            "465_arcadia_pl",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q4": "thank you car",
+        "a4": "you re welcome drive safely",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

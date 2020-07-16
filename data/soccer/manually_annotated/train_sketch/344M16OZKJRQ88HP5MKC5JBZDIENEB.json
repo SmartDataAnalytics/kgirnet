@@ -1,0 +1,151 @@
+[
+    {
+        "q1": "i really love the team ac milan",
+        "a1": "ac milan are the old kings of italy, i like them too.",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "ac milan are the old kings of italy, i like them too.",
+        "a1_v2": "ac milan are the old kings of italy, i like them too.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "what kind of win history does ac milan have?",
+        "a2": "ac milan has traditionally been one of the top teams in italy",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "ac milan has traditionally been one of the top teams in @entity",
+        "a2_v2": "ac milan has traditionally been one of the top teams in italy",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "i think milan is the best in italy",
+        "a3": "the milan has traditionally been one of the best, but currently the juventus is the best",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "the milan has traditionally been one of the best, but currently the @entity is the best",
+        "a3_v2": "the milan has traditionally been one of the best, but currently the juventus is the best",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "italy"
+    },
+    {
+        "q4": "who has a better chance to win the scudetto this season, ac milan or juventus?",
+        "a4": "juventus have more of a chance than ac milan. ",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "@entity have more of a chance than ac milan. ",
+        "a4_v2": "juventus have more of a chance than ac milan. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "i do not think you should understimate ac milan ",
+        "a5": "how did their last game against each other end?",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "how did their last game against each other end?",
+        "a5_v2": "how did their last game against each other end?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ac milan"
+    }
+]

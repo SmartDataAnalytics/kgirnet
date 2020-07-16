@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "what is the weather forecast for wednesday through tuesday of next_week",
+        "a1": "what city would you like to hear the weather information for wednesday through tuesday of next_week",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "next_week",
+            "tuesday",
+            "wednesday"
+        ]
+    },
+    {
+        "q2": "will you find out if it will be cloudy in new_york on tuesday please",
+        "a2": "no it is not predicted to be cloudy n tuesday in new_york",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "new_york",
+        "kvr_entlist_qa2": [
+            "cloudy",
+            "new_york",
+            "tuesday"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "i m here to assist you",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "liverpool has a good team?",
+        "a1": "if they have non-public equipment",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "if they have non-public equipment",
+        "a1_v2": "if they have non-public equipment",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "what do you mean by non-public equipment?",
+        "a2": "they have players mostly from their schools ",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they have players mostly from their schools ",
+        "a2_v2": "they have players mostly from their schools ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "how big a city is liverpool? ",
+        "a3": "population of 491,500",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "population of @object",
+        "a3_v2": "population of 491,500",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "mo salah or firminho?",
+        "a4": "mo salah, definitely.",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "mo salah, definitely.",
+        "a4_v2": "mo salah, definitely.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "mohamed salah"
+    },
+    {
+        "q5": "did liverpool win recently?",
+        "a5": "liverpool was the ninth highest-earning football club in the world when?",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@entity was the ninth highest-earning football club in the world when?",
+        "a5_v2": "liverpool was the ninth highest-earning football club in the world when?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "will there be drizzle on tuesday",
+        "a1": "what location do you want the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "grand_rapids",
+        "a2": "there is a forecast of rain on tuesday with a low of 20f and a high of 40f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday",
+        "obj2": "20f,40f,rain",
+        "input_ent2": "grand_rapids",
+        "kvr_entlist_qa2": [
+            "40f",
+            "rain",
+            "20f",
+            "tuesday"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "is there going to be snow in boston on monday",
+        "a1": "it does not look like there will be snow the forecast for monday is dry in boston",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "monday",
+        "obj1": "dry",
+        "input_ent1": "boston",
+        "kvr_entlist_qa1": [
+            "dry",
+            "monday",
+            "snow",
+            "boston"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

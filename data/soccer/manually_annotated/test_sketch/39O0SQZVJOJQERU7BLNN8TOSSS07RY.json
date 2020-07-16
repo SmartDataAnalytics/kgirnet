@@ -1,0 +1,151 @@
+[
+    {
+        "q1": "love atletico madrid",
+        "a1": "who is their most expensive player? ",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "who is their most expensive player? ",
+        "a1_v2": "who is their most expensive player? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "diego costa.",
+        "a2": "when did diego costa start playing for atletico madrid?",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "when did @object start playing for @entity",
+        "a2_v2": "when did diego costa start playing for atletico madrid?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "diego costa"
+    },
+    {
+        "q3": "he has played for several seasons",
+        "a3": "he signed back there from chelsea last season",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "he signed back there from @entity last season",
+        "a3_v2": "he signed back there from chelsea last season",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "when did he join chelsea?",
+        "a4": "he joined in 2014.",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "he joined in @object",
+        "a4_v2": "he joined in 2014.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "chelsea"
+    },
+    {
+        "q5": "how much is diego costa being paid per year?",
+        "a5": "8.32 million gbp",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "8.32 million gbp",
+        "a5_v2": "8.32 million gbp",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "diego costa"
+    }
+]

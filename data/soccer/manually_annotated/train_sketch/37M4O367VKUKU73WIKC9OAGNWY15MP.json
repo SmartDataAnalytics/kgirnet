@@ -1,0 +1,68 @@
+[
+    {
+        "q1": "who will be the next manager of the mexico national team?",
+        "a1": "only the mexican football association know that",
+        "kgER1": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "only the mexican football association know that",
+        "a1_v2": "only the mexican football association know that",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "mexico"
+    },
+    {
+        "q2": "mexico needs a new coach.",
+        "a2": "i agree they do need a new one.",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i agree they do need a new one.",
+        "a2_v2": "i agree they do need a new one.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "mexico"
+    },
+    {
+        "q3": "say anyone person name in team mexico..",
+        "a3": "hernandez plays for mexico",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "hernandez plays for @entity",
+        "a3_v2": "hernandez plays for mexico",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mexico"
+    }
+]

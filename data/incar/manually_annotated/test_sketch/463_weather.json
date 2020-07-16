@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "what s the weather forecast for tomorrow",
+        "a1": "what city are you asking about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "will it be hot in atherton tomorrow",
+        "a2": "tomorrow will not be hot in atherton it will be dry low of 30f high of 50f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday",
+        "obj2": "dry,30f,50f",
+        "input_ent2": "atherton",
+        "kvr_entlist_qa2": [
+            "tomorrow",
+            "hot",
+            "atherton",
+            "dry",
+            "50f",
+            "30f"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

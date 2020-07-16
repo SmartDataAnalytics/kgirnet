@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who is the owner of barcelona?",
+        "a1": "joan gamper",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "joan gamper",
+        "a1_v2": "joan gamper",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "some very rich man",
+        "a2": "yes, he is.",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes, he is.",
+        "a2_v2": "yes, he is.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "barcelona has the best player in the world",
+        "a3": "it is about how they perform in the match",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "it is about how they perform in the match",
+        "a3_v2": "it is about how they perform in the match",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "barcelona"
+    },
+    {
+        "q4": "it has great players, but it is true that the best player in the world is there and it is called messi ",
+        "a4": "no, messi is not the best",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "no, messi is not the best",
+        "a4_v2": "no, messi is not the best",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "lionel messi"
+    },
+    {
+        "q5": "oh why dont you think so?",
+        "a5": " messi if he is the best he has a lot of ability",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": " messi if he is the best he has a lot of ability",
+        "a5_v2": " messi if he is the best he has a lot of ability",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

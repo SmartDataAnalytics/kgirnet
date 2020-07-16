@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "what s the 7 day forecast in brentwood",
+        "a1": "the weather forecast in brentwood is dew on monday misty on thusday humid on wednesday rain on thursday and friday snow on saturday clear_skies on sunday",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj1": "misty,clear_skies,humid,rain,snow,dew",
+        "input_ent1": "brentwood",
+        "kvr_entlist_qa1": [
+            "misty",
+            "clear_skies",
+            "monday",
+            "brentwood",
+            "wednesday",
+            "humid",
+            "sunday",
+            "saturday",
+            "thursday",
+            "rain",
+            "snow",
+            "dew",
+            "friday"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "sure",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

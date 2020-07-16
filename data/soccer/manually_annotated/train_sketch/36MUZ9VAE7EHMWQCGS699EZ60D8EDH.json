@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "i love juventus",
+        "a1": "i hope ronaldo will do well for them",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "i hope ronaldo will do well for them",
+        "a1_v2": "i hope ronaldo will do well for them",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "who is the best player of juventus team \\?",
+        "a2": "i think maybe buffon is the best",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "i think maybe buffon is the best",
+        "a2_v2": "i think maybe buffon is the best",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "juventus"
+    },
+    {
+        "q3": "buffon leave juventus",
+        "a3": "what reasons would he have to leave \\?",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "what reasons would he have to leave \\?",
+        "a3_v2": "what reasons would he have to leave \\?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "juventus"
+    },
+    {
+        "q4": "more money elsewhere \\?",
+        "a4": "convo mixed up , answer to restart it",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "convo mixed up , answer to restart it",
+        "a4_v2": "convo mixed up , answer to restart it",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is the captain of the juventus team \\?",
+        "a5": "giorgio chiellini is the captain",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "@object is the @relation",
+        "a5_v2": "@has_player is the captain",
+        "corr_rel5": "captain",
+        "obj5": "giorgio chellini",
+        "input_ent5": "juventus"
+    }
+]

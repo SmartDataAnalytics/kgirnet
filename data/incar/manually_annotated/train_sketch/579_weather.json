@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "is it going to snow in the next 7 days",
+        "a1": "snow is in the predictions for several cities which one would you like me to tell you about",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "friday",
+        "obj1": "snow",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "snow"
+        ]
+    },
+    {
+        "q2": "boston",
+        "a2": "it is predicted to snow in boston on friday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "friday",
+        "obj2": "snow",
+        "input_ent2": "boston",
+        "kvr_entlist_qa2": [
+            "boston",
+            "snow",
+            "friday"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "what s the temperature going to be like today and tomorrow",
+        "a1": "for what city",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "seattle please",
+        "a2": "today s temperature in seattle will have a low of 30 f and a high of 40f tomorrow s temperature will be a low of 80f and a high of 90f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday,tuesday",
+        "obj2": "tomorrow,80f,40f,90f,seattle,today",
+        "input_ent2": "seattle",
+        "kvr_entlist_qa2": [
+            "tomorrow",
+            "80f",
+            "40f",
+            "90f",
+            "seattle",
+            "today"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "glad to help",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

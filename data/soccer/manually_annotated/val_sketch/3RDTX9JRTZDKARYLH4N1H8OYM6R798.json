@@ -1,0 +1,165 @@
+[
+    {
+        "q1": "is there a team for fake madrid? ",
+        "a1": "no, but there is a twitter and several logos for it!",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "no, but there is a twitter and several logos for it!",
+        "a1_v2": "no, but there is a twitter and several logos for it!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "who is the oldest player on real madrid's currents squad.",
+        "a2": "your mom.",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "your mom.",
+        "a2_v2": "your mom.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "at 84 my mom may be too young !",
+        "a3": "previously he was a christian and he was followed by keylor navas, with the departure of cristiano, it would be keylor ",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "previously he was a christian and he was followed by @object with the departure of cristiano, it would be keylor ",
+        "a3_v2": "previously he was a christian and he was followed by keylor navas, with the departure of cristiano, it would be keylor ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ashley young"
+    },
+    {
+        "q4": "isn't keylor navas gone from real madrid?",
+        "a4": "no he should be still there",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "keylor navas": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "no he should be still there",
+        "a4_v2": "no he should be still there",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "who is your favorite team member from real madrid.  mine is sergio ramos.",
+        "a5": "thibaut cortuois",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "keylor navas": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "sergio ramos": [
+                "captain",
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "thibaut cortuois",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

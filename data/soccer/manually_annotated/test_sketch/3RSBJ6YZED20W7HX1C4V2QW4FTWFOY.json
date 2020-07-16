@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "who is the best player in the nigerian national team?",
+        "a1": "at the moment, ahmed mousa",
+        "kgER1": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "at the moment, @object",
+        "a1_v2": "at the moment, ahmed mousa",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "is ahmed a forward?",
+        "a2": "yes, one of his position's is forward.",
+        "kgER2": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a2_skt": "yes, one of his position's is @relation",
+        "a2_v2": "yes, one of his position's is forward.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "forward"
+    },
+    {
+        "q3": "he can also play on the wing, as he's very quick ",
+        "a3": "who is the most underrated player for nigeria?",
+        "kgER3": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a3_skt": "who is the most underrated player for @entity",
+        "a3_v2": "who is the most underrated player for nigeria?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    },
+    {
+        "q4": "probably  joseph yobo",
+        "a4": "have nigeria ever won the world cup?",
+        "kgER4": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a4_skt": "have @entity ever won the world cup?",
+        "a4_v2": "have nigeria ever won the world cup?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "no, they have never won the world cup",
+        "a5": "nigeria still has to win",
+        "kgER5": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a5_skt": "@entity still has to win",
+        "a5_v2": "nigeria still has to win",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

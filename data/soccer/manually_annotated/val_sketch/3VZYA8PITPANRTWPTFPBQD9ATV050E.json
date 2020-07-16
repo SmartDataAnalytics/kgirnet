@@ -1,0 +1,107 @@
+[
+    {
+        "q1": "whom did manchester united play against in the first domestic match this season?",
+        "a1": "leicester city",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "leicester city",
+        "a1_v2": "leicester city",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "did they win that game?",
+        "a2": "they have won many game",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they have won many game",
+        "a2_v2": "they have won many game",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "has manchester united traded any players recently?",
+        "a3": "they had atleast 5 new transfers.",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they had atleast @object new transfers.",
+        "a3_v2": "they had atleast 5 new transfers.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "manchester united"
+    },
+    {
+        "q4": "who is the manager of manchester united",
+        "a4": "jose mourinho is the current manager of manchester united.",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object is the current manager of @entity",
+        "a4_v2": "@coach is the current manager of @entity",
+        "corr_rel4": "coach",
+        "obj4": "jos\u00e9 mourinho",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "how old is striker paul pogba?",
+        "a5": "he is 25 years old. ",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "paul pogba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a5_skt": "he is @object years old. ",
+        "a5_v2": "he is @age years old. ",
+        "corr_rel5": "age",
+        "obj5": "25",
+        "input_ent5": "manchester united"
+    }
+]

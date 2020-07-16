@@ -1,0 +1,175 @@
+[
+    {
+        "q1": "who are juventus best players?",
+        "a1": "the best players are ciro immobile, mauro icardi and paulo dybala.",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "the best players are @object mauro icardi and @object",
+        "a1_v2": "the best players are ciro immobile, mauro icardi and paulo dybala.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "how long has paulo dybala played for juventus?",
+        "a2": "about 6 years, i believe. ",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "paulo dybala": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a2_skt": "about @object years, i believe. ",
+        "a2_v2": "about 6 years, i believe. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "paulo dybala"
+    },
+    {
+        "q3": "wouldn't you say that cristiano ronaldo is the best player for juventus now?",
+        "a3": "yes. i'm very excited about seeing him play.",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "paulo dybala": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes. i'm very excited about seeing him play.",
+        "a3_v2": "yes. i'm very excited about seeing him play.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "cristiano ronaldo"
+    },
+    {
+        "q4": " yes i like",
+        "a4": "how old is ronaldo now? ",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "paulo dybala": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "how old is ronaldo now? ",
+        "a4_v2": "how old is ronaldo now? ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "he is 33, not as young as he used to be",
+        "a5": "it must be good to retire at 34.",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "paulo dybala": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "it must be good to retire at @object",
+        "a5_v2": "it must be good to retire at 34.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ashley young"
+    }
+]

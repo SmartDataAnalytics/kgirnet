@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "fastest way to get to a nearby coffee place",
+        "a1": "the best option is cafe_venetia at 3_miles away with moderate_traffic you want the address",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi,distance",
+        "obj1": "cafe_venetia,3_miles",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "moderate_traffic",
+            "3_miles",
+            "cafe_venetia"
+        ]
+    },
+    {
+        "q2": "yes that sounds good",
+        "a2": "the address of cafe_venetia is 269_alger_dr setting navigation now",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "address",
+        "obj2": "269_alger_dr",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "269_alger_dr",
+            "cafe_venetia"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re welcome drive safely and enjoy",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

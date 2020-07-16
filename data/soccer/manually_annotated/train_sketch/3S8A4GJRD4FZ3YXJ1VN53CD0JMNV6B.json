@@ -1,0 +1,104 @@
+[
+    {
+        "q1": "who's the best player on chelsea?",
+        "a1": "chelseas best player is jose.",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "@entity @relation is jose.",
+        "a1_v2": "chelseas best player is jose.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "whos currently managing their team?",
+        "a2": "maurizio sarri",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "@coach",
+        "corr_rel2": "coach",
+        "obj2": "maurizio sarri",
+        "input_ent2": "chelsea"
+    },
+    {
+        "q3": "eden hazard is the only best player in chelsea?",
+        "a3": "in my opinion hazard is the star from this chelsea. ",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "in my opinion hazard is the star from this @entity ",
+        "a3_v2": "in my opinion hazard is the star from this chelsea. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "eden hazard"
+    },
+    {
+        "q4": "who is the all time best player of chelsea? ",
+        "a4": "i think, it's john terry",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "i think, it's john terry",
+        "a4_v2": "i think, it's john terry",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "chelsea"
+    }
+]

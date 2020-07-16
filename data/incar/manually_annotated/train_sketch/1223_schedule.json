@@ -1,0 +1,32 @@
+[
+    {
+        "q1": "when should i take my medicine next",
+        "a1": "you should take your medicine next on tuesday at 3pm",
+        "input_rel1": "time,date",
+        "corr_rel1": "time",
+        "obj1": "3pm",
+        "input_ent1": "medicine",
+        "kvr_entlist_qa1": [
+            "3pm",
+            "tuesday"
+        ]
+    },
+    {
+        "q2": "please set a reminder for medication",
+        "a2": "reminder has been set",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

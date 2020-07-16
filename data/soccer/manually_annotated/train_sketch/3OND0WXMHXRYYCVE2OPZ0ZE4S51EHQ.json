@@ -1,0 +1,94 @@
+[
+    {
+        "q1": "when germany is going to play \\?",
+        "a1": "they will play pretty soon",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they will play pretty soon",
+        "a1_v2": "they will play pretty soon",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "how many wins do they have \\?",
+        "a2": "germany have won the world cup 4 times",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity have won the world cup @object times",
+        "a2_v2": "germany have won the world cup 4 times",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "who is the goal keeper \\?",
+        "a3": "manuel neuer is the goalie",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object is the goalie",
+        "a3_v2": "@captain is the goalie",
+        "corr_rel3": "goalkeeper",
+        "obj3": "manuel neuer",
+        "input_ent3": "germany"
+    },
+    {
+        "q4": "how old is he \\?",
+        "a4": "neuer is 32 years old",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "neuer is @object years old",
+        "a4_v2": "neuer is 32 years old",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "old trafford"
+    }
+]

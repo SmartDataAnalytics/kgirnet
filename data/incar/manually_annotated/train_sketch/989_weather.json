@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "will it rain next_week",
+        "a1": "what city do you want to know if it will rain in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "rain"
+        ]
+    },
+    {
+        "q2": "los_angeles",
+        "a2": "rain is predicted to fall on tuesday in los_angeles",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday",
+        "obj2": "rain",
+        "input_ent2": "los_angeles",
+        "kvr_entlist_qa2": [
+            "los_angeles",
+            "rain",
+            "tuesday"
+        ]
+    },
+    {
+        "q3": "okay thanks",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

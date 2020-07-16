@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "i m desiring to eat at some chinese_restaurant is there any in the area",
+        "a1": "there are mandarin_roots 5_miles away and jing_jing 6_miles away which one would you like to try",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "mandarin_roots,jing_jing",
+        "input_ent1": "chinese_restaurant",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "6_miles",
+            "jing_jing",
+            "mandarin_roots"
+        ]
+    },
+    {
+        "q2": "the one with the quickest route",
+        "a2": "there is no_traffic on the way to mandarin_roots would you like to navigate there now",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "mandarin_roots",
+        "input_ent2": "chinese_restaurant",
+        "kvr_entlist_qa2": [
+            "no_traffic",
+            "mandarin_roots"
+        ]
+    },
+    {
+        "q3": "yes please do",
+        "a3": "gps is set and we should arrive shortly",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

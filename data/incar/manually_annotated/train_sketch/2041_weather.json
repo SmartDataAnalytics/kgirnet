@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "check weather forecast for seattle",
+        "a1": "in seattle it will be 30f - 40f monday 60f - 70f tuesday 40f - 60f wednesday 70f - 80f thursday 80f - 100f friday 60f - 70f saturday and 80f - 90f sunday",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj1": "70f,100f,80f,90f,60f,40f, seattle,30f",
+        "input_ent1": "seattle",
+        "kvr_entlist_qa1": [
+            "70f",
+            "100f",
+            "80f",
+            "90f",
+            "60f",
+            "monday",
+            "wednesday",
+            "sunday",
+            "saturday",
+            "40f",
+            "seattle",
+            "tuesday",
+            "thursday",
+            "30f",
+            "friday"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "anytime",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "i love juventus",
+        "a1": "they are a good side indeed ",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "they are a good side indeed ",
+        "a1_v2": "they are a good side indeed ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "what's your favorite thing about them?",
+        "a2": "the team is very cohesive.",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "the team is very cohesive.",
+        "a2_v2": "the team is very cohesive.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how many goals will ronaldo score for them this season?",
+        "a3": "i think it will score like 30 goals",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "i think it will score like @object @relation",
+        "a3_v2": "i think it will score like 30 goals",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "cristiano ronaldo"
+    },
+    {
+        "q4": "i think ronaldho is laughing himself to sleep on his ridiculous wage for his retirement fund ",
+        "a4": "when does the italian league starts?",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "when does the italian league starts?",
+        "a4_v2": "when does the italian league starts?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "very soon",
+        "a5": "on august 19 begins",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "on august @object begins",
+        "a5_v2": "on august 19 begins",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

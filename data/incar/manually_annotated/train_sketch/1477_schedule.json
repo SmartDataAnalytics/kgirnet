@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "find out the parties that are attending my football_activity also find the time",
+        "a1": "your football_activity is scheduled for the_2nd at 2pm with jeff",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "date,time,party",
+        "obj1": "the_2nd,2pm,jeff",
+        "input_ent1": "football_activity",
+        "kvr_entlist_qa1": [
+            "football_activity",
+            "the_2nd",
+            "2pm",
+            "jeff"
+        ]
+    },
+    {
+        "q2": "thank you buddy",
+        "a2": "you are welcome friend",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

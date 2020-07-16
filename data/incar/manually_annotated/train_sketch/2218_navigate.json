@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "find me a place where i could have some coffee",
+        "a1": "there is a starbucks and palo_alto_cafe nearby",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "starbucks,palo_alto_cafe",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "starbucks",
+            "palo_alto_cafe"
+        ]
+    },
+    {
+        "q2": "which is within 5_miles",
+        "a2": "palo_alto_cafe is 3_miles away",
+        "input_rel2": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel2": "distance",
+        "obj2": "3_miles",
+        "input_ent2": "palo_alto_cafe",
+        "kvr_entlist_qa2": [
+            "palo_alto_cafe",
+            "3_miles"
+        ]
+    },
+    {
+        "q3": "set the navigation for there thanks",
+        "a3": "you re welcome navigation set",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

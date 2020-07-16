@@ -1,0 +1,52 @@
+[
+    {
+        "q1": "in which country is this club located?",
+        "a1": "portugal",
+        "kgER1": {},
+        "a1_skt": "@entity",
+        "a1_v2": "portugal",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "who is the captain for porto? ",
+        "a2": "hector herrera its captain",
+        "kgER2": {},
+        "a2_skt": "@object its @relation",
+        "a2_v2": "hector herrera its captain",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "fc. porto"
+    },
+    {
+        "q3": "how old is he?",
+        "a3": "hector herrera is 28 years old.",
+        "kgER3": {},
+        "a3_skt": "@object is @object years old.",
+        "a3_v2": "hector herrera is 28 years old.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "old trafford"
+    },
+    {
+        "q4": "do you know what position he plays in? ",
+        "a4": "he is a midfielder.",
+        "kgER4": {},
+        "a4_skt": "he is a @relation",
+        "a4_v2": "he is a position",
+        "corr_rel4": "position",
+        "obj4": "midfielder",
+        "input_ent4": "hector herrera"
+    },
+    {
+        "q5": "who's won the most in the benfica and porto matches?",
+        "a5": "fc porto has won more.",
+        "kgER5": {},
+        "a5_skt": "fc porto has won more.",
+        "a5_v2": "fc porto has won more.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "fc. porto"
+    }
+]

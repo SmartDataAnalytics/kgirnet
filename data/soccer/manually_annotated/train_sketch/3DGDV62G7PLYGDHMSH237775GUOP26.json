@@ -1,0 +1,94 @@
+[
+    {
+        "q1": "where is your club located?",
+        "a1": "madrid",
+        "kgER1": {},
+        "a1_skt": "madrid",
+        "a1_v2": "madrid",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "what stadium do they play in?",
+        "a2": "the santiago bernabeau stadium.",
+        "kgER2": {},
+        "a2_skt": "the @object",
+        "a2_v2": "the santiago bernabeau stadium.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "allianz stadium"
+    },
+    {
+        "q3": "what is a madrid?",
+        "a3": "madrid is the capital city of spain.  real madrid's stadium is north of the city center.",
+        "kgER3": {},
+        "a3_skt": "madrid is the @relation of spain.  real madrid's stadium is north of the city center.",
+        "a3_v2": "madrid is the capital city of spain.  real madrid's stadium is north of the city center.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "real madrid club de f\u00fatbol (spanish pronunciation: [re\u02c8al ma\u02c8\u00f0\u027ei\u00f0 \u02c8klu\u03b2 \u00f0e \u02c8fu\u00f0\u03b2ol]; \"royal madrid football club\"), commonly known as real madrid, or simply as real, is a professional football club based in madrid, spain.  ",
+        "a4": "real madrid has a nice stadium.",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity has a nice stadium.",
+        "a4_v2": "real madrid has a nice stadium.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": " if it has a very good stadium",
+        "a5": "how many people can fit in the stadium?",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "how many people can fit in the stadium?",
+        "a5_v2": "how many people can fit in the stadium?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "allianz stadium"
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "q1": "who is the head coach of paris sg?  ",
+        "a1": "good side",
+        "kgER1": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "good side",
+        "a1_v2": "good side",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "paris sg"
+    },
+    {
+        "q2": "good side of what?",
+        "a2": "they are a good team ",
+        "kgER2": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they are a good team ",
+        "a2_v2": "they are a good team ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "they are an awesome team",
+        "a3": "but can they win the champions league?",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "but can they win the champions league?",
+        "a3_v2": "but can they win the champions league?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "thomas tuchel is the new psg coach and i think if they win the chanpions",
+        "a4": "who is the best player on paris sg?",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "thomas tuchel": [
+                "coach"
+            ]
+        },
+        "a4_skt": "who is the @relation on paris sg?",
+        "a4_v2": "who is the best player on paris sg?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "thomas tuchel"
+    },
+    {
+        "q5": "i think mbappe is.",
+        "a5": "i agree mbappe is the best player on psg especially after seeing his explosiveness and speed on the world cup stages.",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "thomas tuchel": [
+                "coach"
+            ]
+        },
+        "a5_skt": "i agree mbappe is the best player on psg especially after seeing his explosiveness and speed on the @relation",
+        "a5_v2": "i agree mbappe is the best player on psg especially after seeing his explosiveness and speed on the world cup stages.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "kylian mbappe"
+    }
+]

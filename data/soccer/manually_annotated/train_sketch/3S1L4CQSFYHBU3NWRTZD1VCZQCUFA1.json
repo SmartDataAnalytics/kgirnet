@@ -1,0 +1,177 @@
+[
+    {
+        "q1": "is thibaut courtois still belgium's goalkeeper?",
+        "a1": "yes, he is currently belgium's goalkeeper.",
+        "kgER1": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "thibaut courtois": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a1_skt": "yes, he is currently belgium's @relation",
+        "a1_v2": "yes, he is currently belgium's goalkeeper.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "thibaut courtois"
+    },
+    {
+        "q2": "is he a good goal keeper?",
+        "a2": "i would say he is top 10 worldwide",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "thibaut courtois": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a2_skt": "i would say he is top @object worldwide",
+        "a2_v2": "i would say he is top 10 worldwide",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "will courtois' recent transfer make him better for belgium? ",
+        "a3": "of course he will do better for belgium because he will compete at a high level and gain experience as a player",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "thibaut courtois": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "of course he will do better for @entity because he will compete at a @relation level and gain experience as a player",
+        "a3_v2": "of course he will do better for belgium because he will compete at a high level and gain experience as a player",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "belgium"
+    },
+    {
+        "q4": "will belgium win a world cup",
+        "a4": "france won the world cup this year, but belgium was in the finals.",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "thibaut courtois": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "@entity won the world cup this year, but @entity was in the finals.",
+        "a4_v2": "france won the world cup this year, but belgium was in the finals.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "belgium"
+    },
+    {
+        "q5": "belgium were runners up ",
+        "a5": "belgium has shown it has the talent to compete for a world cup",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "thibaut courtois": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "@entity has shown it has the talent to compete for a world cup",
+        "a5_v2": "belgium has shown it has the talent to compete for a world cup",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "belgium"
+    }
+]

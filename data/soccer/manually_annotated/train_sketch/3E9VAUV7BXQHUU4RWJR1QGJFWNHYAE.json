@@ -1,0 +1,65 @@
+[
+    {
+        "q1": "when was football first invented?",
+        "a1": "mid 19th century, 1869 is for american football, not \"soccer\" football. although sports similar have been played since roman times.",
+        "kgER1": {},
+        "a1_skt": "mid 19th century, 1869 is for american football, not \"soccer\" football. although sports similar have been played since roman times.",
+        "a1_v2": "mid 19th century, 1869 is for american football, not \"soccer\" football. although sports similar have been played since roman times.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "can you elaborate soccer?",
+        "a2": "if, by soccer, you mean association football then i can tell you.  football, was first codified in 1848 at cambridge university. we\u2019ll call this code \u201ccambridge rules\u201d. cambridge rules were originally played by cambridge university, eton, harrow, shrewsbury, rugby, and winchester schools. this meant that these schools all had a uniform set of rules to play each other with, as opposed to the home school\u2019s code.",
+        "kgER2": {},
+        "a2_skt": "if, by soccer, you mean association football then i can tell you.  football, was first codified in @object at cambridge university. we\u2019ll call this code \u201ccambridge rules\u201d. cambridge rules were originally played by cambridge university, eton, harrow, shrewsbury, rugby, and winchester schools. this meant that these schools all had a uniform set of rules to play each other with, as opposed to the home school\u2019s code.",
+        "a2_v2": "if, by soccer, you mean association football then i can tell you.  football, was first codified in 1848 at cambridge university. we\u2019ll call this code \u201ccambridge rules\u201d. cambridge rules were originally played by cambridge university, eton, harrow, shrewsbury, rugby, and winchester schools. this meant that these schools all had a uniform set of rules to play each other with, as opposed to the home school\u2019s code.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "why did they do that?",
+        "a3": "if you set up standard rules it makes it much easier across the board to know what to expect from the game and helps formulate team strategies.",
+        "kgER3": {},
+        "a3_skt": "if you set up standard rules it makes it much easier across the board to know what to expect from the game and helps formulate team strategies.",
+        "a3_v2": "if you set up standard rules it makes it much easier across the board to know what to expect from the game and helps formulate team strategies.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "in what country is soccer the most popular?",
+        "a4": "in france ",
+        "kgER4": {},
+        "a4_skt": "in @entity ",
+        "a4_v2": "in france ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "why is football more popular in france?",
+        "a5": "because french people are boring",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "because french people are boring",
+        "a5_v2": "because french people are boring",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "france"
+    }
+]

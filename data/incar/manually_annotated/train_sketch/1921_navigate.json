@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "where does my friend live",
+        "a1": "jill s house is 2_miles away at 347_alta_mesa_ave would you like me to set the navigation to go there",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "friends_house",
+        "kvr_entlist_qa1": [
+            "2_miles",
+            "347_alta_mesa_ave"
+        ]
+    },
+    {
+        "q2": "yes and please take me the fastest way",
+        "a2": "there i moderate_traffic but it is only 2_miles away we should arrive quickly",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "jills_house",
+        "kvr_entlist_qa2": [
+            "moderate_traffic",
+            "2_miles"
+        ]
+    },
+    {
+        "q3": "yes that sounds great thanks for the help",
+        "a3": "you re welcome have a good day",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

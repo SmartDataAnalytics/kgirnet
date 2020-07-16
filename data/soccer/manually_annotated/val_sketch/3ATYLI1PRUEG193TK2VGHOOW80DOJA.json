@@ -1,0 +1,79 @@
+[
+    {
+        "q1": "hi, do you like football ",
+        "a1": "yes, i do.",
+        "kgER1": {},
+        "a1_skt": "yes, i do.",
+        "a1_v2": "yes, i do.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "what team won the english premier league in 2017/18?",
+        "a2": "liverpool.",
+        "kgER2": {},
+        "a2_skt": "@entity",
+        "a2_v2": "liverpool.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "18 (first in 1934)"
+    },
+    {
+        "q3": "i wish liverpool won but it was manchester city who won the premier league.",
+        "a3": "who\u2019s the best team",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "who\u2019s the best team",
+        "a3_v2": "who\u2019s the best team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "manchester will won the english premier league?",
+        "a4": "they did indeed win the premier league.",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "they did indeed win the premier league.",
+        "a4_v2": "they did indeed win the premier league.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "manchester was good when it had ronaldo ",
+        "a5": "will manchester city be able to do a back to back double and win this seasons title again?",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "will manchester city be able to do a back to back double and win this seasons title again?",
+        "a5_v2": "will manchester city be able to do a back to back double and win this seasons title again?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "manchester united"
+    }
+]

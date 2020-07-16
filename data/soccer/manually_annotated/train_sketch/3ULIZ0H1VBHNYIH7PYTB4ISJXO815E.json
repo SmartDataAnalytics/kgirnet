@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is the youngest ever player in a world cup final to play for colombia \\?",
+        "a1": "wilmar barrios",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "wilmar barrios",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "colombia"
+    },
+    {
+        "q2": "can wilmar still play competitively \\?",
+        "a2": "yes , he 's still only 24 he plays for boca juniors in argentina",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes , he 's still only @object he plays for boca juniors in @entity",
+        "a2_v2": "yes , he 's still only 24 he plays for boca juniors in argentina",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "does colombia have a lot of young players \\?",
+        "a3": "of course columbia has a lo",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "of course columbia has a lo",
+        "a3_v2": "of course columbia has a lo",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "colombia"
+    },
+    {
+        "q4": "what is the name of the captain of colombia \\?",
+        "a4": "radamel falcao",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "@captain",
+        "corr_rel4": "captain",
+        "obj4": "radamel falcao",
+        "input_ent4": "colombia"
+    },
+    {
+        "q5": "will columbia qualify for the next world cup \\?",
+        "a5": "assuming they are able to perform as they did this year , yes they should qualify",
+        "kgER5": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "assuming they are able to perform as they did this year , yes they should qualify",
+        "a5_v2": "assuming they are able to perform as they did this year , yes they should qualify",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

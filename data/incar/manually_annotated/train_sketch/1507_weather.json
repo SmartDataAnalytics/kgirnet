@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what is the weather like for tomorrow night",
+        "a1": "what location do you want the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i m in boston will it be cloudy tomorrow",
+        "a2": "it is not predicted to be cloudy in boston tomorrow",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "boston",
+        "kvr_entlist_qa2": [
+            "boston",
+            "cloudy",
+            "tomorrow"
+        ]
+    },
+    {
+        "q3": "okay thank you",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

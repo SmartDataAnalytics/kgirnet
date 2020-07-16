@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "get me directions to the nearest chinese_restaurant",
+        "a1": "the nearest one is tai_pan 6_miles away from our position",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "tai_pan",
+        "input_ent1": "chinese_restaurant",
+        "kvr_entlist_qa1": [
+            "6_miles",
+            "tai_pan"
+        ]
+    },
+    {
+        "q2": "i would have preferred something within 2_miles but patience can you show me the shortest distance to go there",
+        "a2": "yes there is no_traffic so it should be quick i will display the directions now",
+        "input_rel2": "",
+        "corr_rel2": "distance",
+        "obj2": "no_traffic",
+        "input_ent2": "tai_pan",
+        "kvr_entlist_qa2": [
+            "no_traffic"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

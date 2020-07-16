@@ -1,0 +1,118 @@
+[
+    {
+        "q1": "i really like this.",
+        "a1": "they're a small country but a good  team ",
+        "kgER1": {},
+        "a1_skt": "they're a small country but a good  team ",
+        "a1_v2": "they're a small country but a good  team ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "iceland always makes a big impact during world cup.",
+        "a2": "excellent team to watch play ",
+        "kgER2": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "excellent team to watch play ",
+        "a2_v2": "excellent team to watch play ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "iceland"
+    },
+    {
+        "q3": "can iceland grow past being reliant on set plays to score goals though?",
+        "a3": "maybe not yet, they should train ",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "maybe not yet, they should train ",
+        "a3_v2": "maybe not yet, they should train ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "iceland"
+    },
+    {
+        "q4": "do they exist? were do they play?",
+        "a4": "of course they exist",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "of course they exist",
+        "a4_v2": "of course they exist",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "who was the iceland goalkeeper stopped the lionel messi penalty in wc 2018",
+        "a5": "hannes \u00fe\u00f3r halld\u00f3rsson",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@goalkeeper",
+        "corr_rel5": "goalkeeper",
+        "obj5": "hannes thor halldorsson",
+        "input_ent5": "iceland"
+    }
+]

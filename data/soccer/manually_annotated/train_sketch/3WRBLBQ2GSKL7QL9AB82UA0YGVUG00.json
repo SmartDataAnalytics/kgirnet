@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "do you think mexico will be satisfied with their performance at the world cup this year?",
+        "a1": "mixco is a very nice place. and that people playing football awasome. ",
+        "kgER1": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "mixco is a very nice place. and that people playing football awasome. ",
+        "a1_v2": "mixco is a very nice place. and that people playing football awasome. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "mexico"
+    },
+    {
+        "q2": "mexico can win, who is their best player?",
+        "a2": "hirving \u2018chucky\u2019 lozano in my opinion ",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "hirving \u2018chucky\u2019 lozano in my opinion ",
+        "a2_v2": "hirving \u2018chucky\u2019 lozano in my opinion ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "mexico"
+    },
+    {
+        "q3": "who beat mexico to send them home?",
+        "a3": "it was brazil",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "it was @entity",
+        "a3_v2": "it was brazil",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mexico"
+    },
+    {
+        "q4": "did mexico score in that game?",
+        "a4": "brazil beat mexico in the round of 16 by a score of 2-0",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity beat @entity in the @relation of @object by a score of @object",
+        "a4_v2": "brazil beat mexico in the round of 16 by a score of 2-0",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "mexico"
+    },
+    {
+        "q5": "who is mexicos best player? ",
+        "a5": "maybe javier hernandez",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "maybe @object",
+        "a5_v2": "maybe javier hernandez",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

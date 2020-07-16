@@ -1,0 +1,78 @@
+[
+    {
+        "q1": "i really like this team",
+        "a1": "they were beaten by south korea in the world cup.",
+        "kgER1": {},
+        "a1_skt": "they were beaten by south korea in the world cup.",
+        "a1_v2": "they were beaten by south korea in the world cup.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "it is a great team to root for. ",
+        "a2": "although, ozil retired from it due to experiencing racism from fans.",
+        "kgER2": {},
+        "a2_skt": "although, ozil retired from it due to experiencing racism from fans.",
+        "a2_v2": "although, ozil retired from it due to experiencing racism from fans.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "would ozil have played at age 33 for the 2022 world cup anyways?",
+        "a3": "would have probably played but he's overrated anyway",
+        "kgER3": {},
+        "a3_skt": "would have probably played but he's overrated anyway",
+        "a3_v2": "would have probably played but he's overrated anyway",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mesut ozil"
+    },
+    {
+        "q4": "why did germany leave sane out of the world cup squad?",
+        "a4": "because he preferred to put other players ",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "because he preferred to put other players ",
+        "a4_v2": "because he preferred to put other players ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "germany"
+    },
+    {
+        "q5": "will germany bounce back after failure at wc?",
+        "a5": "yes, they always do.",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes, they always do.",
+        "a5_v2": "yes, they always do.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "germany"
+    }
+]

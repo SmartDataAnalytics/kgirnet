@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "which player on the argentina soccer team gotten the most caps?",
+        "a1": "messi for sure.",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "messi for sure.",
+        "a1_v2": "messi for sure.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "will agrentina win a world cup with messi?",
+        "a2": "they stand a decent chance to.",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they stand a decent chance to.",
+        "a2_v2": "they stand a decent chance to.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "lionel messi"
+    },
+    {
+        "q3": " what three nfl teams had lost four super bowls each, through 1996?  a: buffalo bills, denver broncos, minnesota vikings",
+        "a3": "argentina is a strong contender who do you think has a chance to bet them?",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity is a strong contender who do you think has a chance to bet them?",
+        "a3_v2": "argentina is a strong contender who do you think has a chance to bet them?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "good",
+        "a4": "argentina usually falls to barcelona for an unknown reason.",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity usually falls to @entity for an unknown reason.",
+        "a4_v2": "argentina usually falls to barcelona for an unknown reason.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "well said my dear",
+        "a5": "messi is the best player in the world and if he can win a world cup ",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "messi is the @relation in the world and if he can win a world cup ",
+        "a5_v2": "messi is the best player in the world and if he can win a world cup ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

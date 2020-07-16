@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "do you think bvb dortmund is going to win the bundesliga this year? ",
+        "a1": "yes, they have a really good opportunity.",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes, they have a really good opportunity.",
+        "a1_v2": "yes, they have a really good opportunity.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "do you think they are really the best team?",
+        "a2": "they are a very good team, but probably only number at the moment.",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they are a very good team, but probably only number at the moment.",
+        "a2_v2": "they are a very good team, but probably only number at the moment.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "who is better than bvb dortmund?",
+        "a3": "a: bayern munich.",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "a: @entity",
+        "a3_v2": "a: bayern munich.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "in what way are they superior? ",
+        "a4": "they have won 28 national titles and 18 national cups ",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "they have won @object national titles and @object national cups ",
+        "a4_v2": "they have won 28 national titles and 18 national cups ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "what are the odds they face eachother in deutch bundesliga cup?",
+        "a5": "the odds against the bayern in the final are high ",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "the odds against the bayern in the final are @relation ",
+        "a5_v2": "the odds against the bayern in the final are high ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

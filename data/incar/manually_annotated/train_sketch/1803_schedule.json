@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "when am i taking my medicine",
+        "a1": "is this with jon or tom",
+        "input_rel1": "time,date,party",
+        "corr_rel1": "party",
+        "obj1": "jon,tom",
+        "input_ent1": "medicine",
+        "kvr_entlist_qa1": [
+            "jon",
+            "tom"
+        ]
+    },
+    {
+        "q2": "jon",
+        "a2": "you are taking your medicine with jon at 6pm on the_9th",
+        "input_rel2": "party",
+        "corr_rel2": "party",
+        "obj2": "6pm,jon,the_9th",
+        "input_ent2": "jon",
+        "kvr_entlist_qa2": [
+            "6pm",
+            "jon",
+            "the_9th"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

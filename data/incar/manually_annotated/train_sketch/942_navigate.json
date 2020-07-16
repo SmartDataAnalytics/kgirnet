@@ -1,0 +1,67 @@
+[
+    {
+        "q1": "quickest route home",
+        "a1": "there is moderate_traffic on the route",
+        "input_rel1": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel1": "traffic_info",
+        "obj1": "moderate_traffic",
+        "input_ent1": "home",
+        "kvr_entlist_qa1": [
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q2": "please pick the quickest route for me and let s go there thanks",
+        "a2": "setting navigation to quickest route home",
+        "input_rel2": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "home",
+        "kvr_entlist_qa2": [
+            "home"
+        ]
+    },
+    {
+        "q3": "how far away am i right now and what is the address",
+        "a3": "there is moderate_traffic on the 4_miles route home",
+        "input_rel3": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type,distance",
+        "corr_rel3": "distance",
+        "obj3": "4_miles",
+        "input_ent3": "home",
+        "kvr_entlist_qa3": [
+            "moderate_traffic",
+            "4_miles",
+            "home"
+        ]
+    },
+    {
+        "q4": "and what is the address",
+        "a4": "home is located at 10_ames_street setting navigation now",
+        "input_rel4": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel4": "address",
+        "obj4": "10_ames_street",
+        "input_ent4": "home",
+        "kvr_entlist_qa4": [
+            "10_ames_street",
+            "home"
+        ]
+    },
+    {
+        "q5": "thank you car",
+        "a5": "you are welcome driver",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    },
+    {
+        "q6": "great",
+        "a6": "you are welcome",
+        "input_rel6": "",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "",
+        "kvr_entlist_qa6": []
+    }
+]

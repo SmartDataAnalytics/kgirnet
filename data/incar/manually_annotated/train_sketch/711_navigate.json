@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "can you find me a gas_station nearby",
+        "a1": "we re 6_miles away from chevron but there is a road_block_nearby",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi,distance",
+        "obj1": "chevron,6_miles",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "chevron",
+            "6_miles",
+            "road_block_nearby"
+        ]
+    },
+    {
+        "q2": "which one is it the quickest way to get there",
+        "a2": "i picked the quickest way and sent it on your map navigating there now",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "gas_station",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "thank you so much car",
+        "a3": "no problem i m here to assist you",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

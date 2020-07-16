@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "wow! italy failed to qualify for the world cup.  that's amazing.",
+        "a1": "they struggled in qualifying, but still have a good team! how many times have they won the world cup?",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they struggled in qualifying, but still have a good team! how many times have they won the world cup?",
+        "a1_v2": "they struggled in qualifying, but still have a good team! how many times have they won the world cup?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "italy has won the wrold cup 4 times. what was the last year they won?",
+        "a2": "italy has won the world cup 2006 in germany and it was the last time they have won so far.",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity has won the world cup @object in @entity and it was the last time they have won so far.",
+        "a2_v2": "@entity has won the world cup @world_cup_champions in @entity and it was the last time they have won so far.",
+        "corr_rel2": "world cup champions",
+        "obj2": "2006",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "do you think they will go to the next world cup?",
+        "a3": "i totally agree with this, if you prepare and have better performance you can go to the next world cup",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i totally agree with this, if you prepare and have better performance you can go to the next world cup",
+        "a3_v2": "i totally agree with this, if you prepare and have better performance you can go to the next world cup",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "is italy's team really capable of that right now?",
+        "a4": "yes, they have some decent players on their current roster.",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes, they have some decent players on their current roster.",
+        "a4_v2": "yes, they have some decent players on their current roster.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "italy"
+    },
+    {
+        "q5": "who is the best player for italy?",
+        "a5": "giacomo bonaventura",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "giacomo bonaventura",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "italy"
+    }
+]

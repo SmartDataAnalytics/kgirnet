@@ -1,0 +1,162 @@
+[
+    {
+        "q1": "who is better: mbapp\u00e9 or neymar?",
+        "a1": "neymar i think",
+        "kgER1": {
+            "kylian mbappe": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object i think",
+        "a1_v2": "neymar i think",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "neymar"
+    },
+    {
+        "q2": "whos the fastest?",
+        "a2": "neymar is the fastest forward.  he is only 26 too.",
+        "kgER2": {
+            "kylian mbappe": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object is the fastest @relation  he is only @object too.",
+        "a2_v2": "neymar is the fastest forward.  he is only 26 too.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "i think neymar but mbappe is a very fast and destabilizing",
+        "a3": "neymar has more experience in soccer",
+        "kgER3": {
+            "kylian mbappe": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object has more experience in soccer",
+        "a3_v2": "neymar has more experience in soccer",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "neymar"
+    },
+    {
+        "q4": "neymar doesn't have a world cup though",
+        "a4": "i still think mbappe is faster than neymar.",
+        "kgER4": {
+            "kylian mbappe": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "i still think mbappe is faster than @object",
+        "a4_v2": "i still think mbappe is faster than neymar.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "neymar"
+    },
+    {
+        "q5": "why  fast? ",
+        "a5": "he can get across the field in less time, it's a big deal in football.",
+        "kgER5": {
+            "kylian mbappe": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "he can get across the @object in less time, it's a big deal in football.",
+        "a5_v2": "he can get across the field in less time, it's a big deal in football.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

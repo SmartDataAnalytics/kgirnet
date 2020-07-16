@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "did you see how far italy went in the fifa world cup \\?",
+        "a1": "well , better luck next time \\)",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "well , better luck next time \\)",
+        "a1_v2": "well , better luck next time \\)",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "when was the last time italy won the fifa world cup \\?",
+        "a2": "italy has won the world cup 4 times the first time was in 1943 and the last time that they won was in 2006",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity has won the world cup @object times the first time was in 19@object3 and the last time that they won was in @object",
+        "a2_v2": "@entity has won the world cup @world_cup_champions times the first time was in 19@world_cup_champions3 and the last time that they won was in @world_cup_champions",
+        "corr_rel2": "number of world cup champion",
+        "obj2": "4",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "how have they managed to go down so far in only 12 years \\?",
+        "a3": "do you like fifa world cup \\? yes , i like this match",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "do you like fifa world cup \\? yes , i like this match",
+        "a3_v2": "do you like fifa world cup \\? yes , i like this match",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "12 (first in 1934)"
+    },
+    {
+        "q4": "italy in the last world cup did not qualify for lack of organization by the coach and its players is a very good team but had bad luck in the last world cup",
+        "a4": "italy played very well in recent years despite being one of the last champions",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity played very well in recent years despite being one of the last champions",
+        "a4_v2": "italy played very well in recent years despite being one of the last champions",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "italy"
+    },
+    {
+        "q5": "tardelli 's cry , gol ! gol ! was one of the defining images of italy 's 1982 world cup triumph",
+        "a5": "it seems that most teams that win the world cup do poorly the next time round",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "it seems that most teams that win the world cup do poorly the next time @relation",
+        "a5_v2": "it seems that most teams that win the world cup do poorly the next time round",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "italy"
+    }
+]

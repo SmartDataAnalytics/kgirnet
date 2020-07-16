@@ -1,0 +1,100 @@
+[
+    {
+        "q1": "who is arsenal's best striker at present? ",
+        "a1": "auba is the best striker for arsenal right now.",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "auba is the best striker for @entity right now.",
+        "a1_v2": "auba is the best striker for arsenal right now.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "who is arsendal best player?",
+        "a2": "i would say it's auba too.",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i would say it's auba too.",
+        "a2_v2": "i would say it's auba too.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is arsenal\u2019s leading scorer? ",
+        "a3": "this season they have not scored a goal so no one yet.",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "this season they have not scored a @relation so no one yet.",
+        "a3_v2": "this season they have not scored a goal so no one yet.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "arsenal"
+    },
+    {
+        "q4": "arsenal is ranked 15th in premier league.",
+        "a4": "yes, so far",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "yes, so far",
+        "a4_v2": "yes, so far",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "arsenal"
+    },
+    {
+        "q5": "how many goals will their german forward score this season?",
+        "a5": "maybe 13?",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a5_skt": "maybe @object",
+        "a5_v2": "maybe 13?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "forward"
+    }
+]

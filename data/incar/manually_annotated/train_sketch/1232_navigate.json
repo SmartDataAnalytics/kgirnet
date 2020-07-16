@@ -1,0 +1,55 @@
+[
+    {
+        "q1": "how many hotels are around here",
+        "a1": "there is just the_westin it s 4_miles away",
+        "input_rel1": "car_collision_nearby,moderate_traffic,poi,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi,distance",
+        "obj1": "4_miles,the_westin",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "4_miles",
+            "the_westin"
+        ]
+    },
+    {
+        "q2": "how is the traffic",
+        "a2": "there is a car_collision_nearby it might cost us lot of wait",
+        "input_rel2": "car_collision_nearby,moderate_traffic,poi,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel2": "traffic_info",
+        "obj2": "car_collision_nearby",
+        "input_ent2": "rest_stop",
+        "kvr_entlist_qa2": [
+            "car_collision_nearby"
+        ]
+    },
+    {
+        "q3": "okay where is the_westin",
+        "a3": "the_westin is at 329 el camino rea 4_miles away with a car collision is nearby",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "distance",
+        "obj3": "4_miles",
+        "input_ent3": "the_westin",
+        "kvr_entlist_qa3": [
+            "4_miles",
+            "the_westin"
+        ]
+    },
+    {
+        "q4": "is there a quick route to reach it",
+        "a4": "i sent the best possible route on your screen please drive carefully",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    },
+    {
+        "q5": "thank you car assistant",
+        "a5": "you re welcome happy to help",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

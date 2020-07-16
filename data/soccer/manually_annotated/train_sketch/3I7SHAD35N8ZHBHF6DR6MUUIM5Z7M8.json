@@ -1,0 +1,165 @@
+[
+    {
+        "q1": "croatia was the rocky balboa of the world cup, beat up but never gave up.",
+        "a1": "yes croatia did very good.",
+        "kgER1": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes @entity did very good.",
+        "a1_v2": "yes croatia did very good.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "croatia"
+    },
+    {
+        "q2": "i wish they'd never beat england. they'd got so far. it was a shame that they were nocked out in the semi final.",
+        "a2": "it was a well deserved victory.",
+        "kgER2": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "it was a well deserved victory.",
+        "a2_v2": "it was a well deserved victory.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "semi ajayi"
+    },
+    {
+        "q3": "why did croatia beat england so easily?",
+        "a3": "i think they have very good chemistry",
+        "kgER3": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think they have very good chemistry",
+        "a3_v2": "i think they have very good chemistry",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "croatia"
+    },
+    {
+        "q4": "what was croatia's record last season?",
+        "a4": "croatia reached the world cup final but lost to france.",
+        "kgER4": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity reached the @relation but lost to @entity",
+        "a4_v2": "croatia reached the world cup final but lost to france.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "croatia"
+    },
+    {
+        "q5": "was croatia favored in that game?",
+        "a5": "most people expected france to win. ",
+        "kgER5": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "most people expected @entity to win. ",
+        "a5_v2": "most people expected france to win. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "croatia"
+    }
+]

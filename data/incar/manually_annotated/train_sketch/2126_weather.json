@@ -1,0 +1,32 @@
+[
+    {
+        "q1": "please check the weather for this week",
+        "a1": "alright what location are you asking about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "will it be warm in san_mateo",
+        "a2": "it will not be warm in san_mateo",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "san_mateo",
+        "kvr_entlist_qa2": [
+            "warm",
+            "san_mateo"
+        ]
+    },
+    {
+        "q3": "okay thanks for checking",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "q1": "who is the best player for juventus?",
+        "a1": "no doubt the new player, cristiano ronaldo who was transferred from real madrid.",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "no doubt the new player, @object who was transferred from @entity",
+        "a1_v2": "no doubt the new player, cristiano ronaldo who was transferred from real madrid.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "do you think that juventus have a higher chance of winning the leauge with cristiano ronaldo in the team?",
+        "a2": "of course they do, he's one of the best players in the world.",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "of course they do, he's one of the best players in the world.",
+        "a2_v2": "of course they do, he's one of the best players in the world.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "cristiano ronaldo"
+    },
+    {
+        "q3": "do you think he will score over 30 serie a goals?",
+        "a3": "yes,he will score at least 40 goals",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes,he will score at least @object @relation",
+        "a3_v2": "yes,he will score at least 40 goals",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "cristiano will score at least 25 goals",
+        "a4": "why is cristiano their best player?",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "why is cristiano their best player?",
+        "a4_v2": "why is cristiano their best player?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "cristiano ronaldo"
+    },
+    {
+        "q5": "for your effort and effort",
+        "a5": "because i like the way he plays, he's a great athlete ",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "because i like the way he plays, he's a great athlete ",
+        "a5_v2": "because i like the way he plays, he's a great athlete ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "white and red"
+    }
+]

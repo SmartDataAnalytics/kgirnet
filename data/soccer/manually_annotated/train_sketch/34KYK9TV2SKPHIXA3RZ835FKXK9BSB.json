@@ -1,0 +1,106 @@
+[
+    {
+        "q1": "where did you first hear about bvb dortmund? ",
+        "a1": "when completing these hits",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "when completing these hits",
+        "a1_v2": "when completing these hits",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "do you know what their team colors are?",
+        "a2": "in a sports channel its colors are black and yellow",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "in a sports channel its colors are black and @object",
+        "a2_v2": "in a sports channel its colors are black and @jersey_color",
+        "corr_rel2": "jersey color",
+        "obj2": "yellow",
+        "input_ent2": "bvb dortmund"
+    },
+    {
+        "q3": "yellow and black ",
+        "a3": "what is bvb dortmund's ranking overall in the world?",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "what is bvb dortmund's ranking overall in the world?",
+        "a3_v2": "what is bvb dortmund's ranking overall in the world?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "yellow"
+    },
+    {
+        "q4": "borussia dortmund is #12 on the forbes soccer team valuations list",
+        "a4": "who does bvb dortmund need to bet to get in the top 10?",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "who does bvb dortmund need to bet to get in the top @object",
+        "a4_v2": "who does bvb dortmund need to bet to get in the top 10?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bvb dortmund"
+    },
+    {
+        "q5": "dortmund allways get in the top 10",
+        "a5": "they will be top 18 for sure.",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "they will be top @object for sure.",
+        "a5_v2": "they will be top 18 for sure.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bvb dortmund"
+    }
+]

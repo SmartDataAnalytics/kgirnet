@@ -1,0 +1,91 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "i would think so. they usually have a strong team. ",
+        "kgER1": {},
+        "a1_skt": "i would think so. they usually have a strong team. ",
+        "a1_v2": "i would think so. they usually have a strong team. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "do you think they have a chance to win the next world cup?",
+        "a2": "i think they could win in the next season because they are very good team and they have good players",
+        "kgER2": {},
+        "a2_skt": "i think they could win in the next season because they are very good team and they have good players",
+        "a2_v2": "i think they could win in the next season because they are very good team and they have good players",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "belgium can not win the cup. they choke under pressure.",
+        "a3": "i agree, belgium will not win the next world cup.",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i agree, @entity will not win the next world cup.",
+        "a3_v2": "i agree, belgium will not win the next world cup.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "belgium"
+    },
+    {
+        "q4": "what do you think belgium needs to change to be able to win?",
+        "a4": "i feel that they must have a better defense ",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i feel that they must have a better @relation ",
+        "a4_v2": "i feel that they must have a better defense ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "belgium"
+    },
+    {
+        "q5": "has belgium ever beat any past world cup champs?",
+        "a5": "yes, they beat both england and brazil in the last world cup.",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes, they beat both england and @entity in the last world cup.",
+        "a5_v2": "yes, they beat both england and brazil in the last world cup.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "belgium"
+    }
+]

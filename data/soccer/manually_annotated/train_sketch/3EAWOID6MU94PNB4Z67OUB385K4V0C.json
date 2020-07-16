@@ -1,0 +1,71 @@
+[
+    {
+        "q1": "who is the to scorer for iceland football?",
+        "a1": "that would currently be sigborsson.",
+        "kgER1": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "that would currently be sigborsson.",
+        "a1_v2": "that would currently be sigborsson.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "iceland"
+    },
+    {
+        "q2": "who was it before him? ",
+        "a2": "guojohnsen is still the all team leading scorer with 26 goals.",
+        "kgER2": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "guojohnsen is still the all team leading scorer with @object @relation",
+        "a2_v2": "guojohnsen is still the all team leading scorer with 26 goals.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "will they make it to the euros?",
+        "a3": "iceland should, they are pretty good.",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity should, they are pretty good.",
+        "a3_v2": "iceland should, they are pretty good.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    }
+]

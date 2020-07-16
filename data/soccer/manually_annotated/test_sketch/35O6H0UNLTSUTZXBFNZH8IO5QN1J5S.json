@@ -1,0 +1,116 @@
+[
+    {
+        "q1": "barcelona is one of my favorite teams! do you think they will have a good shot at winning a championship this season?",
+        "a1": "yes",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes",
+        "a1_v2": "yes",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "how good do you think their odds are this season?",
+        "a2": "i would say about 80% odds of winning the championship this season. they are killing it on the field and no other teams are even close right now",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i would say about @object odds of winning the championship this season. they are killing it on the @object and no other teams are even close right now",
+        "a2_v2": "i would say about 80% odds of winning the championship this season. they are killing it on the field and no other teams are even close right now",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "who do you think barcelona's best signing of the summer has been?",
+        "a3": "ernesto valverde without a doubt. have you seen his stats?",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object without a doubt. have you seen his stats?",
+        "a3_v2": "ernesto valverde without a doubt. have you seen his stats?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "barcelona"
+    },
+    {
+        "q4": "who do you think the next big player will be for barcelona?",
+        "a4": "i'm not sure but we could calculate it given the player's performance!",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i'm not sure but we could calculate it given the player's performance!",
+        "a4_v2": "i'm not sure but we could calculate it given the player's performance!",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "valverde is a strong candidate.",
+        "a5": "overall good",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "overall good",
+        "a5_v2": "overall good",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "federico valverde"
+    },
+    {
+        "q6": "barcelona will be tough to bet. who do you think will bring them down?",
+        "a6": "i think real madrid is the only team competing against barcelona.",
+        "kgER6": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a6_skt": "i think @entity is the only team competing against @entity",
+        "a6_v2": "i think real madrid is the only team competing against barcelona.",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "barcelona"
+    }
+]

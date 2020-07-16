@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "how can the uruguay team improve \\?",
+        "a1": "maybe they can change up their players",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "maybe they can change up their players",
+        "a1_v2": "maybe they can change up their players",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": "good short uruguay",
+        "a2": "uruguay needs a bit of work",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity needs a bit of work",
+        "a2_v2": "uruguay needs a bit of work",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "uruguay"
+    },
+    {
+        "q3": "how can uruguay improve \\?",
+        "a3": "beat france next time",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "beat @entity next time",
+        "a3_v2": "beat france next time",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "uruguay"
+    },
+    {
+        "q4": "has uruguay ever won the world cup \\?",
+        "a4": "uruguay have won 19 fifa titles , 2 world cups",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity have won 19 fifa titles , @object world cups",
+        "a4_v2": "@entity have won 19 fifa titles , @number_of_world_cup_champion world cups",
+        "corr_rel4": "number of world cup champion",
+        "obj4": "2",
+        "input_ent4": "uruguay"
+    },
+    {
+        "q5": "when was the last time uruguay won the world cup \\?",
+        "a5": "1950",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@world_cup_champions",
+        "corr_rel5": "world cup champions",
+        "obj5": "1950",
+        "input_ent5": "uruguay"
+    }
+]

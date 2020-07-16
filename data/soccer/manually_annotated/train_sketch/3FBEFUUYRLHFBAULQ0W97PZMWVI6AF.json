@@ -1,0 +1,164 @@
+[
+    {
+        "q1": "hello, do you follow the bundesliga? and if so, do you like bayern munich?",
+        "a1": "q1: when bayern munich p;ayed well?  a1: in 2018 bundesliga",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a1_skt": "q1: when @entity p;ayed well?  a1: in @object bundesliga",
+        "a1_v2": "q1: when bayern munich p;ayed well?  a1: in 2018 bundesliga",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "they played well against manchester city fc. ",
+        "a2": "with robert lewandowski playing there, there is no stopping bayern in bundesliga",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "with @object playing there, there is no stopping bayern in bundesliga",
+        "a2_v2": "with robert lewandowski playing there, there is no stopping bayern in bundesliga",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "manchester united"
+    },
+    {
+        "q3": "what team does robert lewandowski play for?",
+        "a3": "robert is still with bayern, although he wants to move from bayern to real madrid.",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "yellow": [
+                "jersey color"
+            ],
+            "robert lewandowski": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "robert is still with bayern, although he wants to move from bayern to @entity",
+        "a3_v2": "robert is still with bayern, although he wants to move from bayern to real madrid.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "robert lewandowski"
+    },
+    {
+        "q4": "i have heard those rumors about him moving and i think it shows what kind of sway la liga still has over the bundesliga.",
+        "a4": "robert's problem is that bayern does not want to sell him",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "yellow": [
+                "jersey color"
+            ],
+            "robert lewandowski": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "robert's problem is that bayern does not want to sell him",
+        "a4_v2": "robert's problem is that bayern does not want to sell him",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "white and red"
+    },
+    {
+        "q5": "how much did he bring in to the club?",
+        "a5": "overall good",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "yellow": [
+                "jersey color"
+            ],
+            "robert lewandowski": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "overall good",
+        "a5_v2": "overall good",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    },
+    {
+        "q6": "what the play playing",
+        "a6": "bayern is playing soocer",
+        "kgER6": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "yellow": [
+                "jersey color"
+            ],
+            "robert lewandowski": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a6_skt": "bayern is playing soocer",
+        "a6_v2": "bayern is playing soocer",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "andres guardado"
+    }
+]

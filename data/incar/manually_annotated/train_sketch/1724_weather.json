@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "check forecast for today and tomorrow",
+        "a1": "what city would you like the forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "los_angeles",
+        "a2": "in los_angeles it will rain today with a low of 40f and a high of 60f tomorrow will be rainy between 70f - 90f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,wednesday",
+        "obj2": "70f,90f,60f,40f,rain",
+        "input_ent2": "los_angeles",
+        "kvr_entlist_qa2": [
+            "70f",
+            "90f",
+            "60f",
+            "today",
+            "40f",
+            "los_angeles",
+            "rain",
+            "tomorrow"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

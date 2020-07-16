@@ -1,0 +1,120 @@
+[
+    {
+        "q1": "this world cup was not at all what i expected with so many surprises - i could never have predicted the finals.",
+        "a1": "i agree, i had belgium making it to the final.",
+        "kgER1": {
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a1_skt": "i agree, i had @entity making it to the final.",
+        "a1_v2": "i agree, i had belgium making it to the final.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "did you ever think that germany were not going to qualify for the knockout stages?",
+        "a2": "yes, i think the whole of germany and the team were thinking that they were going to be knocked out.",
+        "kgER2": {
+            "red": [
+                "jersey color"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes, i think the whole of @entity and the team were thinking that they were going to be knocked out.",
+        "a2_v2": "yes, i think the whole of germany and the team were thinking that they were going to be knocked out.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "germany"
+    },
+    {
+        "q3": "i don't agree witth you, i think they thought they would win it all",
+        "a3": "england fans think they might win the world cub",
+        "kgER3": {
+            "red": [
+                "jersey color"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "england fans think they might win the world cub",
+        "a3_v2": "england fans think they might win the world cub",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "remember #itscominghome ",
+        "a4": "do you think england will qualify for the 2022 world cup?",
+        "kgER4": {
+            "red": [
+                "jersey color"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "do you think england will qualify for the @object world cup?",
+        "a4_v2": "do you think england will qualify for the 2022 world cup?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": " 'it's coming home': the meaning behind the three lions lyrics an old football refrain echoes through the streets of england as the 1996 song roars again",
+        "a5": "in a moment i thought but i can not imagine",
+        "kgER5": {
+            "red": [
+                "jersey color"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "in a moment i thought but i can not imagine",
+        "a5_v2": "in a moment i thought but i can not imagine",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "old trafford"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "i want to do some shopping direct me to a mall but in a way that avoids all traffic",
+        "a1": "the nearest mall is town_and_country which is 4_miles away but there is moderate_traffic",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "town_and_country",
+            "4_miles",
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q2": "ok please give me the address and direct me via the route that avoids most traffic",
+        "a2": "town_and_country is at 383_university_ave there is moderate_traffic on our way and i sent the best route on your screen",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "moderate_traffic",
+            "town_and_country",
+            "383_university_ave"
+        ]
+    },
+    {
+        "q3": "thank you very much car",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

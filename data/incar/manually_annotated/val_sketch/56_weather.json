@@ -1,0 +1,27 @@
+[
+    {
+        "q1": "from the two_day forecast what will be the highest_temperature in manhattan",
+        "a1": "the highest_temperature in manhattan is supposed to be 60f today and 70f tomorrow",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "monday,tuesday",
+        "obj1": "60f,70f,doay,tomorrow",
+        "input_ent1": "manhattan",
+        "kvr_entlist_qa1": [
+            "highest_temperature",
+            "tomorrow",
+            "70f",
+            "manhattan",
+            "60f",
+            "today"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "anytime",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

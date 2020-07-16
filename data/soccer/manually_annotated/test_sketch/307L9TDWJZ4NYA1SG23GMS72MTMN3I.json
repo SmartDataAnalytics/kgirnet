@@ -1,0 +1,101 @@
+[
+    {
+        "q1": "what has been your best games this season?",
+        "a1": "i haven't, personally, played any games this year. ",
+        "kgER1": {},
+        "a1_skt": "i haven't, personally, played any games this year. ",
+        "a1_v2": "i haven't, personally, played any games this year. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "i don't really follow psg much.",
+        "a2": "psg has too big of a media presence to not follow.",
+        "kgER2": {},
+        "a2_skt": "psg has too big of a media presence to not follow.",
+        "a2_v2": "psg has too big of a media presence to not follow.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "i do not agree with them, paris sg is a great team",
+        "a3": "what makes them such a great team?",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "what makes them such a great team?",
+        "a3_v2": "what makes them such a great team?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "paris sg"
+    },
+    {
+        "q4": "paris sg spent too much money on neymar. watch neymar leave psg next year. ",
+        "a4": "if neymar leaves paris sg, he would probably end up at real madrid.",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "if @object leaves paris sg, he would probably end up at @entity",
+        "a4_v2": "if neymar leaves paris sg, he would probably end up at real madrid.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "neymar"
+    },
+    {
+        "q5": "there is no way paris sg will allow that. ",
+        "a5": "surely everybody has their price ?",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "surely everybody has their price ?",
+        "a5_v2": "surely everybody has their price ?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "paris sg"
+    }
+]

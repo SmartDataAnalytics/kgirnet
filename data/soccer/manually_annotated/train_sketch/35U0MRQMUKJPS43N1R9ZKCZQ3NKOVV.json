@@ -1,0 +1,144 @@
+[
+    {
+        "q1": "how many goals in average does your team make per game?",
+        "a1": "i\u2019d guess at about 2",
+        "kgER1": {
+            "avram glazer": [
+                "chairman"
+            ]
+        },
+        "a1_skt": "i\u2019d guess at about @object",
+        "a1_v2": "i\u2019d guess at about 2",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "could your team beat france, though?",
+        "a2": "i believe they can",
+        "kgER2": {
+            "avram glazer": [
+                "chairman"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i believe they can",
+        "a2_v2": "i believe they can",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "france"
+    },
+    {
+        "q3": "what team could be better than france if they won the world cup?",
+        "a3": "none, because he is the real champion and demonstrates his most powerful elite level and until now there is no team that wins",
+        "kgER3": {
+            "avram glazer": [
+                "chairman"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "none, because he is the real champion and demonstrates his most powerful elite level and until now there is no team that wins",
+        "a3_v2": "none, because he is the real champion and demonstrates his most powerful elite level and until now there is no team that wins",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "france"
+    },
+    {
+        "q4": "i think if brazil wins the final, it will be a great rival for france",
+        "a4": "france wouldn't be able to deal with brazil when they're on top of their game in my opinion.",
+        "kgER4": {
+            "avram glazer": [
+                "chairman"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity wouldn't be able to deal with @entity when they're on top of their game in my opinion.",
+        "a4_v2": "france wouldn't be able to deal with brazil when they're on top of their game in my opinion.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "france"
+    },
+    {
+        "q5": "who is the highest scorer of all time for france?",
+        "a5": "france is the champion of the world and showed that it has no rival",
+        "kgER5": {
+            "avram glazer": [
+                "chairman"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity is the champion of the world and showed that it has no rival",
+        "a5_v2": "france is the champion of the world and showed that it has no rival",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "france"
+    }
+]

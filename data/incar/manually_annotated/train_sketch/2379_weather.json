@@ -1,0 +1,42 @@
+[
+    {
+        "q1": "give me the weather for next_week",
+        "a1": "for what city would you like the forecast",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "exeter please",
+        "a2": "in exeter it should be 60f - 80f monday and tuesday 40f - 60f in wednesday 80f - 100f thursday to saturday and 30f - 40f on sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,saturday,sunday,wednesday",
+        "obj2": "100f,80f,60f,40f,30f",
+        "input_ent2": "exeter",
+        "kvr_entlist_qa2": [
+            "100f",
+            "80f",
+            "60f",
+            "monday",
+            "wednesday",
+            "sunday",
+            "saturday",
+            "exeter",
+            "tuesday",
+            "40f",
+            "thursday",
+            "30f"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

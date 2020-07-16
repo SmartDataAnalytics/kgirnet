@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "car i need a gas_station within 5_miles",
+        "a1": "the 76 is only 2_miles away would you like directions",
+        "input_rel1": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi",
+        "corr_rel1": "distance,poi",
+        "obj1": "76,2_miles",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "76",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "sounds great",
+        "a2": "the 76 is located at 91_el_camino_real setting navigation details now",
+        "input_rel2": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi",
+        "corr_rel2": "distance,poi",
+        "obj2": "76,91_el_camino_real",
+        "input_ent2": "gas_station",
+        "kvr_entlist_qa2": [
+            "76",
+            "91_el_camino_real"
+        ]
+    },
+    {
+        "q3": "will there be any traffic",
+        "a3": "there is a roadblock nearby so please drive carefully",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thank you car",
+        "a4": "you re welcome drive safely",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

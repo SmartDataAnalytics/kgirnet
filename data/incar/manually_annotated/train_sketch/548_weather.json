@@ -1,0 +1,58 @@
+[
+    {
+        "q1": "what is the weather next_week",
+        "a1": "what city are you wanting to know the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "mountain_view please",
+        "a2": "in mountain_view it will be 30f - 40f monday 80f - 100f tuesday 90f - 100f wednesday 90f - 100f thursday 70f - 80f friday 90f - 100f saturday and 70f - 80f sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "70f,100f,80f,90f,40f,30f",
+        "input_ent2": "mountain_view",
+        "kvr_entlist_qa2": [
+            "70f",
+            "100f",
+            "80f",
+            "90f",
+            "monday",
+            "wednesday",
+            "sunday",
+            "saturday",
+            "40f",
+            "tuesday",
+            "thursday",
+            "30f",
+            "friday",
+            "mountain_view"
+        ]
+    },
+    {
+        "q3": "will it be hot any of the days",
+        "a3": "the only day of the week it will be hot is on monday with a high of high of 40f",
+        "input_rel3": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel3": "monday",
+        "obj3": "40f,hot",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "40f",
+            "week",
+            "monday",
+            "hot"
+        ]
+    },
+    {
+        "q4": "thanks for the information",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

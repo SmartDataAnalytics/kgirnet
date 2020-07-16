@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "what is the current temperature",
+        "a1": "for what city would you like to know the temperature",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "manhattan",
+        "a2": "the forecast for manhattan shows today s low is 60f and the high is 70f",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "manhattan",
+        "kvr_entlist_qa2": [
+            "70f",
+            "60f",
+            "manhattan",
+            "today"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

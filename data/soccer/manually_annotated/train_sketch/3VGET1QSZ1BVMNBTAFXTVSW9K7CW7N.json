@@ -1,0 +1,130 @@
+[
+    {
+        "q1": "how do you think fc barcelona is going to do this year?",
+        "a1": "up there with the last few but probably not the winners. ",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "up there with the last few but probably not the winners. ",
+        "a1_v2": "up there with the last few but probably not the winners. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "1/2",
+        "a2": "who is the best player in the barcelona team?",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "who is the @relation in the @entity team?",
+        "a2_v2": "who is the best player in the barcelona team?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2 (first in 2002)"
+    },
+    {
+        "q3": "lionel messi.",
+        "a3": "lionel messi is the great coach",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object is the great @relation",
+        "a3_v2": "lionel messi is the great coach",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "lionel messi"
+    },
+    {
+        "q4": "when did barcelona get a new coach?",
+        "a4": "isn't messi a player on the squad?",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "isn't messi a player on the squad?",
+        "a4_v2": "isn't messi a player on the squad?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "yes and there very best",
+        "a5": "who is barcelona's goalie?",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "who is @entity goalie?",
+        "a5_v2": "who is barcelona's goalie?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "white and red"
+    }
+]

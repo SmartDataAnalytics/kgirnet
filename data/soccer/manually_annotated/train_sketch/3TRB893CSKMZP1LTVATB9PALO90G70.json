@@ -1,0 +1,78 @@
+[
+    {
+        "q1": "who's the captain of the liverpool coach now?",
+        "a1": "i think it's j\u00fcrgen klopp .",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i think it's j\u00fcrgen klopp .",
+        "a1_v2": "i think it's @coach .",
+        "corr_rel1": "coach",
+        "obj1": "jurgen klopp",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "who is the captaiin?",
+        "a2": "wikipedia shows the liverpool captain as jordan henderson.",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "wikipedia shows the @entity @relation as @object",
+        "a2_v2": "wikipedia shows the liverpool captain as jordan henderson.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "i think if their gk doesnt get kicked in the head and stay dizzy the rest of the game.....liverpool could have won the champions league.",
+        "a3": "totally agree",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "totally agree",
+        "a3_v2": "totally agree",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "liverpool had a good champions league run, however, i think the better team won.",
+        "a4": "who beat liverpool?",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "who beat @entity",
+        "a4_v2": "who beat liverpool?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    }
+]

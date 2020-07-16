@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "where does my friend live",
+        "a1": "you have two friends listed jill and tom which one",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "friends_house",
+        "kvr_entlist_qa1": [
+            "tom"
+        ]
+    },
+    {
+        "q2": "the one closest to my location",
+        "a2": "jill s house is 5_miles away but there is a road_block_nearby tom s house is 8_miles away but we should pass through the same road block",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "jills_house",
+        "kvr_entlist_qa2": [
+            "5_miles",
+            "road_block_nearby",
+            "8_miles",
+            "tom"
+        ]
+    },
+    {
+        "q3": "well jill is closer so let s go there",
+        "a3": "sure i sent the route on your map",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thank you car",
+        "a4": "anytime",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

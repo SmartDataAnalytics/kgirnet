@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "how many wins did uruguay have last world cup?",
+        "a1": "15 wins",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object wins",
+        "a1_v2": "15 wins",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": "what are the colors for the uruguay jerseys?",
+        "a2": "i believe they are white and red.",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i believe they are @object and @object",
+        "a2_v2": "i believe they are white and red.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "uruguay"
+    },
+    {
+        "q3": "all wrong, uruguay had 4 wins in the last world cup and their colors are light blue and black.",
+        "a3": "yeah, sorry i got it mixed up with other team.",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "blue": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "yeah, sorry i got it mixed up with other team.",
+        "a3_v2": "yeah, sorry i got it mixed up with other team.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "black and white"
+    },
+    {
+        "q4": "is suarez really a dirty player?",
+        "a4": "well he did get the nickname el perro or the dog because he would bite people.",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "blue": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "well he did get the nickname el perro or the dog because he would bite people.",
+        "a4_v2": "well he did get the nickname el perro or the dog because he would bite people.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "luis suarez"
+    },
+    {
+        "q5": "what colour is there kit",
+        "a5": "this has already been answered, but their kit color are light blue and black.",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "blue": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "this has already been answered, but their kit color are light @object and black.",
+        "a5_v2": "this has already been answered, but their kit color are light blue and black.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

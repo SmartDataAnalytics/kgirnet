@@ -1,0 +1,100 @@
+[
+    {
+        "q1": "why atletico madrid win uefa super cup?",
+        "a1": "because they were better team on that day!",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "because they were better team on that day!",
+        "a1_v2": "because they were better team on that day!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "do you think they can win the cup again this season with the current team they have?",
+        "a2": "i think they will prefer to stay in the champions league this season and win it",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i think they will prefer to stay in the champions league this season and win it",
+        "a2_v2": "i think they will prefer to stay in the champions league this season and win it",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "what is their current position in la liga? ",
+        "a3": "they are placed second.",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they are placed second.",
+        "a3_v2": "they are placed second.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "who is their best striker ?",
+        "a4": "that would be griezmann. ",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "that would be griezmann. ",
+        "a4_v2": "that would be griezmann. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "how many goals did he scored for atletico?",
+        "a5": "he scored 89 goals",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "he scored @object @relation",
+        "a5_v2": "he scored 89 goals",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "atletico madrid"
+    }
+]

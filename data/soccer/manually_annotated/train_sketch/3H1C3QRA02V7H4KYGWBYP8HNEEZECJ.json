@@ -1,0 +1,103 @@
+[
+    {
+        "q1": "is ac milan top 5 \\?",
+        "a1": "no ac milan is not in top 5",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "no ac milan is not in top @object",
+        "a1_v2": "no ac milan is not in top 5",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "who 's the current manager for ac milan \\?",
+        "a2": "gennaro gattuso",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "@coach",
+        "corr_rel2": "coach",
+        "obj2": "gennaro gattuso",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "how do you think he is doing \\?",
+        "a3": "he still has a long way ahead",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "he still has a long way ahead",
+        "a3_v2": "he still has a long way ahead",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "when did gennaro gattuso become the general manager for ac milan \\?",
+        "a4": "some time ago",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "gennaro gattuso": [
+                "coach"
+            ]
+        },
+        "a4_skt": "some time ago",
+        "a4_v2": "some time ago",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "gennaro gattuso"
+    },
+    {
+        "q5": "how does grenuso do it as team manager \\?",
+        "a5": "already told that before i think",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "gennaro gattuso": [
+                "coach"
+            ]
+        },
+        "a5_skt": "already told that before i think",
+        "a5_v2": "already told that before i think",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

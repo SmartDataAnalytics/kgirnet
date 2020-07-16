@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i absolutely adore croatia",
+        "a1": "they did well in the world cup !",
+        "kgER1": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they did well in the world cup !",
+        "a1_v2": "they did well in the world cup !",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "croatia"
+    },
+    {
+        "q2": "what is the nickname of burnley f c \\? clarets is the nick name of burnley",
+        "a2": "i'm not sure i understand what that has to do with croatia",
+        "kgER2": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i'm not sure i understand what that has to do with @entity",
+        "a2_v2": "i'm not sure i understand what that has to do with croatia",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "why this team was in best \\?",
+        "a3": "they just performed as a team , nobody played selfish",
+        "kgER3": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they just performed as a team , nobody played selfish",
+        "a3_v2": "they just performed as a team , nobody played selfish",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "why did n't croatia win the most recent world cup \\?",
+        "a4": "the had a difficult time scoring more goals than their opponents",
+        "kgER4": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "the had a difficult time scoring more @relation than their opponents",
+        "a4_v2": "the had a difficult time scoring more goals than their opponents",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "croatia"
+    },
+    {
+        "q5": "who is the captain of croatia \\?",
+        "a5": "the captain of croatia is luka modri'c",
+        "kgER5": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "the @relation of @entity is @object",
+        "a5_v2": "the captain of croatia is @captain",
+        "corr_rel5": "captain",
+        "obj5": "luka modric",
+        "input_ent5": "croatia"
+    }
+]

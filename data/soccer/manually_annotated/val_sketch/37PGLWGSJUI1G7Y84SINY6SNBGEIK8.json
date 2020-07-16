@@ -1,0 +1,80 @@
+[
+    {
+        "q1": "who is nigerias goalkeeper",
+        "a1": "their first choice keeper is francis uzoho.",
+        "kgER1": {
+            "goalkeeper": [
+                "position"
+            ],
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "their first choice keeper is @object",
+        "a1_v2": "their first choice keeper is @goalkeeper.",
+        "corr_rel1": "goalkeeper",
+        "obj1": "francis uzoho",
+        "input_ent1": "nigeria"
+    },
+    {
+        "q2": "are there any nigerian teams in the premier league?",
+        "a2": "it is not a league only for english",
+        "kgER2": {
+            "goalkeeper": [
+                "position"
+            ],
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "it is not a league only for english",
+        "a2_v2": "it is not a league only for english",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "how far they can go? ",
+        "a3": "nigeria is a stronger team they will do good.",
+        "kgER3": {
+            "goalkeeper": [
+                "position"
+            ],
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity is a stronger team they will do good.",
+        "a3_v2": "nigeria is a stronger team they will do good.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    }
+]

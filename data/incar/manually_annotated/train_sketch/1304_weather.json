@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "what is the forecast for today and tomorrow",
+        "a1": "which city would you like today and tomorrow s forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "today",
+            "tomorrow"
+        ]
+    },
+    {
+        "q2": "i would like to know if it will be foggy in alhambra",
+        "a2": "it s not gonna be foggy in alhambra today or tomorrow",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "alhambra",
+        "kvr_entlist_qa2": [
+            "alhambra",
+            "foggy",
+            "today",
+            "tomorrow"
+        ]
+    },
+    {
+        "q3": "okay thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

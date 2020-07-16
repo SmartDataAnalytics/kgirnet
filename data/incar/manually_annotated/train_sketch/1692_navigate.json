@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "quickest route to home please",
+        "a1": "the quickest route home is an 8_miles drive through heavy_traffic",
+        "input_rel1": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel1": "distance",
+        "obj1": "8_miles",
+        "input_ent1": "home",
+        "kvr_entlist_qa1": [
+            "heavy_traffic",
+            "home",
+            "8_miles"
+        ]
+    },
+    {
+        "q2": "okay remind me of my address please",
+        "a2": "the address is 56_cadwell_street",
+        "input_rel2": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel2": "address",
+        "obj2": "56_cadwell_street",
+        "input_ent2": "home",
+        "kvr_entlist_qa2": [
+            "56_cadwell_street"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

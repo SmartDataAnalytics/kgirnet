@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "chelsea plays in engeand?",
+        "a1": "yes.  chelsea is based in london, england, and chelsea competes in the premier league. ",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "yes.  @entity is based in london, england, and @entity competes in the premier league. ",
+        "a1_v2": "yes.  chelsea is based in london, england, and chelsea competes in the premier league. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "name the captain of the chelsea?",
+        "a2": "dwight yokum",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "dwight yokum",
+        "a2_v2": "dwight yokum",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "chelsea"
+    },
+    {
+        "q3": "who is chelsea manager?",
+        "a3": "jose murino ",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "@object ",
+        "a3_v2": "jose murino ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "chelsea"
+    },
+    {
+        "q4": "when did chelsea last win the premier league?",
+        "a4": "they won in 2017 ",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "they won in 2017 ",
+        "a4_v2": "they won in 2017 ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "chelsea"
+    },
+    {
+        "q5": "what are their strongest point?",
+        "a5": "they defend very aggressively.",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "they @relation very aggressively.",
+        "a5_v2": "they defend very aggressively.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

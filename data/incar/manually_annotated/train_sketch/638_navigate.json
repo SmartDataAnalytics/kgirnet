@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "find nearest coffee shop",
+        "a1": "the nearest coffee shop is starbucks located at 792_bedoin_street",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "address",
+        "obj1": "792_bedoin_street",
+        "input_ent1": "starbucks",
+        "kvr_entlist_qa1": [
+            "792_bedoin_street",
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "is the starbucks within 5_miles of here if so please direct me to the starbucks via the quickest route",
+        "a2": "yes the starbucks is only 2_miles away setting the gps",
+        "input_rel2": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel2": "distance",
+        "obj2": "starbucks,2_miles",
+        "input_ent2": "starbucks",
+        "kvr_entlist_qa2": [
+            "2_miles",
+            "starbucks"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

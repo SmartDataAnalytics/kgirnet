@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "show me directions to the nearest starbucks",
+        "a1": "there is no starbucks nearby but a peets_coffee is located 4_miles away would you like directions there",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "peets_coffee",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "peets_coffee",
+            "4_miles",
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "yes please that sounds good",
+        "a2": "setting directions to 9981_archuleta_ave 4_miles away there s a car_collision_nearby so drive carefully",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "9981_archuleta_ave",
+        "input_ent2": "peets_coffee",
+        "kvr_entlist_qa2": [
+            "4_miles",
+            "9981_archuleta_ave",
+            "car_collision_nearby"
+        ]
+    },
+    {
+        "q3": "i will thank you car",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

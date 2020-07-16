@@ -1,0 +1,28 @@
+[
+    {
+        "q1": "whats the two_day forecast for new_york does it say it will be hot",
+        "a1": "today it will not be too hot ( 30f - 50f degrees ), but tomorrow it will be sort of hot ( 60f - 80f degrees ).",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "monday,tuesday",
+        "obj1": "30f,50f,60f,80f",
+        "input_ent1": "new_york",
+        "kvr_entlist_qa1": [
+            "80f",
+            "60f",
+            "today",
+            "30f",
+            "hot",
+            "tomorrow",
+            "50f"
+        ]
+    },
+    {
+        "q2": "ok that s helpful for me thanks",
+        "a2": "you re very welcome i m here to assist you",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

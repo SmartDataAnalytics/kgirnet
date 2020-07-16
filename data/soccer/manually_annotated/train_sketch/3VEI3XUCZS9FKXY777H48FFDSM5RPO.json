@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i admire bvb dortmund",
+        "a1": "i dont",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i dont",
+        "a1_v2": "i dont",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "is bvb dortmund a popular team for people who don't usually watch football?",
+        "a2": "it is popular for people who watch football, they are always on the top teams in the bundesliga.",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "it is popular for people who watch football, they are always on the top teams in the bundesliga.",
+        "a2_v2": "it is popular for people who watch football, they are always on the top teams in the bundesliga.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bvb dortmund"
+    },
+    {
+        "q3": "where does bvb dortmund play their home matches?",
+        "a3": "their home field is westfalenstadion in germany.",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "their home @object is @object in @entity",
+        "a3_v2": "their home field is westfalenstadion in germany.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "did they win the last match against bayern?",
+        "a4": "bayern won, but only on penalties when they played in the supercup. ",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "bayern won, but only on penalties when they played in the supercup. ",
+        "a4_v2": "bayern won, but only on penalties when they played in the supercup. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "this team plays fair",
+        "a5": "i do not see a question to be answered.",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i do not see a question to be answered.",
+        "a5_v2": "i do not see a question to be answered.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

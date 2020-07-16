@@ -1,0 +1,61 @@
+[
+    {
+        "q1": "this team is one of my favorite",
+        "a1": "i like schalke 04 much more though.",
+        "kgER1": {},
+        "a1_skt": "i like schalke @object much more though.",
+        "a1_v2": "i like schalke 04 much more though.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "are you excited for reus to be captain?",
+        "a2": "yes very excited",
+        "kgER2": {},
+        "a2_skt": "yes very excited",
+        "a2_v2": "yes very excited",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "marco reus"
+    },
+    {
+        "q3": "i think he deserves to be the captain",
+        "a3": "do you think he will play worse if he is not captain?",
+        "kgER3": {},
+        "a3_skt": "do you think he will play worse if he is not @relation",
+        "a3_v2": "do you think he will play worse if he is not captain?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "i would say yes, since the captain knows and knows all about the players",
+        "a4": "bvb dortmund is a close group. any changes would jeopardize that.",
+        "kgER4": {},
+        "a4_skt": "bvb dortmund is a close group. any changes would jeopardize that.",
+        "a4_v2": "bvb dortmund is a close group. any changes would jeopardize that.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "white and red"
+    },
+    {
+        "q5": "how long has he been captain of bvb dortmund?",
+        "a5": "reus has been playing for bvb dortmund since 2012 and has been captain for a little shorter than that.",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "reus has been playing for bvb dortmund since @object and has been @relation for a little shorter than that.",
+        "a5_v2": "reus has been playing for bvb dortmund since 2012 and has been captain for a little shorter than that.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bvb dortmund"
+    }
+]

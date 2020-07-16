@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "what is italy's biggest ever win?",
+        "a1": "when they won the world cup",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "when they won the world cup",
+        "a1_v2": "when they won the world cup",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "who will their gk be going forward?",
+        "a2": "italy is good team",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a2_skt": "@entity is good team",
+        "a2_v2": "italy is good team",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "forward"
+    },
+    {
+        "q3": "why do you feel they are good",
+        "a3": "italy is a great team they have excellent footwork",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a3_skt": "@entity is a great team they have excellent footwork",
+        "a3_v2": "italy is a great team they have excellent footwork",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "have they ever won a championship?",
+        "a4": "they have won the world cup.",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a4_skt": "they have won the world cup.",
+        "a4_v2": "they have won the world cup.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ever banega"
+    },
+    {
+        "q5": "how many times have they won the world cup?",
+        "a5": "i think italy has won the world cup 3 times",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a5_skt": "i think @entity has won the world cup @object times",
+        "a5_v2": "i think italy has won the world cup 3 times",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

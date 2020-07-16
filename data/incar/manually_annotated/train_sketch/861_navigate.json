@@ -1,0 +1,46 @@
+[
+    {
+        "q1": "take me to the nearest starbucks please",
+        "a1": "there is no starbucks nearby but palo_alto_cafe is 3_miles away would you like to go there",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "distance",
+        "obj1": "palo_alto_cafe,3_miles",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "3_miles",
+            "starbucks",
+            "palo_alto_cafe"
+        ]
+    },
+    {
+        "q2": "yes please but please avoid all traffic",
+        "a2": "there is moderate_traffic on our way but you should reach fast anyway i sent the route on your screen",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "starbucks",
+        "kvr_entlist_qa2": [
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q3": "could you confirm the address please",
+        "a3": "the address is 436_alger_dr setting navigation now via the quickest route",
+        "input_rel3": "address",
+        "corr_rel3": "address",
+        "obj3": "436_alger_dr",
+        "input_ent3": "palo_alto_cafe",
+        "kvr_entlist_qa3": [
+            "436_alger_dr"
+        ]
+    },
+    {
+        "q4": "thanks car",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "q1": "is this a good team",
+        "a1": "one of the world's best.",
+        "kgER1": {},
+        "a1_skt": "one of the world's best.",
+        "a1_v2": "one of the world's best.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "they did win the world cup.",
+        "a2": "they have some of the best players in the world, but they don't overshadow how good the team is. ",
+        "kgER2": {},
+        "a2_skt": "they have some of the best players in the world, but they don't overshadow how good the team is. ",
+        "a2_v2": "they have some of the best players in the world, but they don't overshadow how good the team is. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "i would like to see france play more against strong teams like germany, brazil and similar in the future.",
+        "a3": "france vs brazil would be a good match but not germany",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity vs @entity would be a good match but not @entity",
+        "a3_v2": "france vs brazil would be a good match but not germany",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "germany"
+    },
+    {
+        "q4": "how would you expect a france vs germany game to play out?",
+        "a4": "france would overshadow germany at the moment as france is all out with excellent players from midfield to attack who could score anytime. for now germany is still complacent and france will brilliantly win against them.",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity would overshadow @entity at the moment as @entity is all out with excellent players from @relation to attack who could score anytime. for now @entity is still complacent and @entity will brilliantly win against them.",
+        "a4_v2": "france would overshadow germany at the moment as france is all out with excellent players from midfield to attack who could score anytime. for now germany is still complacent and france will brilliantly win against them.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "germany"
+    },
+    {
+        "q5": "who do you think has a chance at beating france?",
+        "a5": "spain",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity",
+        "a5_v2": "spain",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "france"
+    }
+]

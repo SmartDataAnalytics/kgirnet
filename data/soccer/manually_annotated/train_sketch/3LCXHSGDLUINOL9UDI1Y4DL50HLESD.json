@@ -1,0 +1,91 @@
+[
+    {
+        "q1": "what club has the most bundesliga titles?",
+        "a1": "bayern munich",
+        "kgER1": {},
+        "a1_skt": "@entity",
+        "a1_v2": "bayern munich",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "bayern are the greatest german side",
+        "a2": "bvb has more soul.",
+        "kgER2": {},
+        "a2_skt": "bvb has more soul.",
+        "a2_v2": "bvb has more soul.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bayern munich"
+    },
+    {
+        "q3": "germany was amazing in the last world cup, i'm surprised they didn't win. ",
+        "a3": "mention 3 players of germany",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "mention @object players of @entity",
+        "a3_v2": "mention 3 players of germany",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "germany"
+    },
+    {
+        "q4": "kroos, ozil, muller",
+        "a4": "germany has great players.",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity has great players.",
+        "a4_v2": "germany has great players.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "thomas muller"
+    },
+    {
+        "q5": "germany has a great history",
+        "a5": "germany did nothing in the last world cup ",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity did nothing in the last world cup ",
+        "a5_v2": "germany did nothing in the last world cup ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "germany"
+    }
+]

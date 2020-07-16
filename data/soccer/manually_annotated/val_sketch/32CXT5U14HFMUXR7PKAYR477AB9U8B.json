@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i love manchester united",
+        "a1": "manchester united is my favorite team!",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity is my favorite team!",
+        "a1_v2": "manchester united is my favorite team!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "what makes manu your favorite team?",
+        "a2": "tactics and strategy with team players.",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "tactics and strategy with team players.",
+        "a2_v2": "tactics and strategy with team players.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is your favorite player on team manu who uses the best strategy? ",
+        "a3": "fred is pretty awesome. ",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object is pretty awesome. ",
+        "a3_v2": "fred is pretty awesome. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "whos the current manager for manchester united?",
+        "a4": "that would be jos\u00e9 mourinho",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "that would be @object",
+        "a4_v2": "that would be @coach",
+        "corr_rel4": "coach",
+        "obj4": "jose mourinho",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "how long has he been manager?",
+        "a5": "since 2016 ",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "since 2016 ",
+        "a5_v2": "since 2016 ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

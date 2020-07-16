@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "what is the weather next_week",
+        "a1": "what location do you want the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "inglewood",
+        "a2": "the weather in inglewood this week will be as follows monday cloudy tuesday foggy wednesday overcast thursday rain friday clear_skies saturday stormy and sunday overcast",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "stormy, clear,skies,cloudy,foggy,rain,overcast",
+        "input_ent2": "inglewood",
+        "kvr_entlist_qa2": [
+            "stormy",
+            "thursday",
+            "clear_skies",
+            "cloudy",
+            "monday",
+            "wednesday",
+            "sunday",
+            "saturday",
+            "foggy",
+            "rain",
+            "tuesday",
+            "inglewood",
+            "week",
+            "overcast",
+            "friday"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

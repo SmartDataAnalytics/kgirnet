@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "what s the weather going to be like today and tomorrow",
+        "a1": "what city would you like the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "can you tell me if it s going to be hot in mountain_view",
+        "a2": "today in mountain_view the temperature is low tomorrow will be hot with a high of 90f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "moonday, tuesday",
+        "obj2": "90f,hot",
+        "input_ent2": "mountain_view",
+        "kvr_entlist_qa2": [
+            "90f",
+            "today",
+            "hot",
+            "tomorrow",
+            "mountain_view"
+        ]
+    },
+    {
+        "q3": "thanks a lot",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

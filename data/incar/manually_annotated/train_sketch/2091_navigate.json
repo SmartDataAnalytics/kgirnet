@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "i m kind of hungry locate a pizza shop",
+        "a1": "there is a pizza_chicago 6_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "pizza_chicago",
+        "input_ent1": "pizza_restaurant",
+        "kvr_entlist_qa1": [
+            "pizza_chicago",
+            "6_miles"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "pizza_chicago is at 915_arbol_dr",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "915_arbol_dr",
+        "input_ent2": "pizza_chicago",
+        "kvr_entlist_qa2": [
+            "pizza_chicago",
+            "915_arbol_dr"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

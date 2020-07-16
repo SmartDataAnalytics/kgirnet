@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "do you support real madrid at football?",
+        "a1": "yes, i do support real madrid and i will enjoy seeing them go far in la liga.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes, i do support @entity and i will enjoy seeing them go far in la liga.",
+        "a1_v2": "yes, i do support real madrid and i will enjoy seeing them go far in la liga.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "real madrid are exciting to watch",
+        "a2": "yes, especially when ronaldo plays.",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes, especially when ronaldo plays.",
+        "a2_v2": "yes, especially when ronaldo plays.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "is he their best player?",
+        "a3": "i believe he is one of their best players.",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i believe he is one of their best players.",
+        "a3_v2": "i believe he is one of their best players.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "i would have said their very best player ",
+        "a4": "ronaldo was their best player.",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "ronaldo was their best player.",
+        "a4_v2": "ronaldo was their best player.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "it's a shame he has left them, who do you think is their best player now?",
+        "a5": "raul",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "raul",
+        "a5_v2": "raul",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

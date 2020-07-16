@@ -1,0 +1,26 @@
+[
+    {
+        "q1": "in mountain_view will there be frost today or tomorrow",
+        "a1": "no in mountain_view there will be clear_skies today and dry tomorrow",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "monday,tuesday",
+        "obj1": "clear,skies,dry",
+        "input_ent1": "mountain_view",
+        "kvr_entlist_qa1": [
+            "clear_skies",
+            "dry",
+            "today",
+            "tomorrow",
+            "mountain_view"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

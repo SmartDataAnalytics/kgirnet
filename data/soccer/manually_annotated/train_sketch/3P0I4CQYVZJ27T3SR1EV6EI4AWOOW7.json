@@ -1,0 +1,120 @@
+[
+    {
+        "q1": "i admire switzerland",
+        "a1": "is very good team",
+        "kgER1": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "is very good team",
+        "a1_v2": "is very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "switzerland has amazing players. ",
+        "a2": "i agree, it has great players and it is very well formed ",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i agree, it has great players and it is very well formed ",
+        "a2_v2": "i agree, it has great players and it is very well formed ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "switzerland"
+    },
+    {
+        "q3": "switzerland over achieved this year",
+        "a3": "i believe so but i also know that they invested well and the players are stronger this year.",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i believe so but i also know that they invested well and the players are stronger this year.",
+        "a3_v2": "i believe so but i also know that they invested well and the players are stronger this year.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "switzerland"
+    },
+    {
+        "q4": "switzerland, one of the best european teams",
+        "a4": "switzerland is doesnt one of the best, is good but no one of the best",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity is doesnt one of the best, is good but no one of the best",
+        "a4_v2": "switzerland is doesnt one of the best, is good but no one of the best",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "switzerland"
+    },
+    {
+        "q5": "swiss best defender?",
+        "a5": "stephan lichtsteiner ",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a5_skt": "@object ",
+        "a5_v2": "stephan lichtsteiner ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "defender"
+    }
+]

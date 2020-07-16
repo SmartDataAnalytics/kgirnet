@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is france 's top scorer \\?",
+        "a1": "thierry henri is the all time top scorer",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "thierry henri is the all time top scorer",
+        "a1_v2": "thierry henri is the all time top scorer",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "france"
+    },
+    {
+        "q2": "yes , it is henri with 123 goals",
+        "a2": "wow ! that 's a lot",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "wow ! that 's a lot",
+        "a2_v2": "wow ! that 's a lot",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "is he better as a coach or a player \\?",
+        "a3": "he is better player than coach",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "he is better player than @relation",
+        "a3_v2": "he is better player than coach",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "where does he fall down as a coach \\?",
+        "a4": "he is n't a bad coach , but he is a better player",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "he is n't a bad @relation , but he is a better player",
+        "a4_v2": "he is n't a bad coach , but he is a better player",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is france 's coach",
+        "a5": "didier deschamps is the current coach of france 's national team",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object is the current @relation of @entity 's national team",
+        "a5_v2": "@coach is the current coach of @entity 's national team",
+        "corr_rel5": "coach",
+        "obj5": "didier deschamps",
+        "input_ent5": "france"
+    }
+]

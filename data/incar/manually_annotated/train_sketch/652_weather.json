@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "what s the weather like this week",
+        "a1": "what city would you like to know the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i would like to find out if it will be dry this week in new_york",
+        "a2": "it will not be dry all week - there could be rain on monday tuesday thursday and friday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "rain,dry,week",
+        "input_ent2": "new_york",
+        "kvr_entlist_qa2": [
+            "monday",
+            "dry",
+            "rain",
+            "tuesday",
+            "thursday",
+            "week",
+            "friday"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

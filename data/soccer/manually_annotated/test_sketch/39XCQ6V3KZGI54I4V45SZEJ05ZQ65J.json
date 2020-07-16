@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "i admire belgium",
+        "a1": "yes, they are a strong european side ",
+        "kgER1": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes, they are a strong european side ",
+        "a1_v2": "yes, they are a strong european side ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "belgium"
+    },
+    {
+        "q2": "what do you think their chances are at the 2020 euro cup?",
+        "a2": "they can win it all",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they can win it all",
+        "a2_v2": "they can win it all",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "i do not condo in this, i do not think they win the euro cup, but it is a great team",
+        "a3": "they would definitely be strong contenders with france and england for euro 2020.",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they would definitely be strong contenders with @entity and england for euro 2020.",
+        "a3_v2": "they would definitely be strong contenders with france and england for euro 2020.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "who do you want to win the next world cup?",
+        "a4": "i want belgium to win they got a great team.",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i want @entity to win they got a great team.",
+        "a4_v2": "i want belgium to win they got a great team.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "belgium can win a world cup in the future and france and england are tremendous match ",
+        "a5": "the best player in belgium is eden hazard ",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "the @relation in @entity is @object ",
+        "a5_v2": "the best player in belgium is eden hazard ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "belgium"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "take me to my friend s house",
+        "a1": "i don t see your friend s house in the area home is 6_miles away would you like to go there",
+        "input_rel1": "car_collision_nearby,moderate_traffic,poi,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel1": "poi,distance",
+        "obj1": "home,6_miles",
+        "input_ent1": "friends_house",
+        "kvr_entlist_qa1": [
+            "home",
+            "6_miles"
+        ]
+    },
+    {
+        "q2": "yes please i wanted to mean my home just avoid all heavy_traffic",
+        "a2": "plotting route to home avoiding heavy_traffic",
+        "input_rel2": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "home",
+        "kvr_entlist_qa2": [
+            "home",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "would you confirm the address of home please",
+        "a3": "home is at 5671_barringer_street",
+        "input_rel3": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel3": "address",
+        "obj3": "5671_barringer_street",
+        "input_ent3": "home",
+        "kvr_entlist_qa3": [
+            "home",
+            "5671_barringer_street"
+        ]
+    },
+    {
+        "q4": "thanks",
+        "a4": "anytime",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

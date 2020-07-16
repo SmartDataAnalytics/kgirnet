@@ -1,0 +1,59 @@
+[
+    {
+        "q1": "take me to a place where i can get some hot tea",
+        "a1": "coupa is nearby and serves tea",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "coupa",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "coupa"
+        ]
+    },
+    {
+        "q2": "how s the traffic",
+        "a2": "moderate_traffic to coupa",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel2": "traffic_info",
+        "obj2": "moderate_traffic",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "moderate_traffic",
+            "coupa"
+        ]
+    },
+    {
+        "q3": "give me the address",
+        "a3": "coupa s address is 394_van_ness_ave",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "394_van_ness_ave",
+            "coupa"
+        ]
+    },
+    {
+        "q4": "is there an alternate route with no_traffic",
+        "a4": "no but palo_alto_cafe is just 1_miles away and has moderate_traffic so we should be able to get there quicker how does that sound",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": [
+            "palo_alto_cafe",
+            "1_miles",
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q5": "it sounds great thank you car let s navigate there please",
+        "a5": "ok initiating navigation",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "what country do most spanish national team members play club football for?",
+        "a1": "barcelona mainly",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity mainly",
+        "a1_v2": "barcelona mainly",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "do you think they will win nationals again?",
+        "a2": "yeah, why not?",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yeah, why not?",
+        "a2_v2": "yeah, why not?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "name 5 teams in spanish la liga",
+        "a3": "barcelona, real madrid, atletico madrid, sevilla, villareal are 5 la liga teams.",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity @entity @entity sevilla, villareal are @object la liga teams.",
+        "a3_v2": "barcelona, real madrid, atletico madrid, sevilla, villareal are 5 la liga teams.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "5 (first in 1998)"
+    },
+    {
+        "q4": "who is spain's mvp",
+        "a4": "spain mvp is ronaldo",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity mvp is ronaldo",
+        "a4_v2": "spain mvp is ronaldo",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "spain"
+    },
+    {
+        "q5": "what color is spain's uniforms?",
+        "a5": "they play in red.",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they play in @object",
+        "a5_v2": "they play in red.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "spain"
+    }
+]

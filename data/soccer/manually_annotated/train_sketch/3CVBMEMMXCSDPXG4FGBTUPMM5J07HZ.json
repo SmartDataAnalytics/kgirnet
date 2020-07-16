@@ -1,0 +1,70 @@
+[
+    {
+        "q1": "how long has soccer been around?",
+        "a1": "three thousand years",
+        "kgER1": {},
+        "a1_skt": "three thousand years",
+        "a1_v2": "three thousand years",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "when was atletico founded?",
+        "a2": "1903",
+        "kgER2": {},
+        "a2_skt": "@object",
+        "a2_v2": "1903",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "atletico madrid"
+    },
+    {
+        "q3": "why is it so famous?",
+        "a3": "because the athletic is a great team with great history and rival of madrid",
+        "kgER3": {},
+        "a3_skt": "because the athletic is a great team with great history and rival of madrid",
+        "a3_v2": "because the athletic is a great team with great history and rival of madrid",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is the best player that ever played for atletico madrid?",
+        "a4": "definitely ronaldo back in the day.",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "definitely ronaldo back in the day.",
+        "a4_v2": "definitely ronaldo back in the day.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "atletico madrid"
+    },
+    {
+        "q5": "list of atletico madrid players ",
+        "a5": "griezmannm, godin, oblak, costa, etc.",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "griezmannm, godin, oblak, costa, etc.",
+        "a5_v2": "griezmannm, godin, oblak, costa, etc.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "atletico madrid"
+    }
+]

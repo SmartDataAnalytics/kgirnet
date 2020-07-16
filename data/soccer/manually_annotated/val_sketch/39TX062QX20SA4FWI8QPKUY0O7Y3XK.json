@@ -1,0 +1,119 @@
+[
+    {
+        "q1": "i really love the team paris sg",
+        "a1": "when was paris sg founded?",
+        "kgER1": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "when was paris sg @relation",
+        "a1_v2": "when was paris sg founded?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "paris sg"
+    },
+    {
+        "q2": "they were founded in 1970 which is pretty young for most european soccer teams.",
+        "a2": "that is a very new team. it's surprising they've done so well with such little history.",
+        "kgER2": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "that is a very new team. it's surprising they've done so well with such little history.",
+        "a2_v2": "that is a very new team. it's surprising they've done so well with such little history.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "1970"
+    },
+    {
+        "q3": "i agree but they have worked hard and attained high status",
+        "a3": "neymar helped psg become a top team",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object helped psg become a top team",
+        "a3_v2": "neymar helped psg become a top team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "white and red"
+    },
+    {
+        "q4": "i do not agree with this, neymar is a great player but also helped other players of the team has a great status",
+        "a4": "if neymar gives them properties of more than they play",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "if @object gives them properties of more than they play",
+        "a4_v2": "if neymar gives them properties of more than they play",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "neymar"
+    },
+    {
+        "q5": "how long has neymar been on paris sg?",
+        "a5": "since 2012.",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "since 2012.",
+        "a5_v2": "since 2012.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "paris sg"
+    }
+]

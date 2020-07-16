@@ -1,0 +1,157 @@
+[
+    {
+        "q1": "senegal football is fun to watch and i like watching african teams play.",
+        "a1": "very good team",
+        "kgER1": {
+            "juanfran": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "senegal"
+    },
+    {
+        "q2": "they play with heart and desire",
+        "a2": "yes but all teams play with heart and desire. have they won any world tournaments?",
+        "kgER2": {
+            "juanfran": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes but all teams play with heart and desire. have they won any world tournaments?",
+        "a2_v2": "yes but all teams play with heart and desire. have they won any world tournaments?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "white and red"
+    },
+    {
+        "q3": "no they have not won anything major.",
+        "a3": "correct although you have to accept that the game of senegal is more organized and effective high level",
+        "kgER3": {
+            "juanfran": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "correct although you have to accept that the game of @entity is more organized and effective @relation level",
+        "a3_v2": "correct although you have to accept that the game of senegal is more organized and effective high level",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "do you think they will ever win anything major?",
+        "a4": "no, not this season.",
+        "kgER4": {
+            "juanfran": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "no, not this season.",
+        "a4_v2": "no, not this season.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ever banega"
+    },
+    {
+        "q5": "who is senegals head coach?",
+        "a5": "the head of the senegal coach is the head of senegal.",
+        "kgER5": {
+            "juanfran": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "the head of the @entity @relation is the head of @entity.",
+        "a5_v2": "the head of the senegal coach is the head of senegal.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

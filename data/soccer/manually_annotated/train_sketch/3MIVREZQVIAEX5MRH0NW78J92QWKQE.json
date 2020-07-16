@@ -1,0 +1,69 @@
+[
+    {
+        "q1": "how many players are on the team?",
+        "a1": "11 at once ",
+        "kgER1": {},
+        "a1_skt": "@object at once ",
+        "a1_v2": "11 at once ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "how many of them tend goal?",
+        "a2": "only the goalie does. ",
+        "kgER2": {},
+        "a2_skt": "only the goalie does. ",
+        "a2_v2": "only the goalie does. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what about defence?",
+        "a3": "a team can line up to 10 people on defense if they want, usually its only 4",
+        "kgER3": {},
+        "a3_skt": "a team can line up to @object people on @relation if they want, usually its only @object",
+        "a3_v2": "a team can line up to 10 people on defense if they want, usually its only 4",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "usually, how many forwards are playing on a field of 21? ",
+        "a4": "argentina flag is what color ?",
+        "kgER4": {
+            "forward": [
+                "position"
+            ]
+        },
+        "a4_skt": "@entity flag is what color ?",
+        "a4_v2": "argentina flag is what color ?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "21 (first in 1930)"
+    },
+    {
+        "q5": "they say the albiceleste and has its colors of blue and white ",
+        "a5": "white and light blue",
+        "kgER5": {
+            "forward": [
+                "position"
+            ],
+            "white": [
+                "jersey color"
+            ],
+            "blue": [
+                "jersey color"
+            ],
+            "blue and white": [
+                "home jersey"
+            ]
+        },
+        "a5_skt": "@object and light @object",
+        "a5_v2": "white and light blue",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "blue and white"
+    }
+]

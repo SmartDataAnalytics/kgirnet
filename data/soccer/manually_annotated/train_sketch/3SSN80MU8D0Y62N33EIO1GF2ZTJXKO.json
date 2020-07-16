@@ -1,0 +1,88 @@
+[
+    {
+        "q1": "i love that team ",
+        "a1": "should be better than they are. ",
+        "kgER1": {},
+        "a1_skt": "should be better than they are. ",
+        "a1_v2": "should be better than they are. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "did ac milan make it to playoffs?",
+        "a2": "they finished 6th and qualified for the europa league",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they finished 6th and qualified for the europa league",
+        "a2_v2": "they finished 6th and qualified for the europa league",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "teams best coach ever?",
+        "a3": "i think ancholotti.",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think ancholotti.",
+        "a3_v2": "i think ancholotti.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ever banega"
+    },
+    {
+        "q4": "will ac milan win the league this year",
+        "a4": "definitely. they are playing hard at the moment",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "definitely. they are playing hard at the moment",
+        "a4_v2": "definitely. they are playing hard at the moment",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "who is the manager for ac milan?",
+        "a5": "gennaro gattuso",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@coach",
+        "corr_rel5": "coach",
+        "obj5": "gennaro gattuso",
+        "input_ent5": "ac milan"
+    }
+]

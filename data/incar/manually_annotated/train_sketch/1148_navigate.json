@@ -1,0 +1,46 @@
+[
+    {
+        "q1": "car i need a hotel to get some sleep is there any in the local area",
+        "a1": "travelers_lodge is 4_miles away",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "travelers_lodge",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "travelers_lodge",
+            "4_miles"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "travelers_lodge is at 333_arbol_dr",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "travelers_lodge",
+            "333_arbol_dr"
+        ]
+    },
+    {
+        "q3": "set gps for the fastest route please",
+        "a3": "there is a road_block_nearby i m afraid we will have to take a longer route i sent the info on your screen",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "traffic_info",
+        "obj3": "road_block_nearby",
+        "input_ent3": "travelers_lodge",
+        "kvr_entlist_qa3": [
+            "road_block_nearby"
+        ]
+    },
+    {
+        "q4": "thanks",
+        "a4": "anytime",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

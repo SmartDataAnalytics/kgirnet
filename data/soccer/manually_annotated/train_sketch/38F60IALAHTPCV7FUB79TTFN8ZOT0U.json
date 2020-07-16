@@ -1,0 +1,103 @@
+[
+    {
+        "q1": "do you think the us will make the next men's world cup?",
+        "a1": "yes. we have many young stars wo will be getting better every season.",
+        "kgER1": {},
+        "a1_skt": "yes. we have many young stars wo will be getting better every season.",
+        "a1_v2": "yes. we have many young stars wo will be getting better every season.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "a1 yes",
+        "a2": "the us team is poised to have a strong run for the next world cup.",
+        "kgER2": {},
+        "a2_skt": "the us team is poised to have a strong run for the next world cup.",
+        "a2_v2": "the us team is poised to have a strong run for the next world cup.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "did france win the world cup? ",
+        "a3": "i believe they did win the last world cup, but i could be wrong.",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i believe they did win the last world cup, but i could be wrong.",
+        "a3_v2": "i believe they did win the last world cup, but i could be wrong.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "france"
+    },
+    {
+        "q4": "france won the 2018 world cup",
+        "a4": "the united states can win the world cup but it lacks technique and training and france can win the next world cup ",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "the united states can win the world cup but it lacks technique and training and @entity can win the next world cup ",
+        "a4_v2": "the united states can win the world cup but it lacks technique and training and france can win the next world cup ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "2018"
+    },
+    {
+        "q5": "when will germany win the next cup?",
+        "a5": "next time they bribe officials on the oc.",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "next time they bribe officials on the oc.",
+        "a5_v2": "next time they bribe officials on the oc.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "germany"
+    }
+]

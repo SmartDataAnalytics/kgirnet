@@ -1,0 +1,100 @@
+[
+    {
+        "q1": "what does arsenals badge look like \\?",
+        "a1": "it has a cannon",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "it has a cannon",
+        "a1_v2": "it has a cannon",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "will arsenal do better this season \\?",
+        "a2": "no they have a horrid coach",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "no they have a horrid @relation",
+        "a2_v2": "no they have a horrid coach",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "arsenal"
+    },
+    {
+        "q3": "who is their coach \\?",
+        "a3": "unai emery",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "@coach",
+        "corr_rel3": "coach",
+        "obj3": "unai emery",
+        "input_ent3": "arsenal"
+    },
+    {
+        "q4": "support staff",
+        "a4": "what 's arsenal 's colours",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "what 's @entity 's colours",
+        "a4_v2": "what 's arsenal 's colours",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "red",
+        "a5": "what formation do they play \\?",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "what formation do they play \\?",
+        "a5_v2": "what formation do they play \\?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "red"
+    }
+]

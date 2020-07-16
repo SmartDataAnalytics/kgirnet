@@ -1,0 +1,81 @@
+[
+    {
+        "q1": "this is my favorite team ",
+        "a1": "uruguay is one of my favourite team, i like forlan.",
+        "kgER1": {},
+        "a1_skt": "@entity is one of my favourite team, i like forlan.",
+        "a1_v2": "uruguay is one of my favourite team, i like forlan.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "didn't he retire?",
+        "a2": "yes, he retired from the uruguay team, but he's still a legend. ",
+        "kgER2": {},
+        "a2_skt": "yes, he retired from the @entity team, but he's still a legend. ",
+        "a2_v2": "yes, he retired from the uruguay team, but he's still a legend. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "does cavani still play up front for them?",
+        "a3": "yes, he is such a threat when he has the ball. ",
+        "kgER3": {},
+        "a3_skt": "yes, he is such a threat when he has the ball. ",
+        "a3_v2": "yes, he is such a threat when he has the ball. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "edinson cavani"
+    },
+    {
+        "q4": "were you dissapointed that uruguay idn't win the world cup?",
+        "a4": "not really, i figured suarez wouldn't play his best and it proved to be true.",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "not really, i figured suarez wouldn't play his best and it proved to be true.",
+        "a4_v2": "not really, i figured suarez wouldn't play his best and it proved to be true.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "uruguay"
+    },
+    {
+        "q5": "if i was disappointed that they were eliminated they could go further but cavani was injured and suarez had no luck in front of goal ",
+        "a5": "i think soccer is the most pointless sport there is",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "i think soccer is the most pointless sport there is",
+        "a5_v2": "i think soccer is the most pointless sport there is",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "luis suarez"
+    }
+]

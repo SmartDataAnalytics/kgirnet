@@ -1,0 +1,147 @@
+[
+    {
+        "q1": "how many players in the swiss national team play in leagues outside of switzerland?",
+        "a1": "i think 5-6",
+        "kgER1": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i think @object",
+        "a1_v2": "i think 5-6",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "is switzerland a tough team to beat?",
+        "a2": "i think that if it is difficult to overcome",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i think that if it is difficult to overcome",
+        "a2_v2": "i think that if it is difficult to overcome",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "switzerland"
+    },
+    {
+        "q3": "xherdan shaqiri ",
+        "a3": "more a statement than a question.  still, xherdan shaqiri is one of switzerland's best players.  he currently plays club football for liverpool.",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "xherdan shaqiri": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a3_skt": "more a statement than a question.  still, @object is one of @entity best players.  he currently plays club football for @entity",
+        "a3_v2": "more a statement than a question.  still, xherdan shaqiri is one of switzerland's best players.  he currently plays club football for liverpool.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "xherdan shaqiri"
+    },
+    {
+        "q4": "when is switzerlands next game?",
+        "a4": "england",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "xherdan shaqiri": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a4_skt": "england",
+        "a4_v2": "england",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "is switzerland going to win the following game?",
+        "a5": "if you can win, they have someone to defend themselves with",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "xherdan shaqiri": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a5_skt": "if you can win, they have someone to @relation themselves with",
+        "a5_v2": "if you can win, they have someone to defend themselves with",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "switzerland"
+    }
+]

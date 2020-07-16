@@ -1,0 +1,163 @@
+[
+    {
+        "q1": "how popular is ac milan in italy \\?",
+        "a1": "very won 18 scudetto",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "very won @object scudetto",
+        "a1_v2": "very won 18 scudetto",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "who is the current manager for ac milan \\?",
+        "a2": "gennaro gattuso is the current coach of ac milan",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object is the current @relation of ac milan",
+        "a2_v2": "@coach is the current coach of ac milan",
+        "corr_rel2": "coach",
+        "obj2": "gennaro gattuso",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "how many years remain on gattuso 's contract \\?",
+        "a3": "three more seasons he signed a new contract in april",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "three more seasons he signed a new contract in april",
+        "a3_v2": "three more seasons he signed a new contract in april",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "gennaro gattuso"
+    },
+    {
+        "q4": "wow i had no idea gattuso was ac milan coach gattuso was a great defender !",
+        "a4": "twitter explodes as ac milan hire gennaro gattuso",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a4_skt": "twitter explodes as ac milan hire @object",
+        "a4_v2": "twitter explodes as ac milan hire gennaro gattuso",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "gennaro gattuso"
+    },
+    {
+        "q5": "was he a good hiring \\?",
+        "a5": "he 's been pretty successful so far",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a5_skt": "he 's been pretty successful so far",
+        "a5_v2": "he 's been pretty successful so far",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

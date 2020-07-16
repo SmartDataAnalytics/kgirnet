@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "has manchester united ever been relegated?",
+        "a1": "manchester united has never been relegated from the premier league.",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity has never been relegated from the premier league.",
+        "a1_v2": "manchester united has never been relegated from the premier league.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "they are one of the very few teams that hasnt",
+        "a2": "why can't manchester united be relegated from the premier league?",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "why can't @entity be relegated from the premier league?",
+        "a2_v2": "why can't manchester united be relegated from the premier league?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "i think they will win.",
+        "a3": "not sure if they will ever win",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "not sure if they will ever win",
+        "a3_v2": "not sure if they will ever win",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "manchester united are one of the best uk sides ",
+        "a4": "who is better, manchester united or chelsea?",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "who is better, @entity or @entity",
+        "a4_v2": "who is better, manchester united or chelsea?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "it's tough to say really... those two clubs are the top notch in england",
+        "a5": "manchester united is better than chelse, manchester united has better team ",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@entity is better than chelse, @entity has better team ",
+        "a5_v2": "manchester united is better than chelse, manchester united has better team ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

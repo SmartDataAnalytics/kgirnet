@@ -1,0 +1,132 @@
+[
+    {
+        "q1": "who has received the most amount of yellow cards for colombia?",
+        "a1": "wilmar barrios in the last world cup",
+        "kgER1": {
+            "yellow": [
+                "jersey color"
+            ],
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object in the last world cup",
+        "a1_v2": "wilmar barrios in the last world cup",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "yellow"
+    },
+    {
+        "q2": "did he get the most ever?",
+        "a2": "no, only in the last world cup.",
+        "kgER2": {
+            "yellow": [
+                "jersey color"
+            ],
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no, only in the last world cup.",
+        "a2_v2": "no, only in the last world cup.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ever banega"
+    },
+    {
+        "q3": "who got the most yellow cards for colombia ever? ",
+        "a3": "james rodriguez",
+        "kgER3": {
+            "yellow": [
+                "jersey color"
+            ],
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "james rodriguez",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "yellow"
+    },
+    {
+        "q4": "who is the colombia keeper?",
+        "a4": "david ospina",
+        "kgER4": {
+            "yellow": [
+                "jersey color"
+            ],
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "david ospina",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "colombia"
+    },
+    {
+        "q5": "he is a great guardian",
+        "a5": "i think his time at arsenal has been good for him.",
+        "kgER5": {
+            "yellow": [
+                "jersey color"
+            ],
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think his time at @entity has been good for him.",
+        "a5_v2": "i think his time at arsenal has been good for him.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

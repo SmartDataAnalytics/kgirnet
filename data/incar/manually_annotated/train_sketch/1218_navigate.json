@@ -1,0 +1,60 @@
+[
+    {
+        "q1": "please find me directions to a nearby place i can get some coffee",
+        "a1": "here are directions to palo_alto_cafe",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "palo_alto_cafe"
+        ]
+    },
+    {
+        "q2": "yes thanks and make sure to get me the quickest route please",
+        "a2": "there is no_traffic on the quickest route to palo_alto_cafe would you like the address",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "no_traffic",
+            "palo_alto_cafe"
+        ]
+    },
+    {
+        "q3": "yes please",
+        "a3": "the address is 436_alger_dr and it is 5_miles away",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "5_miles",
+            "436_alger_dr"
+        ]
+    },
+    {
+        "q4": "thank you can you set gps to navigate us there",
+        "a4": "gps is set for palo_alto_cafe at 436_alger_dr which is 5_miles away with no_traffic",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": [
+            "5_miles",
+            "436_alger_dr",
+            "palo_alto_cafe",
+            "no_traffic"
+        ]
+    },
+    {
+        "q5": "thank you car",
+        "a5": "you re welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

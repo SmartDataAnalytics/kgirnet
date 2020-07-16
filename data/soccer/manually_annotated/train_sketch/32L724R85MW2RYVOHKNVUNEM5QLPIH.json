@@ -1,0 +1,104 @@
+[
+    {
+        "q1": "where does the spanish soccer team play?",
+        "a1": "that depends on which spanish team you refer to. the national team plays in various arenas.",
+        "kgER1": {},
+        "a1_skt": "that depends on which spanish team you refer to. the national team plays in various arenas.",
+        "a1_v2": "that depends on which spanish team you refer to. the national team plays in various arenas.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "well in spain",
+        "a2": "mestalla is one of the spanish stadiums",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "mestalla is one of the spanish stadiums",
+        "a2_v2": "mestalla is one of the spanish stadiums",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "spain"
+    },
+    {
+        "q3": "what are spain\u2019s colours",
+        "a3": "red and yellow",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object and @object",
+        "a3_v2": "red and yellow",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "spain"
+    },
+    {
+        "q4": "i totally agree, mestalla is the stadium of valencia, and is located in spain",
+        "a4": "camp nou is another stadium.",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "camp nou is another stadium.",
+        "a4_v2": "camp nou is another stadium.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "spain"
+    },
+    {
+        "q5": "what are the best teams in spain? ",
+        "a5": "real madrid and barcelona are the best known.",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity and @entity are the best known.",
+        "a5_v2": "real madrid and barcelona are the best known.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "spain"
+    }
+]

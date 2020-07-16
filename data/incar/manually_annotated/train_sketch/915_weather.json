@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "what is the weather like in boston",
+        "a1": "what day are you interested in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "today and tomorrow",
+        "a2": "it will be between 40f - 50f on monday and 20f - 40f on tuesday in boston",
+        "input_rel2": "party",
+        "corr_rel2": "monday, tuesday",
+        "obj2": "20f,40f,50f",
+        "input_ent2": "boston",
+        "kvr_entlist_qa2": [
+            "boston",
+            "monday",
+            "20f",
+            "40f",
+            "tuesday",
+            "50f"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "happy to help",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

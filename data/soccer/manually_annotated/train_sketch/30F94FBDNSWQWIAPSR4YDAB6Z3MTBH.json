@@ -1,0 +1,113 @@
+[
+    {
+        "q1": "i admire atletico madrid",
+        "a1": "how do they compare with real madrid? ",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "how do they compare with @entity ",
+        "a1_v2": "how do they compare with real madrid? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "they usually try to defend and hold on for dear life.",
+        "a2": "i mean, atletico madrid did win the league 4 years ago...",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i mean, @entity did win the league @object years ago...",
+        "a2_v2": "i mean, atletico madrid did win the league 4 years ago...",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "white and red"
+    },
+    {
+        "q3": "the atletico madrid are very strong this year",
+        "a3": "true, they had good transfer window this summer.",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "true, they had good transfer window this summer.",
+        "a3_v2": "true, they had good transfer window this summer.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "atletico madrid"
+    },
+    {
+        "q4": "did they acquire enough talent to compete with real madrid though?",
+        "a4": "not in my opinion since real madrid can spent an infinite amount of money on any one player",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "not in my opinion since @entity can spent an infinite amount of money on any one player",
+        "a4_v2": "not in my opinion since real madrid can spent an infinite amount of money on any one player",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "does atletico madrid have any good up and coming prospects?",
+        "a5": "not that i know of",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "not that i know of",
+        "a5_v2": "not that i know of",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "atletico madrid"
+    }
+]

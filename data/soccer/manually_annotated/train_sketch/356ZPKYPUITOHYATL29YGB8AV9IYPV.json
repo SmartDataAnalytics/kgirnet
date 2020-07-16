@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "has the sweden football team made it to the world cup and if so what years \\?",
+        "a1": "yes 34 , 38 , 58 , 70 , 74 , 78 , 90 , 94 , 02 , 06 , and 18",
+        "kgER1": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes @object , @object , @object , @object , @object , @object , @object , @object , @object , @object , and @object",
+        "a1_v2": "yes @jersey , @jersey , @jersey , @jersey , @jersey , @jersey , @jersey , @jersey , @jersey , @jersey , and @jersey",
+        "corr_rel1": "world cup appearance",
+        "obj1": "12",
+        "input_ent1": "sweden"
+    },
+    {
+        "q2": "can the sweden team conquer in 22 \\?",
+        "a2": "some agreement , but it would be necessary to improve his game",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "some agreement , but it would be necessary to improve his game",
+        "a2_v2": "some agreement , but it would be necessary to improve his game",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "sweden"
+    },
+    {
+        "q3": "if i agree they should improve their game",
+        "a3": "what do you think they need to work on the most \\?",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "what do you think they need to work on the most \\?",
+        "a3_v2": "what do you think they need to work on the most \\?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "i think sweden will need to work on how to keep going without zlatan so they can get farther than this year",
+        "a4": "who is sweden 's best player \\?",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "who is @entity 's @relation \\?",
+        "a4_v2": "who is sweden 's best player \\?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "sweden"
+    },
+    {
+        "q5": "probably robin olsen",
+        "a5": "yes robin is the leader",
+        "kgER5": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "robin olsen": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "yes robin is the leader",
+        "a5_v2": "yes robin is the leader",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "robin olsen"
+    }
+]

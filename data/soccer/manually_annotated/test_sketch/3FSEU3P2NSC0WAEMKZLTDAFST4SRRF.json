@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "what are the age requirements for your team?",
+        "a1": "16 ",
+        "kgER1": {
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "@object ",
+        "a1_v2": "16 ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "do you allow females to play?",
+        "a2": "yes there are female teams",
+        "kgER2": {
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "yes there are female teams",
+        "a2_v2": "yes there are female teams",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "is female team have good performance?",
+        "a3": "of course a female has good performance. a woman can do just about anything a man can do.",
+        "kgER3": {
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "of course a female has good performance. a woman can do just about anything a man can do.",
+        "a3_v2": "of course a female has good performance. a woman can do just about anything a man can do.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "especially a belgium woman. they grow beasts of women! ",
+        "a4": "thats right, the female team is very good team",
+        "kgER4": {
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "thats right, the female team is very good team",
+        "a4_v2": "thats right, the female team is very good team",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "belgium"
+    },
+    {
+        "q5": "does the belgium coach have the skills to make them champions?",
+        "a5": "if you have skills",
+        "kgER5": {
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "if you have skills",
+        "a5_v2": "if you have skills",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "belgium"
+    }
+]

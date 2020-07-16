@@ -1,0 +1,100 @@
+[
+    {
+        "q1": "who is the real madrid ",
+        "a1": "a question for the ages.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "a question for the ages.",
+        "a1_v2": "a question for the ages.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "when does real madrid play another football match?",
+        "a2": "on wednesday, august 15, i think it's your next game",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "on wednesday, august @object i think it's your next game",
+        "a2_v2": "on wednesday, august 15, i think it's your next game",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "who\u2019s real madrid\u2019s first game ",
+        "a3": "real madrid will play atletico madrid for a cup on wednesday. ",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@entity will play @entity for a cup on wednesday. ",
+        "a3_v2": "real madrid will play atletico madrid for a cup on wednesday. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "did they have any friendlies in pre season?",
+        "a4": "if they had",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "if they had",
+        "a4_v2": "if they had",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "who is favored to win?",
+        "a5": "who does real madrid play after they play atletico madrid?",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "who does @entity play after they play @entity",
+        "a5_v2": "who does real madrid play after they play atletico madrid?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

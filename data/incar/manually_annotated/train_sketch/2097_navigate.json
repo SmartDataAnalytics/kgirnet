@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "what route can i take home to avoid traffic",
+        "a1": "there is no_traffic in this moment and we re just 5_miles away from home you will reach in few minutes",
+        "input_rel1": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type,distance",
+        "corr_rel1": "distance",
+        "obj1": "5_miles",
+        "input_ent1": "home",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "no_traffic",
+            "home"
+        ]
+    },
+    {
+        "q2": "thank you very much car please send the address on the screen and let s go there",
+        "a2": "home is located at 10_ames_street we should be there soon",
+        "input_rel2": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel2": "address",
+        "obj2": "10_ames_street",
+        "input_ent2": "home",
+        "kvr_entlist_qa2": [
+            "10_ames_street",
+            "home"
+        ]
+    },
+    {
+        "q3": "thanks car",
+        "a3": "goodbye",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

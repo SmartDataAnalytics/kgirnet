@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "what can argentina do to improve?",
+        "a1": "maybe hire a new coach",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "maybe hire a new @relation",
+        "a1_v2": "maybe hire a new coach",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "good short   argentina",
+        "a2": "yeah, but a new coach could help make it better.",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yeah, but a new @relation could help make it better.",
+        "a2_v2": "yeah, but a new coach could help make it better.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "argentina"
+    },
+    {
+        "q3": "who should the coach be?",
+        "a3": "argentina need a new coach, but im not sure who would be a good fit",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity need a new @relation but im not sure who would be a good fit",
+        "a3_v2": "argentina need a new coach, but im not sure who would be a good fit",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "how long has argentina s coach been there?",
+        "a4": "jorge sampaoli came from sevilla in 2017",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "jorge sampaoli came from sevilla in 2017",
+        "a4_v2": "jorge sampaoli came from sevilla in 2017",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "argentina"
+    },
+    {
+        "q5": "how many wins did argentina have before and after sampaoli became the coach? ",
+        "a5": "i have to look it up",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i have to look it up",
+        "a5_v2": "i have to look it up",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "argentina"
+    }
+]

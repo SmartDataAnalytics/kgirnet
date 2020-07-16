@@ -1,0 +1,77 @@
+[
+    {
+        "q1": "what has been bayern's munich's greatest achievement in the last two years? ",
+        "a1": "bayern munich is the most german team in soccer history, with 28 national titles and 18 national cups.",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity is the most @entity team in soccer history, with @object national titles and @object national cups.",
+        "a1_v2": "bayern munich is the most german team in soccer history, with 28 national titles and 18 national cups.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "what other achievements are they aspiring towards? ",
+        "a2": "niko kovac will do great things for bayern munich. they can win the league again.",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "niko kovac will do great things for @entity they can win the league again.",
+        "a2_v2": "niko kovac will do great things for bayern munich. they can win the league again.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is the coach for bayern munich?",
+        "a3": "niko kovac is bayren munich current coach.",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object is @entity current @relation",
+        "a3_v2": "@coach is @entity current coach",
+        "corr_rel3": "coach",
+        "obj3": "niko kovac",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "the bayer has always aspired to win the league",
+        "a4": "so german of them :)",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "so @entity of them :)",
+        "a4_v2": "so german of them :)",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "q1": "i completely love liverpool",
+        "a1": "why do you like liverpool?",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "why do you like @entity",
+        "a1_v2": "why do you like liverpool?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "who are liverpool's biggest rivals?",
+        "a2": "chelsea, arsenal, city ",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@entity @entity city ",
+        "a2_v2": "chelsea, arsenal, city ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "who owns liverpool?",
+        "a3": "fenway sports group",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "fenway sports group",
+        "a3_v2": "fenway sports group",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "what is the name of the liverpool forward? ",
+        "a4": "mohamed salah is one of the liverpool's forwards.",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a4_skt": "@object is one of the @entity @relation",
+        "a4_v2": "mohamed salah is one of the liverpool's forwards.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    },
+    {
+        "q5": "which country is he from?",
+        "a5": "he is from egypt.",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a5_skt": "he is from egypt.",
+        "a5_v2": "he is from egypt.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

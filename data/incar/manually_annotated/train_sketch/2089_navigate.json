@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "give me directions to the nearest starbucks",
+        "a1": "there is no starbucks nearby",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "starbucks",
+        "kvr_entlist_qa1": [
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "any other place for coffee",
+        "a2": "coupa is nearby for coffee",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "coupa",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "coupa"
+        ]
+    },
+    {
+        "q3": "can you get me the address",
+        "a3": "the address is 394_van_ness_ave i sent it on your screen",
+        "input_rel3": "address",
+        "corr_rel3": "address",
+        "obj3": "394_van_ness_ave",
+        "input_ent3": "coupa",
+        "kvr_entlist_qa3": [
+            "394_van_ness_ave"
+        ]
+    },
+    {
+        "q4": "set my gps for the quickest route now",
+        "a4": "you re all set",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

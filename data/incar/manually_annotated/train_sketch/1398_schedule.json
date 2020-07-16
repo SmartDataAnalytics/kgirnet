@@ -1,0 +1,23 @@
+[
+    {
+        "q1": "what time is my appointment today",
+        "a1": "which appointment are you referring to",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "my lab_appointment",
+        "a2": "it is at 1pm on thursday",
+        "input_rel2": "time,party,date",
+        "corr_rel2": "time",
+        "obj2": "1pm",
+        "input_ent2": "lab_appointment",
+        "kvr_entlist_qa2": [
+            "thursday",
+            "1pm"
+        ]
+    }
+]

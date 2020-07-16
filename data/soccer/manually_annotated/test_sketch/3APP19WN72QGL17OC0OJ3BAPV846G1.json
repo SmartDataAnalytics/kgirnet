@@ -1,0 +1,160 @@
+[
+    {
+        "q1": "is thibaut courtois still the goalkeeper for real madrid?",
+        "a1": "unless they traded him and didn't tell anyone then yes, he is still the goalkeeper for real madrid.  ",
+        "kgER1": {
+            "thibaut courtois": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a1_skt": "unless they traded him and didn't tell anyone then yes, he is still the @relation for @entity  ",
+        "a1_v2": "unless they traded him and didn't tell anyone then yes, he is still the goalkeeper for real madrid.  ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "thibaut courtois"
+    },
+    {
+        "q2": "how will they do with ronaldo gone?",
+        "a2": "they have a lot of other good players. it's not a big deal that he's gone. ",
+        "kgER2": {
+            "thibaut courtois": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a2_skt": "they have a lot of other good players. it's not a big deal that he's gone. ",
+        "a2_v2": "they have a lot of other good players. it's not a big deal that he's gone. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "cristiano ronaldo"
+    },
+    {
+        "q3": "one of the best goalkeepers in the world",
+        "a3": "real madrid will miss navas! courtois will struggle with real madrid. ",
+        "kgER3": {
+            "thibaut courtois": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "@entity will miss navas! courtois will struggle with @entity. ",
+        "a3_v2": "real madrid will miss navas! courtois will struggle with real madrid. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "will real madrid win la liga",
+        "a4": "real madrid has some good players",
+        "kgER4": {
+            "thibaut courtois": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "@entity has some good players",
+        "a4_v2": "real madrid has some good players",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "real madrid has always had the best goalkeepers and midfielders is the best team in the world ",
+        "a5": "who is the top player today?",
+        "kgER5": {
+            "thibaut courtois": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a5_skt": "who is the top player today?",
+        "a5_v2": "who is the top player today?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

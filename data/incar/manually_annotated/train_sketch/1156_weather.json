@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "what is the weather today",
+        "a1": "what city should i get the weather information for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "will it rain in new_york today",
+        "a2": "no it will not rain in new_york today it is going to be dry with a low of 20f and a high of 30f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "dry,20f,30f",
+        "input_ent2": "new_york",
+        "kvr_entlist_qa2": [
+            "new_york",
+            "20f",
+            "dry",
+            "today",
+            "30f",
+            "rain"
+        ]
+    },
+    {
+        "q3": "okay thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

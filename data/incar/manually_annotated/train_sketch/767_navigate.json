@@ -1,0 +1,46 @@
+[
+    {
+        "q1": "where are the rest_stops near me",
+        "a1": "we re 3_miles away from comfort_inn do you want to go there",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "comfort_inn",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "comfort_inn",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "is that the quickest route to one",
+        "a2": "that is only 3_miles away with moderate_traffic",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "rest_stop",
+        "kvr_entlist_qa2": [
+            "moderate_traffic",
+            "3_miles"
+        ]
+    },
+    {
+        "q3": "thanks can you show me the address please",
+        "a3": "the address is 753_university_ave i sent it on your map may i do anything else for you",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel3": "address",
+        "obj3": "753_university_ave",
+        "input_ent3": "comfort_in",
+        "kvr_entlist_qa3": [
+            "753_university_ave"
+        ]
+    },
+    {
+        "q4": "no that s it thanks for the help",
+        "a4": "you re welcome drive safely",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is current uruguya's coach?",
+        "a1": "don't know",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "don't know",
+        "a1_v2": "don't know",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "\u00f3scar tab\u00e1rez ",
+        "a2": "yes, oscar tabarez is uruguay's head coach.",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes, @object is uruguay's head @relation",
+        "a2_v2": "yes, oscar tabarez is uruguay's head coach.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "oscar tabarez"
+    },
+    {
+        "q3": "does he do a good job?",
+        "a3": "their efforts are good, but it should be a bit more ingenuous for situations like the one that was presented in the world cup with injured cavani ",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "their efforts are good, but it should be a bit more ingenuous for situations like the one that was presented in the world cup with injured cavani ",
+        "a3_v2": "their efforts are good, but it should be a bit more ingenuous for situations like the one that was presented in the world cup with injured cavani ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "what colors are the jerseys of uruguay?",
+        "a4": "sky blue and black",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "sky @object and black",
+        "a4_v2": "sky blue and black",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "uruguay"
+    },
+    {
+        "q5": "if so are the colors of uruguy",
+        "a5": "yes, those are the colors.",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes, those are the colors.",
+        "a5_v2": "yes, those are the colors.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

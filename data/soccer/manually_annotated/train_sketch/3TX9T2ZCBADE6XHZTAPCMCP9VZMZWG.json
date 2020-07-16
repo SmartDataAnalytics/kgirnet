@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "i like it chelsea ",
+        "a1": "i think chelsea has a great club history but they aren't my favourite team. ",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "i think @entity has a great club history but they aren't my favourite team. ",
+        "a1_v2": "i think chelsea has a great club history but they aren't my favourite team. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "who is the best player on chelsea's team?",
+        "a2": "eden hazard for sure",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "@object for sure",
+        "a2_v2": "eden hazard for sure",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "chelsea"
+    },
+    {
+        "q3": "right, he is a great player.",
+        "a3": "i would have to agree",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "i would have to agree",
+        "a3_v2": "i would have to agree",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what other players you like?",
+        "a4": "willian is good too",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "@object is good too",
+        "a4_v2": "willian is good too",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what makes willian so good?",
+        "a5": "he has great skills and pace ",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "willian": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a5_skt": "he has great skills and pace ",
+        "a5_v2": "he has great skills and pace ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "willian"
+    }
+]

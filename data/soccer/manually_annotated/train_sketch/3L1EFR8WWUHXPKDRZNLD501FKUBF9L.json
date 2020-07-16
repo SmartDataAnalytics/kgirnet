@@ -1,0 +1,110 @@
+[
+    {
+        "q1": "who is the current coach of chelsea?",
+        "a1": "maurizio sarri is an italian professional football coach who is manager of premier league club chelsea. ",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "@object is an italian professional football @relation who is manager of premier league club @entity ",
+        "a1_v2": "maurizio sarri is an italian professional football coach who is manager of premier league club chelsea. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "who was the previous coach?",
+        "a2": "conte was the coach before. ",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "conte was the @relation before. ",
+        "a2_v2": "conte was the coach before. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how well is sarri doing as a coach?",
+        "a3": "they won in the first match of the season.",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "they won in the first match of the season.",
+        "a3_v2": "they won in the first match of the season.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "maurizio sarri"
+    },
+    {
+        "q4": "that's a good start. who is their next opponent?",
+        "a4": "the chelsea plays against the arsenal",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "the @entity plays against the @entity",
+        "a4_v2": "the chelsea plays against the arsenal",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "arsenal fc",
+        "a5": "what is chelsea record going into this match?",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "what is @entity record going into this match?",
+        "a5_v2": "what is chelsea record going into this match?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "arsenal"
+    }
+]

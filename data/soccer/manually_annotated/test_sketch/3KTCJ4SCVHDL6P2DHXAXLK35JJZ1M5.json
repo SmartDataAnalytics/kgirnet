@@ -1,0 +1,94 @@
+[
+    {
+        "q1": "who is you number 9 ",
+        "a1": "higuain",
+        "kgER1": {
+            "11 \\( first in 1934 \\)": [
+                "world cup appearance"
+            ]
+        },
+        "a1_skt": "higuain",
+        "a1_v2": "higuain",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "what position does higuain play?",
+        "a2": "he plays striker.",
+        "kgER2": {
+            "11 \\( first in 1934 \\)": [
+                "world cup appearance"
+            ]
+        },
+        "a2_skt": "he plays striker.",
+        "a2_v2": "he plays striker.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "gonzalo higuain"
+    },
+    {
+        "q3": "what club does he play far?",
+        "a3": "a: milan.",
+        "kgER3": {
+            "11 \\( first in 1934 \\)": [
+                "world cup appearance"
+            ]
+        },
+        "a3_skt": "a: milan.",
+        "a3_v2": "a: milan.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "argentina deserves to win a world cup with messi ",
+        "a4": "has messi ever won a world cup?",
+        "kgER4": {
+            "11 \\( first in 1934 \\)": [
+                "world cup appearance"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "has messi ever won a world cup?",
+        "a4_v2": "has messi ever won a world cup?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "argentina"
+    },
+    {
+        "q5": "nope. messi has never won a world cup.",
+        "a5": "do you think argentina will win this year?",
+        "kgER5": {
+            "11 \\( first in 1934 \\)": [
+                "world cup appearance"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "do you think @entity will win this year?",
+        "a5_v2": "do you think argentina will win this year?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "lionel messi"
+    }
+]

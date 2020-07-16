@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "i absolutely adore colombia",
+        "a1": "who is their best striker? ",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "who is their best striker? ",
+        "a1_v2": "who is their best striker? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "colombia"
+    },
+    {
+        "q2": "carlos valderrama",
+        "a2": "he was one of the best midfielder i ever seen.",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "he was one of the best @relation i ever seen.",
+        "a2_v2": "he was one of the best midfielder i ever seen.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "carlos sanchez"
+    },
+    {
+        "q3": "what other good players does columbia have?",
+        "a3": "i like james rodriguez.",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i like @object",
+        "a3_v2": "i like @midfielder",
+        "corr_rel3": "midfielder",
+        "obj3": "james rodriguez",
+        "input_ent3": "colombia"
+    },
+    {
+        "q4": "any other creative forward / midfielder they have?",
+        "a4": "colombia has many more forwards.",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a4_skt": "@entity has many more @relation",
+        "a4_v2": "colombia has many more forwards.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "midfielder"
+    },
+    {
+        "q5": "can you name the colombian players who will play at the world cup 2018?",
+        "a5": "yes as the wc is over it is easy to do so.",
+        "kgER5": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a5_skt": "yes as the wc is over it is easy to do so.",
+        "a5_v2": "yes as the wc is over it is easy to do so.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "2018"
+    }
+]

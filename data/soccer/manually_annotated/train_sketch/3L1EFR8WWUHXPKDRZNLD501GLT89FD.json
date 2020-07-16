@@ -1,0 +1,104 @@
+[
+    {
+        "q1": "is very good ",
+        "a1": "colombia is a very good team.",
+        "kgER1": {},
+        "a1_skt": "@entity is a very good team.",
+        "a1_v2": "colombia is a very good team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "has colombia always been a very good team?",
+        "a2": "if i always hold it",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "if i always hold it",
+        "a2_v2": "if i always hold it",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "colombia"
+    },
+    {
+        "q3": "who is star player in colombia?",
+        "a3": "i think radamel falcao",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think @object",
+        "a3_v2": "i think radamel falcao",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "colombia"
+    },
+    {
+        "q4": "can falcao win it big?",
+        "a4": "i did not understand the question",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i did not understand the question",
+        "a4_v2": "i did not understand the question",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "emre can"
+    },
+    {
+        "q5": "arch rivalry of colombia in football?",
+        "a5": "brazil",
+        "kgER5": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity",
+        "a5_v2": "brazil",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "colombia"
+    }
+]

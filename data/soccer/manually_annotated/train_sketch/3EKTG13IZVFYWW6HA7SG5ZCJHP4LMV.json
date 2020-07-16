@@ -1,0 +1,90 @@
+[
+    {
+        "q1": "has psg ever been relegated \\?",
+        "a1": "no",
+        "kgER1": {},
+        "a1_skt": "no",
+        "a1_v2": "no",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ever banega"
+    },
+    {
+        "q2": "why do you think this is \\?",
+        "a2": "because they are the richest club in the capital city",
+        "kgER2": {},
+        "a2_skt": "because they are the richest club in the @relation",
+        "a2_v2": "because they are the richest club in the capital city",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "what color is paris sg \\?",
+        "a3": "its colors are blue and red",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "its colors are @object and @object",
+        "a3_v2": "its colors are blue and red",
+        "corr_rel3": "jersey color",
+        "obj3": "blue",
+        "input_ent3": "paris sg"
+    },
+    {
+        "q4": "who is your objective player \\?",
+        "a4": "neymar",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "neymar",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "if it is neymar",
+        "a5": "yes neymar and i also like mbppe",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes @object and i also like mbppe",
+        "a5_v2": "yes neymar and i also like mbppe",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "neymar"
+    }
+]

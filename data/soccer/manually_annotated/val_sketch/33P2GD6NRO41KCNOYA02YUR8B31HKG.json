@@ -1,0 +1,115 @@
+[
+    {
+        "q1": "i admire arsenal",
+        "a1": "yes, arsenal is a good team.",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes, @entity is a good team.",
+        "a1_v2": "yes, arsenal is a good team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "do you like their chances to win the fa cup this year?",
+        "a2": "yes, they have a strong side. ",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes, they have a strong side. ",
+        "a2_v2": "yes, they have a strong side. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "arsenal is loaded with top talent ",
+        "a3": "i know! mesut ozil is one of my favorites on the team, he is a top talent.",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i know! @object is one of my favorites on the team, he is a top talent.",
+        "a3_v2": "i know! mesut ozil is one of my favorites on the team, he is a top talent.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "arsenal"
+    },
+    {
+        "q4": "will they beat chelsea this weekend?",
+        "a4": "yes, they will.",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "yes, they will.",
+        "a4_v2": "yes, they will.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "chelsea"
+    },
+    {
+        "q5": "what do you think will be the end score of the match?",
+        "a5": "4-1 unless he shows up.",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "@object unless he shows up.",
+        "a5_v2": "4-1 unless he shows up.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

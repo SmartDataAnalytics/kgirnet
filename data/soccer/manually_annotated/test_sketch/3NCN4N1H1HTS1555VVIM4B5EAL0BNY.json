@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "real madrid has the most expensive players on their team, don't they?",
+        "a1": "no. the most expensive player neymar plays for psg.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "no. the most expensive player @object plays for psg.",
+        "a1_v2": "no. the most expensive player neymar plays for psg.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "who will be the next \"galactico\" to go to real?",
+        "a2": "they are trying to get eden hazard.",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they are trying to get @object",
+        "a2_v2": "they are trying to get eden hazard.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "do you think that's a good idea?",
+        "a3": "i think that any idea i have is a good idea but i don't see how that pertains to real madrid in any way, shape, or form. please follow the format to make it easier for the rest of us. ",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think that any idea i have is a good idea but i don't see how that pertains to @entity in any way, shape, or form. please follow the format to make it easier for the rest of us. ",
+        "a3_v2": "i think that any idea i have is a good idea but i don't see how that pertains to real madrid in any way, shape, or form. please follow the format to make it easier for the rest of us. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "who was real madrid's best player of all time?",
+        "a4": "real madrid flag is what color ?  ",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity flag is what color ?  ",
+        "a4_v2": "real madrid flag is what color ?  ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "how much money do the real madrid players make?",
+        "a5": "more than other teams",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "more than other teams",
+        "a5_v2": "more than other teams",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

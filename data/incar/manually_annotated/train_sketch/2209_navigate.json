@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "where is the closest rest_stop with no_traffic",
+        "a1": "only one hotel is nearby hotel_keen and a road block is being reported on the route do you want the address",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "hotel_keen",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "hotel_keen"
+        ]
+    },
+    {
+        "q2": "yes please send me its position on the screen and pick the quickest route to reach there thank you",
+        "a2": "alright you can find hotel_keen at 578_arbol_dr which is 2_miles away",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "address",
+        "obj2": "578_arbol_dr",
+        "input_ent2": "hotel_keen",
+        "kvr_entlist_qa2": [
+            "hotel_keen",
+            "2_miles",
+            "578_arbol_dr"
+        ]
+    },
+    {
+        "q3": "thanks for the help",
+        "a3": "you re welcome drive carefully and sleep well",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

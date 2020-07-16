@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "has italy's national team ever won the world cup?",
+        "a1": "yes 4 times",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes @object times",
+        "a1_v2": "yes @number_of_world_cup_champion times",
+        "corr_rel1": "number of world cup champion",
+        "obj1": "4",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "can italy play at that level this year",
+        "a2": "no",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no",
+        "a2_v2": "no",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "who was your favourite player from italys 2006 team?",
+        "a3": "who's the best player in italy?",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "who's the @relation in italy?",
+        "a3_v2": "who's the best player in italy?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "2006"
+    },
+    {
+        "q4": "is buffon the best player?",
+        "a4": "i don't think he is anymore.",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i don't think he is anymore.",
+        "a4_v2": "i don't think he is anymore.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "gianluigi buffon"
+    },
+    {
+        "q5": "buffon is the best player and italy is a very good team he missed qualifying for the 2018 world cup ",
+        "a5": "then he can't be that good.",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "then he can't be that good.",
+        "a5_v2": "then he can't be that good.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "2018"
+    }
+]

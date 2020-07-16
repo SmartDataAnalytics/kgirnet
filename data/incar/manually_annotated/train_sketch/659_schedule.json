@@ -1,0 +1,15 @@
+[
+    {
+        "q1": "can you find out who is joining me and what day my optometrist_appointment is at",
+        "a1": "your optometrist_appointment is on the_3rd with marie",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "date,party",
+        "obj1": "the_3rd,marie",
+        "input_ent1": "optometrist_appointment",
+        "kvr_entlist_qa1": [
+            "the_3rd",
+            "optometrist_appointment",
+            "marie"
+        ]
+    }
+]

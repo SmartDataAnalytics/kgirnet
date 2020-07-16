@@ -1,0 +1,49 @@
+[
+    {
+        "q1": "what s the weekly weather report for the city",
+        "a1": "what city are you interested in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i am interested in redwood_city",
+        "a2": "this week in redwood_city shows rain frost snow drizzle fog and overcast skies",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "frost,rain,drizzle",
+        "input_ent2": "redwood_city",
+        "kvr_entlist_qa2": [
+            "frost",
+            "redwood_city",
+            "rain",
+            "drizzle",
+            "week",
+            "snow",
+            "overcast"
+        ]
+    },
+    {
+        "q3": "what day will it be foggy",
+        "a3": "it will be foggy on friday",
+        "input_rel3": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel3": "friday",
+        "obj3": "foggy",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "foggy",
+            "friday"
+        ]
+    },
+    {
+        "q4": "thank you",
+        "a4": "anytime",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

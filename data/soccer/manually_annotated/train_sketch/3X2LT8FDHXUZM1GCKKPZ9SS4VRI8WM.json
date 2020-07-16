@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is brazils current manager \\?",
+        "a1": "adenor leonardo bacchi , commonly known as tite , is a brazilian professional football coach and former player who is the current manager of the brazil national team",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object , commonly known as tite , is a @entityian professional football @relation and former player who is the current manager of the @entity national team",
+        "a1_v2": "@coach , commonly known as tite , is a @entityian professional football coach and former player who is the current manager of the @entity national team",
+        "corr_rel1": "coach",
+        "obj1": "adenor leonardo bacchi",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "dunga was a good manager",
+        "a2": "yes he was",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes he was",
+        "a2_v2": "yes he was",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "was dunga the best \\?",
+        "a3": "yes , dunga is a good manager , and the current manager is tite",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes , dunga is a good manager , and the current manager is tite",
+        "a3_v2": "yes , dunga is a good manager , and the current manager is tite",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "if it was dunga a good coach tite megusta",
+        "a4": "question makes no sense",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "question makes no sense",
+        "a4_v2": "question makes no sense",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "do you think brazil has a great team right now \\?",
+        "a5": "no , brazil has a lot of talented individuals right now , but they do n't always gel as a team",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "no , @entity has a lot of talented individuals right now , but they do n't always gel as a team",
+        "a5_v2": "no , brazil has a lot of talented individuals right now , but they do n't always gel as a team",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "brazil"
+    }
+]

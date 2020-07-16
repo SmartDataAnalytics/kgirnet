@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i like the team barcelona",
+        "a1": "they many fans all across the europe.",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they many fans all across the europe.",
+        "a1_v2": "they many fans all across the europe.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "across the world actually, they are very popular. ",
+        "a2": "i can confirm. i am in canada and there are several barcelona fans here",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i can confirm. i am in canada and there are several @entity fans here",
+        "a2_v2": "i can confirm. i am in canada and there are several barcelona fans here",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "well stacked team, messi, dembele, suarez, coutinho",
+        "a3": "what do you think of marc-andr\u00e9 ter stegen. gerard piqu\u00e9 ivan rakitic. samuel umtiti.",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "what do you think of @object gerard piqu\u00e9 @object @object",
+        "a3_v2": "what do you think of marc-andr\u00e9 ter stegen. gerard piqu\u00e9 ivan rakitic. samuel umtiti.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "luis suarez"
+    },
+    {
+        "q4": "what colour is barcelona\u2019s kit",
+        "a4": "it's blue and red",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "it's @object and @object",
+        "a4_v2": "it's blue and red",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "what colour is the away kit?",
+        "a5": "it is green.",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "it is green.",
+        "a5_v2": "it is green.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "what animal is their mascot?",
+        "a1": "i think tiger",
+        "kgER1": {
+            "danilo": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "i think tiger",
+        "a1_v2": "i think tiger",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "no, it's not",
+        "a2": "ok if you say so.",
+        "kgER2": {
+            "danilo": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "ok if you say so.",
+        "a2_v2": "ok if you say so.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how does the mexican national side compare with the american? ",
+        "a3": "they are better than us",
+        "kgER3": {
+            "danilo": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "they are better than us",
+        "a3_v2": "they are better than us",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is their current captain?",
+        "a4": "andr\u00e9s guardado is the captain  ",
+        "kgER4": {
+            "danilo": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "@object is the @relation  ",
+        "a4_v2": "@captain is the captain  ",
+        "corr_rel4": "captain",
+        "obj4": "andres guardado",
+        "input_ent4": "mexico"
+    },
+    {
+        "q5": "who is the coach? ",
+        "a5": "gerardo martino is the head coach",
+        "kgER5": {
+            "danilo": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "@object is the head @relation",
+        "a5_v2": "@coach is the head coach",
+        "corr_rel5": "coach",
+        "obj5": "gerardo martino",
+        "input_ent5": "mexico"
+    }
+]

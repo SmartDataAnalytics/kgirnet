@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i really love the team real madrid",
+        "a1": "me too.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "me too.",
+        "a1_v2": "me too.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "which is your favorite player ?",
+        "a2": "i like several players on real madrid.",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i like several players on @entity",
+        "a2_v2": "i like several players on real madrid.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "tell me which players these are.",
+        "a3": "i think it's the most complete team when i was with ronaldo christian",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think it's the most complete team when i was with ronaldo christian",
+        "a3_v2": "i think it's the most complete team when i was with ronaldo christian",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "real madrid   flag what i  color? ",
+        "a4": "their flag is blue and white with a circle and crown on it",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "their flag is @object and @object with a circle and crown on it",
+        "a4_v2": "their flag is blue and white with a circle and crown on it",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "what colour is the home kit?",
+        "a5": "white",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@jersey_color",
+        "corr_rel5": "jersey color",
+        "obj5": "white",
+        "input_ent5": "real madrid"
+    }
+]

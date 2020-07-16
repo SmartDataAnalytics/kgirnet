@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "how many trainings do you have in a year?",
+        "a1": "who knows? but being the best team in africa one can assume that they train regularly. ",
+        "kgER1": {},
+        "a1_skt": "who knows? but being the best team in africa one can assume that they train regularly. ",
+        "a1_v2": "who knows? but being the best team in africa one can assume that they train regularly. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "are you sure senegal is the best team in africa?",
+        "a2": "quite",
+        "kgER2": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "quite",
+        "a2_v2": "quite",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "senegal"
+    }
+]

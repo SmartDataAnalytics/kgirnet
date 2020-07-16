@@ -1,0 +1,46 @@
+[
+    {
+        "q1": "find me the quickest route to the gas_station",
+        "a1": "there is a chevron 3_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi,distance",
+        "obj1": "chevron,3_miles",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "chevron",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "is chevron the closest if so send me the address",
+        "a2": "chevron is the closest at 783_arcadia_pl",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "783_arcadia_pl",
+        "input_ent2": "chevron",
+        "kvr_entlist_qa2": [
+            "chevron",
+            "783_arcadia_pl"
+        ]
+    },
+    {
+        "q3": "then pick a quick route and let s go there thank you",
+        "a3": "taking you to chevron",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel3": "poi",
+        "obj3": "chevron",
+        "input_ent3": "gas_station",
+        "kvr_entlist_qa3": [
+            "chevron"
+        ]
+    },
+    {
+        "q4": "great thanks again",
+        "a4": "you are welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

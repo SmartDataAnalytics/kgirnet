@@ -1,0 +1,78 @@
+[
+    {
+        "q1": "what colours does the barcelona football team wear?",
+        "a1": "claret and blue vertical stripe shirts, blue shorts.",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "claret and @object vertical stripe shirts, @object shorts.",
+        "a1_v2": "claret and blue vertical stripe shirts, blue shorts.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "i like those colors",
+        "a2": "i agree with that, the uniform wears those colors and it's one of my favorites ",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i agree with that, the uniform wears those colors and it's one of my favorites ",
+        "a2_v2": "i agree with that, the uniform wears those colors and it's one of my favorites ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how much does their strip cost? ",
+        "a3": "i've seen that their uniforms may cost $90.00.",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i've seen that their uniforms may cost $90.00.",
+        "a3_v2": "i've seen that their uniforms may cost $90.00.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "do you prefer the home or away kit?",
+        "a4": "i prefer the traditional colors  of claret and blue.",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i prefer the traditional colors  of claret and @object",
+        "a4_v2": "i prefer the traditional colors  of claret and blue.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    }
+]

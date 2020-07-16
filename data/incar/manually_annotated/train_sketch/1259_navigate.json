@@ -1,0 +1,26 @@
+[
+    {
+        "q1": "find me the address of a shopping_center",
+        "a1": "we re near town_and_country and midtown_shopping_center i suggest you the last one because is nearer and there is less traffic on the way",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "town_and_country,midtown_shopping_center",
+        "input_ent1": "shopping_center",
+        "kvr_entlist_qa1": [
+            "town_and_country",
+            "midtown_shopping_center"
+        ]
+    },
+    {
+        "q2": "then i will trust you car don t make me regret it or there will be no more gasoline for you please pick the shortest distance and let s go there thank you",
+        "a2": "okay heading to midtown_shopping_center at 338_alester_ave",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "midtown_shopping_center,338_alester_ave",
+        "input_ent2": "shopping_center",
+        "kvr_entlist_qa2": [
+            "midtown_shopping_center",
+            "338_alester_ave"
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "has the senegal football team won a tournament and if so what years?",
+        "a1": "i think they haven't won in recent years. ",
+        "kgER1": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i think they haven't won in recent years. ",
+        "a1_v2": "i think they haven't won in recent years. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "senegal"
+    },
+    {
+        "q2": "who is their best player currently?",
+        "a2": "the best player in senegal is sadio mane",
+        "kgER2": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "the @relation in @entity is @object",
+        "a2_v2": "the best player in senegal is sadio mane",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how old is sadio mane?",
+        "a3": "sadio mane is 26 years old.",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "sadio mane": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object is @object years old.",
+        "a3_v2": "sadio mane is 26 years old.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "sadio mane"
+    },
+    {
+        "q4": "are there any other senegal players which are just as good as sadio mane?",
+        "a4": "no sengal does not have alot of stars",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "sadio mane": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "no @entity does not have alot of stars",
+        "a4_v2": "no sengal does not have alot of stars",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "sadio mane"
+    }
+]

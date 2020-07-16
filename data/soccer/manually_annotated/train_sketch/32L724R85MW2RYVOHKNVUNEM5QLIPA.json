@@ -1,0 +1,115 @@
+[
+    {
+        "q1": "i believe in this team",
+        "a1": "uruguay plays as a team and fight to the end of the match.",
+        "kgER1": {},
+        "a1_skt": "@entity plays as a team and fight to the end of the match.",
+        "a1_v2": "uruguay plays as a team and fight to the end of the match.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "when was the last time that uruguay lost a match to this team?",
+        "a2": "lost a match to what team exactly? they lost their last match in the world cup.",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "lost a match to what team exactly? they lost their last match in the world cup.",
+        "a2_v2": "lost a match to what team exactly? they lost their last match in the world cup.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "uruguay"
+    },
+    {
+        "q3": "who is uruguay's best active player?",
+        "a3": "luis su\u00e1rez",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "luis su\u00e1rez",
+        "a3_v2": "luis su\u00e1rez",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "uruguay"
+    },
+    {
+        "q4": "edison cavani",
+        "a4": "is cavani not going to be affected if he continues playing with neymar in psg going forward?",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "is cavani not going to be affected if he continues playing with @object in psg going @relation",
+        "a4_v2": "is cavani not going to be affected if he continues playing with neymar in psg going forward?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "edinson cavani"
+    },
+    {
+        "q5": "i think that cavani will be positively affected by neymar's presence.",
+        "a5": "neymar is a baby",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object is a baby",
+        "a5_v2": "neymar is a baby",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "neymar"
+    }
+]

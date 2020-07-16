@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is the youngest ever goalscorer for croatia?",
+        "a1": "alen halilovic",
+        "kgER1": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "alen halilovic",
+        "a1_v2": "alen halilovic",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "croatia"
+    },
+    {
+        "q2": "how many goals did he score for croatia?",
+        "a2": "he hasn't scored any goals for croatia yet but he still has some time.",
+        "kgER2": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "he hasn't scored any @relation for @entity yet but he still has some time.",
+        "a2_v2": "he hasn't scored any goals for croatia yet but he still has some time.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "croatia"
+    },
+    {
+        "q3": "could croatia beat last year's best team?",
+        "a3": "not really, they lost against france",
+        "kgER3": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "not really, they lost against @entity",
+        "a3_v2": "not really, they lost against france",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "croatia"
+    },
+    {
+        "q4": "it seems to me that croatia could have won this 2018 world cup",
+        "a4": "honestly, croatia needed more team trust like how france did. then they could have won",
+        "kgER4": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "honestly, @entity needed more team trust like how @entity did. then they could have won",
+        "a4_v2": "honestly, croatia needed more team trust like how france did. then they could have won",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "2018"
+    },
+    {
+        "q5": "do you think they will have a better chance at the next world cup?",
+        "a5": "if you play like in this world cup in 2018, you can win croatia the next world cup ",
+        "kgER5": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "if you play like in this world cup in @object you can win @entity the next world cup ",
+        "a5_v2": "if you play like in this world cup in 2018, you can win croatia the next world cup ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "q1": "what is the date agenda and time of my next meeting",
+        "a1": "for which one i have two in your calendar one on the_14th to discuss_the_company_picnic at 10am the other is the_18th to go_over_budget at 3pm",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,agenda,date",
+        "obj1": "10am,the_14th,the_18th,discuss_the_company_picnic,3pm,go_over_budget",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "10am",
+            "the_14th",
+            "the_18th",
+            "discuss_the_company_picnic",
+            "3pm",
+            "go_over_budget"
+        ]
+    }
+]

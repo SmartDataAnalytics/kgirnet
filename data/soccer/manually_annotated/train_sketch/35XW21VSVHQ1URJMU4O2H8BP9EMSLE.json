@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who is your favorite player on manchester united?",
+        "a1": "ever since rooney left, i don't have a favorite.",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "ever since rooney left, i don't have a favorite.",
+        "a1_v2": "ever since rooney left, i don't have a favorite.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "is manchester untied the most popular team in england? ",
+        "a2": "i'm not sure but manchester untied the most popular english team around the world.",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i'm not sure but @entity the most popular english team around the world.",
+        "a2_v2": "i'm not sure but manchester untied the most popular english team around the world.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "manchester united"
+    },
+    {
+        "q3": "do you know a lot of people who like them?",
+        "a3": "yes, family friends, more than anything ",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "yes, family friends, more than anything ",
+        "a3_v2": "yes, family friends, more than anything ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "who? ",
+        "a4": "manchester united are one of the greatest teams in the world ",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity are one of the greatest teams in the world ",
+        "a4_v2": "manchester united are one of the greatest teams in the world ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what does make them so great?",
+        "a5": " manchester united are the world's most valuable soccer club for a second consecutive year, according to the annual list published by forbes ...",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": " @entity are the world's most valuable soccer club for a second consecutive year, according to the annual list published by forbes ...",
+        "a5_v2": " manchester united are the world's most valuable soccer club for a second consecutive year, according to the annual list published by forbes ...",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

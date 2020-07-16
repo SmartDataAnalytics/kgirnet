@@ -1,0 +1,78 @@
+[
+    {
+        "q1": "love ",
+        "a1": "i like women's football.",
+        "kgER1": {},
+        "a1_skt": "i like women's football.",
+        "a1_v2": "i like women's football.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "what is your favorite women's football team?",
+        "a2": "the united states women's team is very good, much better than their men's team. ",
+        "kgER2": {},
+        "a2_skt": "the united states women's team is very good, much better than their men's team. ",
+        "a2_v2": "the united states women's team is very good, much better than their men's team. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "i like maths subject",
+        "a3": "are you kidding me?",
+        "kgER3": {},
+        "a3_skt": "are you kidding me?",
+        "a3_v2": "are you kidding me?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "do you think france can repeat as world cup winners?",
+        "a4": "no way, it wasnt french players that won anyway. those guys will be on a different team next cup.",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "no way, it wasnt french players that won anyway. those guys will be on a different team next cup.",
+        "a4_v2": "no way, it wasnt french players that won anyway. those guys will be on a different team next cup.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "france"
+    },
+    {
+        "q5": "how could they be on a different team? they are from france.",
+        "a5": "if they change their nationality maybe.",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "if they change their nationality maybe.",
+        "a5_v2": "if they change their nationality maybe.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "france"
+    }
+]

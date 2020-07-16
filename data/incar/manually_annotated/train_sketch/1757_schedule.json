@@ -1,0 +1,30 @@
+[
+    {
+        "q1": "when and where is my conference and who is attending",
+        "a1": "for which one i have two one at 1pm on the_15th and one at 5pm on the_20th",
+        "input_rel1": "data,time,party",
+        "corr_rel1": "time",
+        "obj1": "1pm",
+        "input_ent1": "conference",
+        "kvr_entlist_qa1": [
+            "the_15th",
+            "the_20th",
+            "1pm",
+            "5pm"
+        ]
+    },
+    {
+        "q2": "5pm on the_20th",
+        "a2": "your conference at 5pm on the_20th is with the executive_team",
+        "input_rel2": "date,time,party",
+        "corr_rel2": "date",
+        "obj2": "the_20th",
+        "input_ent2": "conference",
+        "kvr_entlist_qa2": [
+            "conference",
+            "the_20th",
+            "executive_team",
+            "5pm"
+        ]
+    }
+]

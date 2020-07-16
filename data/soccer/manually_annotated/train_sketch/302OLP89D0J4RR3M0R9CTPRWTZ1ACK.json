@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "were you happy when france won the 2018 world cup \\?",
+        "a1": "very good team",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "2018"
+    },
+    {
+        "q2": "they were very good how many years had it been since france had won \\?",
+        "a2": "20 years",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object years",
+        "a2_v2": "20 years",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "france"
+    },
+    {
+        "q3": "yes exactly 20 years in the year 1998",
+        "a3": "do you think they can win the euros in 2020 \\?",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "do you think they can win the euros in @object \\?",
+        "a3_v2": "do you think they can win the euros in 2020 \\?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "1998"
+    },
+    {
+        "q4": "how many world cups has france won \\?",
+        "a4": "france has one 2 world cups in 1998 and 2018",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity has one @object world cups in @object and @object018",
+        "a4_v2": "@entity has one @number_of_world_cup_champion world cups in @number_of_world_cup_champion and @number_of_world_cup_champion018",
+        "corr_rel4": "number of world cup champion",
+        "obj4": "2",
+        "input_ent4": "france"
+    },
+    {
+        "q5": "france has a lot of wins",
+        "a5": "do you think france can defeat the us \\?",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "do you think @entity can defeat the us \\?",
+        "a5_v2": "do you think france can defeat the us \\?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "france"
+    }
+]

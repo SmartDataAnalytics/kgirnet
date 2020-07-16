@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "show me this week s forecast",
+        "a1": "for which city would you like to know the forecast",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i want to know if there will be frost in downtown_chicago this week",
+        "a2": "frost is not predicted on any day this week in downtown_chicago",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "week",
+            "frost",
+            "downtown_chicago"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

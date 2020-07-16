@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "find me a nearby coffee shop where i can sit and have some coffee",
+        "a1": "the palo_alto_cafe is located at 436_alger_dr it is 2_miles away with moderate_traffic",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "palo_alto_cafe",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "436_alger_dr",
+            "2_miles",
+            "moderate_traffic",
+            "palo_alto_cafe"
+        ]
+    },
+    {
+        "q2": "that s great please send me its address on screen and pick the quickest way for me",
+        "a2": "i sent the info on your screen you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

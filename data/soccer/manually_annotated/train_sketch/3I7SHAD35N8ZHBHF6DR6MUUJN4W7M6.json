@@ -1,0 +1,80 @@
+[
+    {
+        "q1": "how many defenders are currently in the national team of italy?",
+        "a1": "four at the moment.",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a1_skt": "four at the moment.",
+        "a1_v2": "four at the moment.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "can you name a defender?",
+        "a2": "giorgio chiellini is a defender and also the captain",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a2_skt": "@object is a @relation and also the captain",
+        "a2_v2": "giorgio chiellini is a defender and also the captain",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "defender"
+    },
+    {
+        "q3": "can italy finally qualify for wc 2022? ",
+        "a3": "yes, they can and should qualify in 2022.",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a3_skt": "yes, they can and should qualify in 2022.",
+        "a3_v2": "yes, they can and should qualify in 2022.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "italy"
+    }
+]

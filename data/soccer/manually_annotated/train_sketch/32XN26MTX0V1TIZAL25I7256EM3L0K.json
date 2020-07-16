@@ -1,0 +1,79 @@
+[
+    {
+        "q1": "i really like this team",
+        "a1": "why do you like them?",
+        "kgER1": {},
+        "a1_skt": "why do you like them?",
+        "a1_v2": "why do you like them?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "what does ac stand for?",
+        "a2": "athletic club",
+        "kgER2": {},
+        "a2_skt": "athletic club",
+        "a2_v2": "athletic club",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "who is the best player on ac milan?",
+        "a3": "i don't know currently, bur ronaldinho and kaka were the best ones a few years ago.",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i don't know currently, bur ronaldinho and kaka were the best ones a few years ago.",
+        "a3_v2": "i don't know currently, bur ronaldinho and kaka were the best ones a few years ago.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ac milan"
+    },
+    {
+        "q4": "why do you think kaka is is one of the best?",
+        "a4": "overall ball control was quite excellent.",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "overall ball control was quite excellent.",
+        "a4_v2": "overall ball control was quite excellent.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "why kaka is the only best player in ac milan football history?",
+        "a5": "his scoring on and off the field.",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "his scoring on and off the @object",
+        "a5_v2": "his scoring on and off the field.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ac milan"
+    }
+]

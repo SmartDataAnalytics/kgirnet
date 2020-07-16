@@ -1,0 +1,104 @@
+[
+    {
+        "q1": "hello, how long have you been playing soccar?",
+        "a1": "10 years ago",
+        "kgER1": {
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a1_skt": "@object years ago",
+        "a1_v2": "10 years ago",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who is the barcelona's coach currently?",
+        "a2": "valverde. ",
+        "kgER2": {
+            "yellow": [
+                "jersey color"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "@coach",
+        "corr_rel2": "coach",
+        "obj2": "ernesto valverde",
+        "input_ent2": "barcelona"
+    },
+    {
+        "q3": "how is the team doing under valverde?",
+        "a3": "in my opinion, not very well.",
+        "kgER3": {
+            "yellow": [
+                "jersey color"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "in my opinion, not very well.",
+        "a3_v2": "in my opinion, not very well.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "federico valverde"
+    },
+    {
+        "q4": "is barcelona one of the top teams?",
+        "a4": "yes, they are one of the top teams.",
+        "kgER4": {
+            "yellow": [
+                "jersey color"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "yes, they are one of the top teams.",
+        "a4_v2": "yes, they are one of the top teams.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "will barca win the league this year?",
+        "a5": "with the squad they currently have they have every chance of winnng",
+        "kgER5": {
+            "yellow": [
+                "jersey color"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "with the squad they currently have they have every chance of winnng",
+        "a5_v2": "with the squad they currently have they have every chance of winnng",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

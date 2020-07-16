@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "when did italy win the world cup?",
+        "a1": "they won four times, 1934, 1938, 1982 and 2006.",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they won four times, @object @object @object and @object",
+        "a1_v2": "they won four times, @world_cup_champions @world_cup_champions @world_cup_champions and @world_cup_champions",
+        "corr_rel1": "world cup champions",
+        "obj1": "2006",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "how's their record in european cup?",
+        "a2": "in 2006 but this time the record",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "in @object but this time the record",
+        "a2_v2": "in 2006 but this time the record",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "has italy ever won?",
+        "a3": "if in 2006 they won the world",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "if in @object they won the world",
+        "a3_v2": "if in 2006 they won the world",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "italy"
+    },
+    {
+        "q4": "who were they up against in the finals again?",
+        "a4": "france",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity",
+        "a4_v2": "france",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "do italian fans like how italy is playing at the moment? ",
+        "a5": "i think that italy is really underwhelming right now.",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think that @entity is really underwhelming right now.",
+        "a5_v2": "i think that italy is really underwhelming right now.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "italy"
+    }
+]

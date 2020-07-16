@@ -1,0 +1,82 @@
+[
+    {
+        "q1": "what is the most recent score for this team",
+        "a1": "give me a team and i'll let you know.",
+        "kgER1": {},
+        "a1_skt": "give me a team and i'll let you know.",
+        "a1_v2": "give me a team and i'll let you know.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "what is the nost recent score for columbia?",
+        "a2": "thier most recent score at this years world cup was a one to one draw with england.",
+        "kgER2": {},
+        "a2_skt": "thier most recent score at this years world cup was a one to one draw with england.",
+        "a2_v2": "thier most recent score at this years world cup was a one to one draw with england.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "yerry mina is the recent scorer for columbia",
+        "a3": "yerri mina had a great world cup ",
+        "kgER3": {
+            "yerry mina": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "yerri mina had a great world cup ",
+        "a3_v2": "yerri mina had a great world cup ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "yerry mina"
+    },
+    {
+        "q4": "if he played a great world",
+        "a4": "what's your favorite team?",
+        "kgER4": {
+            "yerry mina": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "what's your favorite team?",
+        "a4_v2": "what's your favorite team?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "vfb stuttgart",
+        "a5": "is not a player but a myth.",
+        "kgER5": {
+            "yerry mina": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "is not a player but a myth.",
+        "a5_v2": "is not a player but a myth.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

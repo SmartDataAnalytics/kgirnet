@@ -1,0 +1,161 @@
+[
+    {
+        "q1": "i like paris sg",
+        "a1": "psg will be best in few years, they have neymar",
+        "kgER1": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "psg will be best in few years, they have @object",
+        "a1_v2": "psg will be best in few years, they have neymar",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "paris sg"
+    },
+    {
+        "q2": "where is neymar from?",
+        "a2": "neymar is from brazil",
+        "kgER2": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object is from @entity",
+        "a2_v2": "neymar is from brazil",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "neymar"
+    },
+    {
+        "q3": "from a wondrous land of paris",
+        "a3": "not really a question.  neymar play for paris sg but he is from brazil.",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "not really a question.  @object play for paris sg but he is from @entity",
+        "a3_v2": "not really a question.  neymar play for paris sg but he is from brazil.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "paris sg"
+    },
+    {
+        "q4": "what is the future of kylian mbappe?",
+        "a4": "a bright future",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "kylian mbappe": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a4_skt": "a bright future",
+        "a4_v2": "a bright future",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "kylian mbappe"
+    },
+    {
+        "q5": "tocan mucho y saben jugar a su f\u00fatbol ",
+        "a5": "aqui hay nivel de estrategia paris sg ",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "kylian mbappe": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a5_skt": "aqui hay nivel de estrategia paris sg ",
+        "a5_v2": "aqui hay nivel de estrategia paris sg ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

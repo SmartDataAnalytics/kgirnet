@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "will bayern munich win the champions league?",
+        "a1": "no, juventus will win the champions league.",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "no, @entity will win the champions league.",
+        "a1_v2": "no, juventus will win the champions league.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "how far will bayern munich go?",
+        "a2": "probably the semi's. ",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "probably the semi's. ",
+        "a2_v2": "probably the semi's. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bayern munich"
+    },
+    {
+        "q3": "if you don't think bayern munich will win the champions league, who do you think will?",
+        "a3": "i think the winner will be real but bayern will get to semi-finals.",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think the winner will be real but bayern will get to semi-finals.",
+        "a3_v2": "i think the winner will be real but bayern will get to semi-finals.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "when's bayern munich's next game?",
+        "a4": "friendly v hamburg on 15th august",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "friendly v hamburg on 15th august",
+        "a4_v2": "friendly v hamburg on 15th august",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "name of a defence player?",
+        "a5": "david alaba is one of the defenders.",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is one of the @relation",
+        "a5_v2": "@has_player is one of the has player",
+        "corr_rel5": "has player",
+        "obj5": "david alaba",
+        "input_ent5": "bayern munich"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "q1": "find me a place where i can buy coffee or tea",
+        "a1": "palo_alto_cafe serves coffee and tea",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "palo_alto_cafe",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "palo_alto_cafe"
+        ]
+    },
+    {
+        "q2": "is it closest to my current location",
+        "a2": "yes it s 4_miles away and even if there is heavy_traffic it s the nearest one send the info on your screen",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel2": "distance",
+        "obj2": "4_miles",
+        "input_ent2": "palo_alto_cafe",
+        "kvr_entlist_qa2": [
+            "4_miles",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "yes please just pick a route to avoid all heavy_traffic",
+        "a3": "i sent the best possible route on your screen drive carefully",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "none",
+        "input_ent3": "palo_alto_cafe",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thank you",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

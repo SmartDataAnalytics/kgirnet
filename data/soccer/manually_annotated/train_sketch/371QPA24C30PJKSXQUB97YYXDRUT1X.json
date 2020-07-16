@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "who 's your favorite soccer player from argentina \\?",
+        "a1": "my favorite soccer player from argentina is paulo dybala",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "my favorite soccer player from @entity is @object",
+        "a1_v2": "my favorite soccer player from @entity is @forward",
+        "corr_rel1": "has player",
+        "obj1": "paulo dybala",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "why do you like him so much \\?",
+        "a2": "it 's hard for me to like any of the argentine players",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "it 's hard for me to like any of the @entity players",
+        "a2_v2": "it 's hard for me to like any of the argentine players",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "do you think they need a new coach \\?",
+        "a3": "yes , messi was doing more coaching than sampaoli the problem is finding someone who can gain the respect of the players",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes , messi was doing more @relation than sampaoli the problem is finding someone who can gain the respect of the players",
+        "a3_v2": "yes , messi was doing more coaching than sampaoli the problem is finding someone who can gain the respect of the players",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "does messi 's ego make that difficult \\?",
+        "a4": "if a coach ca n't overcome a player 's ego , he 's not a very good coach",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "if a @relation ca n't overcome a player 's ego , he 's not a very good @relation",
+        "a4_v2": "if a coach ca n't overcome a player 's ego , he 's not a very good coach",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "lionel messi"
+    },
+    {
+        "q5": "if that is true",
+        "a5": "a coach has to teach his players to grow individually so that they can become better people both on and off the field",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "a @relation has to teach his players to grow individually so that they can become better people both on and off the @object",
+        "a5_v2": "a coach has to teach his players to grow individually so that they can become better people both on and off the field",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

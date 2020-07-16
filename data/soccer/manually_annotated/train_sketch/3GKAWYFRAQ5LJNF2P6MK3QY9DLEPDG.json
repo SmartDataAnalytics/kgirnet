@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "i love bayern munich",
+        "a1": "i dont like them because they buy all the good players from other german teams",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i dont like them because they buy all the good players from other @entity teams",
+        "a1_v2": "i dont like them because they buy all the good players from other german teams",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "if i like it, it is very competitive both on the court and in the market, having more players and good is not bad ",
+        "a2": "it's a team that always tries to keep competing and that's good from there the change of players",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "it's a team that always tries to keep competing and that's good from there the change of players",
+        "a2_v2": "it's a team that always tries to keep competing and that's good from there the change of players",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "white and red"
+    },
+    {
+        "q3": "the virtues of competition ",
+        "a3": "robert lewandowski and bayern munich get back to business with supercup victory",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object and @entity get back to business with supercup victory",
+        "a3_v2": "robert lewandowski and bayern munich get back to business with supercup victory",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "against whom did they win the supercup.",
+        "a4": "robben in bayern is actually my favorite player in bayern munich",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "robben in bayern is actually my favorite player in @entity",
+        "a4_v2": "robben in bayern is actually my favorite player in bayern munich",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "if mine is the best",
+        "a5": "then i would agree.",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "then i would agree.",
+        "a5_v2": "then i would agree.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "car i m desiring to have pizza is there any restaurant within 2_miles",
+        "a1": "i have a pizza_restaurant located 1_miles away",
+        "input_rel1": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel1": "poi",
+        "obj1": "",
+        "input_ent1": "pizza_restaurant",
+        "kvr_entlist_qa1": [
+            "pizza_restaurant",
+            "1_miles"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "dominos is at 776_arastradero_rd",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "776_arastradero_rd",
+        "input_ent2": "dominos",
+        "kvr_entlist_qa2": [
+            "776_arastradero_rd",
+            "dominos"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

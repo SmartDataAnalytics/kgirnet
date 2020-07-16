@@ -1,0 +1,76 @@
+[
+    {
+        "q1": "i love soccer what is your favorite thing about the sport?",
+        "a1": "my favorite is the fan interactions.",
+        "kgER1": {},
+        "a1_skt": "my favorite is the fan interactions.",
+        "a1_v2": "my favorite is the fan interactions.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "as long as it doesn't cross the line into racism or potential violence i would agree. what do you think about the attack that happened on sporting cp's training ground?",
+        "a2": "i thought it was horrible. they should have increased security at that place.",
+        "kgER2": {},
+        "a2_skt": "i thought it was horrible. they should have increased security at that place.",
+        "a2_v2": "i thought it was horrible. they should have increased security at that place.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "what's been the worst football fan incident, do you think?",
+        "a3": "i remember years back a colombian player was murdered for missing a penalty kick at a big tournament. ",
+        "kgER3": {},
+        "a3_skt": "i remember years back a @entity player was murdered for missing a penalty kick at a big tournament. ",
+        "a3_v2": "i remember years back a colombian player was murdered for missing a penalty kick at a big tournament. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "some mentioned racism and violence, but what do you guys think about homophobic slurs such as mexico's \"put*\".",
+        "a4": "i think its very horrible.",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i think its very horrible.",
+        "a4_v2": "i think its very horrible.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "mexico"
+    },
+    {
+        "q5": "do you think that they will begin to use more security guards in the future?",
+        "a5": "they should use more security guards in the future",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they should use more security guards in the future",
+        "a5_v2": "they should use more security guards in the future",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

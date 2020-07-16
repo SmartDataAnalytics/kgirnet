@@ -1,0 +1,23 @@
+[
+    {
+        "q1": "what day is the football game",
+        "a1": "the football game is friday at 11am",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "time, date",
+        "obj1": "11am, friday",
+        "input_ent1": "football_activity",
+        "kvr_entlist_qa1": [
+            "11am",
+            "friday"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "no problem",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

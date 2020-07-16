@@ -1,0 +1,137 @@
+[
+    {
+        "q1": "i really love the team france",
+        "a1": "well-played team.",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "well-played team.",
+        "a1_v2": "well-played team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "france"
+    },
+    {
+        "q2": "what led france to victory in the 2018 world cup?",
+        "a2": "mbappe and a weak world cup year.",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "mbappe and a weak world cup year.",
+        "a2_v2": "mbappe and a weak world cup year.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2018"
+    },
+    {
+        "q3": "had you expected france to get as far as they did? ",
+        "a3": "yes they were favourites to win it",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes they were favourites to win it",
+        "a3_v2": "yes they were favourites to win it",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "france"
+    },
+    {
+        "q4": "did antoine griezmann play well in 2018 world cup?",
+        "a4": "he was amazing!",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "antoine griezmann": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a4_skt": "he was amazing!",
+        "a4_v2": "he was amazing!",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "antoine griezmann"
+    },
+    {
+        "q5": "who should start in the back 4 in 2022?",
+        "a5": "the same as 2018 unless better young ones come about",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "antoine griezmann": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a5_skt": "the same as @object unless better young ones come about",
+        "a5_v2": "the same as 2018 unless better young ones come about",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

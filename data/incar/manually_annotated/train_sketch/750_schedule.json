@@ -1,0 +1,40 @@
+[
+    {
+        "q1": "what is the agenda for the conference",
+        "a1": "the purpose of the conference is to discuss_the_merger",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "agenda",
+        "obj1": "discuss_the_merger",
+        "input_ent1": "conference",
+        "kvr_entlist_qa1": [
+            "discuss_the_merger",
+            "conference"
+        ]
+    },
+    {
+        "q2": "okay perfect what day and time is the conference on",
+        "a2": "the conference is set for the_3rd at 3pm",
+        "input_rel2": "room,date,time,agenda,party",
+        "corr_rel2": "time,date",
+        "obj2": "the_3rd,3pm",
+        "input_ent2": "conference",
+        "kvr_entlist_qa2": [
+            "conference",
+            "3pm",
+            "the_3rd"
+        ]
+    },
+    {
+        "q3": "anything else i should know",
+        "a3": "you are meeting with the infrastructure_team in conference_room_100",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "meeting",
+            "infrastructure_team",
+            "conference_room_100"
+        ]
+    }
+]

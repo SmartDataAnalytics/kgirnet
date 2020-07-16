@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i watched the game with spain last night",
+        "a1": "spain lost to russia in the 2018 world cup.",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity lost to russia in the @object world cup.",
+        "a1_v2": "spain lost to russia in the 2018 world cup.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "spain"
+    },
+    {
+        "q2": "was spain good in that game?",
+        "a2": "yes its true",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes its true",
+        "a2_v2": "yes its true",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "spain"
+    },
+    {
+        "q3": "which round did spain get knocked out?",
+        "a3": "spain was knocked out in the round of 16",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity was knocked out in the @relation of @object",
+        "a3_v2": "spain was knocked out in the round of 16",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "spain"
+    },
+    {
+        "q4": "who can potentially lead the spanish attack for the 2022 world cup?",
+        "a4": "spain has always stood out and has given its battles for having very good front players .. it is a great team! \u00a1\u00a1",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity has always stood out and has given its battles for having very good front players .. it is a great team! \u00a1\u00a1",
+        "a4_v2": "spain has always stood out and has given its battles for having very good front players .. it is a great team! \u00a1\u00a1",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "emre can"
+    },
+    {
+        "q5": "will spain get back to how they were",
+        "a5": "no, i do not think spain will be good. new teams are rising like croatia, that are proven to be better.",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "no, i do not think @entity will be good. new teams are rising like @entity that are proven to be better.",
+        "a5_v2": "no, i do not think spain will be good. new teams are rising like croatia, that are proven to be better.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "spain"
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "q1": "didn't all the best nigerian players play for france this year?",
+        "a1": "thomas lemar was probably the most important to the france squad from nigera. there were a lot of france players from other african nations.",
+        "kgER1": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object was probably the most important to the @entity squad from nigera. there were a lot of @entity players from other african nations.",
+        "a1_v2": "thomas lemar was probably the most important to the france squad from nigera. there were a lot of france players from other african nations.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "france"
+    },
+    {
+        "q2": "didn't all the best nigerian players play for france this year?",
+        "a2": "believe 12 or 13 squad members were from african countries.",
+        "kgER2": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "believe @object or @object squad members were from african countries.",
+        "a2_v2": "believe 12 or 13 squad members were from african countries.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "france"
+    },
+    {
+        "q3": "it is pretty amazing how many french players were from other countries.",
+        "a3": "yes i agree",
+        "kgER3": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes i agree",
+        "a3_v2": "yes i agree",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "is the french national the most valuable one to date?",
+        "a4": "i think belgium has quite a handful of african origin players but that of france cant be compared to theirs.",
+        "kgER4": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i think @entity has quite a handful of african origin players but that of @entity cant be compared to theirs.",
+        "a4_v2": "i think belgium has quite a handful of african origin players but that of france cant be compared to theirs.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "does nigeria have a chance?",
+        "a5": "i don't think nigeria have much chance, as they lack quality in defence ",
+        "kgER5": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i don't think @entity have much chance, as they lack quality in @relation ",
+        "a5_v2": "i don't think nigeria have much chance, as they lack quality in defence ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "nigeria"
+    },
+    {
+        "q6": "how many players in the game?",
+        "a6": "11 players per team, 22 in total.",
+        "kgER6": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a6_skt": "@object players per team, @object in total.",
+        "a6_v2": "11 players per team, 22 in total.",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "15 (first in 1930)"
+    }
+]

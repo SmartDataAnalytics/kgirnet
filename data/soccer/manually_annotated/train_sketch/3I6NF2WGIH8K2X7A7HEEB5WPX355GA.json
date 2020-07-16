@@ -1,0 +1,114 @@
+[
+    {
+        "q1": "what is mean by dam penalties?",
+        "a1": "they are penalty kicks. the players go one by one and take shots for the goal",
+        "kgER1": {
+            "miranda": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "they are penalty kicks. the players go one by one and take shots for the @relation",
+        "a1_v2": "they are penalty kicks. the players go one by one and take shots for the goal",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "do you know the best goalkeeper in the world?",
+        "a2": "manuel neuer",
+        "kgER2": {
+            "miranda": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "manuel neuer",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "goalkeeper"
+    },
+    {
+        "q3": "is he in the fc. porto team?",
+        "a3": "yep i think so",
+        "kgER3": {
+            "miranda": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "yep i think so",
+        "a3_v2": "yep i think so",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "fc. porto"
+    },
+    {
+        "q4": "how much did fc. porto have to pay for the best goalkeeper in the world?",
+        "a4": "i believe he's one of the highest paid.",
+        "kgER4": {
+            "miranda": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "i believe he's one of the @relation paid.",
+        "a4_v2": "i believe he's one of the highest paid.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "goalkeeper"
+    },
+    {
+        "q5": "how much was his fee to transfer?",
+        "a5": "quite some million euros",
+        "kgER5": {
+            "miranda": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "quite some million euros",
+        "a5_v2": "quite some million euros",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

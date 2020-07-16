@@ -1,0 +1,27 @@
+[
+    {
+        "q1": "what time is my meeting and who is going to be there and what is the agenda",
+        "a1": "a meeting is scheduled on the_7th at 1pm with management in conference_room_102 to discuss_the_company_picnic",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "room,date,time,agenda,party",
+        "obj1": "management,the_7th,conference_room_102,meeting,discuss_the_company_picnic,1pm",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "management",
+            "the_7th",
+            "conference_room_102",
+            "meeting",
+            "discuss_the_company_picnic",
+            "1pm"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

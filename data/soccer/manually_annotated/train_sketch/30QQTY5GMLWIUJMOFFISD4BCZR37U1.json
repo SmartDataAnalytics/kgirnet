@@ -1,0 +1,150 @@
+[
+    {
+        "q1": "in what year was the fc. porto team founded? ",
+        "a1": "i think its in the year 1893",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i think its in the year @object",
+        "a1_v2": "i think its in the year @founded_on",
+        "corr_rel1": "founded on",
+        "obj1": "1893",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "porto is the second most decorated team in portugal, with a total of 76 major trophies, of which 69 were achieved in domestic competitions.",
+        "a2": "which would leave only 87 trophies that are either european or worldwide",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "which would leave only @object trophies that are either european or worldwide",
+        "a2_v2": "which would leave only 87 trophies that are either european or worldwide",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "portugal"
+    },
+    {
+        "q3": "he is a great team and competitive in his league",
+        "a3": "i think porto fc is the best team of portugal",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think porto fc is the best team of @entity",
+        "a3_v2": "i think porto fc is the best team of portugal",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "white and red"
+    },
+    {
+        "q4": "2005\u201306: senior and world cup debuts ",
+        "a4": "i also think so ",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i also think so ",
+        "a4_v2": "i also think so ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "white and red"
+    },
+    {
+        "q5": "if i agree it is one of the best in portugal",
+        "a5": "does fc porto have the best junior division in portugal?",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "does fc porto have the best junior division in @entity",
+        "a5_v2": "does fc porto have the best junior division in portugal?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "portugal"
+    }
+]

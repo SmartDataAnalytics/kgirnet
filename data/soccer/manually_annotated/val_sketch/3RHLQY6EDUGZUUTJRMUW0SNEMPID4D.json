@@ -1,0 +1,146 @@
+[
+    {
+        "q1": "i admire ",
+        "a1": "which team do you like?",
+        "kgER1": {
+            "admir mehmedi": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "which team do you like?",
+        "a1_v2": "which team do you like?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "i like mexico's national soccer team ",
+        "a2": "who's your favorite player?",
+        "kgER2": {
+            "admir mehmedi": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "who's your favorite player?",
+        "a2_v2": "who's your favorite player?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "mexico"
+    },
+    {
+        "q3": "chicharito",
+        "a3": "did you like chicharito's father?",
+        "kgER3": {
+            "admir mehmedi": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "did you like chicharito's father?",
+        "a3_v2": "did you like chicharito's father?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "why do you think chicharito is a good player?",
+        "a4": "who is your favorite coach?",
+        "kgER4": {
+            "admir mehmedi": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "who is your favorite @relation",
+        "a4_v2": "who is your favorite coach?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "who is the best team in england?",
+        "a5": "i think liverpool is the best team.",
+        "kgER5": {
+            "admir mehmedi": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think @entity is the best team.",
+        "a5_v2": "i think liverpool is the best team.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "q1": "i really like this team",
+        "a1": "what does the bvb stand for? ",
+        "kgER1": {},
+        "a1_skt": "what does the bvb stand for? ",
+        "a1_v2": "what does the bvb stand for? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "it stands for bvb dortmund",
+        "a2": "it represents a great team but it is not my favorite",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "it represents a great team but it is not my favorite",
+        "a2_v2": "it represents a great team but it is not my favorite",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bvb dortmund"
+    },
+    {
+        "q3": "if bvb dortmund is not your favorite team, which team is your favorite?",
+        "a3": "if not bvb dortmund then probably st pauli as i seen them play.",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "if not bvb dortmund then probably st pauli as i seen them play.",
+        "a3_v2": "if not bvb dortmund then probably st pauli as i seen them play.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "bvb dortmund is my favorite. what's not to love about them?",
+        "a4": "i suppose some would say their style of play has become predictable.",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i suppose some would say their style of play has become predictable.",
+        "a4_v2": "i suppose some would say their style of play has become predictable.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bvb dortmund"
+    },
+    {
+        "q5": "how many world cups does portugal have? ",
+        "a5": "portugal  have never won the world cup.",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity  have never won the world cup.",
+        "a5_v2": "portugal  have never won the world cup.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "portugal"
+    }
+]

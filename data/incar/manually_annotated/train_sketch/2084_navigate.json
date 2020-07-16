@@ -1,0 +1,46 @@
+[
+    {
+        "q1": "take me to a fast food restaurant",
+        "a1": "pizza_chicago and chef_chu_s ( chinese ) are located 5_miles away would you like directions to either of those",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "pizza_chicago,chef_chu_s",
+        "input_ent1": "pizza_restaurant",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "pizza_chicago",
+            "chef_chu_s"
+        ]
+    },
+    {
+        "q2": "give me the pizza_chicago directions please",
+        "a2": "i will display the directions to pizza_chicago for you now",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "pizza_chicago",
+        "kvr_entlist_qa2": [
+            "pizza_chicago"
+        ]
+    },
+    {
+        "q3": "thank you car pick a quick route if available",
+        "a3": "there is a road_block_nearby but i sent on your screen the best route available",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel3": "traffic_info",
+        "obj3": "road_block_nearby",
+        "input_ent3": "pizza_chicago",
+        "kvr_entlist_qa3": [
+            "road_block_nearby"
+        ]
+    },
+    {
+        "q4": "thank you",
+        "a4": "you are welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

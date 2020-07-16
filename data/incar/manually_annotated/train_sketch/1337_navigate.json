@@ -1,0 +1,39 @@
+[
+    {
+        "q1": "find me a hotel nearby",
+        "a1": "there is the_clement_hotel 4_miles away and comfort_inn in 5_miles which one do you prefer",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "the_clement_hotel,comfort_inn",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "4_miles",
+            "the_clement_hotel",
+            "comfort_inn"
+        ]
+    },
+    {
+        "q2": "can i have the address of a rest_stop",
+        "a2": "sure the the_clement_hotel is at 657_ames_ave it s just 4_miles away with no_traffic on our route",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "address",
+        "obj2": "657_ames_ave,the_clement_hotel",
+        "input_ent2": "the_clement_hotel,comfort_inn",
+        "kvr_entlist_qa2": [
+            "657_ames_ave",
+            "4_miles",
+            "the_clement_hotel",
+            "no_traffic"
+        ]
+    },
+    {
+        "q3": "thank you let s go there",
+        "a3": "you re welcome navigation set",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

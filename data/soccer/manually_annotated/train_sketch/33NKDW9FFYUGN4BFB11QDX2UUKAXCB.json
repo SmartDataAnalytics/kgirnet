@@ -1,0 +1,162 @@
+[
+    {
+        "q1": "i completely love juventus",
+        "a1": "what are the juventus team colors?",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "what are the @entity team colors?",
+        "a1_v2": "what are the juventus team colors?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "the juventus team colors are black and white.",
+        "a2": "where is the juventus team from?",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "white": [
+                "jersey color"
+            ],
+            "black and white": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "where is the @entity team from?",
+        "a2_v2": "where is the juventus team from?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "black and white"
+    },
+    {
+        "q3": "juventus are from turin, in italy.",
+        "a3": "have you ever seen them play live?",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "white": [
+                "jersey color"
+            ],
+            "black and white": [
+                "jersey color"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "have you ever seen them play live?",
+        "a3_v2": "have you ever seen them play live?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "juventus"
+    },
+    {
+        "q4": "is the juventus stadium a good stadium?",
+        "a4": "juventus has the best stadium",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "white": [
+                "jersey color"
+            ],
+            "black and white": [
+                "jersey color"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity has the best stadium",
+        "a4_v2": "juventus has the best stadium",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "allianz stadium"
+    },
+    {
+        "q5": "how many people does it hold?",
+        "a5": "41,507",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "white": [
+                "jersey color"
+            ],
+            "black and white": [
+                "jersey color"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "41,507",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

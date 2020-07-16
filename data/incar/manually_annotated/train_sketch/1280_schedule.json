@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "what is the date of my next doctor_appointment and who will be attending it with me",
+        "a1": "your next doctor_appointment is scheduled for thursday at 10am with your mother",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "time,party",
+        "obj1": "10am,mother",
+        "input_ent1": "doctor_appointment",
+        "kvr_entlist_qa1": [
+            "thursday",
+            "doctor_appointment",
+            "10am",
+            "mother"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

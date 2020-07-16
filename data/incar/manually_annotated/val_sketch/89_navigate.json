@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "where can i go shopping",
+        "a1": "two shopping_centers are located nearby one is the topanga_mall located 4_miles away and the other is ravenswood_shopping_center that s 2_miles away which do you prefer",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "topanga_mall",
+            "4_miles",
+            "2_miles",
+            "ravenswood_shopping_center"
+        ]
+    },
+    {
+        "q2": "i want to go to the ravenwood shopping_center give me the address and then directions with avoiding heavy_traffic",
+        "a2": "the address is 434_arastradero_rd i picked the fastest route for you it s on your screen",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "address",
+        "obj2": "434_arastradero_rd",
+        "input_ent2": "ravenswood_shopping_center",
+        "kvr_entlist_qa2": [
+            "434_arastradero_rd"
+        ]
+    },
+    {
+        "q3": "thank you very much car",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

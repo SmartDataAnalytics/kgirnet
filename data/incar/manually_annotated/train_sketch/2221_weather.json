@@ -1,0 +1,43 @@
+[
+    {
+        "q1": "what is the forecast for the rest of the day",
+        "a1": "what city",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "tell me if it s windy in exeter right now",
+        "a2": "in exeter is hail now",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "hail",
+        "input_ent2": "exeter",
+        "kvr_entlist_qa2": [
+            "hail",
+            "exeter"
+        ]
+    },
+    {
+        "q3": "is it windy right now",
+        "a3": "no as i said is it hail don t get distracted and focus on the road",
+        "input_rel3": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel3": "monday",
+        "obj3": "hail",
+        "input_ent3": "exeter",
+        "kvr_entlist_qa3": [
+            "hail"
+        ]
+    },
+    {
+        "q4": "thank you",
+        "a4": "no problem",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who is the head coach for this atletico madrid \\?",
+        "a1": "diego simeone",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@coach",
+        "corr_rel1": "coach",
+        "obj1": "diego simeone",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "who is the best palyer in atletico madrid \\?",
+        "a2": "how many people can place atletico , madrid on the map \\?",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "how many people can place @entity on the map \\?",
+        "a2_v2": "how many people can place atletico , madrid on the map \\?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "atletico madrid"
+    },
+    {
+        "q3": "when was the last time atletico madrid won the league \\?",
+        "a3": "2009 10",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "2009 @object",
+        "a3_v2": "2009 10",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "atletico madrid"
+    },
+    {
+        "q4": "how many fans do they have approximately \\?",
+        "a4": "axial flow",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "axial flow",
+        "a4_v2": "axial flow",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "they have many fans all over the world",
+        "a5": "and i am one of them",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "and i am one of them",
+        "a5_v2": "and i am one of them",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

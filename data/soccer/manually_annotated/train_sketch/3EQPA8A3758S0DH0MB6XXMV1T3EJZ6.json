@@ -1,0 +1,162 @@
+[
+    {
+        "q1": "what is the best performance of croatia in the wc?",
+        "a1": "very good excellent ",
+        "kgER1": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "very good excellent ",
+        "a1_v2": "very good excellent ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "croatia"
+    },
+    {
+        "q2": "who was croatia's best player on the wc? ",
+        "a2": "in my opinion, it's luka modric, but you could probably make the case for other players as well.",
+        "kgER2": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "in my opinion, it's @object but you could probably make the case for other players as well.",
+        "a2_v2": "in my opinion, it's luka modric, but you could probably make the case for other players as well.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "croatia"
+    },
+    {
+        "q3": "will modric still be playing for the european cup in 2022?",
+        "a3": "luka modric will be 36 come 2022 so it's hard to envision him still being an integral part of the croatian team.",
+        "kgER3": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object will be @object come @object so it's hard to envision him still being an integral part of the @entity team.",
+        "a3_v2": "luka modric will be 36 come 2022 so it's hard to envision him still being an integral part of the croatian team.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "luka modric"
+    },
+    {
+        "q4": "is croatia a famous team?",
+        "a4": "yes croatia is one of the best team",
+        "kgER4": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes @entity is one of the best team",
+        "a4_v2": "yes croatia is one of the best team",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "croatia"
+    },
+    {
+        "q5": "will their team results decline after modric leaves?",
+        "a5": "no, they have ivan rakitic",
+        "kgER5": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "no, they have @object",
+        "a5_v2": "no, they have ivan rakitic",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "luka modric"
+    }
+]

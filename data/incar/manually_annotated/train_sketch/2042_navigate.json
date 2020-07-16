@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "take me to the closest whole_foods place i can buy groceries",
+        "a1": "the closest whole_foods store is 2_miles away in 819_alma_st",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "address,poi",
+        "obj1": "819_alma_st,whole_foods",
+        "input_ent1": "whole_foods",
+        "kvr_entlist_qa1": [
+            "819_alma_st",
+            "whole_foods",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "thanks so much",
+        "a2": "glad i could help out",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

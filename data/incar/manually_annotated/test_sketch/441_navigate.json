@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "i need a coffee shop within 4_miles",
+        "a1": "cafe_venetia is 2_miles away at 269_alger_dr",
+        "input_rel1": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel1": "distance",
+        "obj1": "2_miles",
+        "input_ent1": "cafe_venetia",
+        "kvr_entlist_qa1": [
+            "cafe_venetia",
+            "269_alger_dr",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "is there a quickest route to reach it",
+        "a2": "setting navigation now for the quickest route there is a road_block_nearby so drive carefully",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "road_block_nearby"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

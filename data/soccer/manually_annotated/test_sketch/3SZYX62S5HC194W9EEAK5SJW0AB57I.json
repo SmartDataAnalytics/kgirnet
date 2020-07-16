@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i really love the team italy",
+        "a1": "i dont",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i dont",
+        "a1_v2": "i dont",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "when did they last win a world cup?",
+        "a2": "italy last won the world cup in 2006.",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity last won the world cup in @object",
+        "a2_v2": "@entity last won the world cup in @world_cup_champions",
+        "corr_rel2": "world cup champions",
+        "obj2": "2006",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "italy is a very popular team in the world even though they haven't won a world cup since 2006 because of their skilled players.",
+        "a3": "i absolutely adore italy",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i absolutely adore @entity",
+        "a3_v2": "i absolutely adore italy",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "2006"
+    },
+    {
+        "q4": "will italy win the european cup?",
+        "a4": "there's definitely a chance, but we'll have to wait and see!",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "there's definitely a chance, but we'll have to wait and see!",
+        "a4_v2": "there's definitely a chance, but we'll have to wait and see!",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "italy"
+    },
+    {
+        "q5": "who is the best player on the italy national team at the moment?",
+        "a5": "they dont have a good player",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they dont have a good player",
+        "a5_v2": "they dont have a good player",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "italy"
+    }
+]

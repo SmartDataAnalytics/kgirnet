@@ -1,0 +1,127 @@
+[
+    {
+        "q1": "i absolutely adore spain",
+        "a1": "they have a passing type of football",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they have a passing type of football",
+        "a1_v2": "they have a passing type of football",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "spain"
+    },
+    {
+        "q2": "who was your favourite player in their golden generation?",
+        "a2": "barcelona star neymar reveals his favourite three strikers from football's new generation",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity star @object reveals his favourite three strikers from football's new generation",
+        "a2_v2": "barcelona star neymar reveals his favourite three strikers from football's new generation",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "who is your favorite current player?",
+        "a3": "my favorite player is salah",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "my favorite player is salah",
+        "a3_v2": "my favorite player is salah",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "spain has my favorite player.",
+        "a4": "which is who?",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "which is who?",
+        "a4_v2": "which is who?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "spain"
+    },
+    {
+        "q5": "gerard pique",
+        "a5": "he is a really good header, isn't he?",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "gerard pique": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ]
+        },
+        "a5_skt": "he is a really good header, isn't he?",
+        "a5_v2": "he is a really good header, isn't he?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "gerard pique"
+    }
+]

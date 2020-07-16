@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "where is juventus located and what is the age to make the teams?",
+        "a1": "turin, 1897.",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "turin, @object",
+        "a1_v2": "turin, 1897.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "i don't think that's the right answer. ",
+        "a2": "turin, italy is the answer.120 years is the age november 1, 1897.",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "turin, @entity is the answer.120 years is the @relation november 1, @object",
+        "a2_v2": "turin, italy is the answer.120 years is the age november 1, 1897.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "is that the longest amount of time a team has played at one place? ",
+        "a3": "no there are some clubs founded in the 1860's",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "no there are some clubs @relation in the 1860's",
+        "a3_v2": "no there are some clubs founded in the 1860's",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what is juventus record over those years?",
+        "a4": "they have at least more wins than losses.",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "they have at least more wins than losses.",
+        "a4_v2": "they have at least more wins than losses.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "juventus"
+    },
+    {
+        "q5": "what is their win to loss ratio?",
+        "a5": "i was not able to find it but i did see that they only lost 6 home games in 6 years!",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "i was not able to find it but i did see that they only lost @object home games in @object years!",
+        "a5_v2": "i was not able to find it but i did see that they only lost 6 home games in 6 years!",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

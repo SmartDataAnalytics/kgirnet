@@ -1,0 +1,116 @@
+[
+    {
+        "q1": "what color is liverpool 's home jersey \\?",
+        "a1": "liverpool always play in red",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity always play in @object",
+        "a1_v2": "@entity always play in @jersey_color",
+        "corr_rel1": "jersey color",
+        "obj1": "red",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "what is liverpool 's best player ever \\? in my opinion ray clemence",
+        "a2": "mohamed salah",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "mohamed salah",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "how did england do in the world cup \\?",
+        "a3": "they did n't do that great winning with very weak teams like panama and tunisia once they played with better teams like belgium and croatia they 've lost",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they did n't do that great winning with very weak teams like panama and tunisia once they played with better teams like @entity and @entity they 've lost",
+        "a3_v2": "they did n't do that great winning with very weak teams like panama and tunisia once they played with better teams like belgium and croatia they 've lost",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "how many of the liverpool squad played in the england team \\?",
+        "a4": "two players made it from the liverpool squad trent alexander arnold and jordan henderson",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "two players made it from the @entity squad @object and @object",
+        "a4_v2": "two players made it from the liverpool squad trent alexander arnold and jordan henderson",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    },
+    {
+        "q5": "how many senior player paticipate into the match",
+        "a5": "sixteen players is what i found",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "sixteen players is what i found",
+        "a5_v2": "sixteen players is what i found",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    },
+    {
+        "q6": "does liverpool stand a chance with that line up \\?",
+        "a6": "sure",
+        "kgER6": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a6_skt": "sure",
+        "a6_v2": "sure",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "liverpool"
+    }
+]

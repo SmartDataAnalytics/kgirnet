@@ -1,0 +1,109 @@
+[
+    {
+        "q1": "i completely love bvb dortmund",
+        "a1": "black and yellow plays great.",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "black and @object plays great.",
+        "a1_v2": "black and yellow plays great.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "how many years must a player be retired to be eligible for the pro football hall of fame? a: five",
+        "a2": "well i believe he must be retired for 5 seasons",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "well i believe he must be retired for @object seasons",
+        "a2_v2": "well i believe he must be retired for 5 seasons",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "has dortmund ever won the champions league?",
+        "a3": "i think they have won once",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "i think they have won once",
+        "a3_v2": "i think they have won once",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ever banega"
+    },
+    {
+        "q4": "whos their current top goal scorer?",
+        "a4": "pierre-emerick aubameyang",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "pierre-emerick aubameyang",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "when did he last score a goal? ",
+        "a5": "11-7-2018",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "11-7-2018",
+        "a5_v2": "11-7-2018",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

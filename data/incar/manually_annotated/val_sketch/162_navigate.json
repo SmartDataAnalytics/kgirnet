@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what route can i take home to avoid traffic",
+        "a1": "in this moment there is moderate_traffic on our way but since we re just 6_miles away it shouldn t take too long to reach home i sent the route on your screen",
+        "input_rel1": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel1": "distance",
+        "obj1": "6_miles",
+        "input_ent1": "home",
+        "kvr_entlist_qa1": [
+            "moderate_traffic",
+            "home",
+            "6_miles"
+        ]
+    },
+    {
+        "q2": "ok thanks for directions via a route with the least traffic",
+        "a2": "setting directions to 5672 barringer street now",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "thank you car assistant for the help",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

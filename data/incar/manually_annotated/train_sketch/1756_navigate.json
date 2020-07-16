@@ -1,0 +1,39 @@
+[
+    {
+        "q1": "is there a philz here",
+        "a1": "i m sorry but there isn t any philz nearby may i help you somehow else",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "philz",
+        "kvr_entlist_qa1": [
+            "philz"
+        ]
+    },
+    {
+        "q2": "any other coffee",
+        "a2": "there are cafe_venetia and palo_alto_cafe 3_miles away the last one should be faster to reach because there is no_traffic on our way",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "cafe_venetia, palo_alto_cafe",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "no_traffic",
+            "3_miles",
+            "palo_alto_cafe",
+            "cafe_venetia"
+        ]
+    },
+    {
+        "q3": "ok let s go to palo alto then",
+        "a3": "okay heading to palo_alto_cafe at 436_alger_dr",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "436_alger_dr",
+        "input_ent3": "palo_alto_garage_r",
+        "kvr_entlist_qa3": [
+            "436_alger_dr",
+            "palo_alto_cafe"
+        ]
+    }
+]

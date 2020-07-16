@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "where is a rest_stop within 5_miles",
+        "a1": "there is a four_seasons and a comfort_inn near",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "four_seasons,comfort_inn",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "four_seasons",
+            "comfort_inn"
+        ]
+    },
+    {
+        "q2": "which can i get to that has the least amount of traffic",
+        "a2": "comfort_inn is 6_miles away and has moderate_traffic so seems like our best option",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "distance, moderate_traffic",
+        "obj2": "6_miles",
+        "input_ent2": "four_seasons",
+        "kvr_entlist_qa2": [
+            "moderate_traffic",
+            "6_miles",
+            "comfort_inn"
+        ]
+    },
+    {
+        "q3": "ya i agree car please set the gps to go there thank you",
+        "a3": "you re welcome drive safely",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thank you car seriously thank you",
+        "a4": "not a problem",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

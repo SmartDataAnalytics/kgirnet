@@ -1,0 +1,62 @@
+[
+    {
+        "q1": "what league does fc porto play in \\?",
+        "a1": "they play in primiera liga",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they play in primiera liga",
+        "a1_v2": "they play in primiera liga",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "who are they playing next \\?",
+        "a2": "fc porto is playing belenenses on august 19th",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "fc porto is playing belenenses on august 19th",
+        "a2_v2": "fc porto is playing belenenses on august 19th",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how many goals do you think porto will score \\?",
+        "a3": "i predict 1 0 to porto",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i predict @object @object to porto",
+        "a3_v2": "i predict 1 0 to porto",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "fc. porto"
+    }
+]

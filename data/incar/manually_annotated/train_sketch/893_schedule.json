@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "where s the conference happening who s going to be there and what are we talking about",
+        "a1": "you have several conference on your schedule which one in particular would you like information about",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "conference",
+        "kvr_entlist_qa1": [
+            "conference"
+        ]
+    },
+    {
+        "q2": "please choose a random one",
+        "a2": "your conference is in conference_room_102 with the vice_president to go over the budget",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "vice_president",
+            "conference",
+            "conference_room_102"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

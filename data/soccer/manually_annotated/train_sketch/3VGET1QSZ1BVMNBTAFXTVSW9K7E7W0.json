@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "when was the ac milan soccer team established? ",
+        "a1": "1899",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@founded_on",
+        "corr_rel1": "founded on",
+        "obj1": "1899",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "so for how many years have they existed?",
+        "a2": "how many years had ac milan been a team?",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "how many years had ac milan been a team?",
+        "a2_v2": "how many years had ac milan been a team?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "has been a team for approximately 118 years",
+        "a3": "approximatley 118 years is not a question",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "approximatley @object years is not a question",
+        "a3_v2": "approximatley 118 years is not a question",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "ac milan is an old team?",
+        "a4": "the club may be but the players aren't.",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "the club may be but the players aren't.",
+        "a4_v2": "the club may be but the players aren't.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "are they any good?",
+        "a5": "milan is godo but not the best.",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "milan is godo but not the best.",
+        "a5_v2": "milan is godo but not the best.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

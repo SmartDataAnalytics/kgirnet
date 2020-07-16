@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "what is the full name of fc porto \\?",
+        "a1": "it 's futebol clube do porto",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "it 's futebol clube do porto",
+        "a1_v2": "it 's futebol clube do porto",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "where is fc porto located \\?",
+        "a2": "porto , portugal",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "porto , @entity",
+        "a2_v2": "porto , portugal",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "fc. porto"
+    },
+    {
+        "q3": "who 's their current manager \\?",
+        "a3": "sergio conceicao hes a hottie",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a3_skt": "sergio conceicao hes a hottie",
+        "a3_v2": "sergio conceicao hes a hottie",
+        "corr_rel3": "coach",
+        "obj3": "sergio conceicao",
+        "input_ent3": "fc. porto"
+    },
+    {
+        "q4": "how long has sergio been fc porto 's coach \\?",
+        "a4": "sergio is on his 2nd year",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a4_skt": "sergio is on his 2nd year",
+        "a4_v2": "sergio is on his 2nd year",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "fc. porto"
+    },
+    {
+        "q5": "totally agree i think a good coach",
+        "a5": "i do not agree",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i do not agree",
+        "a5_v2": "i do not agree",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

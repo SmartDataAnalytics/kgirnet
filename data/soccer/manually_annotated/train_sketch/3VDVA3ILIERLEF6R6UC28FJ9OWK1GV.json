@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is the captain of uruguay?",
+        "a1": "diego godin",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@captain",
+        "corr_rel1": "captain",
+        "obj1": "diego godin",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": "who is all time top goal scorer for uruguay?",
+        "a2": "luis su\u00e1rez",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "luis su\u00e1rez",
+        "a2_v2": "luis su\u00e1rez",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "uruguay"
+    },
+    {
+        "q3": "they are very good cavani and godin players",
+        "a3": "i agree to that.",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i agree to that.",
+        "a3_v2": "i agree to that.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "edinson cavani"
+    },
+    {
+        "q4": "who is their captain?",
+        "a4": "diego godin is the captain",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object is the @relation",
+        "a4_v2": "@captain is the captain",
+        "corr_rel4": "captain",
+        "obj4": "diego godin",
+        "input_ent4": "uruguay"
+    },
+    {
+        "q5": "is suarez still playing for uruguay?",
+        "a5": "he is",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "he is",
+        "a5_v2": "he is",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "uruguay"
+    }
+]

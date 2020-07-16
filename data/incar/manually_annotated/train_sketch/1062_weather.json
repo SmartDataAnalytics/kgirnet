@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what s the weather going to be like today and tomorrow",
+        "a1": "what location do you want the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "in alameda for today and tomorrow if there will be frost",
+        "a2": "no there shouldn t be any frost in alameda tomorrow",
+        "input_rel2": "party",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "alameda",
+        "kvr_entlist_qa2": [
+            "alameda",
+            "frost",
+            "tomorrow"
+        ]
+    },
+    {
+        "q3": "that covers it thank you",
+        "a3": "no problem it s my pleasure to assist you",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

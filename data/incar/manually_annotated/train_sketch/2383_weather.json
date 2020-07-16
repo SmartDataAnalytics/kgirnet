@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "what is the weather today",
+        "a1": "what city do you want the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "menlo_park",
+        "a2": "it is warm with a low of 90f and a high of 100f in menlo_park today",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday",
+        "obj2": "warm,100f,90f",
+        "input_ent2": "menlo_park",
+        "kvr_entlist_qa2": [
+            "warm",
+            "100f",
+            "90f",
+            "today",
+            "menlo_park"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "not a problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

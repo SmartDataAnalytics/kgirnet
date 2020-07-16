@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "how many times has the icelandic national football team made it to the world cup?",
+        "a1": "once this year",
+        "kgER1": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "once this year",
+        "a1_v2": "once this year",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "how well did they do?",
+        "a2": "iceland doesn't perform as well as other teams",
+        "kgER2": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity doesn't perform as well as other teams",
+        "a2_v2": "iceland doesn't perform as well as other teams",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "was this fun?",
+        "a3": "icelandic soccer and this are both fun",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "icelandic soccer and this are both fun",
+        "a3_v2": "icelandic soccer and this are both fun",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "it seems to me that the island that could have done it better",
+        "a4": "yes, but there was a lot of surprises this world cup.",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes, but there was a lot of surprises this world cup.",
+        "a4_v2": "yes, but there was a lot of surprises this world cup.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "does iceland have a star player?",
+        "a5": "gylfi sigurdsson is their most famous player. ",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object is their most famous player. ",
+        "a5_v2": "@midfielder is their most famous player. ",
+        "corr_rel5": "midfielder",
+        "obj5": "gylfi sigurdsson",
+        "input_ent5": "iceland"
+    }
+]

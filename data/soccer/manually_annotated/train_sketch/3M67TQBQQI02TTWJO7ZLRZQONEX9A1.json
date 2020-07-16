@@ -1,0 +1,108 @@
+[
+    {
+        "q1": "how many goals in average does your team make per game?",
+        "a1": "my dream take makes about 5 goals per game on the average ",
+        "kgER1": {
+            "avram glazer": [
+                "chairman"
+            ]
+        },
+        "a1_skt": "my dream take makes about @object @relation per game on the average ",
+        "a1_v2": "my dream take makes about 5 goals per game on the average ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "on average, how many games do you win per season ",
+        "a2": "five games",
+        "kgER2": {
+            "avram glazer": [
+                "chairman"
+            ]
+        },
+        "a2_skt": "five games",
+        "a2_v2": "five games",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "wait, does that make any sense? spain sees 4 seasons, so that would be 5x4=20 games won per year.",
+        "a3": "i think the spanish league has 36 games in a season",
+        "kgER3": {
+            "avram glazer": [
+                "chairman"
+            ],
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think the spanish league has @object games in a season",
+        "a3_v2": "i think the spanish league has 36 games in a season",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "spain"
+    },
+    {
+        "q4": "yes the spanish league has 36 games ",
+        "a4": "the spanish league is one of the best.",
+        "kgER4": {
+            "avram glazer": [
+                "chairman"
+            ],
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "the spanish league is one of the best.",
+        "a4_v2": "the spanish league is one of the best.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "are there any other leagues that are better than the spanish leagues?",
+        "a5": "not really. spain has one of the best leagues in europe, but the leagues in italy, england, and germany are also very strong. ",
+        "kgER5": {
+            "avram glazer": [
+                "chairman"
+            ],
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "not really. @entity has one of the best leagues in europe, but the leagues in italy, england, and @entity are also very strong. ",
+        "a5_v2": "not really. spain has one of the best leagues in europe, but the leagues in italy, england, and germany are also very strong. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

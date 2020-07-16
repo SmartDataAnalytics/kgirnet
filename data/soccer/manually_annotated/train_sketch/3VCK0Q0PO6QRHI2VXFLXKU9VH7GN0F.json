@@ -1,0 +1,136 @@
+[
+    {
+        "q1": "what do you think of their uniforms?",
+        "a1": "i think they're away kit looks way better than the stripes on the home uniforms, but there's definitely worse uniforms out there. ",
+        "kgER1": {},
+        "a1_skt": "i think they're away kit looks way better than the stripes on the home uniforms, but there's definitely worse uniforms out there. ",
+        "a1_v2": "i think they're away kit looks way better than the stripes on the home uniforms, but there's definitely worse uniforms out there. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "fc portos uniform looks similar to argentina's uniform don you think? ",
+        "a2": "yeah it does quite a bit",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yeah it does quite a bit",
+        "a2_v2": "yeah it does quite a bit",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "argentina"
+    },
+    {
+        "q3": "what is fc portos away uniform look like?",
+        "a3": "the 2018/19 third kit features a combination of white, dazzling blue and maldives blue",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "the 2018/19 third kit features a combination of @object dazzling @object and maldives @object",
+        "a3_v2": "the 2018/19 third kit features a combination of white, dazzling blue and maldives blue",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what does fc portos home uniform look like?",
+        "a4": "fc.porto's home uniform is blue and white stripes.",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "fc.porto's home uniform is @object and @object stripes.",
+        "a4_v2": "fc.porto's home uniform is blue and white stripes.",
+        "corr_rel4": "home jersey",
+        "obj4": "blue and white",
+        "input_ent4": "fc. porto"
+    },
+    {
+        "q5": "is casillas still on the team?",
+        "a5": "yup, he is",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yup, he is",
+        "a5_v2": "yup, he is",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "iker casillas"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who is the second expensive player in barcelona?",
+        "a1": "the second one its philippe coutinho",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "the second one its @object",
+        "a1_v2": "the second one its philippe coutinho",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "who is their cheapest player? ",
+        "a2": "jordi masip",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "jordi masip",
+        "a2_v2": "jordi masip",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is the most worthy player in barcelona?",
+        "a3": "all of them",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "all of them",
+        "a3_v2": "all of them",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "barcelona"
+    },
+    {
+        "q4": "does barcelona have many good players?",
+        "a4": "everyone is good actually ",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "everyone is good actually ",
+        "a4_v2": "everyone is good actually ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "who cost more money that coutinho?",
+        "a5": "i think, that messi is worth more than coutinho",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i think, that messi is worth more than coutinho",
+        "a5_v2": "i think, that messi is worth more than coutinho",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "philippe coutinho"
+    }
+]

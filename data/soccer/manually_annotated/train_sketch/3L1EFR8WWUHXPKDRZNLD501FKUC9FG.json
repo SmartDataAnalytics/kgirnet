@@ -1,0 +1,100 @@
+[
+    {
+        "q1": "this is my favorite team",
+        "a1": "i love watching them play at estadio monumental antonio vespucio liberti.",
+        "kgER1": {},
+        "a1_skt": "i love watching them play at estadio monumental antonio vespucio liberti.",
+        "a1_v2": "i love watching them play at estadio monumental antonio vespucio liberti.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "when did argentina last win the world cup?",
+        "a2": "1986",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "@world_cup_champions",
+        "corr_rel2": "world cup champions",
+        "obj2": "1986",
+        "input_ent2": "argentina"
+    },
+    {
+        "q3": "who did argentina beat in 1986 to win the world cup?",
+        "a3": "germany",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity",
+        "a3_v2": "germany",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "argentina"
+    },
+    {
+        "q4": "what are the colours of argentina's home jersey?",
+        "a4": "blue and white",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object and @object",
+        "a4_v2": "blue and white",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "argentina"
+    },
+    {
+        "q5": "who is the current head coach of the team?",
+        "a5": "lionel scaloni is the interim head coach for argentina.",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object is the interim head @relation for @entity",
+        "a5_v2": "@coach is the interim head coach for @entity",
+        "corr_rel5": "coach",
+        "obj5": "lionel scaloni",
+        "input_ent5": "argentina"
+    }
+]

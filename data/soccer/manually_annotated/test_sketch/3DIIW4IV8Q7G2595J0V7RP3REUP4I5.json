@@ -1,0 +1,178 @@
+[
+    {
+        "q1": "who is the best player?",
+        "a1": "pel\u00e9 is the best player of all time.",
+        "kgER1": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "pel\u00e9 is the @relation of all time.",
+        "a1_v2": "pel\u00e9 is the best player of all time.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "did cristiano ronaldo's move from real madrid to juventis affect his reputation as a player?",
+        "a2": "yes, cristiano ronaldo's move from real madrid to juventis affected his reputation as a player. think about if you moved from one neighborhood to another, obviously your reputation would be effected.",
+        "kgER2": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes, @object move from @entity to juventis affected his reputation as a player. think about if you moved from one neighborhood to another, obviously your reputation would be effected.",
+        "a2_v2": "yes, cristiano ronaldo's move from real madrid to juventis affected his reputation as a player. think about if you moved from one neighborhood to another, obviously your reputation would be effected.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "pel\u00e9 is definitely the best of all time no doubt",
+        "a3": "if for me it is also the best of all times",
+        "kgER3": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "if for me it is also the best of all times",
+        "a3_v2": "if for me it is also the best of all times",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "in my opinion, its reputation and performance are not affected",
+        "a4": "i think it will be affected.",
+        "kgER4": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i think it will be affected.",
+        "a4_v2": "i think it will be affected.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "white and red"
+    },
+    {
+        "q5": "do you like watching real madrid play?",
+        "a5": "real madrid plays excellently with their crop of players mixing speed with tiki taka and serious tenacity at all times.",
+        "kgER5": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@entity plays excellently with their crop of players mixing speed with tiki taka and serious tenacity at all times.",
+        "a5_v2": "real madrid plays excellently with their crop of players mixing speed with tiki taka and serious tenacity at all times.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

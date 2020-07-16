@@ -1,0 +1,46 @@
+[
+    {
+        "q1": "i need to go home and avoid the heavy_traffic",
+        "a1": "taking you home there is a car_collision_nearby",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "home",
+            "car_collision_nearby"
+        ]
+    },
+    {
+        "q2": "am i more than 3_miles away right now",
+        "a2": "you are 5_miles away from home",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "5_miles",
+            "home"
+        ]
+    },
+    {
+        "q3": "ok avoid all heavy_traffic with the fasest route home",
+        "a3": "there is a car_collision_nearby but i already sent another route on your map",
+        "input_rel3": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type,traffic_info",
+        "corr_rel3": "traffic_info",
+        "obj3": "car_collision_nearby",
+        "input_ent3": "home",
+        "kvr_entlist_qa3": [
+            "car_collision_nearby"
+        ]
+    },
+    {
+        "q4": "awesome thanks",
+        "a4": "yor welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i admire liverpool",
+        "a1": "what country is this team located in?",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "what country is this team located in?",
+        "a1_v2": "what country is this team located in?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "the liverpool is located in england",
+        "a2": "if i agree that the liverpool is a great team, if it is in english ",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "if i agree that the @entity is a great team, if it is in english ",
+        "a2_v2": "if i agree that the liverpool is a great team, if it is in english ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "england is a great team.",
+        "a3": "liverpool is better than england.",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@entity is better than england.",
+        "a3_v2": "liverpool is better than england.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what are liverpool's chances of winning the league this year?",
+        "a4": "good chances i think.",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "good chances i think.",
+        "a4_v2": "good chances i think.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    },
+    {
+        "q5": "who is liverpool's best international player?",
+        "a5": "i believe mohamed salah is the best player.",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i believe @object is the best player.",
+        "a5_v2": "i believe mohamed salah is the best player.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

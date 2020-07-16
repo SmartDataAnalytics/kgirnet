@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i admire germany",
+        "a1": "they aren't the same germany from four years ago though. ",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they aren't the same @entity from four years ago though. ",
+        "a1_v2": "they aren't the same germany from four years ago though. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "do they need to get rid of older players?",
+        "a2": "they are not a new generation has to adapt",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they are not a new generation has to adapt",
+        "a2_v2": "they are not a new generation has to adapt",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "who is their youngest player currently? ",
+        "a3": "joshua kimmich is the youngest",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object is the youngest",
+        "a3_v2": "joshua kimmich is the youngest",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "and how old is he?",
+        "a4": "thirty ",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "thirty ",
+        "a4_v2": "thirty ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "old trafford"
+    },
+    {
+        "q5": "who is the most valuable player?",
+        "a5": "i think toni kroos because he is good at getting up there and attacking while also getting back fast and helping to defend.",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think @object because he is good at getting up there and attacking while also getting back fast and helping to @relation",
+        "a5_v2": "i think toni kroos because he is good at getting up there and attacking while also getting back fast and helping to defend.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

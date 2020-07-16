@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i like the team bayern munich",
+        "a1": "bayern beat eintracht 5-0 earlier today. do you think they played well?",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "bayern beat eintracht @object earlier today. do you think they played well?",
+        "a1_v2": "bayern beat eintracht 5-0 earlier today. do you think they played well?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "did eintracht play poorly, or did munich just play well?",
+        "a2": "bayern munich has a great team, they played well, eintracht didn't have a chance.",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@entity has a great team, they played well, eintracht didn't have a chance.",
+        "a2_v2": "bayern munich has a great team, they played well, eintracht didn't have a chance.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bayern munich"
+    },
+    {
+        "q3": "who is the best player on bayern munich?",
+        "a3": "mats hummels",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "mats hummels",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "how do you  know? ",
+        "a4": "he is the leader of the defense of the bayern munich and the best defense of germany ",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "he is the leader of the @relation of the @entity and the best @relation of @entity ",
+        "a4_v2": "he is the leader of the defense of the bayern munich and the best defense of germany ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "when did bayern munich club established?",
+        "a5": "in 1908 before ww1",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "in @object before ww1",
+        "a5_v2": "in 1908 before ww1",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bayern munich"
+    }
+]

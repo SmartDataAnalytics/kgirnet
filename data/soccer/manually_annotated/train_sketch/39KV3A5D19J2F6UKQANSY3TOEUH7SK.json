@@ -1,0 +1,121 @@
+[
+    {
+        "q1": "who is the captain of the bvb dortmund team \\?",
+        "a1": "marco reus from germany is the current captain of the bvb dortmund",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object from @entity is the current @relation of the bvb dortmund",
+        "a1_v2": "marco reus from germany is the current captain of the bvb dortmund",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "which colors are their kit \\?",
+        "a2": "yellow and black",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object and black",
+        "a2_v2": "@jersey_color and black",
+        "corr_rel2": "jersey color",
+        "obj2": "yellow",
+        "input_ent2": "bvb dortmund"
+    },
+    {
+        "q3": "who is their current manager \\?",
+        "a3": "lucien favre",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "@coach",
+        "corr_rel3": "coach",
+        "obj3": "lucien favre",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "would you say that they 're the best team in germany \\?",
+        "a4": "no , i would say fc bayern munchen are the best team in germnay",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "no , i would say fc bayern munchen are the best team in germnay",
+        "a4_v2": "no , i would say fc bayern munchen are the best team in germnay",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "germany"
+    },
+    {
+        "q5": "who would you say is their star player \\?",
+        "a5": "bvb dortmund has a good players \\?",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "bvb dortmund has a good players \\?",
+        "a5_v2": "bvb dortmund has a good players \\?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

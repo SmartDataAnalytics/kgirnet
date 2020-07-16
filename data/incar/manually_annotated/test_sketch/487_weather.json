@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "is it raining today",
+        "a1": "what city would you like weather information about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i need it for new_york",
+        "a2": "yes the forecast calls for rain in new_york today",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "rain",
+        "input_ent2": "new_york",
+        "kvr_entlist_qa2": [
+            "today",
+            "rain",
+            "new_york"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

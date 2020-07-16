@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "do you like victor moses of nigeria?",
+        "a1": "yes i like victor moses of nigeria",
+        "kgER1": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes i like victor moses of @entity",
+        "a1_v2": "yes i like victor moses of nigeria",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "nigeria"
+    },
+    {
+        "q2": "what color is the jersey for nigeria?",
+        "a2": "green.",
+        "kgER2": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "green.",
+        "a2_v2": "green.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "nigeria"
+    },
+    {
+        "q3": "who is your favorite nigerian player? ",
+        "a3": "ahmed musa",
+        "kgER3": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "ahmed musa",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "did nigeria do well in the 2018 world cup?",
+        "a4": "while they played well and beat iceland, they did not advance beyond the group stage.",
+        "kgER4": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "while they played well and beat @entity they did not advance beyond the group stage.",
+        "a4_v2": "while they played well and beat iceland, they did not advance beyond the group stage.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "nigeria"
+    },
+    {
+        "q5": "what is the mascot for nigeria ?",
+        "a5": "eagle",
+        "kgER5": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "eagle",
+        "a5_v2": "eagle",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "nigeria"
+    }
+]

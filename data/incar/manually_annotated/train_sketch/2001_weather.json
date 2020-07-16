@@ -1,0 +1,30 @@
+[
+    {
+        "q1": "what s the seven day forecast for new_york city",
+        "a1": "new_york s weekly forecast is scattered being warm hot and clear_skies the lows are in the 30s while the highs are up to 90f",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj1": "warm,clear_skies,90f,hot",
+        "input_ent1": "new_york",
+        "kvr_entlist_qa1": [
+            "warm",
+            "new_york",
+            "clear_skies",
+            "90f",
+            "hot"
+        ]
+    },
+    {
+        "q2": "on what day is it supposed to hit 90f",
+        "a2": "it is supposed to be 90f on wednesday in new_york",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "wednesday",
+        "obj2": "90f",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "90f",
+            "new_york",
+            "wednesday"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "what s the forecast going to be for today and tomorrow",
+        "a1": "what city would you like to know today and tomorrow s weather about",
+        "input_rel1": "party",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "today",
+            "tomorrow"
+        ]
+    },
+    {
+        "q2": "will it be windy in manhattan today or tomorrow",
+        "a2": "the forecast does show show that it will be windy in manhattan today or tomorrow",
+        "input_rel2": "party",
+        "corr_rel2": "monday,tuesday",
+        "obj2": "windy",
+        "input_ent2": "manhattan",
+        "kvr_entlist_qa2": [
+            "manhattan",
+            "today",
+            "windy",
+            "tomorrow"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

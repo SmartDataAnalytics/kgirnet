@@ -1,0 +1,59 @@
+[
+    {
+        "q1": "show me the nearby hospital",
+        "a1": "stanford_express_care is nearby",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "stanford_express_care",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "stanford_express_care"
+        ]
+    },
+    {
+        "q2": "does stanford_express_care have heavy_traffic nearby",
+        "a2": "does stanford_express_care have heavy_traffic nearby",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "stanford_express_care",
+        "kvr_entlist_qa2": [
+            "heavy_traffic",
+            "stanford_express_care"
+        ]
+    },
+    {
+        "q3": "does stanford_express_care have heavy_traffic nearby",
+        "a3": "does stanford_express_care have heavy_traffic nearby",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "stanford_express_care",
+        "kvr_entlist_qa3": [
+            "heavy_traffic",
+            "stanford_express_care"
+        ]
+    },
+    {
+        "q4": "any other local hospital s with no heavy_traffic",
+        "a4": "yes stanford_childrens_health is 1_miles away with no_traffic do you want the address",
+        "input_rel4": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel4": "poi",
+        "obj4": "stanford_childrens_health",
+        "input_ent4": "hospital",
+        "kvr_entlist_qa4": [
+            "1_miles",
+            "stanford_childrens_health",
+            "no_traffic"
+        ]
+    },
+    {
+        "q5": "quickly reboot your system car and then send me the address thank you",
+        "a5": "i m sorry i did and i sent the address on your screen drive carefully",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

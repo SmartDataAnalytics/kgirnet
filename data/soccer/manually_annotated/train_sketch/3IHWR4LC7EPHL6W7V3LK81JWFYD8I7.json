@@ -1,0 +1,127 @@
+[
+    {
+        "q1": "who won the game",
+        "a1": "atletico madrid won.",
+        "kgER1": {},
+        "a1_skt": "@entity won.",
+        "a1_v2": "atletico madrid won.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who is atletico madrid playing next?",
+        "a2": "they have a game on saturday against inter milan.",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they have a game on saturday against inter milan.",
+        "a2_v2": "they have a game on saturday against inter milan.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "atletico madrid"
+    },
+    {
+        "q3": "who is your favorite soccer player and why?",
+        "a3": "luis aragon\u00e9s because he is atletico's madrid's leading all time goal scorer.",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "luis aragon\u00e9s because he is @entity leading all time @relation scorer.",
+        "a3_v2": "luis aragon\u00e9s because he is atletico's madrid's leading all time goal scorer.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "white and red"
+    },
+    {
+        "q4": "which other members of the squad are worth watching out for? ",
+        "a4": "jan oblak because he is a great goalkeeper. ",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object because he is a great @relation ",
+        "a4_v2": "jan oblak because he is a great goalkeeper. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "will antoine griezmann stay at athletico madrid? ",
+        "a5": "last i heard, he was planning on staying with the club for the upcoming season!",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "antoine griezmann": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a5_skt": "last i heard, he was planning on staying with the club for the upcoming season!",
+        "a5_v2": "last i heard, he was planning on staying with the club for the upcoming season!",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "antoine griezmann"
+    },
+    {
+        "q6": "i would for him to keep playing with madrid, we have tickets for this season.",
+        "a6": "really? good for you. anyways i have to go now , goodbye.",
+        "kgER6": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "antoine griezmann": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a6_skt": "really? good for you. anyways i have to go now , goodbye.",
+        "a6_v2": "really? good for you. anyways i have to go now , goodbye.",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "real madrid"
+    }
+]

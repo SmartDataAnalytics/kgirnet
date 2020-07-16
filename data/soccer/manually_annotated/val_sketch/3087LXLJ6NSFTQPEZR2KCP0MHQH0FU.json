@@ -1,0 +1,74 @@
+[
+    {
+        "q1": "did this team win or lose this year?",
+        "a1": "yes, they won.",
+        "kgER1": {},
+        "a1_skt": "yes, they won.",
+        "a1_v2": "yes, they won.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "will they win their season opener?",
+        "a2": "they have a good chance if diego costa stay healthy.",
+        "kgER2": {},
+        "a2_skt": "they have a good chance if @object stay healthy.",
+        "a2_v2": "they have a good chance if diego costa stay healthy.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who athletico madrid\u2019s manager",
+        "a3": "who was the mvp player last year?",
+        "kgER3": {},
+        "a3_skt": "who was the mvp player last year?",
+        "a3_v2": "who was the mvp player last year?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "antoine griezmann.",
+        "a4": "for me the best player was antoine griezmann",
+        "kgER4": {
+            "antoine griezmann": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a4_skt": "for me the @relation was @object",
+        "a4_v2": "for me the best player was antoine griezmann",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "antoine griezmann"
+    },
+    {
+        "q5": "what is your favourite of his stats from last year?",
+        "a5": "i love madrid vs france",
+        "kgER5": {
+            "antoine griezmann": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a5_skt": "i love madrid vs @entity",
+        "a5_v2": "i love madrid vs france",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who had the most goals in liverpool last season?",
+        "a1": "the one and only mohammed salah!",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "the one and only @object",
+        "a1_v2": "the one and only mohammed salah!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "what is his background?",
+        "a2": "he is british born. ",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "he is british born. ",
+        "a2_v2": "he is british born. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how many goals in liverpool team in last season? i don't know but i think mohammed salah.  ",
+        "a3": "what player only played one year on this team?",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "what player only played one year on this team?",
+        "a3_v2": "what player only played one year on this team?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "\u00e1d\u00e1m bogd\u00e1n was in liverpool only for a very short period of time. it might have been for less than a year.",
+        "a4": "adam bogan was in liverpool for a very short time.",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "adam bogan was in @entity for a very short time.",
+        "a4_v2": "adam bogan was in liverpool for a very short time.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    },
+    {
+        "q5": "how many times have liverpool won the champions league?",
+        "a5": "five times, but it's been a while!",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "five times, but it's been a while!",
+        "a5_v2": "five times, but it's been a while!",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

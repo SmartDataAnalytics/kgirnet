@@ -1,0 +1,136 @@
+[
+    {
+        "q1": "does bvb dortmund have any strong players this year?",
+        "a1": "christian pulisic plays for dortmund and is an amazing young player.",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "christian pulisic plays for dortmund and is an amazing young player.",
+        "a1_v2": "christian pulisic plays for dortmund and is an amazing young player.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "is christian pulisic their best player?",
+        "a2": "no, i'd say marco reus is their best player.",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "no, i'd say @object is their best player.",
+        "a2_v2": "no, i'd say marco reus is their best player.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "christian benteke"
+    },
+    {
+        "q3": "bvb dortmund's best player, in my opinion, is forward marco reus.",
+        "a3": "he's good but injury has held him back",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "marco reus": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a3_skt": "he's good but injury has held him back",
+        "a3_v2": "he's good but injury has held him back",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "i agree and it seems to me that the best player is christian pulisic",
+        "a4": "if totally mind according to that is the best",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "marco reus": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a4_skt": "if totally mind according to that is the best",
+        "a4_v2": "if totally mind according to that is the best",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "christian benteke"
+    },
+    {
+        "q5": "is bvb dortmund a good team?",
+        "a5": "yes, they are a good team, but still have room to improve.",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "marco reus": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a5_skt": "yes, they are a good team, but still have room to improve.",
+        "a5_v2": "yes, they are a good team, but still have room to improve.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bvb dortmund"
+    }
+]

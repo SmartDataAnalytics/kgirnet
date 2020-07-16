@@ -1,0 +1,91 @@
+[
+    {
+        "q1": "were you pleased with the belgian team's performance in the 2018 world cup?",
+        "a1": "yes - finishing third was extremely commendable and they had some very convincing wins. ",
+        "kgER1": {},
+        "a1_skt": "yes - finishing third was extremely commendable and they had some very convincing wins. ",
+        "a1_v2": "yes - finishing third was extremely commendable and they had some very convincing wins. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "2018"
+    },
+    {
+        "q2": "what was their average age in the world cup?",
+        "a2": "i think it was 25",
+        "kgER2": {},
+        "a2_skt": "i think it was @object",
+        "a2_v2": "i think it was 25",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "who was the oldest person on the belgium team?",
+        "a3": "thomas vermaelen",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "thomas vermaelen",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "belgium"
+    },
+    {
+        "q4": "do you think kevin debruyne is the best player in the world?",
+        "a4": "yes i think so",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes i think so",
+        "a4_v2": "yes i think so",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "kevin mirallas"
+    },
+    {
+        "q5": "belgium is one of the best players",
+        "a5": "belgium is the actual team and not a player.",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity is the actual team and not a player.",
+        "a5_v2": "belgium is the actual team and not a player.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "belgium"
+    }
+]

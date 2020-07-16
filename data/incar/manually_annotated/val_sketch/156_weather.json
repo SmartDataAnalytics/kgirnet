@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "give me this week s high temperature",
+        "a1": "what city would you like to know the high temperature of",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "for compton please",
+        "a2": "this week the highest_temperature in compton will be 90f on friday and sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "friday,sunday",
+        "obj2": "90f,week",
+        "input_ent2": "compton",
+        "kvr_entlist_qa2": [
+            "highest_temperature",
+            "week",
+            "compton",
+            "sunday",
+            "90f",
+            "friday"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "love sweden",
+        "a1": "of course i do.",
+        "kgER1": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "of course i do.",
+        "a1_v2": "of course i do.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "sweden"
+    },
+    {
+        "q2": "do you miss zlatan?",
+        "a2": "of course, he is one the best swedish players of all time. ",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "of course, he is one the best swedish players of all time. ",
+        "a2_v2": "of course, he is one the best swedish players of all time. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "who is the goal keeper for sweden?",
+        "a3": "the swedish goalkeeper is robin olsen",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "the swedish @relation is @object",
+        "a3_v2": "the swedish goalkeeper is @goalkeeper",
+        "corr_rel3": "goalkeeper",
+        "obj3": "robin olsen",
+        "input_ent3": "sweden"
+    },
+    {
+        "q4": "did sweeden play in the world cup? ",
+        "a4": "yes, in 2018 they made it to the quarter-finals",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes, in @object they made it to the quarter-finals",
+        "a4_v2": "yes, in 2018 they made it to the quarter-finals",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "who did sweden loose to in the quarter finals of the world cup?",
+        "a5": "i don't know who they loose to, they seemed pretty tight, but they did lose to england.",
+        "kgER5": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i don't know who they loose to, they seemed pretty tight, but they did lose to england.",
+        "a5_v2": "i don't know who they loose to, they seemed pretty tight, but they did lose to england.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "sweden"
+    }
+]

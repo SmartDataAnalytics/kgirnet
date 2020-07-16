@@ -1,0 +1,43 @@
+[
+    {
+        "q1": "what is the weather forecast for the next 7 days",
+        "a1": "what is the name of the city you want the forecast from",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "carson please",
+        "a2": "in carson it will be frost on monday raining on tuesday overcast on wednesday dry on thursday clear_skies on friday cloudy on saturday and overcast on sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "frost,clear_skies, monday,cloudy,dry,overcast",
+        "input_ent2": "carson",
+        "kvr_entlist_qa2": [
+            "frost",
+            "clear_skies",
+            "monday",
+            "cloudy",
+            "carson",
+            "wednesday",
+            "dry",
+            "saturday",
+            "sunday",
+            "tuesday",
+            "thursday",
+            "overcast",
+            "friday"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

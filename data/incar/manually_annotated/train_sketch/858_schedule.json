@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "can you tell me when my swimming_activity is",
+        "a1": "your swimming_activity is at 2pm on thursday",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "time",
+        "obj1": "2pm",
+        "input_ent1": "swimming_activity",
+        "kvr_entlist_qa1": [
+            "thursday",
+            "2pm",
+            "swimming_activity"
+        ]
+    },
+    {
+        "q2": "alright thank you",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

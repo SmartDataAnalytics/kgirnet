@@ -1,0 +1,109 @@
+[
+    {
+        "q1": "what is barcelona's goal average?",
+        "a1": "the goal average for the la liga 2017/18 season was 2.6 goals.",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "the goal average for the la liga 2017/18 season was @object @relation",
+        "a1_v2": "the goal average for the la liga 2017/18 season was 2.6 goals.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "what is barcelona's ranking?",
+        "a2": "2",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "2",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "barcelona"
+    },
+    {
+        "q3": "barcelona is a great team, it is in the highest ranking of the list ",
+        "a3": "i also consider that it is a great team and i think they will be champions of the sponge league this season",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i also consider that it is a great team and i think they will be champions of the sponge league this season",
+        "a3_v2": "i also consider that it is a great team and i think they will be champions of the sponge league this season",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "barcelona"
+    },
+    {
+        "q4": "who's their biggest rival?",
+        "a4": "i think iceland is a good team",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i think @entity is a good team",
+        "a4_v2": "i think iceland is a good team",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what's iceland's main strength?",
+        "a5": "why are you talking about iceland? whos your favorite member of barcelona?",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "why are you talking about @entity whos your favorite member of @entity",
+        "a5_v2": "why are you talking about iceland? whos your favorite member of barcelona?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "iceland"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "q1": "what is the weather forecast in los_angeles over the next_few_days",
+        "a1": "the weather in los_angeles will be snowy on monday and then on sunday cloudy on tuesday raining on wednesday blizzard on thursday lowest_temperature on friday dry on saturday",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj1": "snowy,cloudy,raining,blizzard",
+        "input_ent1": "los_angeles",
+        "kvr_entlist_qa1": [
+            "thursday",
+            "blizzard",
+            "lowest_temperature",
+            "cloudy",
+            "monday",
+            "wednesday",
+            "dry",
+            "sunday",
+            "saturday",
+            "tuesday",
+            "los_angeles",
+            "friday"
+        ]
+    },
+    {
+        "q2": "that s too much info but thank you car",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "thank you again",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

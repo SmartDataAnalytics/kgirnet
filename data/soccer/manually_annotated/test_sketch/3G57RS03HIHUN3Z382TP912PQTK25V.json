@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is the current coach of italy?",
+        "a1": "roberto mancini is the current coach of italy. ",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object is the current @relation of italy. ",
+        "a1_v2": "@coach is the current coach of italy. ",
+        "corr_rel1": "coach",
+        "obj1": "roberto mancini",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "who is the most important player for italy right now? ",
+        "a2": "i think balotelli is.",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i think balotelli is.",
+        "a2_v2": "i think balotelli is.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "are italy likely to qualify for the 2020 european championship?",
+        "a3": "it is easier to qualify for the european championship than the world cup, plus italy are typically a very goo team, so i believe they will.",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "it is easier to qualify for the european championship than the world cup, plus @entity are typically a very goo team, so i believe they will.",
+        "a3_v2": "it is easier to qualify for the european championship than the world cup, plus italy are typically a very goo team, so i believe they will.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "italy"
+    },
+    {
+        "q4": "will italy have a good chance to win the championship?",
+        "a4": "no",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "no",
+        "a4_v2": "no",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "italy"
+    },
+    {
+        "q5": "why doesn't italy have a good chance of winning the championship?",
+        "a5": "because they suck",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "because they suck",
+        "a5_v2": "because they suck",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "italy"
+    }
+]

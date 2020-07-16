@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "how well mexico do in the last world cup?",
+        "a1": "they made the round of 16 and finished 12th.",
+        "kgER1": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they made the @relation of @object and finished 12th.",
+        "a1_v2": "they made the round of 16 and finished 12th.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "mexico"
+    },
+    {
+        "q2": "what's the highest rank mexico has finished ever in the world cup? ",
+        "a2": "they have made the final four.",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they have made the final four.",
+        "a2_v2": "they have made the final four.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "mexico"
+    },
+    {
+        "q3": "will they ever actually win? ",
+        "a3": "probably not.",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "probably not.",
+        "a3_v2": "probably not.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ever banega"
+    },
+    {
+        "q4": "they have not won a world",
+        "a4": "winning team and losing team columns indicate the number of times that team has appeared in a world series as well as each respective teams' world series record to date.   national league team   american league team",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "winning team and losing team columns indicate the number of times that team has appeared in a world series as well as each respective teams' world series record to date.   national league team   american league team",
+        "a4_v2": "winning team and losing team columns indicate the number of times that team has appeared in a world series as well as each respective teams' world series record to date.   national league team   american league team",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "how many times had  won the world?",
+        "a5": "mexico has never won a world cup ",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity has never won a world cup ",
+        "a5_v2": "mexico has never won a world cup ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

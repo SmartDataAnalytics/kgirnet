@@ -1,0 +1,124 @@
+[
+    {
+        "q1": "has belgium always produced great talent?",
+        "a1": "for me they have very good players like hazard",
+        "kgER1": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "for me they have very good players like hazard",
+        "a1_v2": "for me they have very good players like hazard",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "belgium"
+    },
+    {
+        "q2": "was romelu lukaku top scorer at world cup 2018?",
+        "a2": "no it was harry kane ",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "romelu lukaku": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a2_skt": "no it was harry kane ",
+        "a2_v2": "no it was harry kane ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "romelu lukaku"
+    },
+    {
+        "q3": "the player on the belgium team that is the most talented?",
+        "a3": "kevin de bruyne",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "romelu lukaku": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "kevin de bruyne",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "belgium"
+    },
+    {
+        "q4": "who is the toughest competetor for belgium?",
+        "a4": "all their team is competitors,they have so many good players.",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "romelu lukaku": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a4_skt": "all their team is competitors,they have so many good players.",
+        "a4_v2": "all their team is competitors,they have so many good players.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "belgium"
+    }
+]

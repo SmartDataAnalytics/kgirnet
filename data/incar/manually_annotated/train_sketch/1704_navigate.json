@@ -1,0 +1,32 @@
+[
+    {
+        "q1": "give me the closest fast food restaurant",
+        "a1": "i do not see any fast food near you",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "look for some pizza_restaurant nearest to my position and send me the quickest route to reach thanks",
+        "a2": "the only pizza place listed is dominos and it s 6_miles away at 776 arastradero road",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi,distance",
+        "obj2": "dominos,6_miles",
+        "input_ent2": "pizza_restaurant",
+        "kvr_entlist_qa2": [
+            "dominos",
+            "6_miles"
+        ]
+    },
+    {
+        "q3": "thanks so much",
+        "a3": "you re the most welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "what does bvb stand for?",
+        "a1": "ballspielverein borussia 09 e.v. dortmund",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "ballspielverein borussia @object e.v. dortmund",
+        "a1_v2": "ballspielverein borussia 09 e.v. dortmund",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "is that in german?",
+        "a2": "yes it is, of course. ",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes it is, of course. ",
+        "a2_v2": "yes it is, of course. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "german pezzella"
+    },
+    {
+        "q3": "but does bvb dortmund have any german players on the team?",
+        "a3": "only 11 of the 29 players in dortmund's first team are german, which is one of the lowest ratios in the bundesliga.",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "only @object of the @object players in dortmund's first team are german, which is one of the lowest ratios in the bundesliga.",
+        "a3_v2": "only 11 of the 29 players in dortmund's first team are german, which is one of the lowest ratios in the bundesliga.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "what other ethnicity does bvb dortmund have?",
+        "a4": "loads, bvb dortmund represent many nations and backgrounds.",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "loads, bvb dortmund represent many nations and backgrounds.",
+        "a4_v2": "loads, bvb dortmund represent many nations and backgrounds.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bvb dortmund"
+    },
+    {
+        "q5": "is the best player for bvb dortmund german?",
+        "a5": "yes, his best player is marco reus ",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes, his @relation is @object ",
+        "a5_v2": "yes, his best player is marco reus ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bvb dortmund"
+    }
+]

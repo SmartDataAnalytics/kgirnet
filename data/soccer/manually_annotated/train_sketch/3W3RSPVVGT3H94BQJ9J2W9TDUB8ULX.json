@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "love bayern munich",
+        "a1": "what do you think of their strip? ",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "what do you think of their strip? ",
+        "a1_v2": "what do you think of their strip? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "i don't know",
+        "a2": "i don't understad what people mean when they say \"strip\" ",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i don't understad what people mean when they say \"strip\" ",
+        "a2_v2": "i don't understad what people mean when they say \"strip\" ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "the 2018/2019 strips look nice",
+        "a3": "where is bayern munich's homefield?",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "where is @entity homefield?",
+        "a3_v2": "where is bayern munich's homefield?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "2018"
+    },
+    {
+        "q4": "in munich of course! ",
+        "a4": "munich, germany ",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "munich, @entity ",
+        "a4_v2": "munich, germany ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "who is the oldest player?",
+        "a5": "he's 38 years old and still going strong.",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "he's @object years old and still going strong.",
+        "a5_v2": "he's 38 years old and still going strong.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "atletico madrid is a very traditional club , when was the last time they won the championship \\?",
+        "a1": "2010",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "2010",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "when was the last time they won a la liga title \\?",
+        "a2": "atletico madrid last won the la liga title in 2014",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@entity last won the la liga title in @object",
+        "a2_v2": "atletico madrid last won the la liga title in 2014",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is the best striker in athletico madrid history \\?",
+        "a3": "i think greizmann is the best",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think greizmann is the best",
+        "a3_v2": "i think greizmann is the best",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "atletico madrid flag what i color \\?",
+        "a4": "blue , white and red",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object , @object and @object",
+        "a4_v2": "blue , @jersey_color",
+        "corr_rel4": "jersey color",
+        "obj4": "red and white",
+        "input_ent4": "atletico madrid"
+    },
+    {
+        "q5": "if it is the best of the athletic",
+        "a5": "its not the best honestly",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "its not the best honestly",
+        "a5_v2": "its not the best honestly",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "what shopping_centers are around",
+        "a1": "town_and_country is the only shopping_center",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "town_and_country",
+        "input_ent1": "shopping_center",
+        "kvr_entlist_qa1": [
+            "town_and_country",
+            "shopping_center"
+        ]
+    },
+    {
+        "q2": "ok find me the shortest distance and give me the address please",
+        "a2": "the address is 383_university_ave and the location is 6_miles away",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "383_university_ave",
+        "input_ent2": "town_and_country",
+        "kvr_entlist_qa2": [
+            "6_miles",
+            "383_university_ave"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome should we navigate there now",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "sure thanks",
+        "a4": "you are welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "please tell me the weather for today and tomorrow",
+        "a1": "please tell me what city i can give you today and tomorrows weather forecast about",
+        "input_rel1": "party",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "today"
+        ]
+    },
+    {
+        "q2": "i want to know if it will be snowing in fresno",
+        "a2": "yes snow is in the forecast for today and tomorrow for fresno",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday,tuesday",
+        "obj2": "snow",
+        "input_ent2": "fresno",
+        "kvr_entlist_qa2": [
+            "fresno",
+            "snow",
+            "today",
+            "tomorrow"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "happy to help",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

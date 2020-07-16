@@ -1,0 +1,59 @@
+[
+    {
+        "q1": "where is the local gas_station",
+        "a1": "there is a gas_station 4_miles away it s chevron would you like more details",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "chevron",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "4_miles",
+            "chevron",
+            "gas_station"
+        ]
+    },
+    {
+        "q2": "yes please show me the route and avoid heavy_traffic",
+        "a2": "here is the best route to chevron",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "chevron"
+        ]
+    },
+    {
+        "q3": "what is the address",
+        "a3": "783_arcadia_pl do you want me to send the route on your screen",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "783_arcadia_pl"
+        ]
+    },
+    {
+        "q4": "yes please that sounds great",
+        "a4": "plotting route to 783_arcadia_pl 4_miles away with car_collision_nearby",
+        "input_rel4": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel4": "address",
+        "obj4": "783_arcadia_pl",
+        "input_ent4": "chevron",
+        "kvr_entlist_qa4": [
+            "4_miles",
+            "783_arcadia_pl",
+            "car_collision_nearby"
+        ]
+    },
+    {
+        "q5": "thank you car",
+        "a5": "you re welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "get me the weather report for this week",
+        "a1": "for what city would you like this week s weather report",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "week"
+        ]
+    },
+    {
+        "q2": "will there be a blizzard in new_york this week",
+        "a2": "the weekly forecast for new_york does not say that there will be a blizzard",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "friday",
+        "obj2": "blizzard",
+        "input_ent2": "new_york",
+        "kvr_entlist_qa2": [
+            "blizzard",
+            "new_york"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

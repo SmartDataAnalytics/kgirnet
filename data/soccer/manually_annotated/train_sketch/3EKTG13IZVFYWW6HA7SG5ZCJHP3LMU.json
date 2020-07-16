@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "can bale lead real madrid to a la liga title?",
+        "a1": "if bale continues to be in great form and have a great performance with the other forwards then maybe he could win the title for the team.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "if bale continues to be in great form and have a great performance with the other @relation then maybe he could win the title for the team.",
+        "a1_v2": "if bale continues to be in great form and have a great performance with the other forwards then maybe he could win the title for the team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "one man can never do a job alone for the whole team.",
+        "a2": "who supports him in the team?",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "who supports him in the team?",
+        "a2_v2": "who supports him in the team?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "how many games has he contributed to that have ended in wins?",
+        "a3": "bale is a very good player he gave the victory to real madrid in the cup of king",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "bale is a very good player he gave the victory to @entity in the cup of king",
+        "a3_v2": "bale is a very good player he gave the victory to real madrid in the cup of king",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "do you think real madrid will be able to repeat the ucl title?",
+        "a4": "it will be difficult without ronaldo",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "it will be difficult without ronaldo",
+        "a4_v2": "it will be difficult without ronaldo",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "it will be difficult but they will never serendipitate",
+        "a5": "they still have good players like bale",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "they still have good players like bale",
+        "a5_v2": "they still have good players like bale",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

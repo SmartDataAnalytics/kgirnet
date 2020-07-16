@@ -1,0 +1,120 @@
+[
+    {
+        "q1": "what is the total worth of neymar jr \\?",
+        "a1": "right now it should be worth around 300m",
+        "kgER1": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a1_skt": "right now it should be worth around 300m",
+        "a1_v2": "right now it should be worth around 300m",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "neymar"
+    },
+    {
+        "q2": "how many ligue 1 titles have psg won \\?",
+        "a2": "seven",
+        "kgER2": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "seven",
+        "a2_v2": "seven",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "1 (first in 2018)"
+    },
+    {
+        "q3": "i think that psg is one of the best clubs in europe",
+        "a3": "not as good as some other clubs",
+        "kgER3": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "not as good as some other clubs",
+        "a3_v2": "not as good as some other clubs",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "who should they play next \\?",
+        "a4": "ones that fit",
+        "kgER4": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "ones that fit",
+        "a4_v2": "ones that fit",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who nis the head coach of paris sg",
+        "a5": "thomas tuchel is the head coach of paris sg",
+        "kgER5": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is the head @relation of paris sg",
+        "a5_v2": "@coach is the head coach of paris sg",
+        "corr_rel5": "coach",
+        "obj5": "thomas tuchel",
+        "input_ent5": "paris sg"
+    }
+]

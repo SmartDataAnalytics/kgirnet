@@ -1,0 +1,50 @@
+[
+    {
+        "q1": "find pizza",
+        "a1": "there is a dominos and a pizza_my_heart",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "dominos",
+        "input_ent1": "pizza_restaurant",
+        "kvr_entlist_qa1": [
+            "dominos",
+            "pizza_my_heart"
+        ]
+    },
+    {
+        "q2": "is any of them within 5_miles from our position",
+        "a2": "they are both within 5_miles dominos is 3_miles away and pizza_my_heart is 2_miles away",
+        "input_rel2": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel2": "distance",
+        "obj2": "dominos",
+        "input_ent2": "5_miles",
+        "kvr_entlist_qa2": [
+            "dominos",
+            "pizza_my_heart",
+            "2_miles",
+            "3_miles",
+            "5_miles"
+        ]
+    },
+    {
+        "q3": "then let s go at pizza_my_heart please pick a route with no_traffic",
+        "a3": "setting route to pizza_my_heart at 528_anton_ct now",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "528_anton_ct",
+        "input_ent3": "pizza_my_heart",
+        "kvr_entlist_qa3": [
+            "528_anton_ct",
+            "pizza_my_heart"
+        ]
+    },
+    {
+        "q4": "thank you car",
+        "a4": "you re welcome have a great evening",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

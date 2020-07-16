@@ -1,0 +1,118 @@
+[
+    {
+        "q1": "are the madrid teams as athletic as they claim to be?",
+        "a1": "they arent but they are decently athletic.",
+        "kgER1": {},
+        "a1_skt": "they arent but they are decently athletic.",
+        "a1_v2": "they arent but they are decently athletic.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "who is the current coach of atletico madrid  diego ",
+        "a2": "who is the strongest in the atletico madrid team?",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "who is the strongest in the @entity team?",
+        "a2_v2": "who is the strongest in the atletico madrid team?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "atletico madrid"
+    },
+    {
+        "q3": "antoine griezmann",
+        "a3": "griezman can lead to winning atlectico easily ",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "antoine griezmann": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a3_skt": "griezman can lead to winning atlectico easily ",
+        "a3_v2": "griezman can lead to winning atlectico easily ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "antoine griezmann"
+    },
+    {
+        "q4": "griezmann is an elite player, he is one of the best ",
+        "a4": "griezmann",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "antoine griezmann": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a4_skt": "griezmann",
+        "a4_v2": "griezmann",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "antoine griezmann"
+    },
+    {
+        "q5": "what country does griezmann come from?",
+        "a5": "france.",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "antoine griezmann": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity",
+        "a5_v2": "france.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "antoine griezmann"
+    }
+]

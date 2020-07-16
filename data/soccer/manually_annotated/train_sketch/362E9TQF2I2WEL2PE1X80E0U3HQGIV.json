@@ -1,0 +1,245 @@
+[
+    {
+        "q1": "did you see that amazing save yesterday during the uruguay game?!",
+        "a1": "i did, one of the best saves in the sport's history!",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i did, one of the best saves in the sport's history!",
+        "a1_v2": "i did, one of the best saves in the sport's history!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": "it was so fun to watch that with my family!",
+        "a2": "who is the uruguay keeper?",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "who is the @entity keeper?",
+        "a2_v2": "who is the uruguay keeper?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "i think it's fernando muslera.",
+        "a3": "they have suarez and cavani, but they need one more great player to go further in the world cup.",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "fernando": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "fernando muslera": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "they have suarez and cavani, but they need one more great player to go further in the world cup.",
+        "a3_v2": "they have suarez and cavani, but they need one more great player to go further in the world cup.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "fernando muslera"
+    },
+    {
+        "q4": "they need diego godin to step up and lead the defense.",
+        "a4": "they also need to work as a team.",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "fernando": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "fernando muslera": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "diego godin": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "defender"
+            ]
+        },
+        "a4_skt": "they also need to work as a team.",
+        "a4_v2": "they also need to work as a team.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "diego godin"
+    },
+    {
+        "q5": "what position does diego godin play?",
+        "a5": "he is a central defender",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "fernando": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "fernando muslera": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "diego godin": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "defender"
+            ]
+        },
+        "a5_skt": "he is a central @relation",
+        "a5_v2": "he is a central position",
+        "corr_rel5": "position",
+        "obj5": "defender",
+        "input_ent5": "diego godin"
+    },
+    {
+        "q6": "i've got to go so i can get ready to watch the next game! had fun talking with you!",
+        "a6": "does have a great records in central defender?",
+        "kgER6": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "fernando": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "fernando muslera": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "diego godin": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "defender"
+            ]
+        },
+        "a6_skt": "does have a great records in central @relation",
+        "a6_v2": "does have a great records in central defender?",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "emre can"
+    }
+]

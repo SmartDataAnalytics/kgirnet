@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "give me directions to 5677_southwest_4th_street",
+        "a1": "5677_springer_street is 2_miles away with moderate_traffic",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "distance",
+        "obj1": "2_miles",
+        "input_ent1": "5677_southwest_4th_street",
+        "kvr_entlist_qa1": [
+            "5677_springer_street",
+            "moderate_traffic",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "sounds good let s go there thanks for the help",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "q1": "i love bayern munich",
+        "a1": "name one league for bayern munich.",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "name one league for @entity",
+        "a1_v2": "name one league for bayern munich.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "who do you like more, bayer or munich? munich!",
+        "a2": "yes bayern munich has a great history and great players",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes @entity has a great history and great players",
+        "a2_v2": "yes bayern munich has a great history and great players",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bayern munich"
+    },
+    {
+        "q3": "what was their best placing in the world cup?",
+        "a3": "kingsley coman because he plays for france ",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object because he plays for @entity ",
+        "a3_v2": "kingsley coman because he plays for france ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "will bayern be a force in this seasons champs league",
+        "a4": "https://secure.link/pzcdxxpv",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "https://secure.link/pzcdxxpv",
+        "a4_v2": "https://secure.link/pzcdxxpv",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "bayern is the best team in germany",
+        "a5": "i think dortmund is better",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think dortmund is better",
+        "a5_v2": "i think dortmund is better",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "germany"
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "i like the team uruguay",
+        "a1": "for a small country they are pretty good ",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "for a small country they are pretty good ",
+        "a1_v2": "for a small country they are pretty good ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": "do you think they will make it to the semi finals? maybe even the finals?",
+        "a2": "how many goals has suarez scored for uruguay?",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "how many @relation has suarez scored for @entity",
+        "a2_v2": "how many goals has suarez scored for uruguay?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "semi ajayi"
+    },
+    {
+        "q3": "suarez has scored 52 goals overall.",
+        "a3": "wow thats a large amount",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "wow thats a large amount",
+        "a3_v2": "wow thats a large amount",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "luis suarez"
+    },
+    {
+        "q4": "what is the uruguayan coach called? ",
+        "a4": "el maestro.",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "el maestro.",
+        "a4_v2": "el maestro.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who scored the most points on their team?",
+        "a5": "suarez has scored the most goals for uruguay.",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "suarez has scored the most @relation for @entity",
+        "a5_v2": "suarez has scored the most goals for uruguay.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

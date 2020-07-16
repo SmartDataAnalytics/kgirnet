@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "get me the address of a coffee_or_tea_place around me that has no_traffic",
+        "a1": "there is a peets_coffee 1_miles away at 9981_archuleta_ave and there is no_traffic",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "peets_coffee",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "peets_coffee",
+            "9981_archuleta_ave",
+            "1_miles",
+            "no_traffic"
+        ]
+    },
+    {
+        "q2": "ok please give me directions",
+        "a2": "directions set in gps for peets_coffee at 9981_archuleta_ave",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "poi,address",
+        "obj2": "9981_archuleta_ave,peets_coffee",
+        "input_ent2": "peets_coffee",
+        "kvr_entlist_qa2": [
+            "peets_coffee",
+            "9981_archuleta_ave"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome drive safely and enjoy",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

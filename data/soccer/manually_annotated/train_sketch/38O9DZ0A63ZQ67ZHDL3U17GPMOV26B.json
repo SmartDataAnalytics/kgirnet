@@ -1,0 +1,121 @@
+[
+    {
+        "q1": "i like it mexico ",
+        "a1": "they have great players las chuky lozano",
+        "kgER1": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they have great players las chuky lozano",
+        "a1_v2": "they have great players las chuky lozano",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "mexico"
+    },
+    {
+        "q2": "if in bun great player i like",
+        "a2": "none of these questions make sense. but mexico is a good team",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "none of these questions make sense. but @entity is a good team",
+        "a2_v2": "none of these questions make sense. but mexico is a good team",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "who is the goalkeeper for mexico?",
+        "a3": "memo ochoa is the goalkeeper of mexico",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "@object is the @relation of @entity",
+        "a3_v2": "@goalkeeper is the goalkeeper of @entity",
+        "corr_rel3": "goalkeeper",
+        "obj3": "guillermo ochoa",
+        "input_ent3": "mexico"
+    },
+    {
+        "q4": "does memo ochoa play only for mexico?",
+        "a4": "he can only play for mexico because he is mexican ",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "he can only play for @entity because he is mexican ",
+        "a4_v2": "he can only play for mexico because he is mexican ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "mexico"
+    },
+    {
+        "q5": "does memo ochoa hold the record for most caps for a mexico player?",
+        "a5": "no. \u200eclaudio su\u00e1rez has the most caps ",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "no. \u200eclaudio su\u00e1rez has the most @relation ",
+        "a5_v2": "no. \u200eclaudio su\u00e1rez has the most caps ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "mexico"
+    }
+]

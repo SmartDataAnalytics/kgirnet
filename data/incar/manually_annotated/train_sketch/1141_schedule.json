@@ -1,0 +1,32 @@
+[
+    {
+        "q1": "when is the meeting what is the agenda and who are attending",
+        "a1": "you have three meeting scheduled the first is at 2pm on the_13th with management to onboard_new_members the second is at 10am on friday with the vice_president to go over the budget the third is at 9am on tuesday with the executive_team to go over the quarterly report",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,party,agenda,date",
+        "obj1": "management,10am,9am,onboard_new_members, executive_team,2pm,the_13th, vice_president,meeting",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "management",
+            "10am",
+            "9am",
+            "onboard_new_members",
+            "executive_team",
+            "2pm",
+            "the_13th",
+            "vice_president",
+            "tuesday",
+            "meeting",
+            "friday"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "glad i could help",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

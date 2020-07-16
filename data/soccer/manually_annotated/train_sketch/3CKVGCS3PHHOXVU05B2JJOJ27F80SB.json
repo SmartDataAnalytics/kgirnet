@@ -1,0 +1,139 @@
+[
+    {
+        "q1": "who was the top goal scorer for france in the 2018 world cup?",
+        "a1": "harry keane from england with 6 goals, followed by griezmann with 4 goals.",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "harry keane from england with @object @relation followed by griezmann with @object goals.",
+        "a1_v2": "harry keane from england with 6 goals, followed by griezmann with 4 goals.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "2018"
+    },
+    {
+        "q2": "who is the best midfielder of france?",
+        "a2": "kylian mbapp\u00e9 ",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a2_skt": "@object ",
+        "a2_v2": "kylian mbapp\u00e9 ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "france"
+    },
+    {
+        "q3": "who is the captain of france?",
+        "a3": "hugo lloris is the current captain",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a3_skt": "@object is the current @relation",
+        "a3_v2": "hugo lloris is the current captain",
+        "corr_rel3": "captain",
+        "obj3": "hugo lloris",
+        "input_ent3": "france"
+    },
+    {
+        "q4": "what is his position?",
+        "a4": "he is the goalkeeper",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a4_skt": "he is the @relation",
+        "a4_v2": "he is the position",
+        "corr_rel4": "position",
+        "obj4": "goalkeeper",
+        "input_ent4": "hugo lloris"
+    }
+]

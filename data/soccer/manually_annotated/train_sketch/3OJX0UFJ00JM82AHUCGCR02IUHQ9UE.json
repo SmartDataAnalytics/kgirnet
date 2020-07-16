@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "which country has the best youth development program?",
+        "a1": "i think france as there is so many young players coing out playing the national team",
+        "kgER1": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "i think @entity as there is so many young players coing out playing the national team",
+        "a1_v2": "i think france as there is so many young players coing out playing the national team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "should other countries emulate them?",
+        "a2": "i think argentina is the best team to play against",
+        "kgER2": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "i think @entity is the best team to play against",
+        "a2_v2": "i think argentina is the best team to play against",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who has the prettiest wife of all players on manchester united's team?",
+        "a3": "how did you think germany did at the world cup?",
+        "kgER3": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "how did you think @entity did at the world cup?",
+        "a3_v2": "how did you think germany did at the world cup?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "manchester united"
+    },
+    {
+        "q4": "i think they can do a better job",
+        "a4": "i agree with this, they should have tried harder",
+        "kgER4": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i agree with this, they should have tried harder",
+        "a4_v2": "i agree with this, they should have tried harder",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "emre can"
+    },
+    {
+        "q5": "who was your favorite player during the 2018 world cup?",
+        "a5": "i think that germany has played a very important role in the world cups, it has its krac as kross and muller",
+        "kgER5": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i think that @entity has played a very important role in the world cups, it has its krac as kross and muller",
+        "a5_v2": "i think that germany has played a very important role in the world cups, it has its krac as kross and muller",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "2018"
+    }
+]

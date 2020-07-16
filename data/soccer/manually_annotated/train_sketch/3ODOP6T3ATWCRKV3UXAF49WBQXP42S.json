@@ -1,0 +1,106 @@
+[
+    {
+        "q1": "who is the best player on the team?",
+        "a1": "i xherdan shaqiri is the best player, but that is up for debate",
+        "kgER1": {},
+        "a1_skt": "i @object is the best player, but that is up for debate",
+        "a1_v2": "i xherdan shaqiri is the best player, but that is up for debate",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "where was he born? ",
+        "a2": "in switzerland",
+        "kgER2": {},
+        "a2_skt": "in @entity",
+        "a2_v2": "in switzerland",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is the forward for switzerland?",
+        "a3": "xherdan shaqiri ",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a3_skt": "@object ",
+        "a3_v2": "xherdan shaqiri ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "switzerland"
+    },
+    {
+        "q4": "who is their goalkeeper?",
+        "a4": "yann sommer is their goal keeper",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "@object is their @relation",
+        "a4_v2": "@goalkeeper is their goalkeeper",
+        "corr_rel4": "goalkeeper",
+        "obj4": "yann sommer",
+        "input_ent4": "switzerland"
+    },
+    {
+        "q5": "mejor toque switzerland",
+        "a5": "marwin hitz",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "marwin hitz",
+        "a5_v2": "marwin hitz",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "switzerland"
+    }
+]

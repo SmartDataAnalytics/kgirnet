@@ -1,0 +1,103 @@
+[
+    {
+        "q1": "real madrid is the best team in the history?",
+        "a1": "does real madrid have the most expensive player?",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "does @entity have the most expensive player?",
+        "a1_v2": "does real madrid have the most expensive player?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "no that would be psg",
+        "a2": "no it does not have any expensive player",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "no it does not have any expensive player",
+        "a2_v2": "no it does not have any expensive player",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "does real madrid have the most experience players?",
+        "a3": "no. there are plenty of good players with lots of experience on other sides. ",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "no. there are plenty of good players with lots of experience on other sides. ",
+        "a3_v2": "no. there are plenty of good players with lots of experience on other sides. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "best defender in real madrid?",
+        "a4": "i think that is sergio ramos, or baran",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a4_skt": "i think that is @object or baran",
+        "a4_v2": "i think that is sergio ramos, or baran",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "if you could trade one player from real madrid, who would it be?",
+        "a5": "i think i would sign kroos.he is very clever player.",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a5_skt": "i think i would sign kroos.he is very clever player.",
+        "a5_v2": "i think i would sign kroos.he is very clever player.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

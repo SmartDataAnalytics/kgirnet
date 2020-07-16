@@ -1,0 +1,156 @@
+[
+    {
+        "q1": "when was the last time sweden beat england?",
+        "a1": "somewhere around 2000's.",
+        "kgER1": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "somewhere around 2000's.",
+        "a1_v2": "somewhere around 2000's.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "sweden"
+    },
+    {
+        "q2": "i though it was further back than that. ",
+        "a2": "who\u2019s sweden\u2019s best player",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "who\u2019s sweden\u2019s @relation",
+        "a2_v2": "who\u2019s sweden\u2019s best player",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "there best player is marcus berg",
+        "a3": "what is sweden's shirt colour ?",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "marcus berg": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "what is sweden's shirt colour ?",
+        "a3_v2": "what is sweden's shirt colour ?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "marcus berg"
+    },
+    {
+        "q4": "the color of his shirt is yellow and blue ",
+        "a4": "zlatan is the best sweden player",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "marcus berg": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "yellow": [
+                "jersey color"
+            ],
+            "blue": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "zlatan is the best @entity player",
+        "a4_v2": "zlatan is the best sweden player",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "yellow"
+    },
+    {
+        "q5": "who was the best player in sweden football history?",
+        "a5": "zlatan ibrahimovi\u0107 is the best swedish player ever.",
+        "kgER5": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "marcus berg": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "yellow": [
+                "jersey color"
+            ],
+            "blue": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "zlatan ibrahimovi\u0107 is the best swedish player ever.",
+        "a5_v2": "zlatan ibrahimovi\u0107 is the best swedish player ever.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "sweden"
+    }
+]

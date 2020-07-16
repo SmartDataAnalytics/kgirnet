@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "switzerland plays the world cup?",
+        "a1": "how many times have switzerland won the world cup?",
+        "kgER1": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "how many times have @entity won the world cup?",
+        "a1_v2": "how many times have switzerland won the world cup?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "they have never won the world cup",
+        "a2": "0 or zero times",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object or zero times",
+        "a2_v2": "0 or zero times",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what is the furthest they have got in a world cup?",
+        "a3": "los defensas del  switzerland",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "los defensas del  @entity",
+        "a3_v2": "los defensas del  switzerland",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "how many pl season won by switzerland?",
+        "a4": "tiene buen f\u00fatbol switzerland ",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "tiene buen f\u00fatbol @entity ",
+        "a4_v2": "tiene buen f\u00fatbol switzerland ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "switzerland"
+    },
+    {
+        "q5": "is switzerland better than america?",
+        "a5": "to me, no",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "to me, no",
+        "a5_v2": "to me, no",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "switzerland"
+    }
+]

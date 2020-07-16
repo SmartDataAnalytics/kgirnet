@@ -1,0 +1,123 @@
+[
+    {
+        "q1": "i love the team spain",
+        "a1": "they are not as good as they used to be though. ",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they are not as good as they used to be though. ",
+        "a1_v2": "they are not as good as they used to be though. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "spain"
+    },
+    {
+        "q2": "how many games did spain lose last year?",
+        "a2": "spain didn't lose any last year. they did draw a few of them but no outright loses. ",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity didn't lose any last year. they did draw a few of them but no outright loses. ",
+        "a2_v2": "spain didn't lose any last year. they did draw a few of them but no outright loses. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "spain"
+    },
+    {
+        "q3": "who is your favourite spanish player? ",
+        "a3": "sergio ramos",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "@captain",
+        "corr_rel3": "captain",
+        "obj3": "sergio ramos",
+        "input_ent3": "spain"
+    },
+    {
+        "q4": "he a great defender",
+        "a4": "he also has the most caps from all active players of the squad",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a4_skt": "he also has the most @relation from all active players of the squad",
+        "a4_v2": "he also has the most caps from all active players of the squad",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "defender"
+    },
+    {
+        "q5": "who is spain's manager?",
+        "a5": "luis enrique",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@coach",
+        "corr_rel5": "coach",
+        "obj5": "luis enrique",
+        "input_ent5": "spain"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "q1": "how do you think bvb dortmund will do this season?",
+        "a1": "2nd",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "2nd",
+        "a1_v2": "2nd",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "i think they will do very good and either them or schalke will become 1st.",
+        "a2": "bvb dortmund will be second. bayern munich will be first. ",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "bvb dortmund will be second. @entity will be first. ",
+        "a2_v2": "bvb dortmund will be second. bayern munich will be first. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "what are u bvb dortmund?",
+        "a3": "i think they will be better this season",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think they will be better this season",
+        "a3_v2": "i think they will be better this season",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "i think they will be better, but not the best, that the first one is for the bayern",
+        "a4": "who is bayern's best player?",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "who is bayern's best player?",
+        "a4_v2": "who is bayern's best player?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "mats hummels",
+        "a5": "why is he the best?",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "mats hummels": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "why is he the best?",
+        "a5_v2": "why is he the best?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "mats hummels"
+    }
+]

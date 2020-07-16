@@ -1,0 +1,161 @@
+[
+    {
+        "q1": "are liverpool better than manchester united? ",
+        "a1": "i think liverpool have a lot more potential going in to this next season than manchester united do. ",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i think @entity have a lot more potential going in to this next season than @entity do. ",
+        "a1_v2": "i think liverpool have a lot more potential going in to this next season than manchester united do. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "liverpool much better this year",
+        "a2": "liverpool has become an excellent team these last years ",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@entity has become an excellent team these last years ",
+        "a2_v2": "liverpool has become an excellent team these last years ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "as far as liverpool came in the last champios?",
+        "a3": "liverpool was at the final of the last champions league final",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@entity was at the final of the last champions league final",
+        "a3_v2": "liverpool was at the final of the last champions league final",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "should liverpool be considered the favorites in the cl now that ronaldo moved to juventus?",
+        "a4": "no way man!",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "no way man!",
+        "a4_v2": "no way man!",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "juventus"
+    },
+    {
+        "q5": " it can be if it is considered",
+        "a5": "yeah, ronaldo was messing up the whole cl, but now that he's gone, it will be a different game.",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "yeah, ronaldo was messing up the whole cl, but now that he's gone, it will be a different game.",
+        "a5_v2": "yeah, ronaldo was messing up the whole cl, but now that he's gone, it will be a different game.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "emre can"
+    }
+]

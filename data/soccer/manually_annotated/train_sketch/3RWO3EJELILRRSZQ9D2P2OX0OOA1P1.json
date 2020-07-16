@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is the all time leading goalscorer for portugal?",
+        "a1": "ronaldo for portugal.",
+        "kgER1": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "ronaldo for @entity",
+        "a1_v2": "ronaldo for portugal.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "portugal"
+    },
+    {
+        "q2": "how many goals did ronaldo from portugal score in the 2018 world cup?",
+        "a2": "ronaldo scored 4 goals for portugal in the 2018 world cup. ",
+        "kgER2": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "ronaldo scored @object @relation for @entity in the @object world cup. ",
+        "a2_v2": "ronaldo scored 4 goals for portugal in the 2018 world cup. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2018"
+    },
+    {
+        "q3": "what position does ronaldo play?",
+        "a3": "he's a forward.",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "he's a @relation",
+        "a3_v2": "he's a position",
+        "corr_rel3": "position",
+        "obj3": "forward",
+        "input_ent3": "cristiano ronaldo"
+    },
+    {
+        "q4": "is there another star player on the portugal squad?",
+        "a4": "bernado silva",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "bernado silva",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "portugal"
+    },
+    {
+        "q5": "what do you think portugal does really well as a team?",
+        "a5": "portugal as team works well together to keep the ball moving during play time.",
+        "kgER5": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity as team works well together to keep the ball moving during play time.",
+        "a5_v2": "portugal as team works well together to keep the ball moving during play time.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "q1": "find a coffee place",
+        "a1": "we are 3_miles away from philz set the gps to go there",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "philz",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "philz",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "yes and give me the address",
+        "a2": "i sent the info on your screen drive carefully",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

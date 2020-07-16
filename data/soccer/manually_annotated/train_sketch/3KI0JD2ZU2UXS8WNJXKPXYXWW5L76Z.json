@@ -1,0 +1,113 @@
+[
+    {
+        "q1": "i love ac milan",
+        "a1": "where does this team play its home games \\?",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "where does this team play its home games \\?",
+        "a1_v2": "where does this team play its home games \\?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "ac milan plays in san siro stadium , how many people does it seat \\?",
+        "a2": "80 000",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "san siro": [
+                "ground",
+                "capacity"
+            ]
+        },
+        "a2_skt": "@object 000",
+        "a2_v2": "80 000",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "san siro"
+    },
+    {
+        "q3": "what color is the ac milan jersey \\?",
+        "a3": "black and red",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "san siro": [
+                "ground",
+                "capacity"
+            ]
+        },
+        "a3_skt": "black and @object",
+        "a3_v2": "black and red",
+        "corr_rel3": "jersey color",
+        "obj3": "black and red",
+        "input_ent3": "ac milan"
+    },
+    {
+        "q4": "does ac milan sell out all the seats in its stadium for any home games \\?",
+        "a4": "most likely they do as they are a very popular team in a large city",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "san siro": [
+                "ground",
+                "capacity"
+            ]
+        },
+        "a4_skt": "most likely they do as they are a very popular team in a large city",
+        "a4_v2": "most likely they do as they are a very popular team in a large city",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "who are ac milan 's rivals \\?",
+        "a5": "when was ac milan founded \\?",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "san siro": [
+                "ground",
+                "capacity"
+            ]
+        },
+        "a5_skt": "when was ac milan @relation \\?",
+        "a5_v2": "when was ac milan founded \\?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ac milan"
+    }
+]

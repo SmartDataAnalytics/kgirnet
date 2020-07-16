@@ -1,0 +1,186 @@
+[
+    {
+        "q1": "who is their best player?",
+        "a1": "xherdan shaqiri ",
+        "kgER1": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "@object ",
+        "a1_v2": "xherdan shaqiri ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "is david alaba the best player in switzerland?",
+        "a2": "yes he is easily one of the best in switzerland ",
+        "kgER2": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "david alaba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes he is easily one of the best in @entity ",
+        "a2_v2": "yes he is easily one of the best in switzerland ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "david alaba"
+    },
+    {
+        "q3": "david alaba doesn't even play for switzerland?",
+        "a3": "how many times have switzerland been to the world cup?",
+        "kgER3": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "david alaba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "how many times have @entity been to the world cup?",
+        "a3_v2": "how many times have switzerland been to the world cup?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "david alaba"
+    },
+    {
+        "q4": "i think shaqiri is the best in switzerland",
+        "a4": "is the team ready for this season?",
+        "kgER4": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "david alaba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "is the team ready for this season?",
+        "a4_v2": "is the team ready for this season?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "switzerland"
+    },
+    {
+        "q5": "i think switzerland has been in 10 world championships",
+        "a5": "i think switzerland have the best players in the world",
+        "kgER5": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "david alaba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think @entity have the best players in the world",
+        "a5_v2": "i think switzerland have the best players in the world",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "switzerland"
+    }
+]

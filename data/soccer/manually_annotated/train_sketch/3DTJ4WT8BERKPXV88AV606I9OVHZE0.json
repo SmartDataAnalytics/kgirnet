@@ -1,0 +1,120 @@
+[
+    {
+        "q1": "i love colombia",
+        "a1": "colombia is the best team",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity is the best team",
+        "a1_v2": "colombia is the best team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "colombia"
+    },
+    {
+        "q2": "what is the current fifa ranking for colombia? ",
+        "a2": "12",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "12",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "colombia"
+    },
+    {
+        "q3": "what is the name of the colombia stadium?",
+        "a3": "columbia stadium",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "columbia stadium",
+        "a3_v2": "columbia stadium",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "colombia"
+    },
+    {
+        "q4": "in which year did colombia win the confederations cup?",
+        "a4": "they never win any cup",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they never win any cup",
+        "a4_v2": "they never win any cup",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "colombia"
+    },
+    {
+        "q5": "what is the current goalkeeper of columbia?",
+        "a5": "david ospina is the keeper",
+        "kgER5": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "@object is the keeper",
+        "a5_v2": "@goalkeeper is the keeper",
+        "corr_rel5": "goalkeeper",
+        "obj5": "david ospina",
+        "input_ent5": "colombia"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i like the team barcelona",
+        "a1": "they always player excellent football.",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they always player excellent football.",
+        "a1_v2": "they always player excellent football.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "if i get a lot",
+        "a2": "yes, barcelona is always a club that always tries to win everything every season",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes, @entity is always a club that always tries to win everything every season",
+        "a2_v2": "yes, barcelona is always a club that always tries to win everything every season",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "which players will they try to get for their roster?",
+        "a3": "they are looking to add malang sarr to their roster this summer.",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they are looking to add malang sarr to their roster this summer.",
+        "a3_v2": "they are looking to add malang sarr to their roster this summer.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "messi is a perfect combo for their team though.",
+        "a4": "barcelona has a great team.",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity has a great team.",
+        "a4_v2": "barcelona has a great team.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "lionel messi"
+    },
+    {
+        "q5": "what makes them great?",
+        "a5": "their spirit and drive.",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "their spirit and drive.",
+        "a5_v2": "their spirit and drive.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "have you ever seen chelsea f.c. play?",
+        "a1": "i am a bot, can't see matches.",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "i am a bot, can't see matches.",
+        "a1_v2": "i am a bot, can't see matches.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "do you think chelsea will sell wilian?",
+        "a2": "he is a very valuable player.",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "he is a very valuable player.",
+        "a2_v2": "he is a very valuable player.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "chelsea"
+    },
+    {
+        "q3": "are the chelsea fans as rowdy as liverpool?",
+        "a3": "chelsea fans are quite noisy when they are in their stadium",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@entity fans are quite noisy when they are in their stadium",
+        "a3_v2": "chelsea fans are quite noisy when they are in their stadium",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "chelsea"
+    },
+    {
+        "q4": "do you think chelsea has better fans than palace ?",
+        "a4": "palace fans are definitely way better than chelsea because they are more loyal fans despite not being as noisy.",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "palace fans are definitely way better than @entity because they are more loyal fans despite not being as noisy.",
+        "a4_v2": "palace fans are definitely way better than chelsea because they are more loyal fans despite not being as noisy.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "chelsea"
+    },
+    {
+        "q5": "is chelsea known to have noise fans?",
+        "a5": "they got some noisy fans.",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "they got some noisy fans.",
+        "a5_v2": "they got some noisy fans.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "chelsea"
+    }
+]

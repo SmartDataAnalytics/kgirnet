@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "this year belgium is one of the best football team.",
+        "a1": "they have been for several years, often ranked number 1 in the fifa rankings but they cant win anything.",
+        "kgER1": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they have been for several years, often ranked number @object in the fifa rankings but they cant win anything.",
+        "a1_v2": "they have been for several years, often ranked number 1 in the fifa rankings but they cant win anything.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "belgium"
+    },
+    {
+        "q2": "that's true they are one of the best teams in the world for several years now. ",
+        "a2": "they have a very good team, but always seem to underwhelm in tournaments.",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they have a very good team, but always seem to underwhelm in tournaments.",
+        "a2_v2": "they have a very good team, but always seem to underwhelm in tournaments.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "the pressure is always too high and it gets to their heads",
+        "a3": "yes ok.",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes ok.",
+        "a3_v2": "yes ok.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "white and red"
+    },
+    {
+        "q4": "do you think if belgium finished 2nd in there world cup group they would have made the final?",
+        "a4": "2018 world cup is down to its final group matches. who will emerge in the round of 16?",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object world cup is down to its final group matches. who will emerge in the @relation of @object",
+        "a4_v2": "2018 world cup is down to its final group matches. who will emerge in the round of 16?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "belgium"
+    },
+    {
+        "q5": "don't sleep on belgium, they are looking solid all tournament.",
+        "a5": "belgium will win the next world cup ",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity will win the next world cup ",
+        "a5_v2": "belgium will win the next world cup ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "belgium"
+    }
+]

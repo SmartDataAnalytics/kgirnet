@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "what is the date of my next dentist_appointment and who will be attending it with me",
+        "a1": "your next dentist_appointment is on the_5th with your sister",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "date,party",
+        "obj1": "the_5th,sister",
+        "input_ent1": "dentist_appointment",
+        "kvr_entlist_qa1": [
+            "the_5th",
+            "dentist_appointment",
+            "sister"
+        ]
+    },
+    {
+        "q2": "thanks for your help",
+        "a2": "my pleasure",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

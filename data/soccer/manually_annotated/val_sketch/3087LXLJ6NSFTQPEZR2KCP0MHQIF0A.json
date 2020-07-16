@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "i like the team mexico",
+        "a1": "mexico plays very well, but i can't say i like the team.",
+        "kgER1": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity plays very well, but i can't say i like the team.",
+        "a1_v2": "mexico plays very well, but i can't say i like the team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "mexico"
+    },
+    {
+        "q2": "why can't you like them?",
+        "a2": "for q does not pass the round of 16 but we were for the world prosy",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "for q does not pass the @relation of @object but we were for the world prosy",
+        "a2_v2": "for q does not pass the round of 16 but we were for the world prosy",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is the head coach of mexico?",
+        "a3": "who will replace juan carlos osorio as mexico national team coach?",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "who will replace juan carlos osorio as @entity national team @relation",
+        "a3_v2": "who will replace juan carlos osorio as mexico national team coach?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mexico"
+    },
+    {
+        "q4": "they should just keep osorio for the sake of consistency. ",
+        "a4": "matias almeyda",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "matias almeyda",
+        "a4_v2": "matias almeyda",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what are mexico's team colors?",
+        "a5": "mexico's home kit is predominately green with some red and white which match the colors of their flag.",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "mexico's home kit is p@objectominately green with some @object and @object which match the colors of their flag.",
+        "a5_v2": "mexico's home kit is predominately green with some red and white which match the colors of their flag.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "mexico"
+    }
+]

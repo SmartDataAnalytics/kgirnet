@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "will bayern munich win the national cup this season?",
+        "a1": "yes.",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes.",
+        "a1_v2": "yes.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "how are you so sure?",
+        "a2": "no certainty. however, based on the teams past performance, bayern munich has a great chance of winning the cup. ",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "no certainty. however, based on the teams past performance, @entity has a great chance of winning the cup. ",
+        "a2_v2": "no certainty. however, based on the teams past performance, bayern munich has a great chance of winning the cup. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what team does bayern munich play for?",
+        "a3": "bayern munich is a team in the german league",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@entity is a team in the @entity league",
+        "a3_v2": "bayern munich is a team in the german league",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "how many points did bayern munich score last season?",
+        "a4": "they score 84 points,schalke second only 63.",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "they score @object points,schalke second only @object",
+        "a4_v2": "they score 84 points,schalke second only 63.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "which was the last season bayern munich did not win the bundesliga.",
+        "a5": "who are the current german champions?",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "who are the current @entity champions?",
+        "a5_v2": "who are the current german champions?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bayern munich"
+    }
+]

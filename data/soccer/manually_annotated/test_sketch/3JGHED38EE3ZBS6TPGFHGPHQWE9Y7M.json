@@ -1,0 +1,94 @@
+[
+    {
+        "q1": "how far did germany get in the last fifa world cup?",
+        "a1": "germany did not get past the first round this time round.",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity did not get past the first @relation this time @relation.",
+        "a1_v2": "germany did not get past the first round this time round.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "who is the best player for the german national team?",
+        "a2": "i can't pick a specific one ",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i can't pick a specific one ",
+        "a2_v2": "i can't pick a specific one ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "german pezzella"
+    },
+    {
+        "q3": "does germany have a mascot?",
+        "a3": "i am not sure",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i am not sure",
+        "a3_v2": "i am not sure",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "germany"
+    },
+    {
+        "q4": "when was the last time germany won?",
+        "a4": "the last time germany won a game was june 23rd.  the last time they won the world cup was in 2014.",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "the last time @entity won a game was june 23rd.  the last time they won the world cup was in @object",
+        "a4_v2": "the last time germany won a game was june 23rd.  the last time they won the world cup was in 2014.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "germany"
+    }
+]

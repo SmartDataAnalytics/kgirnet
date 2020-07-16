@@ -1,0 +1,65 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "based on how well they did in the 2018 world cup, i think sweden will qualify for the next one.",
+        "kgER1": {},
+        "a1_skt": "based on how well they did in the @object world cup, i think @entity will qualify for the next one.",
+        "a1_v2": "based on how well they did in the 2018 world cup, i think sweden will qualify for the next one.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "i don't know- a lot can happen in four years.",
+        "a2": "you're right, a lot can happen in four years, but if the team work hard and continue to play the way they have, it is likely that they will qualify ",
+        "kgER2": {},
+        "a2_skt": "you're right, a lot can happen in four years, but if the team work hard and continue to play the way they have, it is likely that they will qualify ",
+        "a2_v2": "you're right, a lot can happen in four years, but if the team work hard and continue to play the way they have, it is likely that they will qualify ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "they are likely to qualify and do better in the next world cup",
+        "a3": "sweden will not do well in the next world cup",
+        "kgER3": {},
+        "a3_skt": "@entity will not do well in the next world cup",
+        "a3_v2": "sweden will not do well in the next world cup",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "if i think it will give everything",
+        "a4": "i don't think they usually do.",
+        "kgER4": {},
+        "a4_skt": "i don't think they usually do.",
+        "a4_v2": "i don't think they usually do.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "is sweden is the strongest team?",
+        "a5": "not really in competitive terms.",
+        "kgER5": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "not really in competitive terms.",
+        "a5_v2": "not really in competitive terms.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "sweden"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "i need a route to my friends that avoids heavy_traffic",
+        "a1": "we re 7_miles away from jack s house but there is a car_collision_nearby are you sure you want to go there today",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "7_miles",
+            "car_collision_nearby",
+            "today"
+        ]
+    },
+    {
+        "q2": "yes i need to get there what s the address",
+        "a2": "jacks_house is at 864_almanor_ln",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "864_almanor_ln",
+        "input_ent2": "jacks_house",
+        "kvr_entlist_qa2": [
+            "jacks_house",
+            "864_almanor_ln"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

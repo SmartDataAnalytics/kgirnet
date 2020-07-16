@@ -1,0 +1,123 @@
+[
+    {
+        "q1": "i completely love iceland",
+        "a1": "i was happy to see iceland qualify for the 2018 world cup.",
+        "kgER1": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i was happy to see @entity qualify for the @object world cup.",
+        "a1_v2": "i was happy to see iceland qualify for the 2018 world cup.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "iceland"
+    },
+    {
+        "q2": "it would have been so funny if iceland won the world cup, don't you agree?",
+        "a2": "with their aggressive and unexpected playstyle, if it so stays in the future, it wouldn't be a surprise.",
+        "kgER2": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "with their aggressive and unexpected playstyle, if it so stays in the future, it wouldn't be a surprise.",
+        "a2_v2": "with their aggressive and unexpected playstyle, if it so stays in the future, it wouldn't be a surprise.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "iceland"
+    },
+    {
+        "q3": "who is the central striker for iceland?",
+        "a3": "j\u00f3n dadi b\u00f6dvarsson is the central striker for iceland.",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "j\u00f3n dadi b\u00f6dvarsson is the central striker for @entity",
+        "a3_v2": "j\u00f3n dadi b\u00f6dvarsson is the central striker for iceland.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "iceland"
+    },
+    {
+        "q4": "who is a forward for iceland?",
+        "a4": "ruik gislason",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "ruik gislason",
+        "corr_rel4": "midfielder",
+        "obj4": "rurik gislason",
+        "input_ent4": "iceland"
+    },
+    {
+        "q5": "what are iceland's odds to win the trophy?",
+        "a5": "iceland\u2019s\u200b road to russia",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a5_skt": "iceland\u2019s\u200b road to russia",
+        "a5_v2": "iceland\u2019s\u200b road to russia",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "iceland"
+    }
+]

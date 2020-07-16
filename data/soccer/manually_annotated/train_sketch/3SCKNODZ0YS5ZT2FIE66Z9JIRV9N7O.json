@@ -1,0 +1,123 @@
+[
+    {
+        "q1": "i have a lot of confidence in his team",
+        "a1": "switzerland is a good team but they're not that great.",
+        "kgER1": {},
+        "a1_skt": "@entity is a good team but they're not that great.",
+        "a1_v2": "switzerland is a good team but they're not that great.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "how could switzerland get better?",
+        "a2": "switzerland could get better by having a better coach",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity could get better by having a better @relation",
+        "a2_v2": "switzerland could get better by having a better coach",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "switzerland"
+    },
+    {
+        "q3": "how do you think switzerland would do with a better coach?",
+        "a3": "i think they'd be better with a better coach.",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think they'd be better with a better @relation",
+        "a3_v2": "i think they'd be better with a better coach.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "switzerland could get good players",
+        "a4": "name 3 switzerland players?",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "name @object @entity players?",
+        "a4_v2": "name 3 switzerland players?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "switzerland"
+    },
+    {
+        "q5": "xherdan shaqri, granit xhaka, yann sommer",
+        "a5": "who's their goalkeeper?",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "granit xhaka": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "yann sommer": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "who's their @relation",
+        "a5_v2": "who's their goalkeeper?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "granit xhaka"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what s the temperature going to be for the week",
+        "a1": "what city do you want the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "fresno",
+        "a2": "next_week fresno s temperatures will vary between lows in the 40s to a high of 100f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "100f",
+        "input_ent2": "fresno",
+        "kvr_entlist_qa2": [
+            "fresno",
+            "100f",
+            "next_week"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "glad to help",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

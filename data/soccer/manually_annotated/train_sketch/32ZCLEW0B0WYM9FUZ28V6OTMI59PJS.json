@@ -1,0 +1,143 @@
+[
+    {
+        "q1": "how much longer will luis suarez play for the national team.",
+        "a1": "four more years",
+        "kgER1": {
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a1_skt": "four more years",
+        "a1_v2": "four more years",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "luis suarez"
+    },
+    {
+        "q2": "how do you know that?",
+        "a2": "he's already 33 years old, and the next world cup will occur in 4 years, when he is 47.",
+        "kgER2": {
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a2_skt": "he's already @object years old, and the next world cup will occur in @object years, when he is @object7.",
+        "a2_v2": "he's already 33 years old, and the next world cup will occur in 4 years, when he is 47.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "does luis suarez play for uruguay?",
+        "a3": " if you play for uruguay",
+        "kgER3": {
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": " if you play for @entity",
+        "a3_v2": " if you play for uruguay",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "luis suarez"
+    },
+    {
+        "q4": "not for me i will not play four more world",
+        "a4": "suarez needs to stop biting other players ",
+        "kgER4": {
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "suarez needs to stop biting other players ",
+        "a4_v2": "suarez needs to stop biting other players ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "does suarez have a history of biting other players?  ",
+        "a5": "does uruguay need new strikers for next wc?",
+        "kgER5": {
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "does @entity need new strikers for next wc?",
+        "a5_v2": "does uruguay need new strikers for next wc?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "luis suarez"
+    }
+]

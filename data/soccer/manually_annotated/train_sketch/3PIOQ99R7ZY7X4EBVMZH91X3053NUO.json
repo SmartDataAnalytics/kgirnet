@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "what is the name of belgiums manager?",
+        "a1": "roberto martinez is the manager.",
+        "kgER1": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object is the manager.",
+        "a1_v2": "@coach is the manager.",
+        "corr_rel1": "coach",
+        "obj1": "roberto martinez",
+        "input_ent1": "belgium"
+    },
+    {
+        "q2": "do you think he has got the quality to manage belgium to win a major tournament? ",
+        "a2": "i like the belgium manager",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i like the @entity manager",
+        "a2_v2": "i like the belgium manager",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "belgium"
+    },
+    {
+        "q3": "when was belgium last in the world cup?",
+        "a3": "this year. 2018.",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "this year. @object",
+        "a3_v2": "this year. 2018.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "belgium"
+    },
+    {
+        "q4": "did belgium win any match by penalty shootout in the last world cup?",
+        "a4": "no",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "no",
+        "a4_v2": "no",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "belgium"
+    },
+    {
+        "q5": "who is bellgium's best player?",
+        "a5": "the best player of belgium is hazard",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "the @relation of @entity is hazard",
+        "a5_v2": "the best player of belgium is hazard",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

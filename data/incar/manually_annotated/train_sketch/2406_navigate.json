@@ -1,0 +1,57 @@
+[
+    {
+        "q1": "i need the closest parking_garage",
+        "a1": "i have two parking_garages listed both are 2_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "distance",
+        "obj1": "2_miles",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "which has the least amount of traffic so i could get there in the shortest distance",
+        "a2": "they both have no_traffic currently",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel2": "traffic_info",
+        "obj2": "no_traffic",
+        "input_ent2": "parking_garage",
+        "kvr_entlist_qa2": [
+            "no_traffic"
+        ]
+    },
+    {
+        "q3": "what s the name and address of them",
+        "a3": "they are dish_parking at 550_alester_ave and civic_center_garage at 270_altaire_walk",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "550_alester_ave",
+        "input_ent3": "dish_parking",
+        "kvr_entlist_qa3": [
+            "550_alester_ave",
+            "civic_center_garage",
+            "dish_parking"
+        ]
+    },
+    {
+        "q4": "let s go to dish_parking",
+        "a4": "taking you to dish_parking",
+        "input_rel4": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel4": "",
+        "obj4": "none",
+        "input_ent4": "dish_parking",
+        "kvr_entlist_qa4": [
+            "dish_parking"
+        ]
+    },
+    {
+        "q5": "thank you car",
+        "a5": "you re welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

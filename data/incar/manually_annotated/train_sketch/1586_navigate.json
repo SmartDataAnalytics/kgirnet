@@ -1,0 +1,49 @@
+[
+    {
+        "q1": "take me to the nearest cafe",
+        "a1": "the nearest cafe is 5_miles away would you like more info",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "5_miles"
+        ]
+    },
+    {
+        "q2": "yes please if it s the best location you could show me its address on the map and then pick the quickest route to get there",
+        "a2": "philz is the nearest cafe at 5_miles away it s located at 583_alester_ave would you like me to set the navigation",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "5_miles",
+            "583_alester_ave",
+            "philz"
+        ]
+    },
+    {
+        "q3": "yes please do that",
+        "a3": "setting gps for philz cafe at 583_alester_ave 5_miles away with no_traffic",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "5_miles",
+            "583_alester_ave",
+            "philz",
+            "no_traffic"
+        ]
+    },
+    {
+        "q4": "thank you car",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

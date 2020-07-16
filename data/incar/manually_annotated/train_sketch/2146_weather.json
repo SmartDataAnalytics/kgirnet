@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "it s going to be raining so i have to drive slow",
+        "a1": "where are you driving",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "durham",
+        "a2": "the weather forecast predicts that durham will see rain on monday and friday with hail on saturday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "friday,saturday,monday",
+        "obj2": "hail,rain",
+        "input_ent2": "durham",
+        "kvr_entlist_qa2": [
+            "hail",
+            "monday",
+            "saturday",
+            "rain",
+            "durham",
+            "friday"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re welcome my driver",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

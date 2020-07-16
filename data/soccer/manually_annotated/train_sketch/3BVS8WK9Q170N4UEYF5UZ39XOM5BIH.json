@@ -1,0 +1,116 @@
+[
+    {
+        "q1": "how many league titles has manchester united won?",
+        "a1": "manchester united  has won 20 league titles, 12 fa cups, 5 league cups, and 21 fa community shields",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity  has won @object league titles, @object fa cups, @object league cups, and @object fa community shields",
+        "a1_v2": "manchester united  has won 20 league titles, 12 fa cups, 5 league cups, and 21 fa community shields",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "is that a lot?",
+        "a2": "yes, it is a lot.",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes, it is a lot.",
+        "a2_v2": "yes, it is a lot.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "have any other teams won that many titles?",
+        "a3": "i do not believe so, i think manchester united holds the most league titles.",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i do not believe so, i think @entity holds the most league titles.",
+        "a3_v2": "i do not believe so, i think manchester united holds the most league titles.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "probably real madrid in the spanish liga has more than manchester",
+        "a4": "i doubt it. i think manchester united has had a richer history than real madrid. ",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i doubt it. i think @entity has had a richer history than @entity ",
+        "a4_v2": "i doubt it. i think manchester united has had a richer history than real madrid. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "are man utd considered one of the best teams in the world",
+        "a5": "in eyes, they definitely aren't one of the best.",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "in eyes, they definitely aren't one of the best.",
+        "a5_v2": "in eyes, they definitely aren't one of the best.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

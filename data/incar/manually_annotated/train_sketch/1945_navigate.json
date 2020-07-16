@@ -1,0 +1,26 @@
+[
+    {
+        "q1": "get me the address to the closest gas_station",
+        "a1": "the closest gas_station is 76 which is 6_miles away on a route with heavy_traffic you will find it at 91_el_camino_real",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "address",
+        "obj1": "91_el_camino_real",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "gas_station",
+            "6_miles",
+            "91_el_camino_real",
+            "76",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q2": "thank you",
+        "a2": "you re welcome have a great day",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

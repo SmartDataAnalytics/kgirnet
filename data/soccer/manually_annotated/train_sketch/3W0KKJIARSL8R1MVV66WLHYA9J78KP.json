@@ -1,0 +1,122 @@
+[
+    {
+        "q1": "michy batshuayi-atunga is a belgian professional footballer",
+        "a1": "very good",
+        "kgER1": {
+            "michy batshuayi": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "very good",
+        "a1_v2": "very good",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "michy batshuayi"
+    },
+    {
+        "q2": "in which team does he play? ",
+        "a2": "he plays for borussia dortmund. ",
+        "kgER2": {
+            "michy batshuayi": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "he plays for borussia dortmund. ",
+        "a2_v2": "he plays for borussia dortmund. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "how many goals has he scored for dortmund?",
+        "a3": "i am not sure about that. do you watch tennis? ",
+        "kgER3": {
+            "michy batshuayi": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "i am not sure about that. do you watch tennis? ",
+        "a3_v2": "i am not sure about that. do you watch tennis? ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "tiene una buena defensa no team, talk about any subject",
+        "a4": "gennaro gattuso is a ac milan manager",
+        "kgER4": {
+            "michy batshuayi": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "@object is a ac milan manager",
+        "a4_v2": "gennaro gattuso is a ac milan manager",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "do you like cristiano ronaldo?",
+        "a5": "no i dont",
+        "kgER5": {
+            "michy batshuayi": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "no i dont",
+        "a5_v2": "no i dont",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "cristiano ronaldo"
+    }
+]

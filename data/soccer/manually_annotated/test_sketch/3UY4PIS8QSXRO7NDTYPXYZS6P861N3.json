@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "how did bayern munich do overall last season?",
+        "a1": "bayern did amazing.",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "bayern did amazing.",
+        "a1_v2": "bayern did amazing.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "who is the best player?",
+        "a2": "robert lewandowski ",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object ",
+        "a2_v2": "robert lewandowski ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "the most dumbest player in bayern?",
+        "a3": "no he is not dumb,i like him!",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "no he is not dumb,i like him!",
+        "a3_v2": "no he is not dumb,i like him!",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "why do people think he is dumb?",
+        "a4": "i don't know, i always thought he was a good player",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i don't know, i always thought he was a good player",
+        "a4_v2": "i don't know, i always thought he was a good player",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "can they win the title this season? ",
+        "a5": "i still think bayern munich will win the title this season",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i still think @entity will win the title this season",
+        "a5_v2": "i still think bayern munich will win the title this season",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "emre can"
+    }
+]

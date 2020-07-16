@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what s the current temperature outside",
+        "a1": "for what city would you like the current weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i m located in exeter",
+        "a2": "the temperature in exeter is showing a low of 60f with a high of 80f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "60f,80f",
+        "input_ent2": "exeter",
+        "kvr_entlist_qa2": [
+            "60f",
+            "exeter",
+            "80f"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you are very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

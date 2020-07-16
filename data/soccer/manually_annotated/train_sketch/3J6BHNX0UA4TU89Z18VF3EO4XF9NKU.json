@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i admire belgium",
+        "a1": "can you beat france? ",
+        "kgER1": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "can you beat @entity ",
+        "a1_v2": "can you beat france? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "belgium"
+    },
+    {
+        "q2": "when was the belgium's team last victory?",
+        "a2": "maybe he would beat him and his last victory was against england in the world cup",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "maybe he would beat him and his last victory was against england in the world cup",
+        "a2_v2": "maybe he would beat him and his last victory was against england in the world cup",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "belgium"
+    },
+    {
+        "q3": "who\u2019s belgium\u2019s manager ",
+        "a3": " roberto martinez",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": " @object",
+        "a3_v2": " roberto martinez",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "belgium"
+    },
+    {
+        "q4": "who is the highest goal scorer in your team",
+        "a4": "romelu lukaku is their highest scorer of all time. ",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object is their @relation scorer of all time. ",
+        "a4_v2": "romelu lukaku is their highest scorer of all time. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "messi is the best ",
+        "a5": "messi is not as good as you think.",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "messi is not as good as you think.",
+        "a5_v2": "messi is not as good as you think.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "lionel messi"
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "what is the name of the top soccer division in portugal?",
+        "a1": "very good team",
+        "kgER1": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "portugal"
+    },
+    {
+        "q2": "definitely ",
+        "a2": "how are portugal doing in the world rankings? ",
+        "kgER2": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "how are @entity doing in the world rankings? ",
+        "a2_v2": "how are portugal doing in the world rankings? ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "portugal world ranking 4th rank",
+        "a3": "4 place is portugal",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object place is @entity",
+        "a3_v2": "4 place is portugal",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "portugal"
+    },
+    {
+        "q4": "portugal have been decent for years",
+        "a4": "1995 to 2006 has been called portugal's golden generation! not to mention going to the world cup. ",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "1995 to @object has been called @entity golden generation! not to mention going to the world cup. ",
+        "a4_v2": "1995 to 2006 has been called portugal's golden generation! not to mention going to the world cup. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "portugal"
+    },
+    {
+        "q5": "have portugal ever won the world cup?",
+        "a5": "i think that only the euro cup has won",
+        "kgER5": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think that only the euro cup has won",
+        "a5_v2": "i think that only the euro cup has won",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "portugal"
+    }
+]

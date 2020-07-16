@@ -1,0 +1,181 @@
+[
+    {
+        "q1": "i love the team brazil",
+        "a1": "i would like them to play more aggressive though.",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i would like them to play more aggressive though.",
+        "a1_v2": "i would like them to play more aggressive though.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "how upset are you at neymar flopping?",
+        "a2": "neymar is annoying because he falls on the ground a lot and pretends to be hurt. ",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object is annoying because he falls on the @relation a lot and pretends to be hurt. ",
+        "a2_v2": "neymar is annoying because he falls on the ground a lot and pretends to be hurt. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "neymar"
+    },
+    {
+        "q3": "i think neymar does not flop that much, he is a really physical player that gets pushed around.",
+        "a3": "neymar is a big flopper.",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object is a big flopper.",
+        "a3_v2": "neymar is a big flopper.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "neymar"
+    },
+    {
+        "q4": "sergio ramos should've been sent off.",
+        "a4": "it doesn't matter if sergio ramos should've been sent off because he doesn't have any connection to the team in question here which is brazil.",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "sergio ramos": [
+                "captain",
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "it doesn't matter if @object should've been sent off because he doesn't have any connection to the team in question here which is @entity",
+        "a4_v2": "it doesn't matter if sergio ramos should've been sent off because he doesn't have any connection to the team in question here which is brazil.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "sergio ramos"
+    },
+    {
+        "q5": "what was brazils record last year?",
+        "a5": "somewhere around 30 i think",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "sergio ramos": [
+                "captain",
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "somewhere around @object i think",
+        "a5_v2": "somewhere around 30 i think",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

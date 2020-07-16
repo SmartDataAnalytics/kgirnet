@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "fc arsenal plays in which league \\?",
+        "a1": "premier league",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "premier league",
+        "a1_v2": "premier league",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "who is arsenal 's best player \\?",
+        "a2": "nacho monreal",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "nacho monreal",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "arsenal"
+    },
+    {
+        "q3": "do you like arsenal team \\? yes",
+        "a3": "i'm not a fan of arsenal but i think i'm a great team",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i'm not a fan of @entity but i think i'm a great team",
+        "a3_v2": "i'm not a fan of arsenal but i think i'm a great team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "arsenal"
+    },
+    {
+        "q4": "i'm neutral towards them but i like to watch them compete internationally",
+        "a4": "i like arsenal , they 're a good team",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i like @entity , they 're a good team",
+        "a4_v2": "i like arsenal , they 're a good team",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who coaches arsenal \\?",
+        "a5": "unai emery is the coach now",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is the @relation now",
+        "a5_v2": "@coach is the coach now",
+        "corr_rel5": "coach",
+        "obj5": "unai emery",
+        "input_ent5": "arsenal"
+    }
+]

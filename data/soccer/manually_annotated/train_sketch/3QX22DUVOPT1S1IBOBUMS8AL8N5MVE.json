@@ -1,0 +1,94 @@
+[
+    {
+        "q1": "was mbappe france 's best scorer \\?",
+        "a1": "yes he is one of the best along side griezmann and giroud",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes he is one of the best along side griezmann and @relation",
+        "a1_v2": "yes he is one of the best along side griezmann and giroud",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "france"
+    },
+    {
+        "q2": "what was the year that france won their first world cup \\?",
+        "a2": "it was 1998 , against brazil",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "it was @object , against @entity",
+        "a2_v2": "it was @world_cup_champions , against @entity",
+        "corr_rel2": "world cup champions",
+        "obj2": "1998",
+        "input_ent2": "france"
+    },
+    {
+        "q3": "do you think france will win the next world cup \\?",
+        "a3": "i do not because it is very difficult to retain a trophy",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i do not because it is very difficult to retain a trophy",
+        "a3_v2": "i do not because it is very difficult to retain a trophy",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "france"
+    },
+    {
+        "q4": "who is france 's worst player \\?",
+        "a4": "france does not have a worse player , they are all very good players and if they can hold a trophy and win the next world cup",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity does not have a worse player , they are all very good players and if they can hold a trophy and win the next world cup",
+        "a4_v2": "france does not have a worse player , they are all very good players and if they can hold a trophy and win the next world cup",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "france"
+    }
+]

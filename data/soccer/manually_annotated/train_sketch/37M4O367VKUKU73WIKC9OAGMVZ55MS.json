@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i admire liverpool",
+        "a1": "me too",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "me too",
+        "a1_v2": "me too",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "they didn't do so well last season ",
+        "a2": "they under performed again. klopp didn't manage them well and their fans are terrible.",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they under performed again. klopp didn't manage them well and their fans are terrible.",
+        "a2_v2": "they under performed again. klopp didn't manage them well and their fans are terrible.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "what makes you say liverpool fans are terrible?",
+        "a3": "they are the best fans in the world for sticking with liverpool.",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they are the best fans in the world for sticking with @entity",
+        "a3_v2": "they are the best fans in the world for sticking with liverpool.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "what is their motto? i believe it's quite famous.",
+        "a4": "ywna",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "ywna",
+        "a4_v2": "ywna",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what does liverpool's ynwa stand for?",
+        "a5": "don't tell me you have no idea!",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "don't tell me you have no idea!",
+        "a5_v2": "don't tell me you have no idea!",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "q1": "who is the most popular player for liverpool?",
+        "a1": "mohamed salah.",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@has_player",
+        "corr_rel1": "has player",
+        "obj1": "mohamed salah",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "liverpool has how many wins this season?",
+        "a2": "23 wins",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object wins",
+        "a2_v2": "23 wins",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "what was their best match?",
+        "a3": "last match with psg maybe",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "last match with psg maybe",
+        "a3_v2": "last match with psg maybe",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what are some good young players?",
+        "a4": "alisson becker is a good acquisition too.",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object becker is a good acquisition too.",
+        "a4_v2": "alisson becker is a good acquisition too.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ashley young"
+    },
+    {
+        "q5": "how much was paid for mohamed salah? ",
+        "a5": "62 million",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "mohamed salah": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "@object million",
+        "a5_v2": "62 million",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "mohamed salah"
+    }
+]

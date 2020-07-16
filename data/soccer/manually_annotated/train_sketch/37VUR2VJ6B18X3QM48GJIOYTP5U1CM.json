@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "did bayern munich make the postseason in 2017?",
+        "a1": "very good team",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "is bayern munich better than their rivals, bvb?",
+        "a2": "bayern munich plays dirty.",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@entity plays dirty.",
+        "a2_v2": "bayern munich plays dirty.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bayern munich"
+    },
+    {
+        "q3": "do you think that is dirty?",
+        "a3": "they are the champions of the league 2017",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they are the champions of the league 2017",
+        "a3_v2": "they are the champions of the league 2017",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "bayern munich has won a ton of championshios in their league.  i wonder what the exact number is",
+        "a4": "they have been german champions 28 times",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "they have been @entity champions @object times",
+        "a4_v2": "they have been german champions 28 times",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "and have they ever been a european champion?",
+        "a5": "yes, the bayer has won a european cup",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes, the bayer has won a european cup",
+        "a5_v2": "yes, the bayer has won a european cup",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ever banega"
+    }
+]

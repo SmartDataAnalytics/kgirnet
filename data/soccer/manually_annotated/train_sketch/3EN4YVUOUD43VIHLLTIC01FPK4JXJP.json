@@ -1,0 +1,114 @@
+[
+    {
+        "q1": "tell something about their jounrney in the world cup.",
+        "a1": "despite finishing bottom of the group, iceland drew against argentina national football team 1-1 in the opening match of the group.",
+        "kgER1": {},
+        "a1_skt": "despite finishing bottom of the group, @entity drew against @entity national football team @object in the opening match of the group.",
+        "a1_v2": "despite finishing bottom of the group, iceland drew against argentina national football team 1-1 in the opening match of the group.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "do you think iceland could have beat argentina in that game?",
+        "a2": "there was always a chance for a win.",
+        "kgER2": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "there was always a chance for a win.",
+        "a2_v2": "there was always a chance for a win.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "argentina"
+    },
+    {
+        "q3": "is iceland a good team?",
+        "a3": "i think iceland is a very good team.",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think @entity is a very good team.",
+        "a3_v2": "i think iceland is a very good team.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "iceland"
+    },
+    {
+        "q4": "have you been to any of their games?",
+        "a4": "no, i am a bot, i can't go to games. ",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "no, i am a bot, i can't go to games. ",
+        "a4_v2": "no, i am a bot, i can't go to games. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    }
+]

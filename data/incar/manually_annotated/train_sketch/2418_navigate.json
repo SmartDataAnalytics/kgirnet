@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "where is the closest parking_garage",
+        "a1": "the closest parking_garage is the palo_alto_garage_r it s 4_miles away in heavy_traffic",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "palo_alto_garage_r",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "heavy_traffic",
+            "parking_garage",
+            "4_miles",
+            "palo_alto_garage_r"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "palo_alto_garage_r is at 481_amaranta_ave",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "481_amaranta_ave",
+        "input_ent2": "palo_alto_garage_r",
+        "kvr_entlist_qa2": [
+            "481_amaranta_ave",
+            "palo_alto_garage_r"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

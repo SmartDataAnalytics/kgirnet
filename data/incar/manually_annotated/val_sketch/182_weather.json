@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "check forecast for today and tomorrow",
+        "a1": "what city should i check the forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "san_mateo please find out the forecast for today and tomorrow",
+        "a2": "in san_mateo there will be rain today and it will be stormy tomorrow",
+        "input_rel2": "party",
+        "corr_rel2": "",
+        "obj2": "rain,stormy,today,tomorrow",
+        "input_ent2": "san_mateo",
+        "kvr_entlist_qa2": [
+            "tomorrow",
+            "san_mateo",
+            "rain",
+            "stormy",
+            "today"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

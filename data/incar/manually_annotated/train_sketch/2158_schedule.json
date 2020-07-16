@@ -1,0 +1,26 @@
+[
+    {
+        "q1": "where is my conference what is it about and what day is it",
+        "a1": "you have a conference on the_10th and a conference on the_8th both are in conference_room_100 and are to discuss_the_merger",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "agenda,room,date",
+        "obj1": "the_8th,the_10th,discuss_the_merger,conference_room_100",
+        "input_ent1": "conference",
+        "kvr_entlist_qa1": [
+            "the_8th",
+            "the_10th",
+            "discuss_the_merger",
+            "conference_room_100",
+            "conference"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "glad i can assist you",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

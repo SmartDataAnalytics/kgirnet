@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "what is the motto of fc porto?",
+        "a1": "you have the power of the dragon",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "you have the power of the dragon",
+        "a1_v2": "you have the power of the dragon",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "what league does fc. porto play in?",
+        "a2": "primeira liga",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "primeira liga",
+        "a2_v2": "primeira liga",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "fc. porto"
+    },
+    {
+        "q3": "what are their team colors?",
+        "a3": "the colors of fc.porto are blue and white ",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a3_skt": "the colors of fc.porto are @object and @object ",
+        "a3_v2": "the colors of fc.porto are blue and white ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is fc. porto's star player at this moment? ",
+        "a4": "vincent aboubakar is the best of porto",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object is the best of porto",
+        "a4_v2": "vincent aboubakar is the best of porto",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "fc. porto"
+    },
+    {
+        "q5": "how many goals did he score?",
+        "a5": "he scored 36 goals",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a5_skt": "he scored @object @relation",
+        "a5_v2": "he scored 36 goals",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

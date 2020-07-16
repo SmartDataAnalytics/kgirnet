@@ -1,0 +1,58 @@
+[
+    {
+        "q1": "directions to coffee and tea house",
+        "a1": "here are directions to teavana",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "teavana",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "teavana"
+        ]
+    },
+    {
+        "q2": "give me the address",
+        "a2": "the address to teavana is 145_amherst_st",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "145_amherst_st",
+        "input_ent2": "teavana",
+        "kvr_entlist_qa2": [
+            "teavana",
+            "145_amherst_st"
+        ]
+    },
+    {
+        "q3": "is teavana the closest coffee place to my current location",
+        "a3": "yes teavana is only 1_miles away",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "distance",
+        "obj3": "1_miles",
+        "input_ent3": "teavana",
+        "kvr_entlist_qa3": [
+            "teavana",
+            "1_miles"
+        ]
+    },
+    {
+        "q4": "is there any traffic",
+        "a4": "there is no_traffic on the route to teavana",
+        "input_rel4": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel4": "traffic_info",
+        "obj4": "no_traffic",
+        "input_ent4": "coffee_or_tea_place",
+        "kvr_entlist_qa4": [
+            "no_traffic",
+            "teavana"
+        ]
+    },
+    {
+        "q5": "sounds great set the gps please and thank you",
+        "a5": "gps set you re welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

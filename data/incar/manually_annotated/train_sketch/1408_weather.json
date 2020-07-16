@@ -1,0 +1,43 @@
+[
+    {
+        "q1": "what is the weather forecast for the upcoming week",
+        "a1": "what location are you asking about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "fresno",
+        "a2": "for fresno this week it will be windy on monday humid on tuesday drizzling on wednesday overcast on thursday drizzling on friday hot on saturday and drizzling on sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "humid,overcast,hot,windy",
+        "input_ent2": "fresno",
+        "kvr_entlist_qa2": [
+            "fresno",
+            "monday",
+            "wednesday",
+            "humid",
+            "sunday",
+            "saturday",
+            "overcast",
+            "tuesday",
+            "hot",
+            "thursday",
+            "week",
+            "windy",
+            "friday"
+        ]
+    },
+    {
+        "q3": "perfect thank you",
+        "a3": "you re very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i absolutely adore bayern munich",
+        "a1": "do you like the team?",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "do you like the team?",
+        "a1_v2": "do you like the team?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "who's plays? bayern and munish",
+        "a2": "i completely love bayern munich",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i completely love @entity",
+        "a2_v2": "i completely love bayern munich",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bayern munich"
+    },
+    {
+        "q3": "for me, it's a great team and the players are young ",
+        "a3": "they are strong in germany,but lack luck in cl",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they are strong in germany,but lack luck in cl",
+        "a3_v2": "they are strong in germany,but lack luck in cl",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ashley young"
+    },
+    {
+        "q4": "i think this could be their season",
+        "a4": "a lucky cl draw could see them through, barring injuries to a few key players.",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "a lucky cl draw could see them through, barring injuries to a few key players.",
+        "a4_v2": "a lucky cl draw could see them through, barring injuries to a few key players.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is their best player?",
+        "a5": "arjen robben is bayern munich best player",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is @entity @relation",
+        "a5_v2": "arjen robben is bayern munich best player",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

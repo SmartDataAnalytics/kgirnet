@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "what people have sent an rsvp or responded for the party so far what time will the party begin what activity are on the agenda for the party",
+        "a1": "you do not have any parties on your schedule",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "what time is my conference who is attending and what is the agenda",
+        "a2": "you have two conference scheduled one is saturday at 3pm with the sales_team to go over the quarterly report the other is on the_5th at 5pm with the sales_team to discuss_the_merger",
+        "input_rel2": "room,date,time,agenda,party",
+        "corr_rel2": "time,party,agenda,date",
+        "obj2": "sales_team,5pm,discuss_the_merger,the_5th,3pm",
+        "input_ent2": "conference",
+        "kvr_entlist_qa2": [
+            "sales_team",
+            "5pm",
+            "discuss_the_merger",
+            "saturday",
+            "the_5th",
+            "conference",
+            "3pm"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "glad i can help",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

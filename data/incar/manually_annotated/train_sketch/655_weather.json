@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what is the temperature for the next 7 days weather forecast",
+        "a1": "what city shall i find the weather forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "brentwood please",
+        "a2": "this week in brentwood the temperature lows will be in the 20s and 50s with highs reaching 100f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "thursday",
+        "obj2": "100f",
+        "input_ent2": "brentwood",
+        "kvr_entlist_qa2": [
+            "week",
+            "100f",
+            "brentwood"
+        ]
+    },
+    {
+        "q3": "okay thank you",
+        "a3": "you re very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

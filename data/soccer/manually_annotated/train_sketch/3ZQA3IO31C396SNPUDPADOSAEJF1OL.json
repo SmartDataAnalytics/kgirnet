@@ -1,0 +1,143 @@
+[
+    {
+        "q1": "i like one of this favorite team",
+        "a1": "which one you like the most?",
+        "kgER1": {},
+        "a1_skt": "which one you like the most?",
+        "a1_v2": "which one you like the most?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who is your favorite player on team uruguay?",
+        "a2": "uruguay world cup 2018 team guide: star player, one to watch, key fixtures, form and betting odds",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity world cup @object team guide: star player, one to watch, key fixtures, form and betting odds",
+        "a2_v2": "uruguay world cup 2018 team guide: star player, one to watch, key fixtures, form and betting odds",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "uruguay"
+    },
+    {
+        "q3": "do you think uruguay would beat mexico if they played right now ?",
+        "a3": "i think it would be a draw ",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think it would be a draw ",
+        "a3_v2": "i think it would be a draw ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mexico"
+    },
+    {
+        "q4": "what is the name of the uruguayan central defender? ",
+        "a4": "central defender is mr. diego godin.",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a4_skt": "central @relation is mr. @object",
+        "a4_v2": "central defender is mr. @captain",
+        "corr_rel4": "defender",
+        "obj4": "diego godin",
+        "input_ent4": "uruguay"
+    },
+    {
+        "q5": "who is the captain of the uruguay team?",
+        "a5": "godin is uruguay's captain.",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a5_skt": "@object is uruguay's @relation",
+        "a5_v2": "@captain is uruguay's captain",
+        "corr_rel5": "captain",
+        "obj5": "diego godin",
+        "input_ent5": "uruguay"
+    }
+]

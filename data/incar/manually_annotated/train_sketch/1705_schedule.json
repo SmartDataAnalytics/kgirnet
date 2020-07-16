@@ -1,0 +1,26 @@
+[
+    {
+        "q1": "what time is my medicine and who is involved",
+        "a1": "you have two medicine events scheduled one on friday at 9am with jon and another on the_10th at 9am with tom",
+        "input_rel1": "time,date",
+        "corr_rel1": "time,date",
+        "obj1": "9am,jon,the_10th,tom",
+        "input_ent1": "medicine",
+        "kvr_entlist_qa1": [
+            "9am",
+            "jon",
+            "the_10th",
+            "tom",
+            "friday"
+        ]
+    },
+    {
+        "q2": "thank you for all of that",
+        "a2": "no problem",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

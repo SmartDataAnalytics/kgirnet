@@ -1,0 +1,32 @@
+[
+    {
+        "q1": "what will the temperature be for the next_week",
+        "a1": "where would you like to hear the temperature from",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "alhambra",
+        "a2": "the temperature for alhambra for the week include the highs near 100 and lows in the 40s",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "none",
+        "input_ent2": "alhambra",
+        "kvr_entlist_qa2": [
+            "alhambra",
+            "week"
+        ]
+    },
+    {
+        "q3": "thanks so much",
+        "a3": "you re welcome have a great day",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

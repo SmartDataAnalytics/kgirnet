@@ -1,0 +1,127 @@
+[
+    {
+        "q1": "do germany use a sport psychologist with the national team \\?",
+        "a1": "yes germany have lots of background staff , maybe they need new ones because mexico beat them !",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes @entity have lots of background staff , maybe they need new ones because @entity beat them !",
+        "a1_v2": "yes germany have lots of background staff , maybe they need new ones because mexico beat them !",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "mexico are a good team",
+        "a2": "mexico is a solid team , the upset this year was so fun to watch",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity is a solid team , the upset this year was so fun to watch",
+        "a2_v2": "mexico is a solid team , the upset this year was so fun to watch",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "mexico"
+    },
+    {
+        "q3": "who is germany 's coach \\?",
+        "a3": "joachim low is the coach for germany",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object is the @relation for @entity",
+        "a3_v2": "@coach is the coach for @entity",
+        "corr_rel3": "coach",
+        "obj3": "joachim low",
+        "input_ent3": "germany"
+    },
+    {
+        "q4": "how long has he been coach \\?",
+        "a4": "joachim low has been the german coach since 2006",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object has been the @entity @relation since @object",
+        "a4_v2": "joachim low has been the german coach since 2006",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    }
+]

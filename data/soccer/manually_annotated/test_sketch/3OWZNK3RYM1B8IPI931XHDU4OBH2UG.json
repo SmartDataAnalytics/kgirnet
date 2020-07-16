@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "love liverpool",
+        "a1": "liverpool are a good team but i do not like them.",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity are a good team but i do not like them.",
+        "a1_v2": "liverpool are a good team but i do not like them.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "i completely love liverpool",
+        "a2": "have you ever been to a liverpool home game? ",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "have you ever been to a @entity home game? ",
+        "a2_v2": "have you ever been to a liverpool home game? ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "i have never personally been to a liverpool home game. i hope to some day though.",
+        "a3": "what do you think about the liverpool fans?",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "what do you think about the @entity fans?",
+        "a3_v2": "what do you think about the liverpool fans?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "thy are like any fans, loud and obnoxious",
+        "a4": "have you experienced it?",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "have you experienced it?",
+        "a4_v2": "have you experienced it?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "white and red"
+    },
+    {
+        "q5": "can liverpool beat man city in 2018/19 season?",
+        "a5": "absolutely they can, yes. ",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "absolutely they can, yes. ",
+        "a5_v2": "absolutely they can, yes. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "2018"
+    }
+]

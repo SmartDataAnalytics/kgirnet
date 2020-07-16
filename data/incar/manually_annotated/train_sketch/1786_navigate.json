@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "car i want to do some shopping in some local shopping_center is there any nearby",
+        "a1": "midtown_shopping_center is 3_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "midtown_shopping_center",
+        "input_ent1": "shopping_center",
+        "kvr_entlist_qa1": [
+            "midtown_shopping_center",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "the address is 338_alester_ave and is 3_miles away with heavy_traffic",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "distance",
+        "obj2": "338_alester_ave,3_miles",
+        "input_ent2": "midtown_shopping_center",
+        "kvr_entlist_qa2": [
+            "heavy_traffic",
+            "338_alester_ave",
+            "3_miles"
+        ]
+    },
+    {
+        "q3": "i wish to get there fast but patience thank you car",
+        "a3": "you re welcome glad to help",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

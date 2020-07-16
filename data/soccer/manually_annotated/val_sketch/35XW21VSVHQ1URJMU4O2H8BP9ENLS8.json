@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i completely love ac milan",
+        "a1": "what do you like about ac milan?",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "what do you like about ac milan?",
+        "a1_v2": "what do you like about ac milan?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "their sportsmanship and their players. where does ac milan play?",
+        "a2": "in san siro de milan italy from there is the ac milan",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "in san siro de milan @entity from there is the ac milan",
+        "a2_v2": "in san siro de milan italy from there is the ac milan",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "who is their best player at the moment? ",
+        "a3": "according to sb nation the best player now is gianluigi donnarumma ",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "according to sb nation the @relation now is @object ",
+        "a3_v2": "according to sb nation the best player now is gianluigi donnarumma ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "for his speed and his dexterity in the field",
+        "a4": "higuain is the best forward that has the milan ",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "higuain is the best @relation that has the milan ",
+        "a4_v2": "higuain is the best forward that has the milan ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "white and red"
+    },
+    {
+        "q5": "how many goals did higuain score for milan?",
+        "a5": "none so far, he has only been with the team sine august 2nd 2018.",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "none so far, he has only been with the team sine august 2nd @object",
+        "a5_v2": "none so far, he has only been with the team sine august 2nd 2018.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "gonzalo higuain"
+    }
+]

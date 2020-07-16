@@ -1,0 +1,78 @@
+[
+    {
+        "q1": "how do you think paris sg is going to do on the twelfth",
+        "a1": "a easy win",
+        "kgER1": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "a easy win",
+        "a1_v2": "a easy win",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "paris sg"
+    },
+    {
+        "q2": "easy win from psg",
+        "a2": "i agree with your opinion",
+        "kgER2": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i agree with your opinion",
+        "a2_v2": "i agree with your opinion",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is the other team that plays in paris \\?",
+        "a3": "the other team that plays in paris is the monaco",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "the other team that plays in paris is the monaco",
+        "a3_v2": "the other team that plays in paris is the monaco",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "paris sg"
+    },
+    {
+        "q4": "who is paris sg 's coach \\?",
+        "a4": "thomas tuchel",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "@coach",
+        "corr_rel4": "coach",
+        "obj4": "thomas tuchel",
+        "input_ent4": "paris sg"
+    }
+]

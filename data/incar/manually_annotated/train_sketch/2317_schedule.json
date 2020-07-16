@@ -1,0 +1,23 @@
+[
+    {
+        "q1": "when is my swimming_activity and who will be there",
+        "a1": "you have one on sunday at 5pm with martha tuesday at 2pm with ana the_8th at 4pm with jeff and friday at 2pm with your brother",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "date,time,party",
+        "obj1": "the_8th,5pm,4pm,2pm,martha,jeff,brother,ana",
+        "input_ent1": "swimming_activity",
+        "kvr_entlist_qa1": [
+            "the_8th",
+            "5pm",
+            "4pm",
+            "sunday",
+            "2pm",
+            "tuesday",
+            "martha",
+            "jeff",
+            "brother",
+            "ana",
+            "friday"
+        ]
+    }
+]

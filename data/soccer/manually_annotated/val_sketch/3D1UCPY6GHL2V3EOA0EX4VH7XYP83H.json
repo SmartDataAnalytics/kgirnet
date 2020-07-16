@@ -1,0 +1,127 @@
+[
+    {
+        "q1": "has the mexico soccer team suffered from an injury?",
+        "a1": "i don;t think there is a team in history that hasn't suffered from some injuries.  thats why roster depth and experience is so important, especially in tournament play",
+        "kgER1": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a1_skt": "i don;t think there is a team in history that hasn't suffered from some injuries.  thats why roster depth and experience is so important, especially in tournament play",
+        "a1_v2": "i don;t think there is a team in history that hasn't suffered from some injuries.  thats why roster depth and experience is so important, especially in tournament play",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "mexico"
+    },
+    {
+        "q2": "what is the worst injury any of their players had ever suffered?",
+        "a2": "some players even dropped dead because of injury!",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "some players even dropped dead because of injury!",
+        "a2_v2": "some players even dropped dead because of injury!",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ever banega"
+    },
+    {
+        "q3": "has a mexican player already died on the field?",
+        "a3": "mexican forward orozco dies at age 29 after battle with lung cancer",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "mexican @relation orozco dies at age @object after battle with lung cancer",
+        "a3_v2": "mexican forward orozco dies at age 29 after battle with lung cancer",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is the current coach of mexico?",
+        "a4": "juan carlos osorio arbel\u00e1ez is the coach now for mexico.",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "juan carlos osorio arbel\u00e1ez is the @relation now for @entity",
+        "a4_v2": "juan carlos osorio arbel\u00e1ez is the coach now for mexico.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "mexico"
+    },
+    {
+        "q5": "when did he start as a coach?",
+        "a5": "2015",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "2015",
+        "a5_v2": "2015",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

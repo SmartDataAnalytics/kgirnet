@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i admire liverpool",
+        "a1": "liverpool is a great team indeed.",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity is a great team indeed.",
+        "a1_v2": "liverpool is a great team indeed.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "when is liverpool's next home game?",
+        "a2": "the 25th - they'll be taking on brighton.",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "the 25th - they'll be taking on brighton.",
+        "a2_v2": "the 25th - they'll be taking on brighton.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "do you think that they'll win?",
+        "a3": "yes, liverpool will win at home.",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "yes, @entity will win at home.",
+        "a3_v2": "yes, liverpool will win at home.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "will they win the league though",
+        "a4": "i dont think so but they might come very close!",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i dont think so but they might come very close!",
+        "a4_v2": "i dont think so but they might come very close!",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "how does liverpool do in road games?",
+        "a5": "liverpool usually performs well at home as well as away.",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@entity usually performs well at home as well as away.",
+        "a5_v2": "liverpool usually performs well at home as well as away.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

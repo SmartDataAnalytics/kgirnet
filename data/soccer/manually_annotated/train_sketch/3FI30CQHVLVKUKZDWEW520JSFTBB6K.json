@@ -1,0 +1,163 @@
+[
+    {
+        "q1": "how many years do you think mbappe plays for psg?",
+        "a1": "he's under contract until 2022, so i think he will stay until then.",
+        "kgER1": {
+            "kylian mbappe": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a1_skt": "he's under contract until 2022, so i think he will stay until then.",
+        "a1_v2": "he's under contract until 2022, so i think he will stay until then.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "kylian mbappe"
+    },
+    {
+        "q2": "i think mbappe will leave if he gets a good enough offer from a big team like real madrid",
+        "a2": "i think that there are poaching rules that prevent that from happening.",
+        "kgER2": {
+            "kylian mbappe": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i think that there are poaching rules that prevent that from happening.",
+        "a2_v2": "i think that there are poaching rules that prevent that from happening.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "has paris sg been good this year ?",
+        "a3": "they were big power before game with real madrid and lost to them 2 times.so probably not good.",
+        "kgER3": {
+            "kylian mbappe": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they were big power before game with @entity and lost to them @object times.so probably not good.",
+        "a3_v2": "they were big power before game with real madrid and lost to them 2 times.so probably not good.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "paris sg"
+    },
+    {
+        "q4": "how effective is the contract?",
+        "a4": "very effective! it worked out well ",
+        "kgER4": {
+            "kylian mbappe": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "very effective! it worked out well ",
+        "a4_v2": "very effective! it worked out well ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "will the academy players like weah get minutes this year?",
+        "a5": "he is played many and great games",
+        "kgER5": {
+            "kylian mbappe": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "he is played many and great games",
+        "a5_v2": "he is played many and great games",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

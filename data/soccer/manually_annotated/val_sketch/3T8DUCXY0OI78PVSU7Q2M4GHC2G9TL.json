@@ -1,0 +1,176 @@
+[
+    {
+        "q1": "kevin de bruyne or eden hazard who is the best?",
+        "a1": "they are both  valued players from belgium",
+        "kgER1": {
+            "kevin de bruyne": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a1_skt": "they are both  valued players from @entity",
+        "a1_v2": "they are both  valued players from belgium",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "kevin de bruyne"
+    },
+    {
+        "q2": "eden hazard",
+        "a2": "eden hazard did not have as good a year with chelsea as de bruyne did with manchester city.",
+        "kgER2": {
+            "kevin de bruyne": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object did not have as good a year with @entity as de bruyne did with manchester city.",
+        "a2_v2": "eden hazard did not have as good a year with chelsea as de bruyne did with manchester city.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "eden hazard"
+    },
+    {
+        "q3": "what position does eden hazard play? ",
+        "a3": "striker",
+        "kgER3": {
+            "kevin de bruyne": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "striker",
+        "a3_v2": "striker",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "eden hazard"
+    },
+    {
+        "q4": "did belgium deserve win the world cup?",
+        "a4": "no they didnt",
+        "kgER4": {
+            "kevin de bruyne": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "no they didnt",
+        "a4_v2": "no they didnt",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "belgium"
+    },
+    {
+        "q5": "why don't you think they deserve to win?",
+        "a5": "i think they do",
+        "kgER5": {
+            "kevin de bruyne": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think they do",
+        "a5_v2": "i think they do",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

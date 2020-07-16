@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "please give me the address and directions via a route with no_traffic to a rest_stop within 2_miles",
+        "a1": "there is no_traffic on the route to the_clement_hotel it is located at 657_ames_ave",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "657_ames_ave",
+        "input_ent1": "2_miles,rest_stop",
+        "kvr_entlist_qa1": [
+            "no_traffic",
+            "657_ames_ave",
+            "the_clement_hotel"
+        ]
+    },
+    {
+        "q2": "then let s go there thank you",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

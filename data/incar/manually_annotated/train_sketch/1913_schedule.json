@@ -1,0 +1,17 @@
+[
+    {
+        "q1": "what date is my tennis_activity and who is attending",
+        "a1": "you have two tennis_activity scheduled one on monday with tom and one on thursday with marie",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "party",
+        "obj1": "tom,marie",
+        "input_ent1": "tennis_activity",
+        "kvr_entlist_qa1": [
+            "marie",
+            "tennis_activity",
+            "monday",
+            "tom",
+            "thursday"
+        ]
+    }
+]

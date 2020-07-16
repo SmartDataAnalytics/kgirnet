@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "senegal plays in africa?",
+        "a1": "yes, senegal represents the whole african continent.",
+        "kgER1": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes, @entity represents the whole african continent.",
+        "a1_v2": "yes, senegal represents the whole african continent.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "senegal"
+    },
+    {
+        "q2": "who is the current coach of senegal? ",
+        "a2": "aliou ciss\u00e9 is the current coach of senegal.",
+        "kgER2": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object is the current @relation of @entity",
+        "a2_v2": "aliou ciss\u00e9 is the current coach of senegal.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "senegal"
+    },
+    {
+        "q3": "how many cups have senegal won?",
+        "a3": "they have not won any yet.",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they have not won any yet.",
+        "a3_v2": "they have not won any yet.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "senegal"
+    },
+    {
+        "q4": "do you think that they will one day? ",
+        "a4": "i am positive that they will one day.",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i am positive that they will one day.",
+        "a4_v2": "i am positive that they will one day.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "how soon do you think they'll win one?",
+        "a5": "their next game",
+        "kgER5": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "their next game",
+        "a5_v2": "their next game",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

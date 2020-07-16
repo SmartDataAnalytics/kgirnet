@@ -1,0 +1,162 @@
+[
+    {
+        "q1": "name the best goalkeeper in fc porto?",
+        "a1": "it's subjective, but i think iker casillas is the best",
+        "kgER1": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "it's subjective, but i think @object is the best",
+        "a1_v2": "it's subjective, but i think iker casillas is the best",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "goalkeeper"
+    },
+    {
+        "q2": "what is so special about this goalkeeper? ",
+        "a2": "he is the best in spain too",
+        "kgER2": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "he is the best in @entity too",
+        "a2_v2": "he is the best in spain too",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "goalkeeper"
+    },
+    {
+        "q3": "how many matches has he played for porto?",
+        "a3": "he has played in 106 matches",
+        "kgER3": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a3_skt": "he has played in @object matches",
+        "a3_v2": "he has played in 106 matches",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "fc. porto"
+    },
+    {
+        "q4": "do you know how old is he now? ",
+        "a4": "iker casillas is 37 years old",
+        "kgER4": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object is @object years old",
+        "a4_v2": "iker casillas is 37 years old",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "old trafford"
+    },
+    {
+        "q5": "what is their current position? ",
+        "a5": "porto is currently 1st ",
+        "kgER5": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a5_skt": "porto is currently 1st ",
+        "a5_v2": "porto is currently 1st ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "q1": "when was the last time barcelona win the champions league? ",
+        "a1": "they won the year they had a very strong offense.",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they won the year they had a very strong offense.",
+        "a1_v2": "they won the year they had a very strong offense.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "so what year was it?",
+        "a2": "i think it was 2013",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i think it was 2013",
+        "a2_v2": "i think it was 2013",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "why would barcelona buy dembele for over one hundred million euros and then not give him the opportunity and there are rumors to sell him even though he is under 20?",
+        "a3": "because they have the money to gamble on players. ",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "because they have the money to gamble on players. ",
+        "a3_v2": "because they have the money to gamble on players. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "barcelona"
+    },
+    {
+        "q4": "who is the barcelona goal keeper?",
+        "a4": "ter stegen, hes from germany",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "ter stegen, hes from @entity",
+        "a4_v2": "ter stegen, hes from germany",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "barcelona is famous and very good thanks to its defense",
+        "a5": "how is ter stegen?",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "how is ter stegen?",
+        "a5_v2": "how is ter stegen?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "barcelona"
+    }
+]

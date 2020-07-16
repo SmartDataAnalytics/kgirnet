@@ -1,0 +1,113 @@
+[
+    {
+        "q1": "what position seems the most dangerous?",
+        "a1": "goalie ",
+        "kgER1": {},
+        "a1_skt": "goalie ",
+        "a1_v2": "goalie ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "does iceland have a good goalie?",
+        "a2": "yes good goalie",
+        "kgER2": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes good goalie",
+        "a2_v2": "yes good goalie",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "iceland"
+    },
+    {
+        "q3": "all positions have their risks, but, iceland has a great goalkeeper ",
+        "a3": "all positions have risk, but more has to be a goalkeeper",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "all positions have risk, but more has to be a @relation",
+        "a3_v2": "all positions have risk, but more has to be a goalkeeper",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "goalkeeper"
+    },
+    {
+        "q4": "why does being a goalkeeper have more risk?",
+        "a4": "a goal is only in his hand ",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "a @relation is only in his hand ",
+        "a4_v2": "a goal is only in his hand ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "goalkeeper"
+    },
+    {
+        "q5": "they do less running around though ",
+        "a5": "yeah but they take harder htis",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "yeah but they take harder htis",
+        "a5_v2": "yeah but they take harder htis",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

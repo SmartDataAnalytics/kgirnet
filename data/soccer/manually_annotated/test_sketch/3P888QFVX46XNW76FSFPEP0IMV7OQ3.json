@@ -1,0 +1,52 @@
+[
+    {
+        "q1": "i completely love fc. porto",
+        "a1": "dominating the portuguese league!",
+        "kgER1": {},
+        "a1_skt": "dominating the portuguese league!",
+        "a1_v2": "dominating the portuguese league!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "what's their secret?",
+        "a2": "solid team play",
+        "kgER2": {},
+        "a2_skt": "solid team play",
+        "a2_v2": "solid team play",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "very good",
+        "a3": "fc porto, team from portugal roma signed spanish defender marcano from porto.",
+        "kgER3": {},
+        "a3_skt": "fc porto, team from @entity roma signed spanish @relation marcano from porto.",
+        "a3_v2": "fc porto, team from portugal roma signed spanish defender marcano from porto.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what colour is porto home kit",
+        "a4": "the new porto 2018-2019 home kit comes with the traditional blue and white stripes of the club. new balance combines the blue and white colors with navy for the collar and the altice logo on the front.",
+        "kgER4": {},
+        "a4_skt": "the new porto 2018-2019 home kit comes with the traditional @object stripes of the club. new balance combines the @object and @object colors with navy for the collar and the altice logo on the front.",
+        "a4_v2": "the new porto 2018-2019 home kit comes with the traditional @home_jersey stripes of the club. new balance combines the @home_jersey and @home_jersey colors with navy for the collar and the altice logo on the front.",
+        "corr_rel4": "home jersey",
+        "obj4": "blue and white",
+        "input_ent4": "fc. porto"
+    },
+    {
+        "q5": "how much does it cost to buy an imitation strip? ",
+        "a5": "it is pretty expensive.",
+        "kgER5": {},
+        "a5_skt": "it is pretty expensive.",
+        "a5_v2": "it is pretty expensive.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "on friday will there be frost in menlo_park",
+        "a1": "in menlo_park the weather will be stormy on friday",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "friday",
+        "obj1": "stormy",
+        "input_ent1": "menlo_park",
+        "kvr_entlist_qa1": [
+            "stormy",
+            "friday",
+            "menlo_park"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "happy to help",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

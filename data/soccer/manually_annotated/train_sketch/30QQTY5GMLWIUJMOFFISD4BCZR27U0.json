@@ -1,0 +1,118 @@
+[
+    {
+        "q1": "who is the goalie for atl\u00e9tico madrid?",
+        "a1": "the main goalkeeper for atl\u00e9tico madrid is jan oblak.",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "the main @relation for @entity is jan oblak.",
+        "a1_v2": "the main goalkeeper for atl\u00e9tico madrid is jan oblak.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "one of the best goalies in the world",
+        "a2": "very good goalie",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "very good goalie",
+        "a2_v2": "very good goalie",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "yes, he is one of the best goalkeepers in the world",
+        "a3": "what nationality is he?",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "what nationality is he?",
+        "a3_v2": "what nationality is he?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "he is slovenian .",
+        "a4": "what colour is athletico madrid\u2019s kit",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "what colour is @entity kit",
+        "a4_v2": "what colour is athletico madrid\u2019s kit",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "red and white and blue",
+        "a5": "the athletic uniform has many stripes ",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "white": [
+                "jersey color"
+            ],
+            "blue": [
+                "jersey color"
+            ],
+            "red and white": [
+                "jersey color"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "the athletic uniform has many stripes ",
+        "a5_v2": "the athletic uniform has many stripes ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "blue and white"
+    }
+]

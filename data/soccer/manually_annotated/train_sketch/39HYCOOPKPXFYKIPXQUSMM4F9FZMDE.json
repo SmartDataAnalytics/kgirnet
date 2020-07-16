@@ -1,0 +1,88 @@
+[
+    {
+        "q1": "what is the goalie's name?",
+        "a1": "argentina's goalie's name is sergio romero",
+        "kgER1": {},
+        "a1_skt": "@entity @relation name is @object",
+        "a1_v2": "argentina's goalie's name is sergio romero",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "cristian pav\u00f3n ",
+        "a2": "argentina is one of the best teams.",
+        "kgER2": {},
+        "a2_skt": "@entity is one of the best teams.",
+        "a2_v2": "argentina is one of the best teams.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "cristian rodriguez"
+    },
+    {
+        "q3": "what qualities of argentina makes them one of the best teams?",
+        "a3": "the goat lionel messi make them best team",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "the goat @object make them best team",
+        "a3_v2": "the goat lionel messi make them best team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "argentina"
+    },
+    {
+        "q4": "what position does messi play?",
+        "a4": "he is a midfilder ",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "he is a @relation ",
+        "a4_v2": "he is a position ",
+        "corr_rel4": "position",
+        "obj4": "midfielder",
+        "input_ent4": "lionel messi"
+    },
+    {
+        "q5": "how old is he? ",
+        "a5": "messi is currently 31 years old",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "messi is currently @object years old",
+        "a5_v2": "messi is currently 31 years old",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "old trafford"
+    }
+]

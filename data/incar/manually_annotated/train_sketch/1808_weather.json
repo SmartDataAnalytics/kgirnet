@@ -1,0 +1,30 @@
+[
+    {
+        "q1": "can you give me the weather this week for new_york city",
+        "a1": "yes the weather for new_york city this week will be mostly raining with the lowest at 30f on thursday and the highest being 100f on saturday monday and tuesday will be cloudy",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "monday,thursday,saturday,tuesday",
+        "obj1": "100f,cloudy,30f",
+        "input_ent1": "new_york",
+        "kvr_entlist_qa1": [
+            "100f",
+            "new_york",
+            "monday",
+            "cloudy",
+            "saturday",
+            "tuesday",
+            "thursday",
+            "30f",
+            "week"
+        ]
+    },
+    {
+        "q2": "thank you",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

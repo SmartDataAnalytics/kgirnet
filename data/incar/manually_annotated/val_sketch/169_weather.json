@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "check the weather forecast",
+        "a1": "for what location and time",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "will it be dry in fresno today",
+        "a2": "no it will not be dry in fresno today today s forecast is rain with a low of 20f and a high of 40f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "rain,40f,20f",
+        "input_ent2": "fresno",
+        "kvr_entlist_qa2": [
+            "fresno",
+            "rain",
+            "40f",
+            "today",
+            "dry",
+            "20f"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

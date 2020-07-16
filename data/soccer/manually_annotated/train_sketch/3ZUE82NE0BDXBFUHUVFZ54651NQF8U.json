@@ -1,0 +1,115 @@
+[
+    {
+        "q1": "what colors is the kit of mexico team?",
+        "a1": "i think they will be green and white",
+        "kgER1": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i think they will be green and @object",
+        "a1_v2": "i think they will be green and white",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "mexico"
+    },
+    {
+        "q2": "have they ever got past the last 16 in the world cup?",
+        "a2": "yes but not for a very long time ",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes but not for a very long time ",
+        "a2_v2": "yes but not for a very long time ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "16 (first in 1930)"
+    },
+    {
+        "q3": "who is there best player?",
+        "a3": "they dont have a best player.",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they dont have a best player.",
+        "a3_v2": "they dont have a best player.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is the best striker though?",
+        "a4": "maybe javier hernandez",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "maybe @object",
+        "a4_v2": "maybe javier hernandez",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is the current goalkeeper?",
+        "a5": "jos\u00e9 de jes\u00fas corona",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "jos\u00e9 de jes\u00fas corona",
+        "a5_v2": "jos\u00e9 de jes\u00fas corona",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "goalkeeper"
+    }
+]

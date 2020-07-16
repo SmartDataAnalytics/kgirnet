@@ -1,0 +1,156 @@
+[
+    {
+        "q1": "how many titles has uruguay won so far?",
+        "a1": "urugauy has won two world cup titles, one in 1930 and one in 1950.  ",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "urugauy has won two world cup titles, one in @object and one in @object  ",
+        "a1_v2": "urugauy has won two world cup titles, one in @world_cup_champions and one in @world_cup_champions  ",
+        "corr_rel1": "number of world cup champion",
+        "obj1": "2",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": "did they win the first ever world cup?",
+        "a2": "yes, uruguay won the first ever world cup",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes, @entity won the first ever world cup",
+        "a2_v2": "yes, uruguay won the first ever world cup",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ever banega"
+    },
+    {
+        "q3": "is luis suarez the greatest uruguay player of all-time?",
+        "a3": "he is amazing, but maybe diego forlan too.",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a3_skt": "he is amazing, but maybe diego forlan too.",
+        "a3_v2": "he is amazing, but maybe diego forlan too.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "luis suarez"
+    },
+    {
+        "q4": "who is currently thier goalkeeper?",
+        "a4": "mart\u00edn silva",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "mart\u00edn silva",
+        "a4_v2": "martin silva",
+        "corr_rel4": "has player",
+        "obj4": "martin silva",
+        "input_ent4": "uruguay"
+    },
+    {
+        "q5": "who has scored the most goals in uruguay?",
+        "a5": "luis su\u00e1rez",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "luis su\u00e1rez",
+        "a5_v2": "luis su\u00e1rez",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "uruguay"
+    }
+]

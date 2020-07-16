@@ -1,0 +1,62 @@
+[
+    {
+        "q1": "i really love the team ",
+        "a1": "i hope there is more fun and beautiful goals to see.",
+        "kgER1": {},
+        "a1_skt": "i hope there is more fun and beautiful @relation to see.",
+        "a1_v2": "i hope there is more fun and beautiful goals to see.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "me too. how many will be score in the premier league?",
+        "a2": "it's very difficult to predict how many total goals will be scored.",
+        "kgER2": {},
+        "a2_skt": "it's very difficult to predict how many total @relation will be scored.",
+        "a2_v2": "it's very difficult to predict how many total goals will be scored.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "which team is your favorite?",
+        "a3": "i like vfb stuttgart. good team but not performing consistently.",
+        "kgER3": {},
+        "a3_skt": "i like vfb stuttgart. good team but not performing consistently.",
+        "a3_v2": "i like vfb stuttgart. good team but not performing consistently.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "do you like alexis s\u00e1nchez?",
+        "a4": "i think he is a very good player but wish he would have stayed at arsenal.",
+        "kgER4": {},
+        "a4_skt": "i think he is a very good player but wish he would have stayed at @entity",
+        "a4_v2": "i think he is a very good player but wish he would have stayed at arsenal.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "alexis sanchez"
+    },
+    {
+        "q5": "how many goals frame alexis sanchez in the previous season? ",
+        "a5": "he scored well off-field under the bleachers about 4 times.",
+        "kgER5": {
+            "alexis sanchez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "he scored well off-field under the bleachers about @object times.",
+        "a5_v2": "he scored well off-field under the bleachers about 4 times.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "alexis sanchez"
+    }
+]

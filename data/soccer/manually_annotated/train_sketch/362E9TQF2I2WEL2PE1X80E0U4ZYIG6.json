@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "how does zlatan ibrahimovic feel about the sweden 's national team \\?",
+        "a1": "zlatan ibrahimovic from sweden has always represented sweden in the world cup however , he did not make the squad in the 2018 world cup which was a disappointment to many swedish fans",
+        "kgER1": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "zlatan ibrahimovic from @entity has always represented @entity in the world cup however , he did not make the squad in the @object world cup which was a disappointment to many swedish fans",
+        "a1_v2": "zlatan ibrahimovic from sweden has always represented sweden in the world cup however , he did not make the squad in the 2018 world cup which was a disappointment to many swedish fans",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "sweden"
+    },
+    {
+        "q2": "how many goals did ibrahimovic score for the national team",
+        "a2": "62 goals",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object @relation",
+        "a2_v2": "62 goals",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what will zlatan ibrahimovic do this year now that he did n't make the squad for the 2018 world cup \\?",
+        "a3": "whats the difference between sweden and switzerland \\?",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "whats the difference between @entity and @entity \\?",
+        "a3_v2": "whats the difference between sweden and switzerland \\?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "2018"
+    },
+    {
+        "q4": "different countries",
+        "a4": "what 's sweden 's colours",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "what 's @entity 's colours",
+        "a4_v2": "what 's sweden 's colours",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "whats the name of sweden goal keeper",
+        "a5": "they have three goalkeepers on their line up robin olsen , karl johan johnsson , and kristoffer nordfeldt",
+        "kgER5": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they have three @relation on their line up @object , @object , and @object",
+        "a5_v2": "they have three goalkeeper on their line up @goalkeeper , @goalkeeper , and @goalkeeper",
+        "corr_rel5": "goalkeeper",
+        "obj5": "robin olsen",
+        "input_ent5": "sweden"
+    }
+]

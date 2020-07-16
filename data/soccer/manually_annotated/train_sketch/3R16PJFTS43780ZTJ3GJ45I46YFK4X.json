@@ -1,0 +1,137 @@
+[
+    {
+        "q1": "i completely love manchester united",
+        "a1": "yes me too",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes me too",
+        "a1_v2": "yes me too",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "paul pogba seems like a really good player for this team.",
+        "a2": "i agree, he is a perfect fit. ",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "paul pogba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a2_skt": "i agree, he is a perfect fit. ",
+        "a2_v2": "i agree, he is a perfect fit. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "paul pogba"
+    },
+    {
+        "q3": "they are pleasant to watch, that much is certain.",
+        "a3": "very good football team",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "paul pogba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a3_skt": "very good football team",
+        "a3_v2": "very good football team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "when was manchester united's last championship win?",
+        "a4": "how many wins did manchester united have?",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "paul pogba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a4_skt": "how many wins did @entity have?",
+        "a4_v2": "how many wins did manchester united have?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "can they keep jose?",
+        "a5": "yes, they will keep jose?",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "paul pogba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a5_skt": "yes, they will keep jose?",
+        "a5_v2": "yes, they will keep jose?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "emre can"
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "q1": "which portugal team was the best?",
+        "a1": "all portugal teams are the best.",
+        "kgER1": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "all @entity teams are the best.",
+        "a1_v2": "all portugal teams are the best.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "portugal"
+    },
+    {
+        "q2": "is benefica the best of all the best though?",
+        "a2": "no i would think it's fc porto",
+        "kgER2": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no i would think it's fc porto",
+        "a2_v2": "no i would think it's fc porto",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "yes they are a good team. who do they have as their goalkeeper this year?",
+        "a3": "iker casillas",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "iker casillas",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "goalkeeper"
+    },
+    {
+        "q4": "rui patricio played in goal",
+        "a4": "for me it is iker squares the best goalkeeper",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "rui patricio": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "for me it is iker squares the best @relation",
+        "a4_v2": "for me it is iker squares the best goalkeeper",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "rui patricio"
+    },
+    {
+        "q5": "porto, sporting lisboa or benfica?",
+        "a5": "i think fc porto has given his battles",
+        "kgER5": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "rui patricio": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "i think fc porto has given his battles",
+        "a5_v2": "i think fc porto has given his battles",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "fc. porto"
+    }
+]

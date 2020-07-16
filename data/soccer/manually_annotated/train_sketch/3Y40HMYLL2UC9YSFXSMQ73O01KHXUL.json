@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "is iceland too cold for football in the winter \\?",
+        "a1": "no , it 's really quite mild",
+        "kgER1": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "no , it 's really quite mild",
+        "a1_v2": "no , it 's really quite mild",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "iceland"
+    },
+    {
+        "q2": "that 's nice to know do they do breaks in the winter \\?",
+        "a2": "how good is iceland \\?",
+        "kgER2": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "how good is @entity \\?",
+        "a2_v2": "how good is iceland \\?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "is iceland a top team to watch out for this season \\?",
+        "a3": "iceland is a terrible team no one is afraid of them",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity is a terrible team no one is afraid of them",
+        "a3_v2": "iceland is a terrible team no one is afraid of them",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "iceland"
+    },
+    {
+        "q4": "who is the coach for iceland 's team \\?",
+        "a4": "heimir hallgrimsson is the coach of iceland is very good coach",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object is the @relation of @entity is very good @relation",
+        "a4_v2": "@coach is the goalkeeper of @entity is very good goalkeeper",
+        "corr_rel4": "goalkeeper",
+        "obj4": "hannes thor halldorsson",
+        "input_ent4": "iceland"
+    },
+    {
+        "q5": "who was iceland 's leading scorer during the last world cup qualifiers \\?",
+        "a5": "i think is sigurdsson",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think is sigurdsson",
+        "a5_v2": "i think is sigurdsson",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "iceland"
+    }
+]

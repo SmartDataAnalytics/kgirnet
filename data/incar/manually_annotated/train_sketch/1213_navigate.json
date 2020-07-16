@@ -1,0 +1,58 @@
+[
+    {
+        "q1": "find me a nearby parking_garage or parking lot",
+        "a1": "the closest parking_garage is dish_parking 5_miles away at 550_alester_ave",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "",
+        "obj1": "dish_parking",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "parking_garage",
+            "550_alester_ave",
+            "dish_parking"
+        ]
+    },
+    {
+        "q2": "does this route have any traffic",
+        "a2": "it has heavy_traffic",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "heavy_traffic",
+        "input_ent2": "dish_parking",
+        "kvr_entlist_qa2": [
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "any parking_garages with no_traffic",
+        "a3": "no that s the only parking_garage in your area at this time",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel3": "",
+        "obj3": "none",
+        "input_ent3": "parking_garage",
+        "kvr_entlist_qa3": [
+            "parking_garage"
+        ]
+    },
+    {
+        "q4": "then let s go there thank you",
+        "a4": "navigating to 550_alester_ave now",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": [
+            "550_alester_ave"
+        ]
+    },
+    {
+        "q5": "thank you",
+        "a5": "you re welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

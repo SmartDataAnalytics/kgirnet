@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "how is argentina doing?",
+        "a1": "not very good after getting knocked out of the 2018 world cup in the group stage.",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "not very good after getting knocked out of the @object world cup in the group stage.",
+        "a1_v2": "not very good after getting knocked out of the 2018 world cup in the group stage.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "do you think messi will play in the 2020 world cup?",
+        "a2": "i think he will retire from international play by 2022 (there is no 2020 world cup).",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i think he will retire from international play by @object (there is no @object world cup).",
+        "a2_v2": "i think he will retire from international play by 2022 (there is no 2020 world cup).",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "lionel messi"
+    },
+    {
+        "q3": "i hope your wrong, i want to see him play more.",
+        "a3": "i think 2018 was his last chance to win the world cup. he will be too old in 2022 to play at the level he plays now ",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think @object was his last chance to win the world cup. he will be too old in @object to play at the level he plays now ",
+        "a3_v2": "i think 2018 was his last chance to win the world cup. he will be too old in 2022 to play at the level he plays now ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "argentina will win the next world cup, they wanted it very much an i think that they can win",
+        "a4": "argentina will always be winners",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity will always be winners",
+        "a4_v2": "argentina will always be winners",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "argentina"
+    },
+    {
+        "q5": "will argentina win the world cup in 2022?",
+        "a5": " for 2022 they will need an overhaul. messi is done for good. ",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": " for @object they will need an overhaul. messi is done for good. ",
+        "a5_v2": " for 2022 they will need an overhaul. messi is done for good. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "argentina"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "i need information for my upcoming conference",
+        "a1": "your conference with the sales_team is on the_10th at 6pm in the 100_conference_room to discuss the dress code",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,party,date",
+        "obj1": "the_10th,conference,6pm,sales_team",
+        "input_ent1": "conference",
+        "kvr_entlist_qa1": [
+            "the_10th",
+            "conference",
+            "sales_team",
+            "6pm"
+        ]
+    },
+    {
+        "q2": "thank you",
+        "a2": "i m here to serve",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

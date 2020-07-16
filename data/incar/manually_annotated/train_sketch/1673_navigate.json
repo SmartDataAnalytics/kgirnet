@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "what grocery_stores are around",
+        "a1": "trader_joes is 3_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "trader_joes",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "trader_joes",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "sounds great please pick a route with no_traffic and let s go there",
+        "a2": "there is moderate_traffic to trader_joes at 408_university_ave",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "address",
+        "obj2": "408_university_ave",
+        "input_ent2": "trader_joes",
+        "kvr_entlist_qa2": [
+            "moderate_traffic",
+            "trader_joes",
+            "408_university_ave"
+        ]
+    },
+    {
+        "q3": "ok that will have to do set the gps please",
+        "a3": "alright heading to trader_joes",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "trader_joes"
+        ]
+    }
+]

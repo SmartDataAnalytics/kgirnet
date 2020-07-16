@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "i need the route with the shortest distance to a parking_garage in the area",
+        "a1": "webster_garage is located at 880_ames_ct it is 2_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "obj1": "webster_garage,2_miles",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "webster_garage",
+            "2_miles",
+            "880_ames_ct"
+        ]
+    },
+    {
+        "q2": "can you provide me with the shortest distance to reach there",
+        "a2": "unfortunately there is a car_collision_nearby but i already sent on your screen another route to reach the garage fast enough",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "car_collision_nearby",
+        "input_ent2": "webster_garage",
+        "kvr_entlist_qa2": [
+            "car_collision_nearby"
+        ]
+    },
+    {
+        "q3": "thanks sounds good",
+        "a3": "drive carefully",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "q1": "this is my favorite team",
+        "a1": "what is it you like about them? ",
+        "kgER1": {},
+        "a1_skt": "what is it you like about them? ",
+        "a1_v2": "what is it you like about them? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "they have a solid defense and they have shaqiri.",
+        "a2": "have you ever seen a live game in swizterland?",
+        "kgER2": {},
+        "a2_skt": "have you ever seen a live game in @entity",
+        "a2_v2": "have you ever seen a live game in swizterland?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "xherdan shaqiri"
+    },
+    {
+        "q3": "yes i saw them in the world cup ",
+        "a3": "how did that game go?",
+        "kgER3": {},
+        "a3_skt": "how did that game go?",
+        "a3_v2": "how did that game go?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "who\u2019s there best player",
+        "a4": "it was very good game the best player of es shaqiri ",
+        "kgER4": {},
+        "a4_skt": "it was very good game the @relation of es shaqiri ",
+        "a4_v2": "it was very good game the best player of es shaqiri ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "for me the best players are granit xhaka and shaqiri ",
+        "a5": "yes shaqiri is the best swiss player.",
+        "kgER5": {
+            "granit xhaka": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a5_skt": "yes shaqiri is the best swiss player.",
+        "a5_v2": "yes shaqiri is the best swiss player.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "granit xhaka"
+    }
+]

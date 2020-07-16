@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "are there any chinese places i can get to with no_traffic within 5_miles of here",
+        "a1": "p_.f_._changs at 669_el_camino_real is 1_miles away trough moderate_traffic",
+        "input_rel1": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,distance",
+        "corr_rel1": "distance",
+        "obj1": "p_.f_._changs,1_miles",
+        "input_ent1": "5_miles",
+        "kvr_entlist_qa1": [
+            "moderate_traffic",
+            "669_el_camino_real",
+            "1_miles"
+        ]
+    },
+    {
+        "q2": "thank you car let s go there",
+        "a2": "setting navigation to p_.f_._changs now",
+        "input_rel2": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "5_miles",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

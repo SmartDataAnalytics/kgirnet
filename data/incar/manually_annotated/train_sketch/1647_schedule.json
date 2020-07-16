@@ -1,0 +1,28 @@
+[
+    {
+        "q1": "when is taking_medicine scheduled and who is attending",
+        "a1": "you have two reminders set for taking_medicine one on monday at 3pm with mother and one on the_7th at 4pm with aunt",
+        "input_rel1": "time,date",
+        "corr_rel1": "time,date",
+        "obj1": "3pm,taking_medicine,the_7th,aunt,4pm,mother",
+        "input_ent1": "taking_medicine",
+        "kvr_entlist_qa1": [
+            "mother",
+            "monday",
+            "4pm",
+            "aunt",
+            "the_7th",
+            "taking_medicine",
+            "3pm"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "you are welcome sir",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

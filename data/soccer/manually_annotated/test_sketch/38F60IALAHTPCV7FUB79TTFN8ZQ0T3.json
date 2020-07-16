@@ -1,0 +1,115 @@
+[
+    {
+        "q1": "did manchester united complete any transfers?",
+        "a1": "not this year.",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "not this year.",
+        "a1_v2": "not this year.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "how well are they doing this season?",
+        "a2": "they are 7th in the premier league",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they are 7th in the premier league",
+        "a2_v2": "they are 7th in the premier league",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what transfers can they realistically make to improve to the top 5",
+        "a3": "it has been debated that they should get rid of players who do not have the right mentality.",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "it has been debated that they should get rid of players who do not have the right mentality.",
+        "a3_v2": "it has been debated that they should get rid of players who do not have the right mentality.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    },
+    {
+        "q4": "was alex ferguson the best manager of all time?",
+        "a4": "in the premier league era, yes, he's been the most successful. ",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "in the premier league era, yes, he's been the most successful. ",
+        "a4_v2": "in the premier league era, yes, he's been the most successful. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "alex oxlade-chamberlain"
+    },
+    {
+        "q5": "if luke shaw is healthy, do you think mourinho will play him over ashley young?",
+        "a5": "what league belongs manchester united",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "luke shaw": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "ashley young": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "what league belongs @entity",
+        "a5_v2": "what league belongs manchester united",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "luke shaw"
+    }
+]

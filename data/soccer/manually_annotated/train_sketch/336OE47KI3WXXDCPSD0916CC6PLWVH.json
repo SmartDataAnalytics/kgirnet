@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "who is jventus's most expensive player? ",
+        "a1": "i cannot see right now",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "i cannot see right now",
+        "a1_v2": "i cannot see right now",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "is ronaldo really worth all the hype?",
+        "a2": "he seems a little immature, but he's a really good player.",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "he seems a little immature, but he's a really good player.",
+        "a2_v2": "he seems a little immature, but he's a really good player.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "cristiano ronaldo"
+    },
+    {
+        "q3": "how old is ronaldo now? ",
+        "a3": "34 years old has ronaldo",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "@object years old has ronaldo",
+        "a3_v2": "34 years old has ronaldo",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "old trafford"
+    },
+    {
+        "q4": "who else plays for juventus?",
+        "a4": "argentinian forward paulo dybala also plays for juventus.",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "@entity @relation @object also plays for @entity",
+        "a4_v2": "argentinian forward paulo dybala also plays for juventus.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "juventus"
+    },
+    {
+        "q5": "when did paulo dybala start playing for juventus? ",
+        "a5": "he joined juventus in 2015.",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "paulo dybala": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a5_skt": "he joined @entity in 2015.",
+        "a5_v2": "he joined juventus in 2015.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "paulo dybala"
+    }
+]

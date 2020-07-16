@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "has argentina been to a world cup?",
+        "a1": "argentina have been in 17 of the 21 world cup competitions. ",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity have been in @object of the 21 world cup competitions.",
+        "a1_v2": "argentina have been in 17 of the 21 world cup competitions. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "have they ever won the world cup?",
+        "a2": "yes, twice. once in 1978 and again in 1986.",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes, twice. once in @object and again in @object",
+        "a2_v2": "yes, twice. once in @world_cup_champions and again in @world_cup_champions",
+        "corr_rel2": "number of world cup champion",
+        "obj2": "2",
+        "input_ent2": "argentina"
+    },
+    {
+        "q3": "do you think that argentina has a chance to win the world cup in the future? ",
+        "a3": "yes they can, they always have a great group of players and can always build a good team",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes they can, they always have a great group of players and can always build a good team",
+        "a3_v2": "yes they can, they always have a great group of players and can always build a good team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "argentina"
+    },
+    {
+        "q4": "who is the best player in argentina right now?",
+        "a4": "messi is their best player right now, but he'll probably retire soon. ",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "messi is their @relation right now, but he'll probably retire soon. ",
+        "a4_v2": "messi is their best player right now, but he'll probably retire soon. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "argentina"
+    },
+    {
+        "q5": "how old is he right now? ",
+        "a5": "born: june 24, 1987 (age 31 years)",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "born: june @object @object @relation @object years)",
+        "a5_v2": "born: june 24, 1987 (age 31 years)",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "old trafford"
+    }
+]

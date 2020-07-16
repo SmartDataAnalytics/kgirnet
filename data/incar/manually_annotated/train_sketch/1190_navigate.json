@@ -1,0 +1,46 @@
+[
+    {
+        "q1": "i need to get groceries",
+        "a1": "there is a safeway sigona_farmers_market and trader_joes nearby",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "trader_joes",
+            "safeway",
+            "sigona_farmers_market"
+        ]
+    },
+    {
+        "q2": "would you give me directions to the grocery_store closest or located via the quickest route",
+        "a2": "sigona_farmers_market is the closest it is 1_miles away at 638_amherst_st",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "sigona_farmers_market,638_amherst_st",
+        "input_ent2": "grocery_store",
+        "kvr_entlist_qa2": [
+            "638_amherst_st",
+            "sigona_farmers_market",
+            "1_miles"
+        ]
+    },
+    {
+        "q3": "please give me directions that will be great",
+        "a3": "i sent the fastest route on your screen drive carefully",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "great thank you",
+        "a4": "no problem",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

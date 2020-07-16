@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "which one is gonna be the highest_temperature tomorrow in durham",
+        "a1": "the highest_temperature in durham is predicted to be 50 tomorrow",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday",
+        "obj1": "50f",
+        "input_ent1": "durham",
+        "kvr_entlist_qa1": [
+            "highest_temperature",
+            "durham",
+            "tomorrow"
+        ]
+    },
+    {
+        "q2": "thank you",
+        "a2": "anytime",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

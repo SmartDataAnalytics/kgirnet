@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "name the squad of uruguay wc 2018?",
+        "a1": "do anyone know the answer?",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "do anyone know the answer?",
+        "a1_v2": "do anyone know the answer?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "2018"
+    },
+    {
+        "q2": "who was uruguay's top scorer in the 2018 wc",
+        "a2": "i believe it was cavani",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i believe it was cavani",
+        "a2_v2": "i believe it was cavani",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2018"
+    },
+    {
+        "q3": "how many times have they won?",
+        "a3": "they won alot of times",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they won alot of times",
+        "a3_v2": "they won alot of times",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is better at uruguay cavani or suarez?",
+        "a4": "luis suarez is better at uruguay",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object is better at @entity",
+        "a4_v2": "luis suarez is better at uruguay",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "uruguay"
+    },
+    {
+        "q5": "is suarez the only good player in uruguay?",
+        "a5": "they many good players, but some would consider edinson cavani to be one of the best at the moment.",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they many good players, but some would consider @object to be one of the best at the moment.",
+        "a5_v2": "they many good players, but some would consider edinson cavani to be one of the best at the moment.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "uruguay"
+    }
+]

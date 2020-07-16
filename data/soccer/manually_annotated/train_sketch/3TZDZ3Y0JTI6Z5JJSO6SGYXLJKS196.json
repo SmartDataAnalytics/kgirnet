@@ -1,0 +1,106 @@
+[
+    {
+        "q1": "who is the current coach for arsenal?",
+        "a1": "unai emery.",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "unai emery.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "how well will they do this year ?",
+        "a2": "they have started on a loosing note by being beaten 2 nil by manchester city, i do not see them performing well. may be in two seasons. ",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they have started on a loosing note by being beaten @object nil by manchester city, i do not see them performing well. may be in two seasons. ",
+        "a2_v2": "they have started on a loosing note by being beaten 2 nil by manchester city, i do not see them performing well. may be in two seasons. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "it can be that he does it well because unai emery is a coach with very good strategies what happened at the beginning of the season was only a minimal step",
+        "a3": "will arsenal strengthen ",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "unai emery": [
+                "coach"
+            ]
+        },
+        "a3_skt": "will @entity strengthen ",
+        "a3_v2": "will arsenal strengthen ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "unai emery"
+    },
+    {
+        "q4": "who do they need to look to purchase to get better? ",
+        "a4": "sokratis papastathopoulos",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "unai emery": [
+                "coach"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "sokratis papastathopoulos",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "how do these teams afford such high salaries?",
+        "a5": "they get those salaries for selling t-shirts, tickets for games and other things",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "unai emery": [
+                "coach"
+            ]
+        },
+        "a5_skt": "they get those salaries for selling t-shirts, tickets for games and other things",
+        "a5_v2": "they get those salaries for selling t-shirts, tickets for games and other things",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

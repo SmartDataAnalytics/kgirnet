@@ -1,0 +1,123 @@
+[
+    {
+        "q1": "what division in soccer is team uruguay?",
+        "a1": "they only have one.",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they only have one.",
+        "a1_v2": "they only have one.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": "how many players does team uruguay have?",
+        "a2": "i am not sure, about the same numbers as most teams.",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i am not sure, about the same numbers as most teams.",
+        "a2_v2": "i am not sure, about the same numbers as most teams.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "uruguay"
+    },
+    {
+        "q3": "ha, good answer, i wasn't sure",
+        "a3": "uruguay team have a lot of players, but only 20 went to the world cup",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity team have a lot of players, but only @object went to the world cup",
+        "a3_v2": "uruguay team have a lot of players, but only 20 went to the world cup",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "how many goals has suarez scored?",
+        "a4": "is penarol uruguay's best team?",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "is penarol uruguay's best team?",
+        "a4_v2": "is penarol uruguay's best team?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "luis suarez"
+    },
+    {
+        "q5": "i would think so, yes.",
+        "a5": " if the best",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": " if the best",
+        "a5_v2": " if the best",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

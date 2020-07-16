@@ -1,0 +1,135 @@
+[
+    {
+        "q1": "who is the goalkeeper for uruguay?",
+        "a1": "which of the three goalkeepers are you asking about?",
+        "kgER1": {
+            "goalkeeper": [
+                "position"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "which of the three @relation are you asking about?",
+        "a1_v2": "which of the three goalkeepers are you asking about?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "goalkeeper"
+    },
+    {
+        "q2": "uruguay goalkeeper is muslera",
+        "a2": "yes it's muslera.",
+        "kgER2": {
+            "goalkeeper": [
+                "position"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes it's muslera.",
+        "a2_v2": "yes it's muslera.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "goalkeeper"
+    },
+    {
+        "q3": "how does muslera compare to ochoa?",
+        "a3": "uruguay   flag what i  color?",
+        "kgER3": {
+            "goalkeeper": [
+                "position"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity   flag what i  color?",
+        "a3_v2": "uruguay   flag what i  color?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "fernando muslera"
+    },
+    {
+        "q4": "uruguay has primary colors ",
+        "a4": "white and blue",
+        "kgER4": {
+            "goalkeeper": [
+                "position"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object and @object",
+        "a4_v2": "white and blue",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "uruguay"
+    },
+    {
+        "q5": "how many goals did uruguay scored in world cup? ",
+        "a5": "somewhere around 40?",
+        "kgER5": {
+            "goalkeeper": [
+                "position"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "somewhere around @object",
+        "a5_v2": "somewhere around 40?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "uruguay"
+    }
+]

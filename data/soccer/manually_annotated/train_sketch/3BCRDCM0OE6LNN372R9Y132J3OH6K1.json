@@ -1,0 +1,106 @@
+[
+    {
+        "q1": "what is arsenal historic victory?",
+        "a1": "they won the 2003-04 premier league without losing a game.",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they won the 2003-04 premier league without losing a game.",
+        "a1_v2": "they won the 2003-04 premier league without losing a game.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "if they won without losing any match",
+        "a2": "that is not a question. who is the current arsenal coach? ",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "that is not a question. who is the current @entity @relation ",
+        "a2_v2": "that is not a question. who is the current arsenal coach? ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "unai emery is the current manager of arsenal.",
+        "a3": "unai emery",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "unai emery": [
+                "coach"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "unai emery",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "unai emery"
+    },
+    {
+        "q4": "is arsenal a top team?",
+        "a4": "futbolls de dioses libres arsenal",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "unai emery": [
+                "coach"
+            ]
+        },
+        "a4_skt": "futbolls de dioses libres @entity",
+        "a4_v2": "futbolls de dioses libres arsenal",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "arsenal"
+    },
+    {
+        "q5": "where is arsenal based?",
+        "a5": "london, uk ",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "unai emery": [
+                "coach"
+            ]
+        },
+        "a5_skt": "london, uk ",
+        "a5_v2": "london, uk ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "arsenal"
+    }
+]

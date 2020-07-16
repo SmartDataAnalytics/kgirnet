@@ -1,0 +1,86 @@
+[
+    {
+        "q1": "were you expecting to win the world cup final? ",
+        "a1": "not really.",
+        "kgER1": {
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "not really.",
+        "a1_v2": "not really.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "did croatia win the world cup?",
+        "a2": "no, but croatia's performance at the wc was exceptional. beautiful president as well.",
+        "kgER2": {
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no, but croatia's performance at the wc was exceptional. beautiful president as well.",
+        "a2_v2": "no, but croatia's performance at the wc was exceptional. beautiful president as well.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "croatia"
+    },
+    {
+        "q3": "it's a premier minister i think but it was cute her wearing the national team's shirt. i have lots of sympathy for that.",
+        "a3": "glad to know that",
+        "kgER3": {
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "glad to know that",
+        "a3_v2": "glad to know that",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    }
+]

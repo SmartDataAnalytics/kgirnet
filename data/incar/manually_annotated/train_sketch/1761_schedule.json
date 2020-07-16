@@ -1,0 +1,26 @@
+[
+    {
+        "q1": "what day are the football parties i m going to",
+        "a1": "you have two football_activity listed on the calendar both activity are on thursday",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "football_activity",
+        "kvr_entlist_qa1": [
+            "thursday",
+            "football_activity"
+        ]
+    },
+    {
+        "q2": "who are attending the activity",
+        "a2": "the activity is with jeff the activity is with marie",
+        "input_rel2": "time,party,date",
+        "corr_rel2": "party",
+        "obj2": "marie,jeff",
+        "input_ent2": "football_activity",
+        "kvr_entlist_qa2": [
+            "marie",
+            "jeff"
+        ]
+    }
+]

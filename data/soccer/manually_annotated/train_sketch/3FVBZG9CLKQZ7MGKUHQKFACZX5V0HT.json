@@ -1,0 +1,106 @@
+[
+    {
+        "q1": "who does the liverpool",
+        "a1": "liverpool does liverpool !",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity does @entity !",
+        "a1_v2": "liverpool does liverpool !",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "who is liverpool 's current manager \\?",
+        "a2": "jurgen klopp is a coach",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object is a @relation",
+        "a2_v2": "@coach is a coach",
+        "corr_rel2": "coach",
+        "obj2": "jurgen klopp",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "what is his record like \\?",
+        "a3": "his record is 82 wins and 30 losses with liverpool",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "his record is @object wins and @object losses with @entity",
+        "a3_v2": "his record is 82 wins and 30 losses with liverpool",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "is he the best coach so far \\?",
+        "a4": "who plays in liverpool \\?",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "who plays in @entity \\?",
+        "a4_v2": "who plays in liverpool \\?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "mohamed salah is on the team",
+        "a5": "klopp is reguarded as the best",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "mohamed salah": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "klopp is reguarded as the best",
+        "a5_v2": "klopp is reguarded as the best",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "mohamed salah"
+    }
+]

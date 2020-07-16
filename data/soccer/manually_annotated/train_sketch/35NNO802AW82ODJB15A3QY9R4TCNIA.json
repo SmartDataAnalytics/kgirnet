@@ -1,0 +1,214 @@
+[
+    {
+        "q1": "marcos alonso is one of the best players on chelsea",
+        "a1": "what do you think of eden hazard?",
+        "kgER1": {
+            "marcos alonso": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "what do you think of @object",
+        "a1_v2": "what do you think of eden hazard?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "marcos alonso"
+    },
+    {
+        "q2": "he's great, but may not stay at chelsea for very long.",
+        "a2": "alonso ? scores the odd good goal, but far from the best, lucky to be in the team most weeks.",
+        "kgER2": {
+            "marcos alonso": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "alonso ? scores the odd good @relation but far from the best, lucky to be in the team most weeks.",
+        "a2_v2": "alonso ? scores the odd good goal, but far from the best, lucky to be in the team most weeks.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "chelsea"
+    },
+    {
+        "q3": "how do you think chelsea is going to do this wednesday against arsenal?  win, of course.",
+        "a3": "of course they will win! ",
+        "kgER3": {
+            "marcos alonso": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "of course they will win! ",
+        "a3_v2": "of course they will win! ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "is sarri the right fit as chelsea's new manager?",
+        "a4": "sarri is well respected. he lifts the player's self confidence and helps them value the game.",
+        "kgER4": {
+            "marcos alonso": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "sarri is well respected. he lifts the player's self confidence and helps them value the game.",
+        "a4_v2": "sarri is well respected. he lifts the player's self confidence and helps them value the game.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "chelsea"
+    },
+    {
+        "q5": "are there any other coaches that are compared to sarri?",
+        "a5": "sari is the best, so no!",
+        "kgER5": {
+            "marcos alonso": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "sari is the best, so no!",
+        "a5_v2": "sari is the best, so no!",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "maurizio sarri"
+    },
+    {
+        "q6": "what the play",
+        "a6": "chelsea is a great team but they say is a woman team is it true?",
+        "kgER6": {
+            "marcos alonso": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a6_skt": "@entity is a great team but they say is a woman team is it true?",
+        "a6_v2": "chelsea is a great team but they say is a woman team is it true?",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "andres guardado"
+    }
+]

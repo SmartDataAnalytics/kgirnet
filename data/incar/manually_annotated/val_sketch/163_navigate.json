@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "give me directions to starbucks",
+        "a1": "there are no nearby starbucks but there are 3 other coffee places nearby",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "starbucks",
+        "kvr_entlist_qa1": [
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "please send me directions for the one closest to me",
+        "a2": "setting directions to coupa located 2_miles away at 394_van_ness_ave",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "",
+        "obj2": "coupa",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "coupa",
+            "394_van_ness_ave",
+            "2_miles"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

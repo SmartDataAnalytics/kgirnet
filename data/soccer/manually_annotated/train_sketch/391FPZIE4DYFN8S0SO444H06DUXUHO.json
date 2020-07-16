@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "real madrid is a team i havent seen too much on tv",
+        "a1": "that is surprising as they are a very popular team",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "that is surprising as they are a very popular team",
+        "a1_v2": "that is surprising as they are a very popular team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "why do you think they have n't been on tv as much \\?",
+        "a2": "maybe other teams have had scandals",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "maybe other teams have had scandals",
+        "a2_v2": "maybe other teams have had scandals",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "very good",
+        "a3": "that is not a question",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "that is not a question",
+        "a3_v2": "that is not a question",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "when was real madrid founded \\?",
+        "a4": "1902",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "@founded_on",
+        "corr_rel4": "founded on",
+        "obj4": "1902",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "i agree that it was founded in that year and since then it was a golden age",
+        "a5": "are we still talking about real madrid \\?",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "are we still talking about @entity \\?",
+        "a5_v2": "are we still talking about real madrid \\?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "white and red"
+    }
+]

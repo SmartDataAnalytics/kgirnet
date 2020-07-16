@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "italy plays the world cup \\?",
+        "a1": "italy did not participate in 2018 , but they have a new chance to qualify for 2022",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity did not participate in @object , but they have a new chance to qualify for @object",
+        "a1_v2": "italy did not participate in 2018 , but they have a new chance to qualify for 2022",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "how many times italy won the wc \\?",
+        "a2": "italy have won the wc 4 times the last time in 2006",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity have won the wc @object times the last time in @object",
+        "a2_v2": "@entity have won the wc @world_cup_champions times the last time in @world_cup_champions",
+        "corr_rel2": "number of world cup champion",
+        "obj2": "4",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "do you think they will win the world cup when their time comes \\?",
+        "a3": "we will see",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "we will see",
+        "a3_v2": "we will see",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "when do you think that might be \\?",
+        "a4": "maybe 2026",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "maybe @object",
+        "a4_v2": "maybe 2026",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "do you think italy will qualify for the next european championships \\?",
+        "a5": "i do n't think so , they play quite poorly",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i do n't think so , they play quite poorly",
+        "a5_v2": "i do n't think so , they play quite poorly",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "italy"
+    }
+]

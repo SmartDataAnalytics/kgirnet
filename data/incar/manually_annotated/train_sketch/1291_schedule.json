@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "what day do i need to take my medicine and who will be there",
+        "a1": "your aunt will be there on tuesday at 10am when you take medicine",
+        "input_rel1": "time,date",
+        "corr_rel1": "time",
+        "obj1": "10am,aunt",
+        "input_ent1": "medicine",
+        "kvr_entlist_qa1": [
+            "aunt",
+            "10am",
+            "tuesday"
+        ]
+    },
+    {
+        "q2": "okay perfect",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "navigate to the nearest starbucks",
+        "a1": "the nearest starbucks is 6_miles away at 792_bedoin_street the traffic is currently clear",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "distance, address",
+        "obj1": "6_miles,792_bedoin_street",
+        "input_ent1": "starbucks",
+        "kvr_entlist_qa1": [
+            "6_miles",
+            "792_bedoin_street",
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "thanks so much",
+        "a2": "you re welcome glad i could help",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

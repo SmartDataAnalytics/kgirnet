@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "my favorite team ",
+        "a1": "yes, belgium is my favorite team too.",
+        "kgER1": {},
+        "a1_skt": "yes, @entity is my favorite team too.",
+        "a1_v2": "yes, belgium is my favorite team too.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "belgium have appeared in the finals tournament of the fifa world cup on 13 occasions, the first being at the first fifa world cup in 1930.",
+        "a2": "they did really well at the world cup to get to the semi-finals. hazard is my favorite player. ",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "they did really well at the world cup to get to the semi-finals. hazard is my favorite player. ",
+        "a2_v2": "they did really well at the world cup to get to the semi-finals. hazard is my favorite player. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "13 (first in 1930)"
+    },
+    {
+        "q3": "how will they do in the euros? ",
+        "a3": "i think they will go to at least the quarters ",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "i think they will go to at least the quarters ",
+        "a3_v2": "i think they will go to at least the quarters ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "belgium flag is what color ?",
+        "a4": "red and yellow are the colors of belgica",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "@object and @object are the colors of belgica",
+        "a4_v2": "red and yellow are the colors of belgica",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "belgium"
+    },
+    {
+        "q5": "who is romelu lukaku?",
+        "a5": "when was the last time they won the world cup?",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "romelu lukaku": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a5_skt": "when was the last time they won the world cup?",
+        "a5_v2": "when was the last time they won the world cup?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "romelu lukaku"
+    }
+]

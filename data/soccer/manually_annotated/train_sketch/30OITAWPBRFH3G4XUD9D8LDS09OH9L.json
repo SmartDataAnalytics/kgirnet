@@ -1,0 +1,107 @@
+[
+    {
+        "q1": "soccer is cool",
+        "a1": "soccer is the number one sport in the world. all over the world kids want to play soccer professionally. when making it pro lots of players get paid very well.",
+        "kgER1": {},
+        "a1_skt": "soccer is the number one sport in the world. all over the world kids want to play soccer professionally. when making it pro lots of players get paid very well.",
+        "a1_v2": "soccer is the number one sport in the world. all over the world kids want to play soccer professionally. when making it pro lots of players get paid very well.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "how many players does germany have that were not raised in germany? ",
+        "a2": "under23",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "under23",
+        "a2_v2": "under23",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "germany"
+    },
+    {
+        "q3": "what colors are germany's uniforms",
+        "a3": "black predominately is german's color.",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "black predominately is german's color.",
+        "a3_v2": "black predominately is german's color.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "germany"
+    },
+    {
+        "q4": "can you buy a german strip in the uk? ",
+        "a4": "black is not the predominant one of germany, it is white",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "black is not the predominant one of @entity it is @object",
+        "a4_v2": "black is not the predominant one of germany, it is white",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "emre can"
+    },
+    {
+        "q5": "for me the white color i like more",
+        "a5": "why don't they base the uniform off the german flag?",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "white": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "why don't they base the uniform off the @entity flag?",
+        "a5_v2": "why don't they base the uniform off the german flag?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "white"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "q1": "how many world cups has colombia won?",
+        "a1": "0",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "0",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "colombia"
+    },
+    {
+        "q2": "why do you think colombia has not won any world cups",
+        "a2": "due to lack of discipline whenever they qualify from the round of 16.",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "due to lack of discipline whenever they qualify from the @relation of @object",
+        "a2_v2": "due to lack of discipline whenever they qualify from the round of 16.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "colombia"
+    }
+]

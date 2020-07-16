@@ -1,0 +1,17 @@
+[
+    {
+        "q1": "what time is my tennis match and who is it with",
+        "a1": "saturday at 4pm with your brother and 1pm with your aunt",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "time,party",
+        "obj1": "4pm,brother,aunt,1pm",
+        "input_ent1": "tennis_activity",
+        "kvr_entlist_qa1": [
+            "brother",
+            "4pm",
+            "aunt",
+            "saturday",
+            "1pm"
+        ]
+    }
+]

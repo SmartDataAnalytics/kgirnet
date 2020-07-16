@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i like the team france",
+        "a1": "mbappe is my favorite player in france. he played well during the world cup!",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "mbappe is my favorite player in @entity he played well during the world cup!",
+        "a1_v2": "mbappe is my favorite player in france. he played well during the world cup!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "france"
+    },
+    {
+        "q2": "what about france?",
+        "a2": "excellent juice in all world cup matches and help win the cup",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "excellent juice in all world cup matches and help win the cup",
+        "a2_v2": "excellent juice in all world cup matches and help win the cup",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "france"
+    },
+    {
+        "q3": "they did not win ",
+        "a3": "they won the world cup!",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they won the world cup!",
+        "a3_v2": "they won the world cup!",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "i agree with this, they were the best they had a great performance to win the world cup",
+        "a4": "i wonder if they will do it again in 2022, what do you think?",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i wonder if they will do it again in 2022, what do you think?",
+        "a4_v2": "i wonder if they will do it again in 2022, what do you think?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "that's just impossible for me to answer. so much can happen in 4 years!",
+        "a5": "if it's true, anything can happen",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "if it's true, anything can happen",
+        "a5_v2": "if it's true, anything can happen",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "emre can"
+    }
+]

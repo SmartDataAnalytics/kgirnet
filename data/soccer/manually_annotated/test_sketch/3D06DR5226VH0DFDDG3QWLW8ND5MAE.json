@@ -1,0 +1,88 @@
+[
+    {
+        "q1": "what is the name of your goalie?",
+        "a1": "have no idea.",
+        "kgER1": {},
+        "a1_skt": "have no idea.",
+        "a1_v2": "have no idea.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "isn't it danijel suba\u0161i\u0107?",
+        "a2": "yes!",
+        "kgER2": {},
+        "a2_skt": "yes!",
+        "a2_v2": "yes!",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "he is a great goalkeeper",
+        "a3": "yes, he is a goal keeper. ",
+        "kgER3": {
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "yes, he is a @relation ",
+        "a3_v2": "yes, he is a goal keeper. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "goalkeeper"
+    },
+    {
+        "q4": "i think he is the best goalkeeper in the history of croatia",
+        "a4": "how many saves has he made?",
+        "kgER4": {
+            "goalkeeper": [
+                "position"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "how many saves has he made?",
+        "a4_v2": "how many saves has he made?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "goalkeeper"
+    },
+    {
+        "q5": "croatia has the bestpp layers",
+        "a5": "most of croatia's players are excellent! ",
+        "kgER5": {
+            "goalkeeper": [
+                "position"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "most of croatia's players are excellent! ",
+        "a5_v2": "most of croatia's players are excellent! ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "croatia"
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "q1": "i like the team atletico madrid",
+        "a1": "my too but my favorite spanish team is barca",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "my too but my favorite spanish team is barca",
+        "a1_v2": "my too but my favorite spanish team is barca",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "who is better--atletico madrid or barca?",
+        "a2": "atletico madrid is a good team.however, barca is better than atletico madrid.",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@entity is a good team.however, barca is better than @entity.",
+        "a2_v2": "atletico madrid is a good team.however, barca is better than atletico madrid.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "atletico madrid"
+    },
+    {
+        "q3": "my team is the barcelona sinpre it will be",
+        "a3": "i also think barcelona is a better team.",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i also think @entity is a better team.",
+        "a3_v2": "i also think barcelona is a better team.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "barcelona"
+    },
+    {
+        "q4": "why do you think barcelona is a better team than milan?",
+        "a4": "barcelona seems to have a better coach in my opinion.",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity seems to have a better @relation in my opinion.",
+        "a4_v2": "barcelona seems to have a better coach in my opinion.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "who is barcelona's coach?",
+        "a5": "ernesto valverde is the current coach.",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is the current @relation",
+        "a5_v2": "ernesto valverde is the current coach.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "barcelona"
+    }
+]

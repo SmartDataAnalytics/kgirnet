@@ -1,0 +1,27 @@
+[
+    {
+        "q1": "will it be warm in new_york today and tomorrow",
+        "a1": "today and tomorrow in new_york will be warm the lows will be 50f and 60f the highs will be in the 70s",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "thursday, friday",
+        "obj1": "warm,70f,60f",
+        "input_ent1": "new_york",
+        "kvr_entlist_qa1": [
+            "warm",
+            "new_york",
+            "60f",
+            "today",
+            "tomorrow",
+            "50f"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "anytime",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

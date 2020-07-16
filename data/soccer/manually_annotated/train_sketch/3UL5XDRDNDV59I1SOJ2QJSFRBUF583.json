@@ -1,0 +1,82 @@
+[
+    {
+        "q1": "how many players are on the field for a team at one time?",
+        "a1": "11",
+        "kgER1": {},
+        "a1_skt": "@object",
+        "a1_v2": "11",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "how many of them can actually kick a ball?",
+        "a2": "ac milan has a strong team. all 11 of them are skilled with the ball.",
+        "kgER2": {},
+        "a2_skt": "ac milan has a strong team. all @object of them are skilled with the ball.",
+        "a2_v2": "ac milan has a strong team. all 11 of them are skilled with the ball.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "which league does ac milan play in?",
+        "a3": "they play in seria a ",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they play in seria a ",
+        "a3_v2": "they play in seria a ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ac milan"
+    },
+    {
+        "q4": "who is the coach for ac milan?",
+        "a4": "gennaro gattuso",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "@coach",
+        "corr_rel4": "coach",
+        "obj4": "gennaro gattuso",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "can you name a forward from ac milan?",
+        "a5": "suso",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a5_skt": "suso",
+        "a5_v2": "suso",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ac milan"
+    }
+]

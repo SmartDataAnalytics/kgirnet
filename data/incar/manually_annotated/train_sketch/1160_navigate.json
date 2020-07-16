@@ -1,0 +1,46 @@
+[
+    {
+        "q1": "give me directions to some nearby hotels",
+        "a1": "we re 6_miles away from the_clement_hotel send you its address on screen",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address,distance",
+        "corr_rel1": "poi,distance",
+        "obj1": "the_clement_hotel,6_miles",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "6_miles",
+            "the_clement_hotel"
+        ]
+    },
+    {
+        "q2": "yes please",
+        "a2": "the_clement_hotel is located at 657_ames_ave",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "rest_stop",
+        "kvr_entlist_qa2": [
+            "657_ames_ave",
+            "the_clement_hotel"
+        ]
+    },
+    {
+        "q3": "set the navigation please",
+        "a3": "gps set for the_clement_hotel",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel3": "",
+        "obj3": "none",
+        "input_ent3": "rest_stop",
+        "kvr_entlist_qa3": [
+            "the_clement_hotel"
+        ]
+    },
+    {
+        "q4": "please select the quickest route",
+        "a4": "i sent you the info with the quickest route on screen drive carefully",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

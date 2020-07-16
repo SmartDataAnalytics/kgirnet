@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "quickest route home",
+        "a1": "there is moderate_traffic on our way but we re just 4_miles away from home i sent the route on your screen",
+        "input_rel1": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel1": "distance, poi",
+        "obj1": "4_miles, moderate_traffic",
+        "input_ent1": "home",
+        "kvr_entlist_qa1": [
+            "moderate_traffic",
+            "4_miles",
+            "home"
+        ]
+    },
+    {
+        "q2": "thank you car",
+        "a2": "you re welcome drive carefully",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

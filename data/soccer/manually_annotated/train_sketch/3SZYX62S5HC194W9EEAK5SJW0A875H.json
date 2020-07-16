@@ -1,0 +1,118 @@
+[
+    {
+        "q1": "is diego simeone still the manager of atletico madrid?",
+        "a1": "yes he is",
+        "kgER1": {
+            "diego simeone": [
+                "coach"
+            ],
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes he is",
+        "a1_v2": "yes he is",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "what is position called for the person who protects the goal?",
+        "a2": "the goalie",
+        "kgER2": {
+            "diego simeone": [
+                "coach"
+            ],
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "@goalkeeper",
+        "corr_rel2": "position",
+        "obj2": "goalkeeper",
+        "input_ent2": "jan oblak"
+    },
+    {
+        "q3": "who is the goalie of the atletico madrid team?",
+        "a3": "jan oblak.",
+        "kgER3": {
+            "diego simeone": [
+                "coach"
+            ],
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "jan oblak.",
+        "a3_v2": "jan oblak.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "atletico madrid"
+    },
+    {
+        "q4": "which team(s) is considered atletico madrid's biggest rival?",
+        "a4": "real madrid.",
+        "kgER4": {
+            "diego simeone": [
+                "coach"
+            ],
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "@entity",
+        "a4_v2": "real madrid.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "atletico madrid"
+    },
+    {
+        "q5": "any rising stars on the atletico madrid team?",
+        "a5": "there are a lot.",
+        "kgER5": {
+            "diego simeone": [
+                "coach"
+            ],
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "there are a lot.",
+        "a5_v2": "there are a lot.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "atletico madrid"
+    }
+]

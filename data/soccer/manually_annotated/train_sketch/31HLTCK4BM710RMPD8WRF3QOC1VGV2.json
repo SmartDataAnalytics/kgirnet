@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "will belgium ever win the world cup? ",
+        "a1": "no",
+        "kgER1": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "no",
+        "a1_v2": "no",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "belgium"
+    },
+    {
+        "q2": "who is the best player on belgium team?",
+        "a2": "if i think a world cup wins",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "if i think a @relation",
+        "a2_v2": "if i think a world cup wins",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "belgium"
+    },
+    {
+        "q3": "they have some talent and with players like lukaku i think they could win a cup",
+        "a3": "and eden hazard, he's great too.",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "and @object he's great too.",
+        "a3_v2": "and eden hazard, he's great too.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "romelu lukaku"
+    },
+    {
+        "q4": "who are the up and comers?",
+        "a4": "they have a lot of young stars",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they have a lot of young stars",
+        "a4_v2": "they have a lot of young stars",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "white and red"
+    },
+    {
+        "q5": "will any of them go into coaching after their career?",
+        "a5": "not likely with their skill level lol.",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "not likely with their skill level lol.",
+        "a5_v2": "not likely with their skill level lol.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "q1": "will mohamed salah have another great season for liverpool?",
+        "a1": "i see no reason why not - he's doing brilliantly at the moment. ",
+        "kgER1": {
+            "mohamed salah": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i see no reason why not - he's doing brilliantly at the moment. ",
+        "a1_v2": "i see no reason why not - he's doing brilliantly at the moment. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "mohamed salah"
+    },
+    {
+        "q2": "who is the goalkeeper of liverpool",
+        "a2": "allison becker",
+        "kgER2": {
+            "mohamed salah": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a2_skt": "allison becker",
+        "a2_v2": "allison becker",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "goalkeeper"
+    },
+    {
+        "q3": "are liverpool the best team in the north of england? ",
+        "a3": "according to the sun news they are",
+        "kgER3": {
+            "mohamed salah": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "according to the sun news they are",
+        "a3_v2": "according to the sun news they are",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "what were liverpool's standing in the 2017-2018 season?",
+        "a4": "the liverpool was in 4th position ",
+        "kgER4": {
+            "mohamed salah": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "the @entity was in 4th @relation ",
+        "a4_v2": "the liverpool was in 4th position ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "2018"
+    }
+]

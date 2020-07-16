@@ -1,0 +1,189 @@
+[
+    {
+        "q1": "has argentina ever won a world cup?",
+        "a1": "argentina has won the world cup in 1978 and 1986. ",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity has won the world cup in @object and @object ",
+        "a1_v2": "@entity has won the world cup in @world_cup_champions and @world_cup_champions ",
+        "corr_rel1": "world cup champions",
+        "obj1": "1978",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "does lionel messi seem to even care how well argentina does?",
+        "a2": "he cares substantially. he carried argentina to the world cup finals in 2014, only to narrowly lose to germany.",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "he cares substantially. he carried @entity to the @relation in @object only to narrowly lose to @entity",
+        "a2_v2": "he cares substantially. he carried argentina to the world cup finals in 2014, only to narrowly lose to germany.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "lionel messi"
+    },
+    {
+        "q3": "q6: what about the skills of argentina next season? a6: not sure, lets chat next week",
+        "a3": "ok i think argentina will come with new plan to win the game",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "ok i think @entity will come with new plan to win the game",
+        "a3_v2": "ok i think argentina will come with new plan to win the game",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "argentina"
+    },
+    {
+        "q4": "i don't think so because of the way they played in the last world cup.",
+        "a4": "but this time the team will won the cup",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "but this time the team will won the cup",
+        "a4_v2": "but this time the team will won the cup",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "do you think argentina can succeed without messi?",
+        "a5": "yeah argentina can get over that adversity! ",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "yeah @entity can get over that adversity! ",
+        "a5_v2": "yeah argentina can get over that adversity! ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "argentina"
+    },
+    {
+        "q6": "i think so too. i guess we will see",
+        "a6": "will renaldo be key to argentina's season?",
+        "kgER6": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a6_skt": "will renaldo be key to @entity season?",
+        "a6_v2": "will renaldo be key to argentina's season?",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "andres guardado"
+    }
+]

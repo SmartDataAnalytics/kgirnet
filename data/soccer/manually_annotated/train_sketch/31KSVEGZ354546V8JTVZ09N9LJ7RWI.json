@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is the belgian coach?",
+        "a1": "roberto mart\u00ednez",
+        "kgER1": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@coach",
+        "corr_rel1": "coach",
+        "obj1": "roberto martinez",
+        "input_ent1": "belgium"
+    },
+    {
+        "q2": "what brand is the belgian coach or travel bus?",
+        "a2": "where is belgium coach from? spain",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "where is @entity @relation from? @entity",
+        "a2_v2": "where is belgium coach from? spain",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what nfl team once had bob hope, henry mancini, maureen reagan and danny thomas on its advisory board? a: the los angeles rams",
+        "a3": "belgium soccer has nothing to do with the nfl.",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity soccer has nothing to do with the nfl.",
+        "a3_v2": "belgium soccer has nothing to do with the nfl.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "roberto mancini"
+    },
+    {
+        "q4": "belgium is a soccer team the rams are an american football league. two different sports. ",
+        "a4": "what is the main soccer league in belgium?",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "what is the main soccer league in @entity",
+        "a4_v2": "what is the main soccer league in belgium?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "belgium"
+    },
+    {
+        "q5": "how many clubs paly in belgium?",
+        "a5": "there are 16 teams in the top division.",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "there are @object teams in the top division.",
+        "a5_v2": "there are 16 teams in the top division.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "belgium"
+    }
+]

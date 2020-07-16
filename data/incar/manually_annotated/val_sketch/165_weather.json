@@ -1,0 +1,42 @@
+[
+    {
+        "q1": "what is the forecast for the city this week",
+        "a1": "which city do you want the weather forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "inglewood",
+        "a2": "in inglewood it will be frosty on monday overcast on tuesday raining on wednesday foggy on thursday drizzle on friday and saturday dry on sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "frosty,foggy,drizzle,dry",
+        "input_ent2": "inglewood",
+        "kvr_entlist_qa2": [
+            "saturday",
+            "monday",
+            "sunday",
+            "tuesday",
+            "overcast",
+            "wednesday",
+            "inglewood",
+            "foggy",
+            "friday",
+            "drizzle",
+            "dry",
+            "thursday"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

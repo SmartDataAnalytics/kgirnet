@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "i love the team mexico",
+        "a1": "mexico is due a win.",
+        "kgER1": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity is due a win.",
+        "a1_v2": "mexico is due a win.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "mexico"
+    },
+    {
+        "q2": "when were they founded?",
+        "a2": "they started playing international games in the early 20th century. ",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they started playing international games in the early 20th century. ",
+        "a2_v2": "they started playing international games in the early 20th century. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is mexico's best active player?",
+        "a3": "hugo s\u00e1nchez is one of the best soccer players in mexico in the history of the marca claro special.",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "hugo s\u00e1nchez is one of the best soccer players in @entity in the history of the marca claro special.",
+        "a3_v2": "hugo s\u00e1nchez is one of the best soccer players in mexico in the history of the marca claro special.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mexico"
+    },
+    {
+        "q4": "who is mexicos current manager?",
+        "a4": "nobody is occupying that position",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "nobody is occupying that @relation",
+        "a4_v2": "nobody is occupying that position",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "there is a coach in sight?",
+        "a5": "i think the mexican association is still looking for a good coach.",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think the mexican association is still looking for a good @relation",
+        "a5_v2": "i think the mexican association is still looking for a good coach.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

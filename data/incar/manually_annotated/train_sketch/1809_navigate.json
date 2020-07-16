@@ -1,0 +1,23 @@
+[
+    {
+        "q1": "get directions to the nearest parking_garage",
+        "a1": "the nearest parking_garage is at 481_amaranta_ave",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel1": "address",
+        "obj1": "481_amaranta_ave",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "parking_garage",
+            "481_amaranta_ave"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "glad i can assist",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

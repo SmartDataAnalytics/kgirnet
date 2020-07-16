@@ -1,0 +1,167 @@
+[
+    {
+        "q1": "will iceland ever make it to the world cup again?",
+        "a1": " if you try more and improve your strategies i think you can achieve",
+        "kgER1": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": " if you try more and improve your strategies i think you can achieve",
+        "a1_v2": " if you try more and improve your strategies i think you can achieve",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "iceland"
+    },
+    {
+        "q2": "does iceland have the colors of blue and white?",
+        "a2": "yes that is the colors.",
+        "kgER2": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "white": [
+                "jersey color"
+            ],
+            "blue": [
+                "jersey color"
+            ],
+            "blue and white": [
+                "home jersey"
+            ]
+        },
+        "a2_skt": "yes that is the colors.",
+        "a2_v2": "yes that is the colors.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "blue and white"
+    },
+    {
+        "q3": "hannes \u00fe\u00f3r halld\u00f3rsson",
+        "a3": "hannes \u00fe\u00f3r halld\u00f3rsson is a good goalkeeper of iceland team",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "white": [
+                "jersey color"
+            ],
+            "blue": [
+                "jersey color"
+            ],
+            "blue and white": [
+                "home jersey"
+            ]
+        },
+        "a3_skt": "@object is a good @relation of @entity team",
+        "a3_v2": "hannes \u00fe\u00f3r halld\u00f3rsson is a good goalkeeper of iceland team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "hannes thor halldorsson"
+    },
+    {
+        "q4": "how many colors in iceland flag?",
+        "a4": "at least two",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "white": [
+                "jersey color"
+            ],
+            "blue": [
+                "jersey color"
+            ],
+            "blue and white": [
+                "home jersey"
+            ]
+        },
+        "a4_skt": "at least two",
+        "a4_v2": "at least two",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "iceland"
+    },
+    {
+        "q5": "name the goalkeeper who save lionel messi penalty?",
+        "a5": "hannes thor halldorsson is the goalkeeper to save the lionel messi penalty",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "white": [
+                "jersey color"
+            ],
+            "blue": [
+                "jersey color"
+            ],
+            "blue and white": [
+                "home jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object is the @relation to save the @object penalty",
+        "a5_v2": "hannes thor halldorsson is the goalkeeper to save the lionel messi penalty",
+        "corr_rel5": "goalkeeper",
+        "obj5": "hannes thor halldorsson",
+        "input_ent5": "iceland"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "q1": "what is the color of their jersey? ",
+        "a1": "atl\u00e9tico's home kit is red and white.",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "atl\u00e9tico's home kit is @object",
+        "a1_v2": "atletico's home kit is @jersey_color .",
+        "corr_rel1": "jersey color",
+        "obj1": "red and white",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "why are they in white?",
+        "a2": "if im not mistaken either a home or visitor jersey is always white to prevent same color uni's on game day",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "white": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "if im not mistaken either a home or visitor jersey is always @object to prevent same color uni's on game day",
+        "a2_v2": "if im not mistaken either a home or visitor jersey is always white to prevent same color uni's on game day",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "white"
+    },
+    {
+        "q3": "which uniforms do they where when not playing at home?",
+        "a3": "the light blue one with red text.",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "white": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "the light @object one with @object text.",
+        "a3_v2": "the light blue one with red text.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "do you like the colors?",
+        "a4": "they have a great attractive color jersey",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "white": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "they have a great attractive color jersey",
+        "a4_v2": "they have a great attractive color jersey",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    }
+]

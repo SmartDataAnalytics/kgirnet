@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "will manchester united qualify for champions league?",
+        "a1": "i dont think so, they need more good players",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i dont think so, they need more good players",
+        "a1_v2": "i dont think so, they need more good players",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "who is the coach of man united?",
+        "a2": "jose mourinho",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "@coach",
+        "corr_rel2": "coach",
+        "obj2": "jose mourinho",
+        "input_ent2": "manchester united"
+    },
+    {
+        "q3": "how many belgian players are in manchester united's first team?",
+        "a3": "there are 5 belgian manchester united players.",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "there are @object belgian @entity players.",
+        "a3_v2": "there are 5 belgian manchester united players.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "manchester united"
+    },
+    {
+        "q4": "do you think they should have more players?",
+        "a4": "i think they should",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i think they should",
+        "a4_v2": "i think they should",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "united need better players not more players",
+        "a5": "agarran tiempo para salir jjuagando manchester united ",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "agarran tiempo para salir jjuagando @entity ",
+        "a5_v2": "agarran tiempo para salir jjuagando manchester united ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "manchester united"
+    }
+]

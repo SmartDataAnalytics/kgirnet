@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "what is the weather going to be like tomorrow show me the 7 day forecast",
+        "a1": "what city are you interested in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "fresno there will be hail tomorrow",
+        "a2": "tomorrow in fresno it will rain",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday",
+        "obj2": "rain",
+        "input_ent2": "fresno",
+        "kvr_entlist_qa2": [
+            "fresno",
+            "rain",
+            "tomorrow"
+        ]
+    },
+    {
+        "q3": "so no hail tomorrow in fresno",
+        "a3": "no hail in fresno tomorrow there will be rain",
+        "input_rel3": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel3": "tuesday",
+        "obj3": "rain",
+        "input_ent3": "fresno",
+        "kvr_entlist_qa3": [
+            "fresno",
+            "hail",
+            "rain",
+            "tomorrow"
+        ]
+    },
+    {
+        "q4": "thanks",
+        "a4": "until next time",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

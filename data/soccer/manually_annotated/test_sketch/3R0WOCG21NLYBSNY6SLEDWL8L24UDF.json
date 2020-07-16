@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "will italy qualify for world cup in 2022?",
+        "a1": "very good team",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "is there a reason they wouldn't?",
+        "a2": "yes, here's the reason. they didn't qualify in 2018, although this was the first time since 1958. anything can happen in sports!",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes, here's the reason. they didn't qualify in @object although this was the first time since @object anything can happen in sports!",
+        "a2_v2": "yes, here's the reason. they didn't qualify in 2018, although this was the first time since 1958. anything can happen in sports!",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "i think italy has a good chance if they keep working on strategy.",
+        "a3": " is 4 times world champion if good players can be classified",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": " is @object times @relation if good players can be classified",
+        "a3_v2": " is 4 times world champion if good players can be classified",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "italy"
+    },
+    {
+        "q4": "location of italy (dark green). \u2013 in europe \u2013 in the european union (light green) \u2013 [legend]. capital and largest city, rome \u00b7 41\u00b054\u2032n 12\u00b029\u2032e\ufeff / \ufeff41.900\u00b0n ... ",
+        "a4": "they should they have fancy footwork",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they should they have fancy footwork",
+        "a4_v2": "they should they have fancy footwork",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "italy"
+    },
+    {
+        "q5": "if it's a great team, we'll see it in qatar",
+        "a5": "they will have to work on improving to qualify.",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they will have to work on improving to qualify.",
+        "a5_v2": "they will have to work on improving to qualify.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

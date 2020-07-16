@@ -1,0 +1,166 @@
+[
+    {
+        "q1": "does croatia have any players playing for real madrid?",
+        "a1": "very good team",
+        "kgER1": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "yes croatia has modrid with madrid.",
+        "a2": "what do you think of croatia's recent form? ",
+        "kgER2": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "what do you think of croatia's recent form? ",
+        "a2_v2": "what do you think of croatia's recent form? ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "croatia"
+    },
+    {
+        "q3": " what division 1-a football team's fans cheer for the yellow jackets? a: georgia tech's",
+        "a3": "who is croatia's goalie?",
+        "kgER3": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "who is croatia's goalie?",
+        "a3_v2": "who is croatia's goalie?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "yellow"
+    },
+    {
+        "q4": "danijel suba\u0161i\u0107",
+        "a4": "danijel suba\u0161i\u0107 is the gk for croatia.",
+        "kgER4": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "danijel suba\u0161i\u0107 is the gk for @entity",
+        "a4_v2": "danijel suba\u0161i\u0107 is the gk for croatia.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "where does danijel suba\u0161i\u0107 play his club football?",
+        "a5": "he plays for monaco in france. ",
+        "kgER5": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "he plays for monaco in @entity ",
+        "a5_v2": "he plays for monaco in france. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "q1": "how many appearances did lionel messi for argentina?",
+        "a1": "about 29",
+        "kgER1": {
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "about @object",
+        "a1_v2": "about 29",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "lionel messi"
+    },
+    {
+        "q2": "who is argentinas all time top scorer?",
+        "a2": "lionel messi",
+        "kgER2": {
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "lionel messi",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is the best argentinian, maradona or messi?",
+        "a3": "i am going to say messi ",
+        "kgER3": {
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i am going to say messi ",
+        "a3_v2": "i am going to say messi ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "lionel messi"
+    },
+    {
+        "q4": "what color are their shirts?",
+        "a4": "blue and red with which the",
+        "kgER4": {
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object and @object with which the",
+        "a4_v2": "blue and red with which the",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "flame orange color scheme"
+    },
+    {
+        "q5": "why does aguero play so bad for argentina?",
+        "a5": "he doesn't play badly it is just that international football is harder than club football",
+        "kgER5": {
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "he doesn't play badly it is just that international football is harder than club football",
+        "a5_v2": "he doesn't play badly it is just that international football is harder than club football",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "argentina"
+    }
+]

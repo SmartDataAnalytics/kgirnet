@@ -1,0 +1,32 @@
+[
+    {
+        "q1": "what s the weather going to be like in the city on thursday",
+        "a1": "in what city are you inquiring",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i need the weather for thursday i am in seattle",
+        "a2": "in seattle it will be raining on thursday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "thursday",
+        "obj2": "rain",
+        "input_ent2": "seattle",
+        "kvr_entlist_qa2": [
+            "thursday",
+            "seattle"
+        ]
+    },
+    {
+        "q3": "okay thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

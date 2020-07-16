@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "take me to the parking_garage closest to my destination",
+        "a1": "the closest parking_garage is palo_alto_garage_r which is only 2_miles away but there is a road block in the area",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "palo_alto_garage_r",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "parking_garage",
+            "2_miles",
+            "palo_alto_garage_r"
+        ]
+    },
+    {
+        "q2": "uhh ok well i still need to park so what s the address",
+        "a2": "setting navigation now to 481_amaranta_ave",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "address",
+        "obj2": "481_amaranta_ave",
+        "input_ent2": "palo_alto_garage_r",
+        "kvr_entlist_qa2": [
+            "481_amaranta_ave"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "your welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

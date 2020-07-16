@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "how many english players play on arsenal?",
+        "a1": "5 or 6 i guess",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object or @object i guess",
+        "a1_v2": "5 or 6 i guess",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "what image is on the arsenal logo?",
+        "a2": "cannon",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "cannon",
+        "a2_v2": "cannon",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "arsenal"
+    },
+    {
+        "q3": "what are the arsenal colors?",
+        "a3": "the club colors are white and red.",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "the club colors are @object and @object",
+        "a3_v2": "the club colors are white and red.",
+        "corr_rel3": "jersey color",
+        "obj3": "white and red",
+        "input_ent3": "arsenal"
+    },
+    {
+        "q4": "what stadium did arsenal used to play at?",
+        "a4": "they played at highbury before they moved to the emirates stadium.",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "they played at highbury before they moved to the @object",
+        "a4_v2": "they played at highbury before they moved to the emirates stadium.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "arsenal"
+    },
+    {
+        "q5": "who owns arsenal?",
+        "a5": "i don't know, but it is a really old club in england.",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i don't know, but it is a really old club in england.",
+        "a5_v2": "i don't know, but it is a really old club in england.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "arsenal"
+    }
+]

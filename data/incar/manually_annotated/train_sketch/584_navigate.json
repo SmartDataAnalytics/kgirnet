@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "where is there chinese food",
+        "a1": "i have a chinese_restaurant that is 5_miles away named jing_jing need more info",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "jing_jing",
+        "input_ent1": "chinese_restaurant",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "chinese_restaurant",
+            "jing_jing"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "jing_jing is at 113_arbol_dr",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "113_arbol_dr",
+        "input_ent2": "jing_jing",
+        "kvr_entlist_qa2": [
+            "113_arbol_dr",
+            "jing_jing"
+        ]
+    },
+    {
+        "q3": "pick a route to avoid all heavy_traffic and let s go there thank you",
+        "a3": "setting gps for quickest route with no_traffic now",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel3": "traffic_info",
+        "obj3": "no_traffic",
+        "input_ent3": "jing_jing",
+        "kvr_entlist_qa3": [
+            "no_traffic"
+        ]
+    },
+    {
+        "q4": "thank you car",
+        "a4": "anytime",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

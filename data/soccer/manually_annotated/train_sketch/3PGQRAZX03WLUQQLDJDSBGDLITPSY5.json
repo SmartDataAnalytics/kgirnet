@@ -1,0 +1,134 @@
+[
+    {
+        "q1": "could henderson show more leadership in his role as captain \\?",
+        "a1": "yes he can do much better for liverpool",
+        "kgER1": {
+            "jordan henderson": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "yes he can do much better for @entity",
+        "a1_v2": "yes he can do much better for liverpool",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "jordan henderson"
+    },
+    {
+        "q2": "do you want karius to stay in liverpool \\?",
+        "a2": "karius is a good back up goalkeeper , but too dodgy to have in goal full time at the highest level",
+        "kgER2": {
+            "jordan henderson": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "karius is a good back up @relation , but too dodgy to have in goal full time at the highest level",
+        "a2_v2": "karius is a good back up goalkeeper , but too dodgy to have in goal full time at the highest level",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "i agree i would n't mind karius to be a backup",
+        "a3": "who would you rather have in goal \\?",
+        "kgER3": {
+            "jordan henderson": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "who would you rather have in @relation \\?",
+        "a3_v2": "who would you rather have in goal \\?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "jordan pickford ! \\( take that everton \\)",
+        "a4": "i totally agree , i would prefer jordan pickford !",
+        "kgER4": {
+            "jordan henderson": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i totally agree , i would prefer jordan pickford !",
+        "a4_v2": "i totally agree , i would prefer jordan pickford !",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "jordan henderson"
+    },
+    {
+        "q5": "what is the liverpool soccer team 's home uniform colours \\?",
+        "a5": "their colours are red and white",
+        "kgER5": {
+            "jordan henderson": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "their colours are @object and @object",
+        "a5_v2": "their colours are red and white",
+        "corr_rel5": "jersey color",
+        "obj5": "red",
+        "input_ent5": "liverpool"
+    }
+]

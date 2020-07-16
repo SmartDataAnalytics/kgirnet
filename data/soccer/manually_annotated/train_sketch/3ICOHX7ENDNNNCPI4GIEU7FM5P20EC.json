@@ -1,0 +1,103 @@
+[
+    {
+        "q1": "how do you practice using your whole body and not just your feet and head?",
+        "a1": "it is important to use all your body parts to your advantage during a game, and be aware of strategies to make yourself as efficient as possible. one example is using your arms to gain momentum while running.",
+        "kgER1": {},
+        "a1_skt": "it is important to use all your body parts to your advantage during a game, and be aware of strategies to make yourself as efficient as possible. one example is using your arms to gain momentum while running.",
+        "a1_v2": "it is important to use all your body parts to your advantage during a game, and be aware of strategies to make yourself as efficient as possible. one example is using your arms to gain momentum while running.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "white and red"
+    },
+    {
+        "q2": "do you use any other body parts other than your arms?",
+        "a2": "yes, using your chest to control the ball would be something practiced in training.",
+        "kgER2": {},
+        "a2_skt": "yes, using your chest to control the ball would be something practiced in training.",
+        "a2_v2": "yes, using your chest to control the ball would be something practiced in training.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "barcelona or arsenal?",
+        "a3": "arsenal ",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@entity ",
+        "a3_v2": "arsenal ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "arsenal"
+    },
+    {
+        "q4": "why would you pick arsenal over barcelona?",
+        "a4": "i choose barcelona, because it would be the most appropriate and has the best players",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i choose @entity because it would be the most appropriate and has the best players",
+        "a4_v2": "i choose barcelona, because it would be the most appropriate and has the best players",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "arsenal"
+    },
+    {
+        "q5": "barcelona have some great history",
+        "a5": "yes they do. they have great footballer such as messi, pique, iniesta so much more.",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes they do. they have great footballer such as messi, pique, iniesta so much more.",
+        "a5_v2": "yes they do. they have great footballer such as messi, pique, iniesta so much more.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "barcelona"
+    }
+]

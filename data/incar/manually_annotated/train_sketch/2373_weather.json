@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "car what is the weather going to be like in the next several days",
+        "a1": "for what city would you like to know the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "san_francisco",
+        "a2": "what days are you interested in",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "san_francisco",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "tuesday please",
+        "a3": "it will rain in san_francisco on tuesday with temperatures ranging from 90f - 100f",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "100f",
+            "90f",
+            "tuesday",
+            "san_francisco",
+            "rain"
+        ]
+    },
+    {
+        "q4": "thanks",
+        "a4": "enjoy your day",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

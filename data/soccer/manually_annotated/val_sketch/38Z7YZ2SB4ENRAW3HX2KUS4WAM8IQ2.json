@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i love liverpool",
+        "a1": "how do you think they compare with manchester united? ",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "how do you think they compare with @entity ",
+        "a1_v2": "how do you think they compare with manchester united? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "i think liverpool are better attacking wise.",
+        "a2": "mohamed salah is a wild card",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object is a wild card",
+        "a2_v2": "mohamed salah is a wild card",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "what league does liverpool play in?",
+        "a3": "in england plays the liverpool",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "in england plays the @entity",
+        "a3_v2": "in england plays the liverpool",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "they should play but not intrested in liverpool",
+        "a4": "liverpool plays in the english premier league",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity plays in the english premier league",
+        "a4_v2": "liverpool plays in the english premier league",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    },
+    {
+        "q5": "liverpool look very coherent in the first game",
+        "a5": "liverpool play good match vs west ham",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@entity play good match vs west ham",
+        "a5_v2": "liverpool play good match vs west ham",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

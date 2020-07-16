@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "hey, have you ever heard of arsenal before?",
+        "a1": "yeah, aresenal football club is based in london.",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yeah, @entity football club is based in london.",
+        "a1_v2": "yeah, aresenal football club is based in london.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "no, i have not.",
+        "a2": "again, this not a question. people, please read the instructions, one question and one answer only!!",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "again, this not a question. people, please @object the instructions, one question and one answer only!!",
+        "a2_v2": "again, this not a question. people, please read the instructions, one question and one answer only!!",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what is arsenal s stadium called",
+        "a3": "emirates stadium",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "emirates stadium",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "arsenal"
+    },
+    {
+        "q4": "how many people can fit in there at once? ",
+        "a4": "i think 50,000 minimal.",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i think @object minimal.",
+        "a4_v2": "i think 50,000 minimal.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "emre can"
+    },
+    {
+        "q5": "who is the current manager?",
+        "a5": "unai emery is now their manager. ",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is now their manager. ",
+        "a5_v2": "@coach is now their manager. ",
+        "corr_rel5": "coach",
+        "obj5": "unai emery",
+        "input_ent5": "arsenal"
+    }
+]

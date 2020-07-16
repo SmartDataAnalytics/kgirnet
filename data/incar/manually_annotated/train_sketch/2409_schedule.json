@@ -1,0 +1,43 @@
+[
+    {
+        "q1": "what time is the swimming party and who is attending",
+        "a1": "you have three swimming_activity scheduled the one at 5pm is with your brother the other at 7pm is with alex and the one at 2pm is also with your brother would you like to know the dates as well",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "7pm",
+            "5pm",
+            "2pm",
+            "swimming_activity",
+            "brother",
+            "alex"
+        ]
+    },
+    {
+        "q2": "yes that would be helpful",
+        "a2": "the one at 2pm is on sunday the one at 7pm is on monday and the one at 5pm is on the_6th",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "7pm",
+            "monday",
+            "5pm",
+            "sunday",
+            "the_6th",
+            "2pm"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

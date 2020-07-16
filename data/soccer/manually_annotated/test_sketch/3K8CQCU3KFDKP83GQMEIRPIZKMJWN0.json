@@ -1,0 +1,142 @@
+[
+    {
+        "q1": "i love the team mexico",
+        "a1": "how many goals did they score in the world cup in total? ",
+        "kgER1": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "how many @relation did they score in the world cup in total? ",
+        "a1_v2": "how many goals did they score in the world cup in total? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "mexico"
+    },
+    {
+        "q2": "i'm not sure how many goals mexico scored.",
+        "a2": "how many wins did they have?",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "how many wins did they have?",
+        "a2_v2": "how many wins did they have?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "mexico"
+    },
+    {
+        "q3": "they won two games.",
+        "a3": "who do you think was the best player for mexico during the last world cup?",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "who do you think was the @relation for @entity during the last world cup?",
+        "a3_v2": "who do you think was the best player for mexico during the last world cup?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "mexico best was javier hernandez",
+        "a4": "it seems that javier hernandez was mexico's best player last year",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "javier hernandez": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "it seems that @object was mexico's @relation last year",
+        "a4_v2": "it seems that javier hernandez was mexico's best player last year",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "javier hernandez"
+    },
+    {
+        "q5": "who is there beast striker?",
+        "a5": "javier hern\u00e1ndez is their best striker.",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "javier hernandez": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "@object is their best striker.",
+        "a5_v2": "javier hern\u00e1ndez is their best striker.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

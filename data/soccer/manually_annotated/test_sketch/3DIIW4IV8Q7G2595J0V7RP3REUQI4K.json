@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i really love the team atletico madrid",
+        "a1": "atletico madrid is a newer team, but they have a lot of potential.",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity is a newer team, but they have a lot of potential.",
+        "a1_v2": "atletico madrid is a newer team, but they have a lot of potential.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "when was team atletico madrid created?",
+        "a2": "it was founded on the 26 april 1903",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "it was @relation on the @object april @object",
+        "a2_v2": "it was founded on the 26 april 1903",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "atletico madrid"
+    },
+    {
+        "q3": "who is the coach of atletico madrid?",
+        "a3": "diego simeone",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "@coach",
+        "corr_rel3": "coach",
+        "obj3": "diego simeone",
+        "input_ent3": "atletico madrid"
+    },
+    {
+        "q4": "who is number 10 of the atletico madrid",
+        "a4": "angel correa is number 10",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object is number @object",
+        "a4_v2": "angel correa is number 10",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "atletico madrid"
+    },
+    {
+        "q5": "what position does correa play?",
+        "a5": "he is the forward.",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "he is the @object",
+        "a5_v2": "he is the @position",
+        "corr_rel5": "position",
+        "obj5": "forward",
+        "input_ent5": "atletico madrid"
+    }
+]

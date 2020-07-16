@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i love atletico madrid",
+        "a1": "their next game is on the 15th of august !",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "their next game is on the 15th of august !",
+        "a1_v2": "their next game is on the 15th of august !",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "do you know about the foot ball \\? yes , little bit",
+        "a2": "i think altletico is a up and coming powerhouse in euro football",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i think altletico is a up and coming powerhouse in euro football",
+        "a2_v2": "i think altletico is a up and coming powerhouse in euro football",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "what are athleticos colours \\?",
+        "a3": "their colors are blue , red and white",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "their colors are @object , @object and @object",
+        "a3_v2": "their colors are blue , red and white",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what is atletico madric colors",
+        "a4": "they play in a blue , red and white strip",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "they play in a @object , @object and @object strip",
+        "a4_v2": "they play in a blue , red and white strip",
+        "corr_rel4": "jersey color",
+        "obj4": "red and white",
+        "input_ent4": "atletico madrid"
+    },
+    {
+        "q5": "some of my favorite colors , maybe i should check them out",
+        "a5": "they should change them",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "they should change them",
+        "a5_v2": "they should change them",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

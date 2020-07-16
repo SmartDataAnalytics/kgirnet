@@ -1,0 +1,61 @@
+[
+    {
+        "q1": "are there any chinese_restaurant nearby",
+        "a1": "we re 3_miles away from chef_chu_s and 6_miles away from mandarin_roots",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "mandarin_roots",
+        "input_ent1": "chinese_restaurant",
+        "kvr_entlist_qa1": [
+            "mandarin_roots",
+            "3_miles",
+            "6_miles",
+            "chef_chu_s"
+        ]
+    },
+    {
+        "q2": "which one has the fastest route",
+        "a2": "chef_chu_s is closer",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "chef_chu_s",
+        "input_ent2": "chinese_restaurant",
+        "kvr_entlist_qa2": [
+            "chef_chu_s"
+        ]
+    },
+    {
+        "q3": "what is the address",
+        "a3": "chef_chu_s is located at 593_arrowhead_way",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "593_arrowhead_way",
+        "input_ent3": "chef_chu_s",
+        "kvr_entlist_qa3": [
+            "593_arrowhead_way",
+            "chef_chu_s"
+        ]
+    },
+    {
+        "q4": "how long will it take to get there",
+        "a4": "chef_chu_s is 3_miles away through moderate_traffic",
+        "input_rel4": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel4": "distance",
+        "obj4": "3_miles",
+        "input_ent4": "chinese_restaurant",
+        "kvr_entlist_qa4": [
+            "3_miles",
+            "moderate_traffic",
+            "chef_chu_s"
+        ]
+    },
+    {
+        "q5": "thank you",
+        "a5": "you re welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

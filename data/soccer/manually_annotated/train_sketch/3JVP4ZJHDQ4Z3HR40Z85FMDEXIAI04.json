@@ -1,0 +1,106 @@
+[
+    {
+        "q1": "when was the last time uruguay entered into the world cup finals?",
+        "a1": "i think it may have been 1950, the year they last won it.",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a1_skt": "i think it may have been @object the year they last won it.",
+        "a1_v2": "i think it may have been @world_cup_champions the year they last won it.",
+        "corr_rel1": "world cup champions",
+        "obj1": "1950",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": " how they went in 2018, did they win?",
+        "a2": "no, they didn't. they lost to france in the quarter finals.",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "no, they didn't. they lost to @entity in the quarter finals.",
+        "a2_v2": "no, they didn't. they lost to france in the quarter finals.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2018"
+    },
+    {
+        "q3": "does cavani play?",
+        "a3": "not to the best of my knowledge",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "not to the best of my knowledge",
+        "a3_v2": "not to the best of my knowledge",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "edinson cavani"
+    },
+    {
+        "q4": "why doesn't cavani play anymore?",
+        "a4": "he does. not in that match though",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "he does. not in that match though",
+        "a4_v2": "he does. not in that match though",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "edinson cavani"
+    }
+]

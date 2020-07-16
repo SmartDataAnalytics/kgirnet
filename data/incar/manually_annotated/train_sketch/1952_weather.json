@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what s the weather like",
+        "a1": "what city do you want the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i need it for seattle",
+        "a2": "it is currently overcast with a low of 70f and a high of 90f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "70f,90f,overcast",
+        "input_ent2": "seattle",
+        "kvr_entlist_qa2": [
+            "70f",
+            "90f",
+            "overcast"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

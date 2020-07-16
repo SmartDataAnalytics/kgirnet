@@ -1,0 +1,121 @@
+[
+    {
+        "q1": "what year did real madrid win a champions league championship?",
+        "a1": "did they ever win one?",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "did they ever win one?",
+        "a1_v2": "did they ever win one?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "yes, they have won 13 times.",
+        "a2": "it is true, they have won 13 times this title consecutively ",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "it is true, they have won @object times this title consecutively ",
+        "a2_v2": "it is true, they have won 13 times this title consecutively ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "13 (first in 1930)"
+    },
+    {
+        "q3": "so, when did they last win a champions league championship?",
+        "a3": "they have won it the last 3 seasons.",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they have won it the last @object seasons.",
+        "a3_v2": "they have won it the last 3 seasons.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "do think real madrid is the best team in spain?",
+        "a4": " i do not think it's barcelona",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": " i do not think it's @entity",
+        "a4_v2": " i do not think it's barcelona",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "how fierce do you think the tension between the two teams are at this point?",
+        "a5": "the tension is very high, they are both very hungry teams seeking to win.",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "the tension is very high, they are both very hungry teams seeking to win.",
+        "a5_v2": "the tension is very high, they are both very hungry teams seeking to win.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "q1": "is the weather going to be dry in brentwood on wednesday",
+        "a1": "no the weather in brentwood will be hot on wednesday",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "wednesday",
+        "obj1": "hot",
+        "input_ent1": "brentwood",
+        "kvr_entlist_qa1": [
+            "brentwood",
+            "hot",
+            "wednesday"
+        ]
+    },
+    {
+        "q2": "ok but will there be rain or will it be dry",
+        "a2": "the weather forecast does not specifically say it will be dry in brentwood but it does state it will be hot the low will be 60f and the high will be 70f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "dry,hot,60f,70f",
+        "input_ent2": "brentwood",
+        "kvr_entlist_qa2": [
+            "70f",
+            "60f",
+            "brentwood",
+            "dry",
+            "hot"
+        ]
+    },
+    {
+        "q3": "awesome thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "great",
+        "a4": "happy to help",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

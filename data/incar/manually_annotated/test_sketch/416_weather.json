@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "is it supposed to snow today",
+        "a1": "where would you like to know if it will snow",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "snow"
+        ]
+    },
+    {
+        "q2": "i want to know about corona please",
+        "a2": "no it s not forecast to snow in corona today the forecast is humid with a low of 70f and a high of 90f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "humid,90f,70f",
+        "input_ent2": "corona",
+        "kvr_entlist_qa2": [
+            "90f",
+            "70f",
+            "corona",
+            "today",
+            "humid",
+            "snow"
+        ]
+    },
+    {
+        "q3": "thank you so much",
+        "a3": "you re welcome have a great day",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

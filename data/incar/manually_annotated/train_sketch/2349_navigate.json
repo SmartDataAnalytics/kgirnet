@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "where is there pizza",
+        "a1": "papa_johns and round_table are both near",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "papa_johns,round_table",
+        "input_ent1": "pizza_restaurant",
+        "kvr_entlist_qa1": [
+            "round_table",
+            "papa_johns"
+        ]
+    },
+    {
+        "q2": "which is faster to get to",
+        "a2": "papa_johns is 3_miles away and there is no_traffic on our way i already sent its position on your map",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "papa_johns",
+        "input_ent2": "pizza_restaurant",
+        "kvr_entlist_qa2": [
+            "no_traffic",
+            "3_miles"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

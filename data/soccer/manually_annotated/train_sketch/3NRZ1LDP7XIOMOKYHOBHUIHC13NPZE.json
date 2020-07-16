@@ -1,0 +1,109 @@
+[
+    {
+        "q1": "who is the manager of arsenal?",
+        "a1": "unai emery.",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@coach",
+        "corr_rel1": "coach",
+        "obj1": "unai emery",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "who's the goalkeeper of arsenal?",
+        "a2": "petr cech is arsenal's goalkeeper.",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a2_skt": "@object is arsenal's @relation",
+        "a2_v2": "petr cech is arsenal's goalkeeper.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "goalkeeper"
+    },
+    {
+        "q3": "which city is arsenal based in?",
+        "a3": "london",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "london",
+        "a3_v2": "london",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "arsenal"
+    },
+    {
+        "q4": "how many games has arsenal won this year?",
+        "a4": "one till now",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "one till now",
+        "a4_v2": "one till now",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "arsenal"
+    },
+    {
+        "q5": "what color is their uniform?.",
+        "a5": "the arsenal uniform is white and red ",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "the @entity uniform is @object and @object ",
+        "a5_v2": "the arsenal uniform is white and red ",
+        "corr_rel5": "jersey color",
+        "obj5": "white and red",
+        "input_ent5": "arsenal"
+    }
+]

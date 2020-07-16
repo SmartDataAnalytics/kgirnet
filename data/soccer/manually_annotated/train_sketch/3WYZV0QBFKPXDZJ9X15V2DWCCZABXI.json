@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "nigeria would be a great country to play against",
+        "a1": "what teams did nigeria win against in this last world cup?",
+        "kgER1": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "what teams did @entity win against in this last world cup?",
+        "a1_v2": "what teams did nigeria win against in this last world cup?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "nigeria"
+    },
+    {
+        "q2": "who is the tallest playing on the nigeria team?",
+        "a2": "espn does not keep stats on player heights for nigeria.",
+        "kgER2": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "espn does not keep stats on player @relation for @entity",
+        "a2_v2": "espn does not keep stats on player heights for nigeria.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "nigeria"
+    },
+    {
+        "q3": "why does espn not keep stats on player heights for nigeria if they do it for other countries?",
+        "a3": "someone needs to know the answer to this questions. generally, the nigeria players are tall. ",
+        "kgER3": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "someone needs to know the answer to this questions. generally, the @entity players are tall. ",
+        "a3_v2": "someone needs to know the answer to this questions. generally, the nigeria players are tall. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "nigeria"
+    },
+    {
+        "q4": "who is the fastest player in nigeria?",
+        "a4": "ahmed musa is the fastest player",
+        "kgER4": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object is the fastest player",
+        "a4_v2": "ahmed musa is the fastest player",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "nigeria"
+    },
+    {
+        "q5": "simy at 6'6\" should be their tallest current player, right?",
+        "a5": "yes, he is very tall.",
+        "kgER5": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes, he is very tall.",
+        "a5_v2": "yes, he is very tall.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

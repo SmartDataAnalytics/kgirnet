@@ -1,0 +1,52 @@
+[
+    {
+        "q1": "can you find me the fastest route to a parking_garage",
+        "a1": "dish_parking is 7_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi,distance",
+        "obj1": "dish_parking,7_miles",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "7_miles",
+            "dish_parking"
+        ]
+    },
+    {
+        "q2": "is there nothing else in the area",
+        "a2": "no that is it",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "ok send me the address then please",
+        "a3": "the address is 550_alester_ave now you can see it on your map as well",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "550_alester_ave",
+        "input_ent3": "dish_parking",
+        "kvr_entlist_qa3": [
+            "550_alester_ave"
+        ]
+    },
+    {
+        "q4": "thank you",
+        "a4": "you re welcome drive safely",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    },
+    {
+        "q5": "[ end of conversation ]",
+        "a5": "you are very welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

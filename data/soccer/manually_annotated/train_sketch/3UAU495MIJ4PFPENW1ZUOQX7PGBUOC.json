@@ -1,0 +1,76 @@
+[
+    {
+        "q1": "how many goals in average does your team make per game?",
+        "a1": "3",
+        "kgER1": {
+            "avram glazer": [
+                "chairman"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "3",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "i think it's more like 2,6.",
+        "a2": "2.6 goals per game is still alot",
+        "kgER2": {
+            "avram glazer": [
+                "chairman"
+            ]
+        },
+        "a2_skt": "@object @relation per game is still alot",
+        "a2_v2": "2.6 goals per game is still alot",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2 (first in 2002)"
+    },
+    {
+        "q3": "is that the highest average they have ever had?",
+        "a3": "7 was the last game",
+        "kgER3": {
+            "avram glazer": [
+                "chairman"
+            ]
+        },
+        "a3_skt": "@object was the last game",
+        "a3_v2": "7 was the last game",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ever banega"
+    },
+    {
+        "q4": "who were they playing that time? ",
+        "a4": "leicester city",
+        "kgER4": {
+            "avram glazer": [
+                "chairman"
+            ]
+        },
+        "a4_skt": "leicester city",
+        "a4_v2": "leicester city",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "how many people can watch at old trafford in person?",
+        "a5": "old trafford holds 74,994 people",
+        "kgER5": {
+            "avram glazer": [
+                "chairman"
+            ],
+            "old trafford": [
+                "ground",
+                "capacity"
+            ]
+        },
+        "a5_skt": "@object holds 74,994 people",
+        "a5_v2": "old trafford holds 74,994 people",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "old trafford"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "are there shopping_centers nearby",
+        "a1": "they are one shopping_center 2_miles away called midtown_shopping_center",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi,distance",
+        "obj1": "midtown_shopping_center,2_miles",
+        "input_ent1": "shopping_center",
+        "kvr_entlist_qa1": [
+            "midtown_shopping_center",
+            "shopping_center",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "how is the traffic",
+        "a2": "midtown_shopping_center has moderate_traffic",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel2": "traffic_info",
+        "obj2": "moderate_traffic",
+        "input_ent2": "midtown_shopping_center",
+        "kvr_entlist_qa2": [
+            "moderate_traffic",
+            "midtown_shopping_center"
+        ]
+    },
+    {
+        "q3": "what is the address",
+        "a3": "the address is 338_alester_ave i sent its position on your map",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "338_alester_ave",
+        "input_ent3": "midtown_shopping_center",
+        "kvr_entlist_qa3": [
+            "338_alester_ave"
+        ]
+    },
+    {
+        "q4": "thanks for all the help",
+        "a4": "no problem",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

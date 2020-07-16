@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "when was the last time germany won the fifa world cup?",
+        "a1": "2014 (the one before this year's world cup).",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object (the one before this year's world cup).",
+        "a1_v2": "@number_of_world_cup_champion (the one before this year's world cup).",
+        "corr_rel1": "world cup champions",
+        "obj1": "2014",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "how well did they do this year?",
+        "a2": "they lost to south korea in group f.",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they lost to south korea in group f.",
+        "a2_v2": "they lost to south korea in group f.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "they lost because of their defense, they were too defensive and they did not think about defense",
+        "a3": "were the german public surprised by that? ",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "were the @entity public surprised by that? ",
+        "a3_v2": "were the german public surprised by that? ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "white and red"
+    },
+    {
+        "q4": "mapping the world and the self  ",
+        "a4": "germany has a big stadium",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity has a big stadium",
+        "a4_v2": "germany has a big stadium",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "white and red"
+    },
+    {
+        "q5": "what are germany's chances in the next world cup?",
+        "a5": "according to westgate las vegas they have a 7-1 chance of winning.",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "according to westgate las vegas they have a @object chance of winning.",
+        "a5_v2": "according to westgate las vegas they have a 7-1 chance of winning.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "germany"
+    }
+]

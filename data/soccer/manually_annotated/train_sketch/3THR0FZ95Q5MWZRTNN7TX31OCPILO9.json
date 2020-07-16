@@ -1,0 +1,162 @@
+[
+    {
+        "q1": "champions!! do you think fekir will eventually join liverpool?",
+        "a1": "i think fekir might still find his way to liverpool, but it will be a delayed signing until next summer.",
+        "kgER1": {
+            "nabil fekir": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i think fekir might still find his way to @entity but it will be a delayed signing until next summer.",
+        "a1_v2": "i think fekir might still find his way to liverpool, but it will be a delayed signing until next summer.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "who knows",
+        "a2": "i certainly don't.",
+        "kgER2": {
+            "nabil fekir": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i certainly don't.",
+        "a2_v2": "i certainly don't.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "does france serve belgium waffles before games?",
+        "a3": "only if the game lands on a saturday in belgium.",
+        "kgER3": {
+            "nabil fekir": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "only if the game lands on a saturday in @entity",
+        "a3_v2": "only if the game lands on a saturday in belgium.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "belgium"
+    },
+    {
+        "q4": "are belgium rivals with france?",
+        "a4": "on the pitch maybe but not in real life",
+        "kgER4": {
+            "nabil fekir": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "on the pitch maybe but not in real life",
+        "a4_v2": "on the pitch maybe but not in real life",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "belgium"
+    }
+]

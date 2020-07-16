@@ -1,0 +1,127 @@
+[
+    {
+        "q1": "did they win the world cup?",
+        "a1": "arsenal did not play in the world cup.",
+        "kgER1": {},
+        "a1_skt": "@entity did not play in the world cup.",
+        "a1_v2": "arsenal did not play in the world cup.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who scored the most points on the arsenal team?",
+        "a2": "i think it was olivier giroud.",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "i think it was olivier @relation",
+        "a2_v2": "i think it was olivier giroud.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "arsenal"
+    },
+    {
+        "q3": "it was alexandre lacazette",
+        "a3": "lacazette was last seasons top scorer with 14 goals all competitions",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "alexandre lacazette": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "lacazette was last seasons top scorer with @object @relation all competitions",
+        "a3_v2": "lacazette was last seasons top scorer with 14 goals all competitions",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "alexandre lacazette"
+    },
+    {
+        "q4": "do you think henry will come back as manager?",
+        "a4": "i don\u00b4t think so there are betters manager than henry",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "alexandre lacazette": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "i don\u00b4t think so there are betters manager than henry",
+        "a4_v2": "i don\u00b4t think so there are betters manager than henry",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "henry onyekuru"
+    },
+    {
+        "q5": "do you think there is a better striker for arsenal?",
+        "a5": "salah would be a great striker to play for arsenal.",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "alexandre lacazette": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "salah would be a great striker to play for @entity",
+        "a5_v2": "salah would be a great striker to play for arsenal.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "arsenal"
+    }
+]

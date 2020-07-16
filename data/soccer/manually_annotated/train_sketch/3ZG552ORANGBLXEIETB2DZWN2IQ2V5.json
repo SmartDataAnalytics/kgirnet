@@ -1,0 +1,91 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup \\?",
+        "a1": "they have the potential to",
+        "kgER1": {},
+        "a1_skt": "they have the potential to",
+        "a1_v2": "they have the potential to",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "do you think they need a new style of play \\?",
+        "a2": "i think spain 's way of playing has been found out , and a lot of smaller teams know how to combat it , so yes",
+        "kgER2": {},
+        "a2_skt": "i think @entity 's way of playing has been found out , and a lot of smaller teams know how to combat it , so yes",
+        "a2_v2": "i think spain 's way of playing has been found out , and a lot of smaller teams know how to combat it , so yes",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "does spain need to become a bit more aggresive \\?",
+        "a3": "spain has a great team and they do n't need be more aggresive",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity has a great team and they do n't need be more aggresive",
+        "a3_v2": "spain has a great team and they do n't need be more aggresive",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "spain"
+    },
+    {
+        "q4": "do n't you think they need to be more direct in attack to get more goals \\?",
+        "a4": "possibly , but if they become too aggressive they 'll lose a lot of their strong defense",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "possibly , but if they become too aggressive they 'll lose a lot of their strong @relation",
+        "a4_v2": "possibly , but if they become too aggressive they 'll lose a lot of their strong defense",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "when was the last time spain won a world cup \\?",
+        "a5": "in 2010",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "in @object",
+        "a5_v2": "in @world_cup_champions",
+        "corr_rel5": "world cup champions",
+        "obj5": "2010",
+        "input_ent5": "spain"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "what is the date of my next dinner event and who will be attending",
+        "a1": "your next dinner event is with your father on friday",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "party,date",
+        "obj1": "father, friday",
+        "input_ent1": "dinner",
+        "kvr_entlist_qa1": [
+            "dinner",
+            "friday",
+            "father"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "glad i can help assist you",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

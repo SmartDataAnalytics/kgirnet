@@ -1,0 +1,164 @@
+[
+    {
+        "q1": "i love the team portugal",
+        "a1": "who is your favorite player on the portugal team?",
+        "kgER1": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "who is your favorite player on the @entity team?",
+        "a1_v2": "who is your favorite player on the portugal team?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "portugal"
+    },
+    {
+        "q2": "cristiano ronaldo, he's the heart of the team.",
+        "a2": "he is a very good player.",
+        "kgER2": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "he is a very good player.",
+        "a2_v2": "he is a very good player.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "cristiano ronaldo"
+    },
+    {
+        "q3": "where is portugal located in the world?",
+        "a3": "portugal is attached to spain in between northern europe and africa (right on the atlantic ocean).  great futbol following there",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity is attached to @entity in between northern europe and africa (right on the atlantic ocean).  great futbol following there",
+        "a3_v2": "portugal is attached to spain in between northern europe and africa (right on the atlantic ocean).  great futbol following there",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "portugal"
+    },
+    {
+        "q4": "portugal flag what color?",
+        "a4": "red and green",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object and green",
+        "a4_v2": "red and green",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "portugal"
+    },
+    {
+        "q5": "who is portugal goalkeeper?",
+        "a5": "patricio plays goalkeeper .",
+        "kgER5": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "patricio plays @relation",
+        "a5_v2": "@goalkeeper plays goalkeeper",
+        "corr_rel5": "goalkeeper",
+        "obj5": "rui patricio",
+        "input_ent5": "portugal"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "q1": "who wears the number 10 jersey for colombia?",
+        "a1": "james rodr\u00edguez",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "james rodr\u00edguez",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "colombia"
+    },
+    {
+        "q2": "is colombia a dirty team? ",
+        "a2": "there's no such thing as a dirty team.",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "there's no such thing as a dirty team.",
+        "a2_v2": "there's no such thing as a dirty team.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "colombia"
+    },
+    {
+        "q3": "colombia have a good team, they're not dirty at all.",
+        "a3": "who is there top scorer of all time?",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "who is there top scorer of all time?",
+        "a3_v2": "who is there top scorer of all time?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "colombia"
+    },
+    {
+        "q4": "radamel falcao",
+        "a4": "who is the goal keeper for colombia?",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "radamel falcao": [
+                "captain",
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "who is the @relation for @entity",
+        "a4_v2": "who is the goal keeper for colombia?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "radamel falcao"
+    },
+    {
+        "q5": "david ospina",
+        "a5": "when did ospina join colombia?",
+        "kgER5": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "radamel falcao": [
+                "captain",
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "david ospina": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a5_skt": "when did ospina join @entity",
+        "a5_v2": "when did ospina join colombia?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "david ospina"
+    }
+]

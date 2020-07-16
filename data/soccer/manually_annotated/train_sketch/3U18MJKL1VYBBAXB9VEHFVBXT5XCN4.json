@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i love croatia",
+        "a1": "i don't like this team",
+        "kgER1": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i don't like this team",
+        "a1_v2": "i don't like this team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "croatia"
+    },
+    {
+        "q2": "were you surprised to see them in a world cup final? ",
+        "a2": "i was kind of shocked to see them in the world cup final.",
+        "kgER2": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i was kind of shocked to see them in the world cup final.",
+        "a2_v2": "i was kind of shocked to see them in the world cup final.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "can they capitalise on this success? ",
+        "a3": "of course they can.",
+        "kgER3": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "of course they can.",
+        "a3_v2": "of course they can.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    },
+    {
+        "q4": "who was the captain of croatia team?  ",
+        "a4": "im pretty sure the current captain is luka modri\u0107 but i don't believe he will be playing a whole lot more of international play",
+        "kgER4": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "im pretty sure the current @relation is @object but i don't believe he will be playing a whole lot more of international play",
+        "a4_v2": "im pretty sure the current captain is @captain but i don't believe he will be playing a whole lot more of international play",
+        "corr_rel4": "captain",
+        "obj4": "luka modric",
+        "input_ent4": "croatia"
+    },
+    {
+        "q5": "what is next for croatia?",
+        "a5": "they have to go a long way ",
+        "kgER5": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they have to go a long way ",
+        "a5_v2": "they have to go a long way ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "croatia"
+    }
+]

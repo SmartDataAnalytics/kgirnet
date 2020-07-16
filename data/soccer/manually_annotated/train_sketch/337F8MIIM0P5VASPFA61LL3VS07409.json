@@ -1,0 +1,136 @@
+[
+    {
+        "q1": "who will be the star player when ronaldo retires?",
+        "a1": "tottenham  will.",
+        "kgER1": {},
+        "a1_skt": "tottenham  will.",
+        "a1_v2": "tottenham  will.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "cristiano ronaldo"
+    },
+    {
+        "q2": "neymar",
+        "a2": "maybe it will be someone else whom we can't even imagine to be.",
+        "kgER2": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "maybe it will be someone else whom we can't even imagine to be.",
+        "a2_v2": "maybe it will be someone else whom we can't even imagine to be.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "neymar"
+    },
+    {
+        "q3": "will ronaldo play for portugal in the next competition, regardless of his age?",
+        "a3": "no, i think 2018 will have been his lat world cup.",
+        "kgER3": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "no, i think @object will have been his lat world cup.",
+        "a3_v2": "no, i think 2018 will have been his lat world cup.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "portugal"
+    },
+    {
+        "q4": "you can't know for sure - other people have played in world cups when they were older ",
+        "a4": "jail threat hangs over luka modric's fairy tale world cup final by ben rumsby",
+        "kgER4": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "jail threat hangs over luka modric's fairy tale @relation by ben rumsby",
+        "a4_v2": "jail threat hangs over luka modric's fairy tale world cup final by ben rumsby",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "who is the best player of portugal?",
+        "a5": "ronaldo",
+        "kgER5": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "ronaldo",
+        "a5_v2": "ronaldo",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "portugal"
+    }
+]

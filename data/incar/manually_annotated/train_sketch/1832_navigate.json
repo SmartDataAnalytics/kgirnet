@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "where is the nearest grocery_store",
+        "a1": "we re 4_miles away from whole_foods do you want me to set the gps to go there",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "whole_foods",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "whole_foods",
+            "4_miles"
+        ]
+    },
+    {
+        "q2": "yes and please pick the quickest way to get there with no_traffic",
+        "a2": "navigating you to 819_alma_st drive carefully",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "address",
+        "obj2": "819_alma_st",
+        "input_ent2": "whole_foods",
+        "kvr_entlist_qa2": [
+            "819_alma_st"
+        ]
+    }
+]

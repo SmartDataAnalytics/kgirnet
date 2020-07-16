@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "i love senegal",
+        "a1": "yeah me too",
+        "kgER1": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yeah me too",
+        "a1_v2": "yeah me too",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "senegal"
+    },
+    {
+        "q2": "who is the best player of senegal?",
+        "a2": "the best player in senegal is hadji diouf",
+        "kgER2": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "the @relation in @entity is hadji diouf",
+        "a2_v2": "the best player in senegal is hadji diouf",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "senegal"
+    },
+    {
+        "q3": "has they ever won a world cup?",
+        "a3": "no, they have never won any",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "no, they have never won any",
+        "a3_v2": "no, they have never won any",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ever banega"
+    },
+    {
+        "q4": "who is the current coach?",
+        "a4": "aliou cisse is the coach",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object is the @relation",
+        "a4_v2": "@coach is the coach",
+        "corr_rel4": "coach",
+        "obj4": "aliou cisse",
+        "input_ent4": "senegal"
+    },
+    {
+        "q5": "what is their current fifa ranking ?",
+        "a5": "they are placed 23 rd",
+        "kgER5": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they are placed @object @object",
+        "a5_v2": "they are placed 23 rd",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

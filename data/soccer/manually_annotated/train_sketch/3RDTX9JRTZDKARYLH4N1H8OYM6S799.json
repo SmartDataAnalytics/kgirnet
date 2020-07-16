@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i admire switzerland",
+        "a1": "me too",
+        "kgER1": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "me too",
+        "a1_v2": "me too",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "who is switzerland's starting goalie? ",
+        "a2": "yann sommer, i think.",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object i think.",
+        "a2_v2": "@goalkeeper i think.",
+        "corr_rel2": "goalkeeper",
+        "obj2": "yann sommer",
+        "input_ent2": "switzerland"
+    },
+    {
+        "q3": "were you impressed with switzerland's performance in the world cup this year?",
+        "a3": "this team was good performance in the year.",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "this team was good performance in the year.",
+        "a3_v2": "this team was good performance in the year.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "switzerland"
+    },
+    {
+        "q4": "#3 holding their nerves after the opening goal ",
+        "a4": "do you think switzerland will ever win a world cup?",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "do you think @entity will ever win a world cup?",
+        "a4_v2": "do you think switzerland will ever win a world cup?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "rob holding"
+    },
+    {
+        "q5": "switzerland might win in a couple years.",
+        "a5": "if you can win if you have hope",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "if you can win if you have hope",
+        "a5_v2": "if you can win if you have hope",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "switzerland"
+    }
+]

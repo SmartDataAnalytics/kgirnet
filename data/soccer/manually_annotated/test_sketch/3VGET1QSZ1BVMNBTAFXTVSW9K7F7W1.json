@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "love juventus",
+        "a1": "juventus was good before but now that they added cristiano ronaldo, they'll be a huge threat in the champions league.",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "@entity was good before but now that they added @object they'll be a huge threat in the champions league.",
+        "a1_v2": "juventus was good before but now that they added cristiano ronaldo, they'll be a huge threat in the champions league.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "when did juventus add ronaldo?",
+        "a2": "in this season currently in 2018",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "in this season currently in @object",
+        "a2_v2": "in this season currently in 2018",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "juventus"
+    },
+    {
+        "q3": "will they win the champions league ",
+        "a3": "they have a great team, the possibility is high ",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "they have a great team, the possibility is @relation ",
+        "a3_v2": "they have a great team, the possibility is high ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "will juventus make top 2?",
+        "a4": "if i think they win the trophies",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "if i think they win the trophies",
+        "a4_v2": "if i think they win the trophies",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "juventus"
+    },
+    {
+        "q5": "do they usually finish top 2 in the league?",
+        "a5": "only if porta doesn't show up.",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "only if porta doesn't show up.",
+        "a5_v2": "only if porta doesn't show up.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "2 (first in 2002)"
+    }
+]

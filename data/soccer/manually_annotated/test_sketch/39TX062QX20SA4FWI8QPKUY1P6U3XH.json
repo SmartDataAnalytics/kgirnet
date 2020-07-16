@@ -1,0 +1,60 @@
+[
+    {
+        "q1": "how many bundesliga title win by bayern?",
+        "a1": "they have won it 27 times.",
+        "kgER1": {},
+        "a1_skt": "they have won it @object times.",
+        "a1_v2": "they have won it 27 times.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "i liked they have won it 27 times",
+        "a2": "bayern munich is the best team in the bundesliga",
+        "kgER2": {},
+        "a2_skt": "@entity is the best team in the bundesliga",
+        "a2_v2": "bayern munich is the best team in the bundesliga",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "well that's a matter of opinion .. who do you  think is second best though? ",
+        "a3": "for me it was lewandowski the best of the bayern",
+        "kgER3": {},
+        "a3_skt": "for me it was lewandowski the best of the bayern",
+        "a3_v2": "for me it was lewandowski the best of the bayern",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "what is their current position? ",
+        "a4": "they are placed 2nd",
+        "kgER4": {},
+        "a4_skt": "they are placed 2nd",
+        "a4_v2": "they are placed 2nd",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is they coach of bayern munich? ",
+        "a5": "niko kovac is the current manager ",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is the current @relation ",
+        "a5_v2": "@coach is the current manager ",
+        "corr_rel5": "coach",
+        "obj5": "niko kovac",
+        "input_ent5": "bayern munich"
+    }
+]

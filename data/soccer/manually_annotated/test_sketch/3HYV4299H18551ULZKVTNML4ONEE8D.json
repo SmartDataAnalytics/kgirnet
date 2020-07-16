@@ -1,0 +1,42 @@
+[
+    {
+        "q1": "what do you think about sarah? ",
+        "a1": "who is sarah?",
+        "kgER1": {},
+        "a1_skt": "who is sarah?",
+        "a1_v2": "who is sarah?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "maybe salah",
+        "a2": "salah is a good player, lots of potential",
+        "kgER2": {},
+        "a2_skt": "salah is a good player, lots of potential",
+        "a2_v2": "salah is a good player, lots of potential",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "mohamed salah"
+    },
+    {
+        "q3": "name three players on this team?",
+        "a3": "salah ,henderson and mane",
+        "kgER3": {},
+        "a3_skt": "salah ,@object and mane",
+        "a3_v2": "salah ,@has_player and mane",
+        "corr_rel3": "has player",
+        "obj3": "jordan henderson",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "do you think mane will score as many goals as salah this season ?",
+        "a4": "not sure, but salah is better",
+        "kgER4": {},
+        "a4_skt": "not sure, but salah is better",
+        "a4_v2": "not sure, but salah is better",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "mohamed salah"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "who is their best player? ",
+        "a1": "james rodriguez is the best player",
+        "kgER1": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "@object is the @relation",
+        "a1_v2": "james rodriguez is the best player",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "if i think he's the best player",
+        "a2": "he is the only player in colombia",
+        "kgER2": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "he is the only player in @entity",
+        "a2_v2": "he is the only player in colombia",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who do you like most on columbia's team?",
+        "a3": "i dont like any of them",
+        "kgER3": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "i dont like any of them",
+        "a3_v2": "i dont like any of them",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "don't you like james?",
+        "a4": "he is not bad though",
+        "kgER4": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "he is not bad though",
+        "a4_v2": "he is not bad though",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "james rodriguez"
+    },
+    {
+        "q5": "he is their best player but  ",
+        "a5": "i agree that james is the best player in colombia",
+        "kgER5": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "i agree that james is the @relation in @entity",
+        "a5_v2": "i agree that james is the best player in colombia",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

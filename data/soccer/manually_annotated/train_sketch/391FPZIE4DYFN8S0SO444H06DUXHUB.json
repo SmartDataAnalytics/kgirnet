@@ -1,0 +1,124 @@
+[
+    {
+        "q1": "senegal is doing well eh?",
+        "a1": "they are not likely to win but they are trying very hard. ",
+        "kgER1": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they are not likely to win but they are trying very hard. ",
+        "a1_v2": "they are not likely to win but they are trying very hard. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "senegal"
+    },
+    {
+        "q2": "is senegal have great records?",
+        "a2": "yes.",
+        "kgER2": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes.",
+        "a2_v2": "yes.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "senegal"
+    },
+    {
+        "q3": "who is senegal's best defender?",
+        "a3": "koulibaly is the best defender for senegal",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a3_skt": "koulibaly is the best @relation for @entity",
+        "a3_v2": "koulibaly is the best defender for senegal",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "defender"
+    },
+    {
+        "q4": "what makes him so great as a defender?",
+        "a4": "his size,speed and great reading of the game",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a4_skt": "his size,speed and great reading of the game",
+        "a4_v2": "his size,speed and great reading of the game",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "defender"
+    },
+    {
+        "q5": "who is the best forward on team senegal?",
+        "a5": "the best forward is sadio man\u00e9",
+        "kgER5": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a5_skt": "the best @relation is @object",
+        "a5_v2": "the best forward is sadio man\u00e9",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "forward"
+    }
+]

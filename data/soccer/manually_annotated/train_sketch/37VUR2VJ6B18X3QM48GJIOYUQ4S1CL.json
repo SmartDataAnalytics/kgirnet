@@ -1,0 +1,120 @@
+[
+    {
+        "q1": "i love nigeria",
+        "a1": "i love nigeria 's uniform in world cup 2018",
+        "kgER1": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i love @entity 's uniform in world cup @object",
+        "a1_v2": "i love nigeria 's uniform in world cup 2018",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "nigeria"
+    },
+    {
+        "q2": "what colors do they sport \\?",
+        "a2": "green",
+        "kgER2": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "green",
+        "a2_v2": "green",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "who is the best player from nigeria \\?",
+        "a3": "the nigeria national football team , also known as the super eagles , represents nigeria in international association football and is controlled by the nigeria football federation \\( nff \\) they are three time africa cup of nations winners , with their last title in 2013 , after defeating burkina faso in the final",
+        "kgER3": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "the @entity national football team , also known as the super eagles , represents @entity in international association football and is controlled by the @entity football federation \\( nff \\) they are three time africa cup of nations winners , with their last title in 2013 , after defeating burkina faso in the final",
+        "a3_v2": "the nigeria national football team , also known as the super eagles , represents nigeria in international association football and is controlled by the nigeria football federation \\( nff \\) they are three time africa cup of nations winners , with their last title in 2013 , after defeating burkina faso in the final",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "nigeria"
+    },
+    {
+        "q4": "what is the name of nigeria 's stadium \\?",
+        "a4": "it is their home stadium",
+        "kgER4": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "it is their home stadium",
+        "a4_v2": "it is their home stadium",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "nigeria"
+    },
+    {
+        "q5": "who is the goalkeeper for nigeria \\?",
+        "a5": "the goalkeeper for nigeria national team is francis uzoho",
+        "kgER5": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "the @relation for @entity national team is @object",
+        "a5_v2": "the goalkeeper for nigeria national team is francis uzoho",
+        "corr_rel5": "goalkeeper",
+        "obj5": "francis uzoho",
+        "input_ent5": "nigeria"
+    }
+]

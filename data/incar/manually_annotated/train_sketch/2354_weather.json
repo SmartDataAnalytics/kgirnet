@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "what is the local weather forecast for this week",
+        "a1": "can i ask what location you are asking about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "what is the lowest_temperature in danville this week",
+        "a2": "the lowest_temperature this week in danville will be 30f on tuesday and thursday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,thursday",
+        "obj2": "30f",
+        "input_ent2": "danville",
+        "kvr_entlist_qa2": [
+            "danville",
+            "lowest_temperature",
+            "tuesday",
+            "thursday",
+            "30f",
+            "week"
+        ]
+    },
+    {
+        "q3": "thank you for that car",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

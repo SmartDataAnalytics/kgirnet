@@ -1,0 +1,42 @@
+[
+    {
+        "q1": "what is the weather like today in tomorrow",
+        "a1": "what city should i look in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "will it rain in boston",
+        "a2": "rain should not be falling in boston on tuesday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday",
+        "obj2": "none",
+        "input_ent2": "boston",
+        "kvr_entlist_qa2": [
+            "boston",
+            "rain",
+            "tuesday"
+        ]
+    },
+    {
+        "q3": "thanks so much for your help",
+        "a3": "you re the most welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "that will be all for now thanks",
+        "a4": "glad i could be of assistance you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

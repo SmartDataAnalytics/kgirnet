@@ -1,0 +1,194 @@
+[
+    {
+        "q1": "ac milan is an underrated team.",
+        "a1": "ac milan must be looking at juventus and asking why them ronaldo ?",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "ac milan must be looking at @entity and asking why them ronaldo ?",
+        "a1_v2": "ac milan must be looking at juventus and asking why them ronaldo ?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "do you remember the other ronaldo, the one who played for brazil?",
+        "a2": "saw him at the world cup he is a beast of a man now.",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "saw him at the world cup he is a beast of a man now.",
+        "a2_v2": "saw him at the world cup he is a beast of a man now.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "brazil"
+    },
+    {
+        "q3": "do they play well against tottenham?",
+        "a3": "what was the score for ac milan?",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "what was the score for ac milan?",
+        "a3_v2": "what was the score for ac milan?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "the game resulted in a 1-1 draw.",
+        "a4": "wow good game.",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "wow good game.",
+        "a4_v2": "wow good game.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "1 (first in 2018)"
+    },
+    {
+        "q5": "would ac milan beat juventus right now?",
+        "a5": "with ronaldo they won't stand a chance.",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "with ronaldo they won't stand a chance.",
+        "a5_v2": "with ronaldo they won't stand a chance.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ac milan"
+    },
+    {
+        "q6": "q6: what about ac millan next season? a6: not sure, lets chat next week",
+        "a6": "no ",
+        "kgER6": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a6_skt": "no ",
+        "a6_v2": "no ",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "ac milan"
+    }
+]

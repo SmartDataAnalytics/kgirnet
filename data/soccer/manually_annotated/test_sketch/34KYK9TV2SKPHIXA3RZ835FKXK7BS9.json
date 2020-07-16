@@ -1,0 +1,160 @@
+[
+    {
+        "q1": "is cristiano ronaldo  the captain of this team?",
+        "a1": "yes, cristiano ronaldo is the captain of portugal.",
+        "kgER1": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes, @object is the @relation of @entity",
+        "a1_v2": "yes, @captain is the captain of @entity",
+        "corr_rel1": "captain",
+        "obj1": "cristiano ronaldo",
+        "input_ent1": "portugal"
+    },
+    {
+        "q2": "ronaldo captains portugal yes.",
+        "a2": "who gets the arm band when ronaldo is done?",
+        "kgER2": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "who gets the arm band when ronaldo is done?",
+        "a2_v2": "who gets the arm band when ronaldo is done?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "portugal"
+    },
+    {
+        "q3": "can ronaldo make it to the 2022 world cup?",
+        "a3": "varane is the next captain after cristiano. and yes, he can make it, just have to make an effort",
+        "kgER3": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "varane is the next @relation after cristiano. and yes, he can make it, just have to make an effort",
+        "a3_v2": "varane is the next captain after cristiano. and yes, he can make it, just have to make an effort",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    },
+    {
+        "q4": "when did ronaldo start playing?",
+        "a4": "professionally in 2002 buto",
+        "kgER4": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "professionally in @object buto",
+        "a4_v2": "professionally in 2002 buto",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "cristiano ronaldo"
+    },
+    {
+        "q5": " how many caps does he have for portugal?",
+        "a5": "154 caps and 85 goals",
+        "kgER5": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object caps",
+        "a5_v2": "@caps caps",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "portugal"
+    }
+]

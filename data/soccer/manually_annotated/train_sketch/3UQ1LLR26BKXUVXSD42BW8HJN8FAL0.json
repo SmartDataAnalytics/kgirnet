@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "how will juventus do now that they have ronaldo?",
+        "a1": "they will be great",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "they will be great",
+        "a1_v2": "they will be great",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "can see them winning serie a this year.",
+        "a2": "juventus will easily win the series a this year with the goat cristiano ronaldo. ",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "@entity will easily win the series a this year with the goat @object ",
+        "a2_v2": "juventus will easily win the series a this year with the goat cristiano ronaldo. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "what team will be the closest competitor for juventus this year?",
+        "a3": "i see him as the champion of the series a and the closest competitor to the rome or milan",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "i see him as the champion of the series a and the closest competitor to the rome or milan",
+        "a3_v2": "i see him as the champion of the series a and the closest competitor to the rome or milan",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "juventus"
+    },
+    {
+        "q4": "if i see him champion of the series a",
+        "a4": "yes i think they will win the league",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "yes i think they will win the league",
+        "a4_v2": "yes i think they will win the league",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "juventus will dominate",
+        "a5": "due to ronaldo joining juventus.",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "due to ronaldo joining @entity",
+        "a5_v2": "due to ronaldo joining juventus.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "juventus"
+    }
+]

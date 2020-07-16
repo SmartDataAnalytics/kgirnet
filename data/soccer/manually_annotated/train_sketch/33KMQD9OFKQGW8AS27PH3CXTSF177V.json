@@ -1,0 +1,189 @@
+[
+    {
+        "q1": "edison cavani or luis suarez \\?",
+        "a1": "are uruguay sponsored by anyone famous \\?",
+        "kgER1": {
+            "edinson cavani": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a1_skt": "are @entity sponsored by anyone famous \\?",
+        "a1_v2": "are uruguay sponsored by anyone famous \\?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "luis suarez"
+    },
+    {
+        "q2": "yes for puma",
+        "a2": "not exactly a question puma do , indeed , sponsor the uruguay national team , as for the earlier question , i would say suarez , as long as he is not biting anyone",
+        "kgER2": {
+            "edinson cavani": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a2_skt": "not exactly a question puma do , indeed , sponsor the @entity national team , as for the earlier question , i would say suarez , as long as he is not biting anyone",
+        "a2_v2": "not exactly a question puma do , indeed , sponsor the uruguay national team , as for the earlier question , i would say suarez , as long as he is not biting anyone",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "does he have a habit of biting people \\?",
+        "a3": "he does not have the habit that was a coincidence",
+        "kgER3": {
+            "edinson cavani": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a3_skt": "he does not have the habit that was a coincidence",
+        "a3_v2": "he does not have the habit that was a coincidence",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "is he the captain of uruguay national team \\?",
+        "a4": "diego godin is the captain of uruguay national team with the most caps",
+        "kgER4": {
+            "edinson cavani": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object is the @relation of @entity national team with the most caps",
+        "a4_v2": "@captain is the captain of @entity national team with the most caps",
+        "corr_rel4": "captain",
+        "obj4": "diego godin",
+        "input_ent4": "uruguay"
+    },
+    {
+        "q5": "what was the last club that suarez played before joining barcelona \\?",
+        "a5": "liverpool was his last club",
+        "kgER5": {
+            "edinson cavani": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "luis suarez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@entity was his last club",
+        "a5_v2": "liverpool was his last club",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "barcelona"
+    }
+]

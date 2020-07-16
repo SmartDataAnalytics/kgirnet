@@ -1,0 +1,133 @@
+[
+    {
+        "q1": "where do you think atletico madrid will finish in the league this year? ",
+        "a1": "i know they will win",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i know they will win",
+        "a1_v2": "i know they will win",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "will diego costa be top score this year?",
+        "a2": "he might be if his does better than last year.",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "he might be if his does better than last year.",
+        "a2_v2": "he might be if his does better than last year.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "diego costa"
+    },
+    {
+        "q3": "who is the atletico madrid team captain? ",
+        "a3": "diego simeone is the new captian for atletico madrid",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "@object is the new @relation for @entity",
+        "a3_v2": "@coach is the new coach for @entity",
+        "corr_rel3": "coach",
+        "obj3": "diego simeone",
+        "input_ent3": "atletico madrid"
+    },
+    {
+        "q4": "who is the best player in atletico madrid ?",
+        "a4": "diego costa",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "diego costa",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "atletico madrid"
+    },
+    {
+        "q5": "i think the best player in atletico madrid is anthuan griezman",
+        "a5": "he has great players, i think that anyone could be the best player",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "he has great players, i think that anyone could be the @relation",
+        "a5_v2": "he has great players, i think that anyone could be the best player",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "atletico madrid"
+    }
+]

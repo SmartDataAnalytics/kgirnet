@@ -1,0 +1,96 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "fc will qualify.",
+        "kgER1": {},
+        "a1_skt": "fc will qualify.",
+        "a1_v2": "fc will qualify.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "when was the last time fc. porto was in the world cup?",
+        "a2": "fc porto have never been in the world cup because they're a club team in portugal. portugal's national team was in the last world cup, played this summer. ",
+        "kgER2": {},
+        "a2_skt": "fc porto have never been in the world cup because they're a club team in @entity @entity national team was in the last world cup, played this summer. ",
+        "a2_v2": "fc porto have never been in the world cup because they're a club team in portugal. portugal's national team was in the last world cup, played this summer. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "fc. porto"
+    },
+    {
+        "q3": "if he was there they did a good performance in russia",
+        "a3": "not porto is not a team of world is a clup",
+        "kgER3": {},
+        "a3_skt": "not porto is not a team of world is a clup",
+        "a3_v2": "not porto is not a team of world is a clup",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "what are some other prominent teams in portugal besides fc porto?",
+        "a4": "boavista and aves",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "boavista and aves",
+        "a4_v2": "boavista and aves",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "portugal"
+    },
+    {
+        "q5": "who is their competition? ",
+        "a5": "benefica and sporting cp are two rivals of fc porto",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "benefica and sporting cp are two rivals of fc porto",
+        "a5_v2": "benefica and sporting cp are two rivals of fc porto",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

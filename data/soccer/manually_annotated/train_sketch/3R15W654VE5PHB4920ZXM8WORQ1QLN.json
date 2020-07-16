@@ -1,0 +1,109 @@
+[
+    {
+        "q1": "i love the team bvb dortmund",
+        "a1": "they are far from the worst team in europe",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they are far from the worst team in europe",
+        "a1_v2": "they are far from the worst team in europe",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "dortmund have confirmed the appointment of lucien favre as their new coach.",
+        "a2": "i am very happy about this news, he is a good coach and he will have new options and training to improve",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "lucien favre": [
+                "coach"
+            ]
+        },
+        "a2_skt": "i am very happy about this news, he is a good @relation and he will have new options and training to improve",
+        "a2_v2": "i am very happy about this news, he is a good coach and he will have new options and training to improve",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "lucien favre"
+    },
+    {
+        "q3": "do they need any improvements to the squad?",
+        "a3": "totally agree, i need to improve",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "lucien favre": [
+                "coach"
+            ]
+        },
+        "a3_skt": "totally agree, i need to improve",
+        "a3_v2": "totally agree, i need to improve",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "this team is the best in the bundesliga ",
+        "a4": "hopefully with the new coach dortmund will pull itself together like fans know they can.",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "lucien favre": [
+                "coach"
+            ]
+        },
+        "a4_skt": "hopefully with the new @relation dortmund will pull itself together like fans know they can.",
+        "a4_v2": "hopefully with the new coach dortmund will pull itself together like fans know they can.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "what type of formation does favre prefer?",
+        "a5": "the 3-4-3 would be good on the offensive. ",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "lucien favre": [
+                "coach"
+            ]
+        },
+        "a5_skt": "the 3-4-3 would be good on the offensive. ",
+        "a5_v2": "the 3-4-3 would be good on the offensive. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "lucien favre"
+    }
+]

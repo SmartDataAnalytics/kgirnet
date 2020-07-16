@@ -1,0 +1,147 @@
+[
+    {
+        "q1": "who is the center forward for colombia \\?",
+        "a1": "falcao is the centre forward for colombia",
+        "kgER1": {
+            "forward": [
+                "position"
+            ],
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "falcao is the centre @relation for @entity",
+        "a1_v2": "falcao is the centre forward for colombia",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "forward"
+    },
+    {
+        "q2": "who is their goalkeeper \\?",
+        "a2": "david ospina",
+        "kgER2": {
+            "forward": [
+                "position"
+            ],
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "@goalkeeper",
+        "corr_rel2": "goalkeeper",
+        "obj2": "david ospina",
+        "input_ent2": "colombia"
+    },
+    {
+        "q3": "what colour is columbia shirt",
+        "a3": "it 's primarily yellow with some blue",
+        "kgER3": {
+            "forward": [
+                "position"
+            ],
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "it 's primarily @object with some @object",
+        "a3_v2": "it 's primarily yellow with some blue",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what is it \\?",
+        "a4": "i think your shirt",
+        "kgER4": {
+            "forward": [
+                "position"
+            ],
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "i think your shirt",
+        "a4_v2": "i think your shirt",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "have the columbian soccer team ever wore a non yellow jersey \\?",
+        "a5": "i ca n't remember them in anything else than yellow",
+        "kgER5": {
+            "forward": [
+                "position"
+            ],
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "i ca n't remember them in anything else than @object",
+        "a5_v2": "i ca n't remember them in anything else than yellow",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "yellow"
+    }
+]

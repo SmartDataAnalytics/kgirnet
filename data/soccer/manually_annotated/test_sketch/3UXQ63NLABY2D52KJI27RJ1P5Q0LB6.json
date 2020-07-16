@@ -1,0 +1,91 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "yes, as they won the final last time...",
+        "kgER1": {},
+        "a1_skt": "yes, as they won the final last time...",
+        "a1_v2": "yes, as they won the final last time...",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "do you think they will win the next wc",
+        "a2": "it is possible that france will win the next world cup, but there are many variables and things could change by 2022.",
+        "kgER2": {},
+        "a2_skt": "it is possible that @entity will win the next world cup, but there are many variables and things could change by 2022.",
+        "a2_v2": "it is possible that france will win the next world cup, but there are many variables and things could change by 2022.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "will france have the same coach in 2022?",
+        "a3": "yes, i think it will be still the same coach in 2022.",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes, i think it will be still the same @relation in 2022.",
+        "a3_v2": "yes, i think it will be still the same coach in 2022.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "france"
+    },
+    {
+        "q4": "when it comes to soccer, france\u2019s future is as bright as its present",
+        "a4": "france is definitely the best",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity is definitely the best",
+        "a4_v2": "france is definitely the best",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "france"
+    },
+    {
+        "q5": "for my france you can win the world cup again, you have a good team and a good manager ",
+        "a5": "france has a lot of future with mbappe ",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity has a lot of future with mbappe ",
+        "a5_v2": "france has a lot of future with mbappe ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "france"
+    }
+]

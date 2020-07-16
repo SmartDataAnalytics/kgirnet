@@ -1,0 +1,144 @@
+[
+    {
+        "q1": "who coaches the icelandic team?",
+        "a1": "erik hamr\u00e9n is the coach",
+        "kgER1": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object is the @relation",
+        "a1_v2": "erik hamr\u00e9n is the coach",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "how long has he do e that ?",
+        "a2": "since 2013.",
+        "kgER2": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "since 2013.",
+        "a2_v2": "since 2013.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "what position does gylfi sigurdsson play?",
+        "a3": "gylfi sigurdsson is their attacking midfielder.",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "gylfi sigurdsson": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "@object is their attacking @relation",
+        "a3_v2": "@midfielder is their attacking position",
+        "corr_rel3": "position",
+        "obj3": "midfielder",
+        "input_ent3": "iceland"
+    },
+    {
+        "q4": "who is the goalie for iceland?",
+        "a4": "hannes halld\u00f3rsson",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "gylfi sigurdsson": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "@goalkeeper",
+        "corr_rel4": "goalkeeper",
+        "obj4": "hannes thor halldorsson",
+        "input_ent4": "iceland"
+    },
+    {
+        "q5": "didn't halldorsson just retire?",
+        "a5": "yeah but we keep repeating it and hoping.",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "gylfi sigurdsson": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "yeah but we keep repeating it and hoping.",
+        "a5_v2": "yeah but we keep repeating it and hoping.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "hannes thor halldorsson"
+    }
+]

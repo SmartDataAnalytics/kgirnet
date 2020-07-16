@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "give me directions to the local starbucks",
+        "a1": "there are no local starbucks",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "starbucks",
+        "kvr_entlist_qa1": [
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "some other kind of coffee_or_tea_place within 3_miles and with no_traffic",
+        "a2": "there are no coffee and tea places within 3_miles",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "distance",
+        "obj2": "3_miles",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "3_miles"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

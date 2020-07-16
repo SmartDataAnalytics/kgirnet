@@ -1,0 +1,40 @@
+[
+    {
+        "q1": "when was ac milan formed?",
+        "a1": "december 16, 1899",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "december @object @object",
+        "a1_v2": "december 16, 1899",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "there are 2 teams from milan ",
+        "a2": "yes.",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes.",
+        "a2_v2": "yes.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2 (first in 2002)"
+    }
+]

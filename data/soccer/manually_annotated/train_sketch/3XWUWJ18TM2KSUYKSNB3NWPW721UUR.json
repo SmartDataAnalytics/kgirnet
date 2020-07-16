@@ -1,0 +1,78 @@
+[
+    {
+        "q1": "what is the color of their jersey?",
+        "a1": "they have an yellow color jersey?",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they have an @object color jersey?",
+        "a1_v2": "they have an @jersey_color color jersey?",
+        "corr_rel1": "jersey color",
+        "obj1": "yellow",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "what team do you think that they're going to play next?",
+        "a2": "bvb dortmund will play furth on 8 september. ",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "bvb dortmund will play furth on @object september. ",
+        "a2_v2": "bvb dortmund will play furth on 8 september. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "will do very well against furth or any other",
+        "a3": "they will definitely be a strong favorite against furth and most teams in the bundisliga.",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they will definitely be a strong favorite against furth and most teams in the bundisliga.",
+        "a3_v2": "they will definitely be a strong favorite against furth and most teams in the bundisliga.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "who is the strongest player on the team?",
+        "a4": "lukasz piszczek has the best defense on the team. ",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object has the best @relation on the team. ",
+        "a4_v2": "lukasz piszczek has the best defense on the team. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    }
+]

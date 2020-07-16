@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is the most popular player on the nigerian soccer team \\?",
+        "a1": "there are many good players like musa , mikkel , etc",
+        "kgER1": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "there are many good players like musa , mikkel , etc",
+        "a1_v2": "there are many good players like musa , mikkel , etc",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "i do n't think their players are very famous",
+        "a2": "i would have to re look at all the popular clubs",
+        "kgER2": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i would have to re look at all the popular clubs",
+        "a2_v2": "i would have to re look at all the popular clubs",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "who is the best player on the nigerian team \\?",
+        "a3": "definately jon obi mikkel is the best player",
+        "kgER3": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "definately jon obi mikkel is the @relation",
+        "a3_v2": "definately jon obi mikkel is the best player",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "how many of the nigerian squad play for uk clubs \\?",
+        "a4": "nigerian six players play for uk club",
+        "kgER4": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity six players play for uk club",
+        "a4_v2": "nigerian six players play for uk club",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is nigerian captain \\?",
+        "a5": "the captain is john obi mikel",
+        "kgER5": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "the @relation is @object",
+        "a5_v2": "the captain is @captain",
+        "corr_rel5": "captain",
+        "obj5": "john mikel obi",
+        "input_ent5": "nigeria"
+    }
+]

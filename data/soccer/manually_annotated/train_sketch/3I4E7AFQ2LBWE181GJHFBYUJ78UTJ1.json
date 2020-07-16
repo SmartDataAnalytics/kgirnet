@@ -1,0 +1,127 @@
+[
+    {
+        "q1": "who is the coach of ac milan?",
+        "a1": "gennaro gattuso",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@coach",
+        "corr_rel1": "coach",
+        "obj1": "gennaro gattuso",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "who is your favorite player on ac milan team",
+        "a2": "my favorite player is gonzalo higua\u00edn",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "my favorite player is @object",
+        "a2_v2": "my favorite player is gonzalo higua\u00edn",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "my favorite is leonardo bonucci.",
+        "a3": "both higuain and bonucci transferred from juventus to ac milan!",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "leonardo bonucci": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ]
+        },
+        "a3_skt": "both higuain and bonucci transferred from @entity to ac milan!",
+        "a3_v2": "both higuain and bonucci transferred from juventus to ac milan!",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "leonardo bonucci"
+    },
+    {
+        "q4": "does ac milan have a women's team?",
+        "a4": "yes, they just formed a team to compete for the first time ever for the 2018/2019 season.",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "leonardo bonucci": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ]
+        },
+        "a4_skt": "yes, they just formed a team to compete for the first time ever for the 2018/2019 season.",
+        "a4_v2": "yes, they just formed a team to compete for the first time ever for the 2018/2019 season.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "who are ac milan rivals? ",
+        "a5": "is ac milan number 1?",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "leonardo bonucci": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ]
+        },
+        "a5_skt": "is ac milan number 1?",
+        "a5_v2": "is ac milan number 1?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ac milan"
+    }
+]

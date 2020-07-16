@@ -1,0 +1,39 @@
+[
+    {
+        "q1": "will it be foggy in seattle today and tomorrow",
+        "a1": "no the weather in seattle will be drizzle today and dry tomorrow",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "monday, tuesday",
+        "obj1": "drizzle,dry",
+        "input_ent1": "seattle",
+        "kvr_entlist_qa1": [
+            "dry",
+            "today",
+            "seattle",
+            "drizzle",
+            "tomorrow"
+        ]
+    },
+    {
+        "q2": "thank you car",
+        "a2": "there is no fog in the forecast for seattle today and tomorrow",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "tomorrow",
+            "today",
+            "seattle"
+        ]
+    },
+    {
+        "q3": "alright thanks",
+        "a3": "you are very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

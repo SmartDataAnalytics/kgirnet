@@ -1,0 +1,60 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "they arent a country, so no.",
+        "kgER1": {},
+        "a1_skt": "they arent a country, so no.",
+        "a1_v2": "they arent a country, so no.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "where are they situated? ",
+        "a2": "in england",
+        "kgER2": {},
+        "a2_skt": "in england",
+        "a2_v2": "in england",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how do you think arsenal will perform this year?",
+        "a3": "pretty good ",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "pretty good ",
+        "a3_v2": "pretty good ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "arsenal"
+    },
+    {
+        "q4": "what do you think of arsenal new coach?",
+        "a4": "arsenal new coach is one of the best",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity new @relation is one of the best",
+        "a4_v2": "arsenal new coach is one of the best",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "arsenal"
+    }
+]

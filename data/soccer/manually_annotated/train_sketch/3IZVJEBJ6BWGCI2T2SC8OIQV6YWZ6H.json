@@ -1,0 +1,61 @@
+[
+    {
+        "q1": "what does their logo look like \\?",
+        "a1": "it is a yellow circle with a black outline , bvb on the top half and 09 on the bottom underneath the v",
+        "kgER1": {},
+        "a1_skt": "it is a @object circle with a black outline , bvb on the top half and @object on the bottom underneath the v",
+        "a1_v2": "it is a yellow circle with a black outline , bvb on the top half and 09 on the bottom underneath the v",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "it looks like something straight out of a masonic lodge",
+        "a2": "i bet they were founded by masons",
+        "kgER2": {},
+        "a2_skt": "i bet they were founded by masons",
+        "a2_v2": "i bet they were founded by masons",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "dortmund was founded when \\?",
+        "a3": "december 1909",
+        "kgER3": {},
+        "a3_skt": "december @object",
+        "a3_v2": "december @founded_on",
+        "corr_rel3": "founded on",
+        "obj3": "1909",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "goaly name \\?",
+        "a4": "burkl",
+        "kgER4": {},
+        "a4_skt": "burkl",
+        "a4_v2": "burkl",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "is burkl a good goalie for bvb dortmund \\?",
+        "a5": "i think if he is a good goalkeeper because he stands out",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i think if he is a good @relation because he stands out",
+        "a5_v2": "i think if he is a good goalkeeper because he stands out",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bvb dortmund"
+    }
+]

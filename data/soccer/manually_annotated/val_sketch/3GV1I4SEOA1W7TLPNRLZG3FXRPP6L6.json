@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "how was the last game?",
+        "a1": "the last premier league game manchester united beat leicester 2-1.",
+        "kgER1": {},
+        "a1_skt": "the last premier league game @entity beat leicester 2-1.",
+        "a1_v2": "the last premier league game manchester united beat leicester 2-1.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who did chelsea play last?",
+        "a2": "starts with an h -- can't remember. ",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "starts with an h -- can't remember. ",
+        "a2_v2": "starts with an h -- can't remember. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "chelsea"
+    },
+    {
+        "q3": "it was huddersfield wasn't it?",
+        "a3": "chelsea doesn't play huddersfield again until february 2019.",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "@entity doesn't play huddersfield again until february 2019.",
+        "a3_v2": "chelsea doesn't play huddersfield again until february 2019.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is the goalie for chelsea?",
+        "a4": "kepa arrizabalaga now.",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "@object now.",
+        "a4_v2": "kepa arrizabalaga now.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "chelsea"
+    },
+    {
+        "q5": "does she enjoy being a goalie?",
+        "a5": "yes, he likes to be a goalkeeper and he does it very well",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "yes, he likes to be a @relation and he does it very well",
+        "a5_v2": "yes, he likes to be a goalkeeper and he does it very well",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,168 @@
+[
+    {
+        "q1": "was psg's record transfer of neymar good for the club?",
+        "a1": "i don't know, but a lot of fans of arsenal were really excited to get neymar.",
+        "kgER1": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a1_skt": "i don't know, but a lot of fans of @entity were really excited to get @object",
+        "a1_v2": "i don't know, but a lot of fans of arsenal were really excited to get neymar.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "neymar"
+    },
+    {
+        "q2": "what are arsenal's chances of a championship now that they have neymar?",
+        "a2": "i think they have a great chance to win the championship.",
+        "kgER2": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i think they have a great chance to win the championship.",
+        "a2_v2": "i think they have a great chance to win the championship.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "arsenal"
+    },
+    {
+        "q3": "what do you think are the strengths that neymar brings to the paris sg team? ",
+        "a3": "neymar is a great forward, he is good at scoring",
+        "kgER3": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object is a great @relation he is good at scoring",
+        "a3_v2": "neymar is a great forward, he is good at scoring",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "paris sg"
+    },
+    {
+        "q4": "does he have any weaknesses?",
+        "a4": "implusiveness ",
+        "kgER4": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "implusiveness ",
+        "a4_v2": "implusiveness ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "how much is neymar making?",
+        "a5": "neymar wins about 35000 a month is a very good player and he deserves it",
+        "kgER5": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object wins about 35000 a month is a very good player and he deserves it",
+        "a5_v2": "neymar wins about 35000 a month is a very good player and he deserves it",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "neymar"
+    }
+]

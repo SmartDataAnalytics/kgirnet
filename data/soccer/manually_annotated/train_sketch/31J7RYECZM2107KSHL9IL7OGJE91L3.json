@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "how many wins did argentina get last world cup?",
+        "a1": "very good team",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "1",
+        "a2": "1 lmao",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object lmao",
+        "a2_v2": "1 lmao",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "1 (first in 2018)"
+    },
+    {
+        "q3": "in which stages did the argentinian team feature in the last two world-cups?",
+        "a3": "versus germany and then west germany in the past",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "versus @entity and then west @entity in the past",
+        "a3_v2": "versus germany and then west germany in the past",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "do you think that argentina will be able to reach the semifinals in the next world cup?",
+        "a4": "no",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "no",
+        "a4_v2": "no",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "argentina"
+    },
+    {
+        "q5": "i really doubt it ",
+        "a5": "but they do have a good record in the world cup, so you can never write them off.",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "but they do have a good record in the world cup, so you can never @object them off.",
+        "a5_v2": "but they do have a good record in the world cup, so you can never write them off.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

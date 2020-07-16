@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "i like the team argentina",
+        "a1": "in my opinion they are not as good as brazil ",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "in my opinion they are not as good as @entity ",
+        "a1_v2": "in my opinion they are not as good as brazil ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "i disagree, i think they are better. ",
+        "a2": "argentina is much, much better than brazil, i agree.",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity is much, much better than @entity i agree.",
+        "a2_v2": "argentina is much, much better than brazil, i agree.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "why do you have argentina a better team, messi lacks supporting players.",
+        "a3": "yes, messi does not have support players like he has in barcelona",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes, messi does not have support players like he has in @entity",
+        "a3_v2": "yes, messi does not have support players like he has in barcelona",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "argentina"
+    },
+    {
+        "q4": "do you think messi will retire in argentina?",
+        "a4": "for sure!  he loves the country.",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "for sure!  he loves the country.",
+        "a4_v2": "for sure!  he loves the country.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "argentina"
+    },
+    {
+        "q5": "is everyone is going to be crying on that day?",
+        "a5": "only the widows and goalie.",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "only the widows and goalie.",
+        "a5_v2": "only the widows and goalie.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

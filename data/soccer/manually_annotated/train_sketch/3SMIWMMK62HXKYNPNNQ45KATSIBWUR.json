@@ -1,0 +1,151 @@
+[
+    {
+        "q1": "did colombia seem particularly rough on the pitch this world cup?",
+        "a1": "definitely, i think they were the first team to get a red card.",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "definitely, i think they were the first team to get a @object card.",
+        "a1_v2": "definitely, i think they were the first team to get a red card.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "colombia"
+    },
+    {
+        "q2": "who scored the most goals for colombia this world cup",
+        "a2": "yerry mina has scored 3 goals.",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "@object has scored @object @relation",
+        "a2_v2": "yerry mina has scored 3 goals.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "colombia"
+    },
+    {
+        "q3": "what was colombia's final score?",
+        "a3": "they won 3-0 in their last world cup win",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "they won @object in their last world cup win",
+        "a3_v2": "they won 3-0 in their last world cup win",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "colombia"
+    },
+    {
+        "q4": "is mina the best striker on the colombia's team?",
+        "a4": "in my opinion yes",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "in my opinion yes",
+        "a4_v2": "in my opinion yes",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "colombia"
+    },
+    {
+        "q5": "i think the best forward is james rodriguez",
+        "a5": "does everyone that james rodriguez is the best forward?",
+        "kgER5": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "forward": [
+                "position"
+            ],
+            "james rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "does everyone that @object is the best @relation",
+        "a5_v2": "does everyone that james rodriguez is the best forward?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "james rodriguez"
+    }
+]

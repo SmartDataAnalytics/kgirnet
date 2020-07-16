@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "good short senegal ",
+        "a1": "senegal needs to improve a lot",
+        "kgER1": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity needs to improve a lot",
+        "a1_v2": "senegal needs to improve a lot",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "senegal"
+    },
+    {
+        "q2": "good short senegal",
+        "a2": "i agree. needs improvement",
+        "kgER2": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i agree. needs improvement",
+        "a2_v2": "i agree. needs improvement",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "senegal"
+    },
+    {
+        "q3": "who is the best player from senegal?",
+        "a3": "abdoulaye faye is a very good player for sengal",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "abdoulaye faye is a very good player for @entity",
+        "a3_v2": "abdoulaye faye is a very good player for sengal",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "senegal"
+    },
+    {
+        "q4": "what position does he play for senegal?",
+        "a4": "abdoulaye faye plays as a defender ",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "abdoulaye faye plays as a @relation ",
+        "a4_v2": "abdoulaye faye plays as a defender ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "senegal"
+    },
+    {
+        "q5": "how long has faye played for senegal?",
+        "a5": "8 years",
+        "kgER5": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object years",
+        "a5_v2": "8 years",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "senegal"
+    }
+]

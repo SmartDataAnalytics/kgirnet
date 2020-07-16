@@ -1,0 +1,32 @@
+[
+    {
+        "q1": "what s the temperature going to be this week",
+        "a1": "what city are you asking about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "alhambra",
+        "a2": "temperature in alhambra this week ranges in the mid 60 70 and 80s",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday,thursday",
+        "obj2": "60f,70,80f",
+        "input_ent2": "alhambra",
+        "kvr_entlist_qa2": [
+            "alhambra",
+            "week"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

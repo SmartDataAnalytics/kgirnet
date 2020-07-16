@@ -1,0 +1,72 @@
+[
+    {
+        "q1": "hello, who is the best player ",
+        "a1": "eden hazard",
+        "kgER1": {
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "eden hazard",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "what has this player done that is so special? ",
+        "a2": "he is the best midfielder in europe.",
+        "kgER2": {
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "he is the best @relation in europe.",
+        "a2_v2": "he is the best midfielder in europe.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what sets him apart?",
+        "a3": "his work ethic",
+        "kgER3": {
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "his work ethic",
+        "a3_v2": "his work ethic",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "do they have any other big players?",
+        "a4": "they do have some big players like lukaku",
+        "kgER4": {
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "they do have some big players like lukaku",
+        "a4_v2": "they do have some big players like lukaku",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "how old is he?",
+        "a5": "lukaku is 25 years old",
+        "kgER5": {
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "lukaku is @object years old",
+        "a5_v2": "lukaku is 25 years old",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "old trafford"
+    }
+]

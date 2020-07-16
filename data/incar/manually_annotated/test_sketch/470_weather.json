@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "is there snow in the forecast for the week",
+        "a1": "what city can i give you this weather information for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i need it for san_jose",
+        "a2": "snow is predicted to fall in san_jose on thursday this week",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "thursday",
+        "obj2": "snow",
+        "input_ent2": "san_jose",
+        "kvr_entlist_qa2": [
+            "snow",
+            "thursday",
+            "week",
+            "san_jose"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you are very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

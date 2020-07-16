@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "is messi the greatest player ever from argentina?",
+        "a1": "for most people, it would be a choice between messi and diego maradona.",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "for most people, it would be a choice between messi and diego maradona.",
+        "a1_v2": "for most people, it would be a choice between messi and diego maradona.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "i would choose messi.",
+        "a2": "what team did maradona play for?",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "what team did maradona play for?",
+        "a2_v2": "what team did maradona play for?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "lionel messi"
+    },
+    {
+        "q3": "he played for argentina. ",
+        "a3": "how many world cups argentina has?",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "how many world cups @entity has?",
+        "a3_v2": "how many world cups argentina has?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "argentina"
+    },
+    {
+        "q4": "will argentina win copa america 2019?",
+        "a4": "there are a couple othet good teams but i think it's possible.",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "there are a couple othet good teams but i think it's possible.",
+        "a4_v2": "there are a couple othet good teams but i think it's possible.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "argentina"
+    },
+    {
+        "q5": "i love argentina.",
+        "a5": "argentina needs more players",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity needs more players",
+        "a5_v2": "argentina needs more players",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "argentina"
+    }
+]

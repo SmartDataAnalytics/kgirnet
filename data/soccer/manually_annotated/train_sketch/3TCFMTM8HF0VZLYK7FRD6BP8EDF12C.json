@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "what is the longest streak of loss for switzerland in wc \\?",
+        "a1": "10 years",
+        "kgER1": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object years",
+        "a1_v2": "10 years",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "what is switzerland 's mascot \\?",
+        "a2": "rabbit",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "rabbit",
+        "a2_v2": "rabbit",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "switzerland"
+    },
+    {
+        "q3": "who is swiss coach \\?",
+        "a3": "vladimir petkovic is the coach",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object is the @relation",
+        "a3_v2": "@coach is the coach",
+        "corr_rel3": "coach",
+        "obj3": "vladimir petkovic",
+        "input_ent3": "switzerland"
+    },
+    {
+        "q4": "should they get a new coach \\?",
+        "a4": "may be chance to get a new coach",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "may be chance to get a new @relation",
+        "a4_v2": "may be chance to get a new coach",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "they have a russian manager for switzerland \\? is that the best option they have \\?",
+        "a5": "yes most countries have different nationalities coaching",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes most countries have different nationalities @relation",
+        "a5_v2": "yes most countries have different nationalities coaching",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "switzerland"
+    }
+]

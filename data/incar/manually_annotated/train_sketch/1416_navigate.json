@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "i need a gas_station with the least amount of traffic",
+        "a1": "76 at 91_el_camino_real is the only gas_station that i can find it is 4_miles away through heavy_traffic",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi,distance",
+        "obj1": "76,4_miles",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "gas_station",
+            "4_miles",
+            "91_el_camino_real",
+            "76",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q2": "ok please give me directions via the route that seems to avoid most heavy_traffic",
+        "a2": "there is no current route without heavy_traffic",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel2": "traffic_info",
+        "obj2": "heavy_traffic",
+        "input_ent2": "76",
+        "kvr_entlist_qa2": [
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "okay it will do let s go",
+        "a3": "alright",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

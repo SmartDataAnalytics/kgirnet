@@ -1,0 +1,78 @@
+[
+    {
+        "q1": "do this team ever win any games",
+        "a1": "they beat arsenal on may 3rd.",
+        "kgER1": {},
+        "a1_skt": "they beat @entity on may 3rd.",
+        "a1_v2": "they beat arsenal on may 3rd.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ever banega"
+    },
+    {
+        "q2": "who is their manager?",
+        "a2": "diego simeone",
+        "kgER2": {},
+        "a2_skt": "@object",
+        "a2_v2": "@coach",
+        "corr_rel2": "coach",
+        "obj2": "diego simeone",
+        "input_ent2": "atletico madrid"
+    },
+    {
+        "q3": "top 5 team in la liga",
+        "a3": "currently his manager is simeone and is among the top 5",
+        "kgER3": {},
+        "a3_skt": "currently his manager is simeone and is among the top @object",
+        "a3_v2": "currently his manager is simeone and is among the top 5",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "5 (first in 1998)"
+    },
+    {
+        "q4": "arsenal is a good team that deserves it",
+        "a4": "what do they deserve?",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "what do they deserve?",
+        "a4_v2": "what do they deserve?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "arsenal"
+    },
+    {
+        "q5": "atletico madrid deserve the champions league",
+        "a5": "whom do they have to beat first to qualify for the champions league?",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "whom do they have to beat first to qualify for the champions league?",
+        "a5_v2": "whom do they have to beat first to qualify for the champions league?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "atletico madrid"
+    }
+]

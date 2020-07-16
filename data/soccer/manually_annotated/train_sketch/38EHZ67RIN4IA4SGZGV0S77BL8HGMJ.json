@@ -1,0 +1,109 @@
+[
+    {
+        "q1": "how many seats does anfield have?",
+        "a1": "54.074 ",
+        "kgER1": {
+            "anfield": [
+                "ground",
+                "capacity"
+            ]
+        },
+        "a1_skt": "54.074 ",
+        "a1_v2": "54.074 ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "anfield"
+    },
+    {
+        "q2": "what is the average attendance at anfield? i am eager to know given that liverpool is a very popular team. ",
+        "a2": "anfield typically fills up 95% of seats for home games.",
+        "kgER2": {
+            "anfield": [
+                "ground",
+                "capacity"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object typically fills up @object of seats for home games.",
+        "a2_v2": "anfield typically fills up 95% of seats for home games.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "q: who has the most scoring points on the current liverpool team as of this year (2018)",
+        "a3": "i am not sure, someone has to be good on liverpool.",
+        "kgER3": {
+            "anfield": [
+                "ground",
+                "capacity"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i am not sure, someone has to be good on @entity",
+        "a3_v2": "i am not sure, someone has to be good on liverpool.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "2018"
+    },
+    {
+        "q4": "do you think liverpool team is beat",
+        "a4": "no ",
+        "kgER4": {
+            "anfield": [
+                "ground",
+                "capacity"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "no ",
+        "a4_v2": "no ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    },
+    {
+        "q5": "how much would you expect to pay for a liverpool shirt? ",
+        "a5": "$100, what about you?",
+        "kgER5": {
+            "anfield": [
+                "ground",
+                "capacity"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "$100, what about you?",
+        "a5_v2": "$100, what about you?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "as atletico madrid is not an international team i know they will not qualify for any world cup.",
+        "kgER1": {},
+        "a1_skt": "as @entity is not an international team i know they will not qualify for any world cup.",
+        "a1_v2": "as atletico madrid is not an international team i know they will not qualify for any world cup.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "we\u2019re do they play?",
+        "a2": "in the spanish league",
+        "kgER2": {},
+        "a2_skt": "in the spanish league",
+        "a2_v2": "in the spanish league",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "atletico madrid iat in their league",
+        "a3": "it is not a world team",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "it is not a world team",
+        "a3_v2": "it is not a world team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "atletico madrid"
+    },
+    {
+        "q4": "atletico madrid is international team",
+        "a4": "madrid is the best team in the league, it will win in the next league",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "madrid is the best team in the league, it will win in the next league",
+        "a4_v2": "madrid is the best team in the league, it will win in the next league",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "atletico madrid"
+    },
+    {
+        "q5": "who is the star player in atletico madrid after antonio?",
+        "a5": "diego god\u00edn as the team's captain usurps antonio. ",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object as the team's @relation usurps antonio. ",
+        "a5_v2": "diego god\u00edn as the team's captain usurps antonio. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "atletico madrid"
+    }
+]

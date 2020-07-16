@@ -1,0 +1,71 @@
+[
+    {
+        "q1": "are there any other good scandinavian sides? ",
+        "a1": "yeah like iceland.",
+        "kgER1": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yeah like @entity",
+        "a1_v2": "yeah like iceland.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "if you like a lot, you have good defenses",
+        "a2": "yes very good",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes very good",
+        "a2_v2": "yes very good",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is the coach for sweden?",
+        "a3": "andersson is the coach.",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object is the @relation",
+        "a3_v2": "@coach is the coach",
+        "corr_rel3": "coach",
+        "obj3": "janne andersson",
+        "input_ent3": "sweden"
+    }
+]

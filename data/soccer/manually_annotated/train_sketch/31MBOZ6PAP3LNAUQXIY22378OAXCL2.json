@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "what 's the largest visitors number that watched brazil play in the stadium \\?",
+        "a1": "maracana seats 78 , 838 people",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "maracana seats @object , @object people",
+        "a1_v2": "maracana seats 78 , 838 people",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "who is the best player of brazil \\?",
+        "a2": "antoine allen , in my opinion",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "antoine allen , in my opinion",
+        "a2_v2": "antoine allen , in my opinion",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "brazil"
+    },
+    {
+        "q3": "who is the captain of brazil \\?",
+        "a3": "neymar is the captain",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object is the @relation",
+        "a3_v2": "@captain is the captain",
+        "corr_rel3": "captain",
+        "obj3": "neymar",
+        "input_ent3": "brazil"
+    },
+    {
+        "q4": "should brazil play america \\?",
+        "a4": "yes they should",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes they should",
+        "a4_v2": "yes they should",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "brazil"
+    },
+    {
+        "q5": "is a brazil is the best team",
+        "a5": "maybe brazil are the best team of all time , france , however , are the current world champions",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "maybe @entity are the best team of all time , @entity , however , are the current @relation",
+        "a5_v2": "maybe brazil are the best team of all time , france , however , are the current world champions",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "brazil"
+    }
+]

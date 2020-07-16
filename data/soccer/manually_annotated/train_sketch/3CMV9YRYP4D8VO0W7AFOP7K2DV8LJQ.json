@@ -1,0 +1,100 @@
+[
+    {
+        "q1": "what years was juergen klopp the coach of bvb dortmund \\?",
+        "a1": "2008 2015",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "2008 2015",
+        "a1_v2": "2008 2015",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "which month in 2008 did he start and which month did his tenure end in 2015 \\?",
+        "a2": "may , and october",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "may , and october",
+        "a2_v2": "may , and october",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "who is coaching them now",
+        "a3": "lucien favre is coaching them now",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object is @relation them now",
+        "a3_v2": "@coach is coach them now",
+        "corr_rel3": "coach",
+        "obj3": "lucien favre",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "how do you think he is doing with the team \\?",
+        "a4": "bvb dortmund flag is what color \\?",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "bvb dortmund flag is what color \\?",
+        "a4_v2": "bvb dortmund flag is what color \\?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "yellow and black",
+        "a5": "it 's a good looking kit",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "it 's a good looking kit",
+        "a5_v2": "it 's a good looking kit",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "yellow"
+    }
+]

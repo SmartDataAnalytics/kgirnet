@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "car is there any shopping_center nearby please show me a quick route to reach too",
+        "a1": "there is town_and_country 5_miles away and there should be no_traffic on our way",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi,distance",
+        "obj1": "5_miles,town_and_country",
+        "input_ent1": "shopping_center",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "town_and_country",
+            "no_traffic"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "town_and_country is at 383_university_ave",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "383_university_ave",
+        "input_ent2": "town_and_country",
+        "kvr_entlist_qa2": [
+            "town_and_country",
+            "383_university_ave"
+        ]
+    },
+    {
+        "q3": "set navigation for the quickest route possible",
+        "a3": "navigation set for quickest route",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thank you car",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

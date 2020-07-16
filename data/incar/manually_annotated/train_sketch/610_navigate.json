@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "find home address that is within the distance of 5_miles",
+        "a1": "your home is 3_miles away and there is no_traffic on our way i sent its position on your screen",
+        "input_rel1": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel1": "distance",
+        "obj1": "3_miles",
+        "input_ent1": "home",
+        "kvr_entlist_qa1": [
+            "no_traffic",
+            "home",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "you re welcome and stay safe",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

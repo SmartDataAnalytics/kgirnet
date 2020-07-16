@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "is there any traffic on the route home",
+        "a1": "there is currently no_traffic on the way to home 1_miles away",
+        "input_rel1": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel1": "traffic_info",
+        "obj1": "no_traffic",
+        "input_ent1": "home",
+        "kvr_entlist_qa1": [
+            "no_traffic",
+            "home",
+            "1_miles"
+        ]
+    },
+    {
+        "q2": "please confirm the address and give me directions via a quick route",
+        "a2": "the address is 10_ames_street and since there is no_traffic on our way you should be there in less than a couple minutes",
+        "input_rel2": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel2": "address",
+        "obj2": "10_ames_street",
+        "input_ent2": "home",
+        "kvr_entlist_qa2": [
+            "10_ames_street",
+            "no_traffic"
+        ]
+    },
+    {
+        "q3": "alrigth thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

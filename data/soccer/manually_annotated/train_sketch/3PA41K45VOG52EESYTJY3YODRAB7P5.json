@@ -1,0 +1,165 @@
+[
+    {
+        "q1": "switzerland played very well in the last match",
+        "a1": "they have certainly been worse in the past ",
+        "kgER1": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they have certainly been worse in the past ",
+        "a1_v2": "they have certainly been worse in the past ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "in which year did arsenal leave highbury to move to the emirates stadium? 2006, 2007 or 2008?  2006",
+        "a2": "how far did switzerland get in the last world cup?",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "emirates stadium": [
+                "ground",
+                "capacity"
+            ]
+        },
+        "a2_skt": "how far did @entity get in the last world cup?",
+        "a2_v2": "how far did switzerland get in the last world cup?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2006"
+    },
+    {
+        "q3": "he reached the first phase of eliminatory ",
+        "a3": "switzerland made a great run this year, too bad they lost to an easy team.",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "emirates stadium": [
+                "ground",
+                "capacity"
+            ]
+        },
+        "a3_skt": "@entity made a great run this year, too bad they lost to an easy team.",
+        "a3_v2": "switzerland made a great run this year, too bad they lost to an easy team.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "i bet the swiss football team is good.",
+        "a4": "they have not qualified for any major tournament since 1966.",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "emirates stadium": [
+                "ground",
+                "capacity"
+            ]
+        },
+        "a4_skt": "they have not qualified for any major tournament since @object",
+        "a4_v2": "they have not qualified for any major tournament since 1966.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "do you see them qualifying in the next few years?",
+        "a5": "yes, they have been getting better over the last ten years.",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "emirates stadium": [
+                "ground",
+                "capacity"
+            ]
+        },
+        "a5_skt": "yes, they have been getting better over the last ten years.",
+        "a5_v2": "yes, they have been getting better over the last ten years.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

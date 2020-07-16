@@ -1,0 +1,31 @@
+[
+    {
+        "q1": "what is the weather like right now",
+        "a1": "where are you wanting to know the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i want to know if it is humid in san_jose now",
+        "a2": "it is snowy in san_jose right now",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "snowy",
+        "input_ent2": "san_jose",
+        "kvr_entlist_qa2": [
+            "san_jose"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

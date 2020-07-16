@@ -1,0 +1,192 @@
+[
+    {
+        "q1": "on the belgium soccer team, what is courtois famous for? ",
+        "a1": "having a really long neck",
+        "kgER1": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "thibaut courtois": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "having a really long neck",
+        "a1_v2": "having a really long neck",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "belgium"
+    },
+    {
+        "q2": "courtois is the goalkeeper, and maybe the best in the world on his good days. he does not make very many mistakes.",
+        "a2": "this is also why he starts ahead of mignolet and other belgian goalkeepers.",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "thibaut courtois": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a2_skt": "this is also why he starts ahead of mignolet and other belgian @relation",
+        "a2_v2": "this is also why he starts ahead of mignolet and other belgian goalkeepers.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "goalkeeper"
+    },
+    {
+        "q3": "is he really better than mignolet though?",
+        "a3": "who there best striker",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "thibaut courtois": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "who there best striker",
+        "a3_v2": "who there best striker",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "simon mignolet"
+    },
+    {
+        "q4": "jan vertonghen hands down",
+        "a4": "isnt he defender?",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "thibaut courtois": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "jan vertonghen": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "isnt he @relation",
+        "a4_v2": "isnt he defender?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "jan vertonghen"
+    },
+    {
+        "q5": "i think he's a good player",
+        "a5": "belgica is the next candidate to win the world cup has in its staff many stars",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "thibaut courtois": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "jan vertonghen": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "belgica is the next candidate to win the world cup has in its staff many stars",
+        "a5_v2": "belgica is the next candidate to win the world cup has in its staff many stars",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

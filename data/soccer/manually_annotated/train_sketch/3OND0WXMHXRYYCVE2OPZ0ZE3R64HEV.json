@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "how many championships has real madrid won?",
+        "a1": "they've won 1 this century combined.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they've won @object this century combined.",
+        "a1_v2": "they've won 1 this century combined.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "is there any chance for them to win soon?",
+        "a2": "yes they have a chance every year; they are very competitive",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes they have a chance every year; they are very competitive",
+        "a2_v2": "yes they have a chance every year; they are very competitive",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": " if they put together a good team this year they have the chance to win another european title",
+        "a3": "lets see what the new coach does with current team. ",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "lets see what the new @relation does with current team. ",
+        "a3_v2": "lets see what the new coach does with current team. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "do u know? ",
+        "a4": "yes i do",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "yes i do",
+        "a4_v2": "yes i do",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "who is the new coach for madrid?",
+        "a5": "julen lopetegui is the current coach of real madrid.",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "julen lopetegui is the current @relation of @entity",
+        "a5_v2": "julen lopetegui is the current coach of real madrid.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

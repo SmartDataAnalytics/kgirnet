@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "what is the weather forecast in the city",
+        "a1": "which city are you asking about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i m going to corona",
+        "a2": "what day are you wanting the forecast for corona",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "corona",
+        "kvr_entlist_qa2": [
+            "corona"
+        ]
+    },
+    {
+        "q3": "i need the forecast for the whole week if possible",
+        "a3": "corona is going to be fairly cold at the beginning of the week with a blizzard in the forecast and rain the end of the week looks stormy but warmer",
+        "input_rel3": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel3": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj3": "blizzard, cold, rain, stormy",
+        "input_ent3": "corona",
+        "kvr_entlist_qa3": [
+            "blizzard",
+            "corona",
+            "cold",
+            "rain",
+            "week",
+            "stormy"
+        ]
+    },
+    {
+        "q4": "thanks so much for the information",
+        "a4": "you re welcome have a great day",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

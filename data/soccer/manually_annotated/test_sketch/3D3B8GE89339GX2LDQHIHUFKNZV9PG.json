@@ -1,0 +1,169 @@
+[
+    {
+        "q1": "diego costa plays in atletico madrid?",
+        "a1": "yes, diego costa plays for atletico madrid.",
+        "kgER1": {
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes, @object plays for @entity",
+        "a1_v2": "yes, diego costa plays for atletico madrid.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "do you think they have a chance to win la liga this year? ",
+        "a2": "athletico have a chance but barcelona and real madrid will be hard to beat.",
+        "kgER2": {
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "athletico have a chance but @entity and @entity will be hard to beat.",
+        "a2_v2": "athletico have a chance but barcelona and real madrid will be hard to beat.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "will filipe luis remain with athletico madrid or move to psg this season?",
+        "a3": "i think he'll stay in the team. the manager is a big fan of his",
+        "kgER3": {
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "filipe luis": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "i think he'll stay in the team. the manager is a big fan of his",
+        "a3_v2": "i think he'll stay in the team. the manager is a big fan of his",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "filipe luis"
+    },
+    {
+        "q4": "what is his net worth? ",
+        "a4": "about 16 million",
+        "kgER4": {
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "filipe luis": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "about @object million",
+        "a4_v2": "about 16 million",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what is the net worth of griezmann?",
+        "a5": "$19m",
+        "kgER5": {
+            "diego costa": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "filipe luis": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "$19m",
+        "a5_v2": "$19m",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "antoine griezmann"
+    }
+]

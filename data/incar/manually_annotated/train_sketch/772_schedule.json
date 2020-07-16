@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "i have a dinner when is it and who is attending",
+        "a1": "your dinner is the_13th at 7pm with your aunt",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "date,time,party",
+        "obj1": "7pm,aunt,the_13th",
+        "input_ent1": "dinner",
+        "kvr_entlist_qa1": [
+            "dinner",
+            "7pm",
+            "aunt",
+            "the_13th"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "happy to help",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

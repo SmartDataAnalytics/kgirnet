@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "take me to the closest starbucks",
+        "a1": "there is no starbucks nearby",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "do you have any local coffee shops",
+        "a2": "there is coupa it s just 6_miles away but there is heavy_traffic on our way",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "coupa",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "heavy_traffic",
+            "coupa",
+            "6_miles"
+        ]
+    },
+    {
+        "q3": "pick the fastest way and let s go there thank you",
+        "a3": "coupa is located at 394_van_ness_ave setting the fastest route on gps",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "poi",
+        "obj3": "coupa",
+        "input_ent3": "coffee_or_tea_place",
+        "kvr_entlist_qa3": [
+            "coupa",
+            "394_van_ness_ave"
+        ]
+    },
+    {
+        "q4": "thank you",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

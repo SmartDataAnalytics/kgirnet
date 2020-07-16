@@ -1,0 +1,204 @@
+[
+    {
+        "q1": "who is the best player of uruguay?",
+        "a1": "luis suarez is their best current player.",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object is their best current player.",
+        "a1_v2": "luis suarez is their best current player.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": "suarez is getting older. what younger player could replace him?",
+        "a2": "uruguay doesn\u2019t have any young players. ",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity doesn\u2019t have any young players. ",
+        "a2_v2": "uruguay doesn\u2019t have any young players. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "luis suarez"
+    },
+    {
+        "q3": "what about rodrigo bentancur?",
+        "a3": "he is good, but must develop more to be considered in suarez's class",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "rodrigo bentancur": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "rodrigo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "he is good, but must develop more to be considered in suarez's class",
+        "a3_v2": "he is good, but must develop more to be considered in suarez's class",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "rodrigo bentancur"
+    },
+    {
+        "q4": "did you expect suarez from uruguay to do something dumb in the russian 2018 world cup?",
+        "a4": "no i don't expect him to do anything dumb, however people are people",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "rodrigo bentancur": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "rodrigo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "no i don't expect him to do anything dumb, however people are people",
+        "a4_v2": "no i don't expect him to do anything dumb, however people are people",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "2018"
+    },
+    {
+        "q5": "who, on another team, do you consider to be in suarez's class?  ",
+        "a5": "ronaldo, would be in the same class but at the top of the class.",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "rodrigo bentancur": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "rodrigo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "ronaldo, would be in the same class but at the top of the class.",
+        "a5_v2": "ronaldo, would be in the same class but at the top of the class.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "luis suarez"
+    }
+]

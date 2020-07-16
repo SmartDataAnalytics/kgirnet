@@ -1,0 +1,132 @@
+[
+    {
+        "q1": "who is the second top goalscorer of psg?",
+        "a1": "neymar",
+        "kgER1": {},
+        "a1_skt": "@object",
+        "a1_v2": "neymar",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "will neymar stay with paris sg through this season?",
+        "a2": "i think psg will retain neymar this season",
+        "kgER2": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i think psg will retain @object this season",
+        "a2_v2": "i think psg will retain neymar this season",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "paris sg"
+    },
+    {
+        "q3": "is psg a known team?",
+        "a3": "yes they are",
+        "kgER3": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "yes they are",
+        "a3_v2": "yes they are",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "how many times has paris sg made it to the world cup?",
+        "a4": "paris sg is not a nationa team, so there's no way this team can partisipate in world cup",
+        "kgER4": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "paris sg is not a nationa team, so there's no way this team can partisipate in world cup",
+        "a4_v2": "paris sg is not a nationa team, so there's no way this team can partisipate in world cup",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "paris sg"
+    },
+    {
+        "q5": "who is the best player in paris sg?",
+        "a5": "edison cavani",
+        "kgER5": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "edison cavani",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "paris sg"
+    }
+]

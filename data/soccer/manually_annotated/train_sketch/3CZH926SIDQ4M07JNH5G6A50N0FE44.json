@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "kaka plays in brazil \\?",
+        "a1": "he use to",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "he use to",
+        "a1_v2": "he use to",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "how many world cups have brazil won \\?",
+        "a2": "they have won 5 world cups",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they have won @object world cups",
+        "a2_v2": "they have won @number_of_world_cup_champion world cups",
+        "corr_rel2": "number of world cup champion",
+        "obj2": "5",
+        "input_ent2": "brazil"
+    },
+    {
+        "q3": "what is brazil 's mascot \\?",
+        "a3": "i am not sure about that",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i am not sure about that",
+        "a3_v2": "i am not sure about that",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "brazil"
+    },
+    {
+        "q4": "has brazil ever lost a world cup championship \\?",
+        "a4": "yes brazil lost to germany in 2014",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes @entity lost to @entity in @object",
+        "a4_v2": "yes brazil lost to germany in 2014",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "brazil"
+    },
+    {
+        "q5": "what are the potential of the team \\?",
+        "a5": "they have good foundations going forward",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they have good foundations going @relation",
+        "a5_v2": "they have good foundations going forward",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

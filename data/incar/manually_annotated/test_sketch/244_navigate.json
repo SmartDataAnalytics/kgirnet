@@ -1,0 +1,39 @@
+[
+    {
+        "q1": "give me directions to the closest grocery_store",
+        "a1": "there are whole_foods 2_miles away and sigona_farmers_market 4_miles away where do we go",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "obj1": "sigona_farmers_market,4_miles",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "sigona_farmers_market",
+            "whole_foods",
+            "2_miles",
+            "4_miles"
+        ]
+    },
+    {
+        "q2": "i need the one that avoids all heavy_traffic",
+        "a2": "sigona_farmers_market is located 4_miles away with no_traffic it s located at 638_amherst_st",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "sigona_farmers_market,638_amherst_st",
+        "input_ent2": "grocery_store",
+        "kvr_entlist_qa2": [
+            "sigona_farmers_market",
+            "4_miles",
+            "638_amherst_st",
+            "no_traffic"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "great glad i could help have a great day we will be there soon",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

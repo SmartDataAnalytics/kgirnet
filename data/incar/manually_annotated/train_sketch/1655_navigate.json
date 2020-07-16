@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "where can i get groceries",
+        "a1": "whole_foods and sigona_farmers_market are close",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "whole_foods",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "whole_foods",
+            "sigona_farmers_market"
+        ]
+    },
+    {
+        "q2": "are they within 3_miles",
+        "a2": "whole_foods is 2_miles away",
+        "input_rel2": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel2": "distance",
+        "obj2": "whole_foods,2_miles",
+        "input_ent2": "3_miles",
+        "kvr_entlist_qa2": [
+            "whole_foods",
+            "2_miles"
+        ]
+    },
+    {
+        "q3": "is there any traffic on the way to whole_foods",
+        "a3": "whole_foods has heavy_traffic noted on the way would you like somewhere else",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "traffic_info",
+        "obj3": "heavy_traffic",
+        "input_ent3": "whole_foods",
+        "kvr_entlist_qa3": [
+            "whole_foods",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q4": "it s okay let s go there just pick the best available route thank you",
+        "a4": "i sent the info on your gps you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

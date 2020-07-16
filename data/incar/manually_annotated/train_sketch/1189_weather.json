@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "will the weather be warm tomorrow in los_angeles",
+        "a1": "in los_angeles on tuesday the day will be warm with a high of 70f",
+        "input_rel1": "party",
+        "corr_rel1": "tuesday",
+        "obj1": "warm,70f",
+        "input_ent1": "los_angeles",
+        "kvr_entlist_qa1": [
+            "los_angeles",
+            "warm",
+            "70f",
+            "tuesday"
+        ]
+    },
+    {
+        "q2": "alright thank you",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

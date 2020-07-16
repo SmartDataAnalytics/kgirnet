@@ -1,0 +1,55 @@
+[
+    {
+        "q1": "can you find me the closest hospital to me",
+        "a1": "the closest hospital stanford_express_care is 8_miles from your location",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "stanford_express_care",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "stanford_express_care",
+            "hospital",
+            "8_miles"
+        ]
+    },
+    {
+        "q2": "how s the traffic",
+        "a2": "there is a car_collision_nearby",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "",
+        "input_ent2": "stanford_express_care",
+        "kvr_entlist_qa2": [
+            "car_collision_nearby"
+        ]
+    },
+    {
+        "q3": "can we avoid the collision",
+        "a3": "yes i can help you avoid the collision",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "great please give me the address and details via the quickest route",
+        "a4": "the address is 214_el_camino_real i highlighted it on your map together with the quickest route",
+        "input_rel4": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel4": "",
+        "obj4": "214_el_camino_real",
+        "input_ent4": "stanford_express_care",
+        "kvr_entlist_qa4": [
+            "214_el_camino_real"
+        ]
+    },
+    {
+        "q5": "thank you car you rock",
+        "a5": "you re welcome have a great day",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

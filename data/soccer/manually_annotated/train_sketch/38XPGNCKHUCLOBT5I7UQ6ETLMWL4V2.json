@@ -1,0 +1,99 @@
+[
+    {
+        "q1": "oh, does milan have it's own soccer team?",
+        "a1": "yes, they have 2 major teams, one of them is ac milan and was founded in 1899. ",
+        "kgER1": {},
+        "a1_skt": "yes, they have @object major teams, one of them is ac milan and was @relation in @object ",
+        "a1_v2": "yes, they have 2 major teams, one of them is ac milan and was founded in 1899. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "when was the other founded?",
+        "a2": "inter milan in 1908.",
+        "kgER2": {},
+        "a2_skt": "inter milan in 1908.",
+        "a2_v2": "inter milan in 1908.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "why is inter the best club in italy?",
+        "a3": "ac milan used to be a powerhouse in italy. that is no longer the case. ",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "ac milan used to be a powerhouse in italy. that is no longer the case. ",
+        "a3_v2": "ac milan used to be a powerhouse in italy. that is no longer the case. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "italy"
+    },
+    {
+        "q4": "we\u2019re do they play there home games",
+        "a4": "i think yes at home",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i think yes at home",
+        "a4_v2": "i think yes at home",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "when do ac milan next play? ",
+        "a5": "their season opener is in the spring.",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "their season opener is in the spring.",
+        "a5_v2": "their season opener is in the spring.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ac milan"
+    }
+]

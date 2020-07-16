@@ -1,0 +1,195 @@
+[
+    {
+        "q1": "tony kroos' goal in the world cup was marvelous. ",
+        "a1": "i agree, i watched it multiple times on youtube.",
+        "kgER1": {
+            "andrew robertson": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "toni kroos": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "i agree, i watched it multiple times on youtube.",
+        "a1_v2": "i agree, i watched it multiple times on youtube.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "unfortunatly germany sucked ass this world cup.",
+        "a2": "i think they'll get back on their feet really quick.",
+        "kgER2": {
+            "andrew robertson": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "toni kroos": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i think they'll get back on their feet really quick.",
+        "a2_v2": "i think they'll get back on their feet really quick.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "germany"
+    },
+    {
+        "q3": "which world cup is the conversation being held on?",
+        "a3": "i think we're talking about the latest one - 2018",
+        "kgER3": {
+            "andrew robertson": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "toni kroos": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think we're talking about the latest one - @object",
+        "a3_v2": "i think we're talking about the latest one - 2018",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what do you think about ozil leaving the germany national soccer team?",
+        "a4": "ozil was no longer taken into account in the national team of germany i think he did the right thing ",
+        "kgER4": {
+            "andrew robertson": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "toni kroos": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "ozil was no longer taken into account in the national team of @entity i think he did the right thing ",
+        "a4_v2": "ozil was no longer taken into account in the national team of germany i think he did the right thing ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "germany"
+    },
+    {
+        "q5": "germany is the honest team.",
+        "a5": "germany has a great planter ",
+        "kgER5": {
+            "andrew robertson": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "toni kroos": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity has a great planter ",
+        "a5_v2": "germany has a great planter ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "germany"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "q1": "remind me what s planned for the meeting today",
+        "a1": "you have 2 meeting scheduled today to discuss_the_company_picnic",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "agenda",
+        "obj1": "discuss_the_company_picnic,table",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "meeting",
+            "discuss_the_company_picnic",
+            "today"
+        ]
+    },
+    {
+        "q2": "what is my agenda today",
+        "a2": "you have a meeting with the sales_team to discuss_the_company_picnic on friday at 2pm in conference_room_100",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "sales_team",
+            "2pm",
+            "conference_room_100",
+            "meeting",
+            "discuss_the_company_picnic",
+            "friday"
+        ]
+    },
+    {
+        "q3": "okay that solves it",
+        "a3": "okay",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

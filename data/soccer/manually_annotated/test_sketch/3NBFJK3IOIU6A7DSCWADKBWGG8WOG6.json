@@ -1,0 +1,130 @@
+[
+    {
+        "q1": "does cristiano ronaldo is a part of this team?",
+        "a1": "yes, cristiano just transferred to juventus.",
+        "kgER1": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes, cristiano just transferred to @entity",
+        "a1_v2": "yes, cristiano just transferred to juventus.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "cristiano ronaldo"
+    },
+    {
+        "q2": "ronaldo will be playing in seria a",
+        "a2": "if that is a question, yes he will e playing in seria a",
+        "kgER2": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "if that is a question, yes he will e playing in seria a",
+        "a2_v2": "if that is a question, yes he will e playing in seria a",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "cristiano ronaldo"
+    },
+    {
+        "q3": "can ronald take them to european success?",
+        "a3": "definitely, they have been close a few times recently.",
+        "kgER3": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "definitely, they have been close a few times recently.",
+        "a3_v2": "definitely, they have been close a few times recently.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    },
+    {
+        "q4": "how many more wins will juventus have this year now that they have ronaldo",
+        "a4": "it depends. one player alone does not make a whole team ",
+        "kgER4": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "it depends. one player alone does not make a whole team ",
+        "a4_v2": "it depends. one player alone does not make a whole team ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "juventus"
+    },
+    {
+        "q5": "but ronaldo will definitely increase the overall chances for the team, right?",
+        "a5": "one of the best players in the world he better increase the odds.",
+        "kgER5": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "one of the best players in the world he better increase the odds.",
+        "a5_v2": "one of the best players in the world he better increase the odds.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "cristiano ronaldo"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "i want tea",
+        "a1": "i have a location for a place that serves tea that is 5_miles away you need more info",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "distance",
+        "obj1": "5_miles",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "5_miles"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "palo_alto_cafe is located at 436_alger_dr  want me to set the gps",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "436_alger_dr",
+        "input_ent2": "palo_alto_cafe",
+        "kvr_entlist_qa2": [
+            "palo_alto_cafe"
+        ]
+    },
+    {
+        "q3": "yes please thank you",
+        "a3": "you re welcome glad i could help you",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

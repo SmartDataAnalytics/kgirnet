@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "what is the first world cup finals switzerland played in?",
+        "a1": "very good team",
+        "kgER1": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "which team did switzerland beat during its first world cup final?",
+        "a2": "switzerland is a tough team to play against really good defense",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity is a tough team to play against really good @relation",
+        "a2_v2": "switzerland is a tough team to play against really good defense",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "switzerland"
+    },
+    {
+        "q3": "i agree and they have a great defense and use the midfield to their advantage.",
+        "a3": "i think you havent mentionned their crafty forwards too",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think you havent mentionned their crafty @relation too",
+        "a3_v2": "i think you havent mentionned their crafty forwards too",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "white and red"
+    },
+    {
+        "q4": "embolo is switzerlands biggest talent?",
+        "a4": "yes, i read he is projected to be the most talented player this year!",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes, i @object he is projected to be the most talented player this year!",
+        "a4_v2": "yes, i read he is projected to be the most talented player this year!",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "breel embolo"
+    },
+    {
+        "q5": "what is switzerland's win/loss record?",
+        "a5": "they won against japan and serbia",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they won against japan and serbia",
+        "a5_v2": "they won against japan and serbia",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "switzerland"
+    }
+]

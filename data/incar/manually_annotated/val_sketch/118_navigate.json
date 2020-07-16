@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "where is a hospital in the area",
+        "a1": "i have a listing for a hospital named stanford_childrens_health and its 5_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "stanford_childrens_health,5_miles",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "hospital",
+            "stanford_childrens_health"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "its address is 899_ames_ct unfortunately there is heavy_traffic on our way what to do",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "899_ames_ct",
+        "input_ent2": "stanford_childrens_health",
+        "kvr_entlist_qa2": [
+            "heavy_traffic",
+            "899_ames_ct"
+        ]
+    },
+    {
+        "q3": "that is ok thanks",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

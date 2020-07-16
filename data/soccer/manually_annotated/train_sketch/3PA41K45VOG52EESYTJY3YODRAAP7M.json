@@ -1,0 +1,124 @@
+[
+    {
+        "q1": "which year did liverpool won their last champions league title?",
+        "a1": "liverpools last uefa champions league title win was in 2005.",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity last uefa champions league title win was in 2005.",
+        "a1_v2": "liverpools last uefa champions league title win was in 2005.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "they should've won this year tho",
+        "a2": "they need to invest more in their players",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they need to invest more in their players",
+        "a2_v2": "they need to invest more in their players",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "will mohamed salah carry liverpool again?",
+        "a3": "i don't think he's an elite world class player",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "mohamed salah": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "i don't think he's an elite world @relation",
+        "a3_v2": "i don't think he's an elite world class player",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mohamed salah"
+    },
+    {
+        "q4": "why not? he did very well in the world cup",
+        "a4": "does liverpool or manchester united has the better fans?",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "mohamed salah": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "does @entity or @entity has the better fans?",
+        "a4_v2": "does liverpool or manchester united has the better fans?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "is their a certain manufacture of balls you prefer over another?",
+        "a5": "not exactly, but nike does have to be noted for making really good balls.",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "mohamed salah": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "not exactly, but nike does have to be noted for making really good balls.",
+        "a5_v2": "not exactly, but nike does have to be noted for making really good balls.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

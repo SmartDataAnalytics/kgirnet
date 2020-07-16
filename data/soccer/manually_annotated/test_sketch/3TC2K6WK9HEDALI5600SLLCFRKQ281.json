@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "who is your favorite player in croatian team?",
+        "a1": "they're all great it's hard to choose!",
+        "kgER1": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they're all great it's hard to choose!",
+        "a1_v2": "they're all great it's hard to choose!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "could you choose a favorite keeper for croatia?",
+        "a2": "lovre kalinic is my favorite keeper.",
+        "kgER2": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object is my favorite keeper.",
+        "a2_v2": "lovre kalinic is my favorite keeper.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "croatia"
+    },
+    {
+        "q3": "my favorite croatian player is rebic",
+        "a3": "why is that?",
+        "kgER3": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "why is that?",
+        "a3_v2": "why is that?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ante rebic"
+    },
+    {
+        "q4": "croatian player ante rebi\u0107 paid all loans of the local residents ..",
+        "a4": "true, he's a good guy and solid player",
+        "kgER4": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "true, he's a good guy and solid player",
+        "a4_v2": "true, he's a good guy and solid player",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ante rebic"
+    },
+    {
+        "q5": "the best is mario mandzukic",
+        "a5": "mario has dominated yeah.",
+        "kgER5": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "mario mandzukic": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "mario has dominated yeah.",
+        "a5_v2": "mario has dominated yeah.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "mario mandzukic"
+    }
+]

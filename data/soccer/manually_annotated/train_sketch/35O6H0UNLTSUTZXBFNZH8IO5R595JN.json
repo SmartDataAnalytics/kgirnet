@@ -1,0 +1,123 @@
+[
+    {
+        "q1": "does italy soccer differ than england soccer?",
+        "a1": "no - it's all the same game played by the same rules ",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "no - it's all the same game played by the same rules ",
+        "a1_v2": "no - it's all the same game played by the same rules ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "is soccer more popular in italy than in england?",
+        "a2": "no. soccer is more popular in england than italy.",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no. soccer is more popular in england than italy.",
+        "a2_v2": "no. soccer is more popular in england than italy.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "who is italy's best player?",
+        "a3": "who did italy play against",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "who did @entity play against",
+        "a3_v2": "who did italy play against",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "italy"
+    },
+    {
+        "q4": "considered as the lynchpin of the italian side, 35-year-old andrea pirlo has been likened in the past to an aging wine, because his effortless classiness on the pitch improves with age.",
+        "a4": "if pirlo still played they\u2019d have been at the world cup",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "if pirlo still played they\u2019d have been at the world cup",
+        "a4_v2": "if pirlo still played they\u2019d have been at the world cup",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "old trafford"
+    },
+    {
+        "q5": "how  can u say? ",
+        "a5": "yes,pirlo  has  many improvment",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "yes,pirlo  has  many improvment",
+        "a5_v2": "yes,pirlo  has  many improvment",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "emre can"
+    }
+]

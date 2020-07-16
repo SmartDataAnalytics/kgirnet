@@ -1,0 +1,26 @@
+[
+    {
+        "q1": "what is the time and date of my doctor_appointment",
+        "a1": "you have two doctor_appointment set one on the_2nd at 2pm and one on the_13th at 1pm",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "time,date",
+        "obj1": "the_2nd,2pm,the_13th,1pm",
+        "input_ent1": "doctor_appointment",
+        "kvr_entlist_qa1": [
+            "the_2nd",
+            "doctor_appointment",
+            "2pm",
+            "the_13th",
+            "1pm"
+        ]
+    },
+    {
+        "q2": "that solves it thanks !\\",
+        "a2": "no problem",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

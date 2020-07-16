@@ -1,0 +1,105 @@
+[
+    {
+        "q1": "real madrid is the most expensive club in the world, right?",
+        "a1": "real madrid are one of the most expensive clubs.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity are one of the most expensive clubs.",
+        "a1_v2": "real madrid are one of the most expensive clubs.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "yes they have some riches",
+        "a2": "they spend it on premium players.",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they spend it on premium players.",
+        "a2_v2": "they spend it on premium players.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is the most expensive player they have ever bought? ",
+        "a3": "i think it's cristiano ronaldo.",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think it's @object",
+        "a3_v2": "i think it's cristiano ronaldo.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ever banega"
+    },
+    {
+        "q4": "how much did they pay for christiano ronaldo?",
+        "a4": "100 mill to juventus",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object mill to @entity",
+        "a4_v2": "100 mill to juventus",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "cristiano ronaldo"
+    },
+    {
+        "q5": "didn't they purchase ronaldo originally from manchester united?",
+        "a5": "yes they did and they bought from sporting",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes they did and they bought from sporting",
+        "a5_v2": "yes they did and they bought from sporting",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "manchester united"
+    }
+]

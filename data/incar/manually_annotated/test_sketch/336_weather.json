@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "which temperature there will be in alhambra on thursday",
+        "a1": "on thursday the temperature in alhambra will be low of 20f and high of 30f",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "thursday",
+        "obj1": "20f,30f",
+        "input_ent1": "alhambra",
+        "kvr_entlist_qa1": [
+            "alhambra",
+            "thursday",
+            "30f",
+            "20f"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "happy to help",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

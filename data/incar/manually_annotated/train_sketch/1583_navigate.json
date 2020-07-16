@@ -1,0 +1,56 @@
+[
+    {
+        "q1": "where can i get coffee",
+        "a1": "we re 2_miles away from coupa and 3_miles away from starbucks do you have any preference",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "starbucks,coupa",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "starbucks",
+            "2_miles",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "the one with less traffic",
+        "a2": "that is starbucks",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "starbucks",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "starbucks"
+        ]
+    },
+    {
+        "q3": "what is the address",
+        "a3": "starbucks is at 792_bedoin_street do you want me to set the gps",
+        "input_rel3": "address",
+        "corr_rel3": "address",
+        "obj3": "792_bedoin_street",
+        "input_ent3": "starbucks",
+        "kvr_entlist_qa3": [
+            "792_bedoin_street",
+            "starbucks"
+        ]
+    },
+    {
+        "q4": "yes please thanks",
+        "a4": "okay i will set the gps",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    },
+    {
+        "q5": "thank you car",
+        "a5": "you re welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

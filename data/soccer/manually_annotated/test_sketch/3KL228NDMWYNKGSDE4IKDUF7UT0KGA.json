@@ -1,0 +1,68 @@
+[
+    {
+        "q1": "good short ",
+        "a1": "the iceland team is fierce this year",
+        "kgER1": {},
+        "a1_skt": "the @entity team is fierce this year",
+        "a1_v2": "the iceland team is fierce this year",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "they are, aren't they? how far do you think they'll go?",
+        "a2": "i don't think they'll go far",
+        "kgER2": {},
+        "a2_skt": "i don't think they'll go far",
+        "a2_v2": "i don't think they'll go far",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "who beat iceland to send them home?",
+        "a3": "croatia, peru and nigeria beat iceland",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity peru and @entity beat @entity",
+        "a3_v2": "croatia, peru and nigeria beat iceland",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "iceland"
+    },
+    {
+        "q4": "what were the scores?",
+        "a4": "peru 3-1 croatia 2-1 nigeria 2-0",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "peru @object @entity @object @entity @object",
+        "a4_v2": "peru 3-1 croatia 2-1 nigeria 2-0",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    }
+]

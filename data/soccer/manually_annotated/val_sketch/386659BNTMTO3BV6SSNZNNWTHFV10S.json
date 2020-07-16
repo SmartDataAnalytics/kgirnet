@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "were you surprised about switzerland's run in the last world cup?",
+        "a1": "i think that if they gave very good games and played very well",
+        "kgER1": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i think that if they gave very good games and played very well",
+        "a1_v2": "i think that if they gave very good games and played very well",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "how many times has switzerland played in the world cup?",
+        "a2": "switzerland has played in the world cup 11 times.",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity has played in the world cup @object times.",
+        "a2_v2": "switzerland has played in the world cup 11 times.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "switzerland"
+    },
+    {
+        "q3": "how much cost switzerland kit?",
+        "a3": "$100",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "$100",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "switzerland"
+    },
+    {
+        "q4": "who is switzerland's most capped player? ",
+        "a4": "shaqiri is a limited player for switzerland",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object is a limited player for @entity",
+        "a4_v2": "@has_player is a limited player for @entity",
+        "corr_rel4": "has player",
+        "obj4": "xherdan shaqiri",
+        "input_ent4": "switzerland"
+    },
+    {
+        "q5": "what is the furthest switzerland have gone in the world cup?",
+        "a5": "till quarter finals",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "till quarter finals",
+        "a5_v2": "till quarter finals",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "switzerland"
+    }
+]

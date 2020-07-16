@@ -1,0 +1,27 @@
+[
+    {
+        "q1": "is it gonna rain in manhattan today and tomorrow",
+        "a1": "no it won t rain in manhattan in next two_days the weather will be dry today and clear_skies tomorrow",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "monday,tuesday",
+        "obj1": "dry,clear,skies",
+        "input_ent1": "manhattan",
+        "kvr_entlist_qa1": [
+            "clear_skies",
+            "dry",
+            "today",
+            "rain",
+            "tomorrow",
+            "manhattan"
+        ]
+    },
+    {
+        "q2": "thank you",
+        "a2": "glad i could help out",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

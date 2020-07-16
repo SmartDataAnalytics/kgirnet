@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "where s parking",
+        "a1": "the nearest one is dish_parking it s 5_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "dish_parking",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "dish_parking"
+        ]
+    },
+    {
+        "q2": "can you get me a route that avoids all heavy_traffic",
+        "a2": "dish_parking has heavy_traffic and is the only local one is it okay",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "dish_parking",
+        "input_ent2": "parking_garage",
+        "kvr_entlist_qa2": [
+            "heavy_traffic",
+            "dish_parking"
+        ]
+    },
+    {
+        "q3": "yes get me the address",
+        "a3": "the address to dish_parking is 550_alester_ave",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "",
+        "obj3": "550_alester_ave",
+        "input_ent3": "dish_parking",
+        "kvr_entlist_qa3": [
+            "550_alester_ave",
+            "dish_parking"
+        ]
+    },
+    {
+        "q4": "thanks so much",
+        "a4": "bye for now",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "what is the best player in chelsea?",
+        "a1": "in my opinion it is definitely \tolivier giroud.",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "in my opinion it is definitely \tolivier @relation",
+        "a1_v2": "in my opinion it is definitely \tolivier giroud.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "what country is he from?",
+        "a2": "he's from france.",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "he's from @entity",
+        "a2_v2": "he's from france.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is better than chelsea?",
+        "a3": "for me, william",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "for me, william",
+        "a3_v2": "for me, william",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "chelsea"
+    },
+    {
+        "q4": "who is the chelsea keeper?",
+        "a4": "the bilbao keeper cnt remember his name",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "the bilbao keeper cnt remember his name",
+        "a4_v2": "the bilbao keeper cnt remember his name",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "chelsea"
+    },
+    {
+        "q5": "chelsea #1 keeper is kepa",
+        "a5": "chelsea has a great keeper",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "@entity has a great keeper",
+        "a5_v2": "chelsea has a great keeper",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "chelsea"
+    }
+]

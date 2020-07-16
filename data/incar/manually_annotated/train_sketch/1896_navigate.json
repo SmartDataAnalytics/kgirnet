@@ -1,0 +1,59 @@
+[
+    {
+        "q1": "navigate to my friend s home please",
+        "a1": "do you know the address of friend s home",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "home"
+        ]
+    },
+    {
+        "q2": "actually i need to go home the quickest route please",
+        "a2": "the quickest route home is 4_miles away with heavy_traffic located at 5671_barringer_street",
+        "input_rel2": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel2": "address",
+        "obj2": "5671_barringer_street4_miles",
+        "input_ent2": "home",
+        "kvr_entlist_qa2": [
+            "home",
+            "5671_barringer_street",
+            "4_miles",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "the quickest route to home is in heavy_traffic",
+        "input_rel3": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel3": "",
+        "obj3": "none",
+        "input_ent3": "home",
+        "kvr_entlist_qa3": [
+            "home",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q4": "ok well set the gps to there please",
+        "a4": "setting navigation to 5671_barringer_street now",
+        "input_rel4": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel4": "address",
+        "obj4": "5671_barringer_street",
+        "input_ent4": "home",
+        "kvr_entlist_qa4": [
+            "5671_barringer_street"
+        ]
+    },
+    {
+        "q5": "thank you so much car",
+        "a5": "you re welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

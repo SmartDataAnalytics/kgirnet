@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "love switzerland",
+        "a1": "yeah, switzerland is awesome, especially with all their high-altitude soccer. i don't know how they do it, but that ball never touches the ground when they play!",
+        "kgER1": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yeah, @entity is awesome, especially with all their high-altitude soccer. i don't know how they do it, but that ball never touches the @relation when they play!",
+        "a1_v2": "yeah, switzerland is awesome, especially with all their high-altitude soccer. i don't know how they do it, but that ball never touches the ground when they play!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "who is their best scorer? ",
+        "a2": "he was traded to liverpool but he was a star.",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "he was traded to @entity but he was a star.",
+        "a2_v2": "he was traded to liverpool but he was a star.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "do you think switzerland could ever win the wc? ",
+        "a3": "i think that they do not play well enough at the moment to win",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think that they do not play well enough at the moment to win",
+        "a3_v2": "i think that they do not play well enough at the moment to win",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "switzerland"
+    },
+    {
+        "q4": "i think they do not play well",
+        "a4": "they can win every team is able to win wc.",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they can win every team is able to win wc.",
+        "a4_v2": "they can win every team is able to win wc.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "who is the best player on switzerland?",
+        "a5": "shaqiri may be their best player",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "shaqiri may be their @relation",
+        "a5_v2": "shaqiri may be their best player",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "switzerland"
+    }
+]

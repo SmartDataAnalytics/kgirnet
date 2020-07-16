@@ -1,0 +1,39 @@
+[
+    {
+        "q1": "is it raining today",
+        "a1": "today it is only raining in compton and atherton",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "compton",
+            "today",
+            "atherton"
+        ]
+    },
+    {
+        "q2": "so no rain in los_angeles today then",
+        "a2": "today is gonna be frost in los_angeles with low temperature of 30f and high of 40f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "frost,30f,40f",
+        "input_ent2": "los_angeles",
+        "kvr_entlist_qa2": [
+            "frost",
+            "today",
+            "40f",
+            "los_angeles",
+            "30f"
+        ]
+    },
+    {
+        "q3": "great thank you",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

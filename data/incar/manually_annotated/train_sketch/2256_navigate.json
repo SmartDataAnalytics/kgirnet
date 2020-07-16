@@ -1,0 +1,63 @@
+[
+    {
+        "q1": "give me directions to a place to sleep",
+        "a1": "there are the four_seasons hotel 2_miles away and the_westin 5_miles from here which one do you prefer",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "four_seasons",
+            "the_westin",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "give me the address of westin",
+        "a2": "the_westin hotel is at 329_el_camino_real it s 5_miles away and there is heavy_traffic on the route",
+        "input_rel2": "car_collision_nearby,moderate_traffic,poi,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "address",
+        "obj2": "329_el_camino_real",
+        "input_ent2": "the_westin",
+        "kvr_entlist_qa2": [
+            "5_miles",
+            "329_el_camino_real",
+            "the_westin",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "thanks how s the traffic to the four_seasons",
+        "a3": "four_seasons has moderate_traffic is that okay",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "traffic_info",
+        "obj3": "moderate_traffic",
+        "input_ent3": "four_seasons",
+        "kvr_entlist_qa3": [
+            "four_seasons",
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q4": "give me the address to the four_seasons instead and set the gps to the quickest route",
+        "a4": "the address of the four_seasons is 465_arcadia_pl gps set to the quickest route to the four_seasons",
+        "input_rel4": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel4": "address",
+        "obj4": "465_arcadia_pl",
+        "input_ent4": "four_seasons",
+        "kvr_entlist_qa4": [
+            "four_seasons",
+            "465_arcadia_pl"
+        ]
+    },
+    {
+        "q5": "thank you car",
+        "a5": "you re welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

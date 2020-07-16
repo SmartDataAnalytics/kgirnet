@@ -1,0 +1,96 @@
+[
+    {
+        "q1": "how many goals in average does your team make per game?",
+        "a1": "something like 2",
+        "kgER1": {
+            "avram glazer": [
+                "chairman"
+            ]
+        },
+        "a1_skt": "something like @object",
+        "a1_v2": "something like 2",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "what is the documentary about them called?",
+        "a2": "inside a volcano",
+        "kgER2": {
+            "avram glazer": [
+                "chairman"
+            ]
+        },
+        "a2_skt": "inside a volcano",
+        "a2_v2": "inside a volcano",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what is it about?",
+        "a3": "iceland is a good team, it could improve ",
+        "kgER3": {
+            "avram glazer": [
+                "chairman"
+            ]
+        },
+        "a3_skt": "@entity is a good team, it could improve ",
+        "a3_v2": "iceland is a good team, it could improve ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "iceland have overachieved this year",
+        "a4": "mention the goalkeeper on iceland team",
+        "kgER4": {
+            "avram glazer": [
+                "chairman"
+            ],
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "mention the @relation on @entity team",
+        "a4_v2": "mention the goalkeeper on iceland team",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "iceland"
+    },
+    {
+        "q5": "how many times have they qualified to the wc?",
+        "a5": "only 1",
+        "kgER5": {
+            "avram glazer": [
+                "chairman"
+            ],
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "only @object",
+        "a5_v2": "only 1",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

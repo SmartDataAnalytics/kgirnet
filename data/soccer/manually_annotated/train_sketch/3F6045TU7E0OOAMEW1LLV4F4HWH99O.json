@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "love sweden",
+        "a1": "sweden have gotten better after zlatan retired from international football.",
+        "kgER1": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity have gotten better after zlatan retired from international football.",
+        "a1_v2": "sweden have gotten better after zlatan retired from international football.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "sweden"
+    },
+    {
+        "q2": "not so sure about that, didn't they just barely qualify for the world cup? ",
+        "a2": "yeah but they showed some good games in the last world cup",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yeah but they showed some good games in the last world cup",
+        "a2_v2": "yeah but they showed some good games in the last world cup",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "do they have another zlatan in the youth system?",
+        "a3": "not a chance have they",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "not a chance have they",
+        "a3_v2": "not a chance have they",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "do you think sweden will make it into the next world cup?",
+        "a4": "i think sweden would come to the world cup ",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i think @entity would come to the world cup ",
+        "a4_v2": "i think sweden would come to the world cup ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "sweden"
+    },
+    {
+        "q5": "has sweden ever played in iceland?",
+        "a5": "yes preseason 2010.",
+        "kgER5": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes preseason @object",
+        "a5_v2": "yes preseason 2010.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "sweden"
+    }
+]

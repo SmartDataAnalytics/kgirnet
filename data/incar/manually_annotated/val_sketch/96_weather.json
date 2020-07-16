@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "is it going to be raining this weekend",
+        "a1": "what city are you inquiring about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "alhambra please",
+        "a2": "it will be raining on saturday and hailing on sunday in alhambra",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "saturday,sunday",
+        "obj2": "raining, hailing",
+        "input_ent2": "alhambra",
+        "kvr_entlist_qa2": [
+            "saturday",
+            "alhambra",
+            "sunday"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "happy to help",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

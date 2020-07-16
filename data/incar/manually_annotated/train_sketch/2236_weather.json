@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "how cloudy is it going to be for the next_week",
+        "a1": "what city can i tell you about next_week s cloudiness",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "next_week"
+        ]
+    },
+    {
+        "q2": "please tell me about manhattan for next_week",
+        "a2": "manhattan s forecast for next_week calls for snow and fog with rain so the probability of clouds is high",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday,saturday",
+        "obj2": "rain,snow",
+        "input_ent2": "manhattan",
+        "kvr_entlist_qa2": [
+            "manhattan",
+            "next_week",
+            "rain",
+            "snow"
+        ]
+    },
+    {
+        "q3": "great thank you",
+        "a3": "my pleasure have a good day",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

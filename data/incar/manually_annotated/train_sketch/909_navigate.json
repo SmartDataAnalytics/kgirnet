@@ -1,0 +1,49 @@
+[
+    {
+        "q1": "take me to a chinese_restaurant",
+        "a1": "there is a panda_express 1_miles away would you like the address to it",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi",
+        "obj1": "panda_express",
+        "input_ent1": "chinese_restaurant",
+        "kvr_entlist_qa1": [
+            "1_miles",
+            "panda_express"
+        ]
+    },
+    {
+        "q2": "yes please give me the details of this location",
+        "a2": "panda_express is located at 842_arrowhead_way 1_miles away",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "address, distance",
+        "obj2": "842_arrowhead_way, 1_miles",
+        "input_ent2": "panda_express",
+        "kvr_entlist_qa2": [
+            "842_arrowhead_way",
+            "1_miles",
+            "panda_express"
+        ]
+    },
+    {
+        "q3": "please give me the fastest route",
+        "a3": "there is moderate_traffic now but you should be able to get there in a few minutes",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel3": "traffic_info",
+        "obj3": "moderate_traffic",
+        "input_ent3": "panda_express",
+        "kvr_entlist_qa3": [
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q4": "please direct me there thanks",
+        "a4": "navigating to 842_arrowhead_way now",
+        "input_rel4": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel4": "address",
+        "obj4": "842_arrowhead_way",
+        "input_ent4": "chinese_restaurant",
+        "kvr_entlist_qa4": [
+            "842_arrowhead_way"
+        ]
+    }
+]

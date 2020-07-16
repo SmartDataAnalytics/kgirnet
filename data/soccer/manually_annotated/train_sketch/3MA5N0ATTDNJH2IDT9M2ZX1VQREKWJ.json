@@ -1,0 +1,61 @@
+[
+    {
+        "q1": "i completely love ",
+        "a1": "do you like other sports? ",
+        "kgER1": {},
+        "a1_skt": "do you like other sports? ",
+        "a1_v2": "do you like other sports? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "i like rugby too.",
+        "a2": "i don't like rugby because it's just cuddling ",
+        "kgER2": {},
+        "a2_skt": "i don't like rugby because it's just cuddling ",
+        "a2_v2": "i don't like rugby because it's just cuddling ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": " i like sports of courts",
+        "a3": "courting is a great sport, i go courting on weekends do you?",
+        "kgER3": {},
+        "a3_skt": "courting is a great sport, i go courting on weekends do you?",
+        "a3_v2": "courting is a great sport, i go courting on weekends do you?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "i don't go every weekend, but maybe about once a month",
+        "a4": "there was no team talk about football(soccer) they talked about other sports though.",
+        "kgER4": {},
+        "a4_skt": "there was no team talk about football(soccer) they talked about other sports though.",
+        "a4_v2": "there was no team talk about football(soccer) they talked about other sports though.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "do you think trump's favorite team liverpool will go far if he built them astadium?",
+        "a5": "they probably will.",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "they probably will.",
+        "a5_v2": "they probably will.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

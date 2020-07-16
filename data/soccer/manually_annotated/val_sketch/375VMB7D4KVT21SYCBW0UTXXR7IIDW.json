@@ -1,0 +1,107 @@
+[
+    {
+        "q1": "i believe in this team",
+        "a1": "nigeria did well to make it to russia, for sure.",
+        "kgER1": {},
+        "a1_skt": "@entity did well to make it to russia, for sure.",
+        "a1_v2": "nigeria did well to make it to russia, for sure.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "is nigeria the only team to make it to world cup from africa?",
+        "a2": "no, the african teams of nigeria, egypt, senegal, morocco and tunisia all qualified to the 2018 fifa world cup.",
+        "kgER2": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no, the african teams of @entity egypt, @entity morocco and tunisia all qualified to the @object fifa world cup.",
+        "a2_v2": "no, the african teams of nigeria, egypt, senegal, morocco and tunisia all qualified to the 2018 fifa world cup.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "nigeria"
+    },
+    {
+        "q3": "how far did nigeria make it in the world cup",
+        "a3": "i believe they got knocked out in the group stages.",
+        "kgER3": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i believe they got knocked out in the group stages.",
+        "a3_v2": "i believe they got knocked out in the group stages.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "nigeria"
+    },
+    {
+        "q4": "top goalscorers ",
+        "a4": "jon obi mikel is a good scorer",
+        "kgER4": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "jon obi mikel is a good scorer",
+        "a4_v2": "jon obi mikel is a good scorer",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is the best defender on the nigerian team?",
+        "a5": "i think joseph yobo, he is a very strong player.",
+        "kgER5": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a5_skt": "i think joseph yobo, he is a very strong player.",
+        "a5_v2": "i think joseph yobo, he is a very strong player.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "defender"
+    }
+]

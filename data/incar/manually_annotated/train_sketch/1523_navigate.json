@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "give me directions to the nearest shopping_center",
+        "a1": "we are 2_miles away from stanford_shopping_center does it sound good to you",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "stanford_shopping_center",
+        "input_ent1": "shopping_center",
+        "kvr_entlist_qa1": [
+            "stanford_shopping_center",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "that sounds perfect what is the address",
+        "a2": "stanford_shopping_center is located at 773_alger_dr anything else",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "773_alger_dr",
+        "input_ent2": "stanford_shopping_center",
+        "kvr_entlist_qa2": [
+            "773_alger_dr",
+            "stanford_shopping_center"
+        ]
+    },
+    {
+        "q3": "just set the gps thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

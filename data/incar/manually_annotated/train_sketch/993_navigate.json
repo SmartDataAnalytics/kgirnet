@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "find me a nearby parking_garage or parking lot",
+        "a1": "civic_center_garage is nearby",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "civic_center_garage",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "civic_center_garage"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "270_altaire_walk the garage is 4_miles away and you should be able to reach it quickly despite the moderate_traffic",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "270_altaire_walk",
+        "input_ent2": "civic_center_garage",
+        "kvr_entlist_qa2": [
+            "270_altaire_walk",
+            "moderate_traffic",
+            "4_miles"
+        ]
+    },
+    {
+        "q3": "sounds like a plan thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

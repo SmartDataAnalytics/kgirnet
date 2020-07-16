@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "how many times have ac milan beat inter milan \\?",
+        "a1": "76 times in official matches",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object times in official matches",
+        "a1_v2": "76 times in official matches",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "how many times a tittle has inter milan won \\?",
+        "a2": "inter milian is on par with its local rival a c milan , winning 18 league titles from 2006 to 2010 , the club won five successive league titles , equaling the all time record at that time",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "inter @object is on par with its local rival a c milan , winning @object league titles from @object to @object , the club won five successive league titles , equaling the all time record at that time",
+        "a2_v2": "inter milian is on par with its local rival a c milan , winning 18 league titles from 2006 to 2010 , the club won five successive league titles , equaling the all time record at that time",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "who is the most decorated player for inter milan \\?",
+        "a3": "probably ronaldo who won a number of world player awards while at milan",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "probably ronaldo who won a number of world player awards while at milan",
+        "a3_v2": "probably ronaldo who won a number of world player awards while at milan",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ac milan"
+    },
+    {
+        "q4": "is he the best player the world has ever seen \\?",
+        "a4": "yes he is the best",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "yes he is the best",
+        "a4_v2": "yes he is the best",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ever banega"
+    },
+    {
+        "q5": "who is the coach for ac milan \\?",
+        "a5": "gennaro gattuso is the coach at the start of this season",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is the @relation at the start of this season",
+        "a5_v2": "@coach is the coach at the start of this season",
+        "corr_rel5": "coach",
+        "obj5": "gennaro gattuso",
+        "input_ent5": "ac milan"
+    }
+]

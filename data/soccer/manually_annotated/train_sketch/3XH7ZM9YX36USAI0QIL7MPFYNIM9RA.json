@@ -1,0 +1,61 @@
+[
+    {
+        "q1": "why is it called bvb?",
+        "a1": "because it is a german team.",
+        "kgER1": {},
+        "a1_skt": "because it is a @entity team.",
+        "a1_v2": "because it is a german team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "who are the team's best players?",
+        "a2": "kante is raising as one of the best defensive midfielder in the world",
+        "kgER2": {},
+        "a2_skt": "kante is raising as one of the best defensive @relation in the world",
+        "a2_v2": "kante is raising as one of the best defensive midfielder in the world",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who are their best strikers? ",
+        "a3": "ronaldo would be a good striker if they paid him to be.",
+        "kgER3": {},
+        "a3_skt": "ronaldo would be a good striker if they paid him to be.",
+        "a3_v2": "ronaldo would be a good striker if they paid him to be.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "when was the team founded?",
+        "a4": "bvb was founded in 1909",
+        "kgER4": {},
+        "a4_skt": "bvb was @relation in @object",
+        "a4_v2": "bvb was founded in 1909",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "how many titles has bvb dortmund won?",
+        "a5": "a lot, like 25 titles i think",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "a lot, like @object titles i think",
+        "a5_v2": "a lot, like 25 titles i think",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bvb dortmund"
+    }
+]

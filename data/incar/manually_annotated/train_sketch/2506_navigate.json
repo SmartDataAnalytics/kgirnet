@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "find me a hotel somewhere near my current location",
+        "a1": "the four_seasons is 4_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address,distance",
+        "corr_rel1": "poi,distance",
+        "obj1": "four_seasons,4_miles",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "four_seasons",
+            "4_miles"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "465_arcadia_pl it s 4_miles away with heavy_traffic on our route",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "4_miles",
+            "465_arcadia_pl",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "pick the best possible route and let s go there anyway thank you car",
+        "a3": "i picked the best route and sent the info on your screen you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

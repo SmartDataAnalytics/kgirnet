@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "directions to nearest barista",
+        "a1": "the nearer cafe is cafe_venetia it s 2_miles away and there is a car_collision_nearby",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "car_collision_nearby",
+            "cafe_venetia",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "is there another coffee shop that situated on a route with no_traffic",
+        "a2": "i m afraid that cafe_venetia is the best option in this moment i sent on your screen the directions to reach there through another route",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "cafe_venetia"
+        ]
+    },
+    {
+        "q3": "ok thank you",
+        "a3": "you re welcome drive safely",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "i need the address of a the shopping_center that i can get to the quickest from here",
+        "a1": "stanford_shopping_center is 5_miles away but there is heavy_traffic on our way do you want me to set the gps to get there",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "stanford_shopping_center",
+        "input_ent1": "shopping_center",
+        "kvr_entlist_qa1": [
+            "heavy_traffic",
+            "5_miles",
+            "stanford_shopping_center"
+        ]
+    },
+    {
+        "q2": "yes please just pick the quickest route and let s go there",
+        "a2": "the quickest route is 773_alger_dr and is set",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "address",
+        "obj2": "773_alger_dr",
+        "input_ent2": "stanford_shopping_center",
+        "kvr_entlist_qa2": [
+            "773_alger_dr"
+        ]
+    },
+    {
+        "q3": "thanks for all the help",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

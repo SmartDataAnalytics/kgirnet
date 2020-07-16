@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "give me directions to starbucks",
+        "a1": "i m sorry but there are no starbucks around here would you like to get the address of some other coffee there is coupa 3_miles away",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "starbucks",
+        "kvr_entlist_qa1": [
+            "3_miles",
+            "starbucks",
+            "coupa"
+        ]
+    },
+    {
+        "q2": "yes show me the address",
+        "a2": "394_van_ness_ave is the address for coupa",
+        "input_rel2": "address",
+        "corr_rel2": "",
+        "obj2": "394_van_ness_ave",
+        "input_ent2": "coupa",
+        "kvr_entlist_qa2": [
+            "coupa",
+            "394_van_ness_ave"
+        ]
+    },
+    {
+        "q3": "let s avoid all heavy_traffic and let s go there thanks",
+        "a3": "i sent on your screen all the info there is no_traffic now and you should be able to reach in few minutes you re welcome",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "starbucks",
+        "kvr_entlist_qa3": [
+            "no_traffic"
+        ]
+    }
+]

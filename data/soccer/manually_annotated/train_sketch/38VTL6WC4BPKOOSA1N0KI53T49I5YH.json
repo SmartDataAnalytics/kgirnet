@@ -1,0 +1,111 @@
+[
+    {
+        "q1": "do you think bvb dortmund will do well this season?",
+        "a1": "i think dortmund will finish 2nd in germany.",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i think dortmund will finish 2nd in @entity",
+        "a1_v2": "i think dortmund will finish 2nd in germany.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "always expected to b in the top 2",
+        "a2": "top 2 for sure.",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "top @object for sure.",
+        "a2_v2": "top 2 for sure.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2 (first in 2002)"
+    },
+    {
+        "q3": "how often do they come in first?",
+        "a3": "they have come in first 20 times.",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they have come in first @object times.",
+        "a3_v2": "they have come in first 20 times.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "what about bayern munich, do you know how many times they have come first?",
+        "a4": "the bayern is better equipment than the dormund ",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "the bayern is better equipment than the dormund ",
+        "a4_v2": "the bayern is better equipment than the dormund ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "i totally agree with the equipment difference",
+        "a5": "yes, i think it would be good",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes, i think it would be good",
+        "a5_v2": "yes, i think it would be good",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "fc porto is not an international football team so they will not qualify.",
+        "kgER1": {},
+        "a1_skt": "fc porto is not an international football team so they will not qualify.",
+        "a1_v2": "fc porto is not an international football team so they will not qualify.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "who is the best player on fc porto?",
+        "a2": "moussa marega. he scores a lot of goals. ",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object he scores a lot of @relation ",
+        "a2_v2": "moussa marega. he scores a lot of goals. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "fc. porto"
+    },
+    {
+        "q3": "no, because it is not a country",
+        "a3": "fc porto is ranked, howeve, 1st in primeira liga. ",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a3_skt": "fc porto is ranked, howeve, 1st in primeira liga. ",
+        "a3_v2": "fc porto is ranked, howeve, 1st in primeira liga. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "where did they rank in their last league?",
+        "a4": "1st",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a4_skt": "1st",
+        "a4_v2": "1st",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "how much does fc porto make per year?",
+        "a5": "around 25 million a year. ",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a5_skt": "around @object million a year. ",
+        "a5_v2": "around 25 million a year. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "fc. porto"
+    }
+]

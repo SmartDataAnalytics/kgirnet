@@ -1,0 +1,141 @@
+[
+    {
+        "q1": "i like the team real madrid",
+        "a1": "this is not team but real-time museum of some great players.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "this is not team but real-time museum of some great players.",
+        "a1_v2": "this is not team but real-time museum of some great players.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "who is their best player now that cristiano ronaldo is gone?",
+        "a2": "i think he fought for it gared bale ",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "i think he fought for it gared bale ",
+        "a2_v2": "i think he fought for it gared bale ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "cristiano ronaldo"
+    },
+    {
+        "q3": "would be bale if he stays healthy.",
+        "a3": "madrid have so many good young players, would not be surprised if there was a breakthrough player.",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "madrid have so many good young players, would not be surprised if there was a breakthrough player.",
+        "a3_v2": "madrid have so many good young players, would not be surprised if there was a breakthrough player.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "gareth bale"
+    },
+    {
+        "q4": "taking antiretroviral treatment for hiv ",
+        "a4": "modric is also very important to the team. ",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "modric is also very important to the team. ",
+        "a4_v2": "modric is also very important to the team. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what is the name of the coach of real madrid? ",
+        "a5": "julen lopetegui is the coach.",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "julen lopetegui is the @relation",
+        "a5_v2": "julen lopetegui is the coach.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

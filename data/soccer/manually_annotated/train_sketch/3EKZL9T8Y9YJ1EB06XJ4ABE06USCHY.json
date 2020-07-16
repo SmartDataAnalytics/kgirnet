@@ -1,0 +1,110 @@
+[
+    {
+        "q1": "who is the captain for bayern munich?",
+        "a1": "thomas muller",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "thomas muller",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "how long has muller been the captain them?",
+        "a2": "since 2017",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "since 2017",
+        "a2_v2": "since 2017",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "thomas muller"
+    },
+    {
+        "q3": "do you think he is doing a good job? ",
+        "a3": "i think he is doing excellent ",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think he is doing excellent ",
+        "a3_v2": "i think he is doing excellent ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "yes thomas muller is a great",
+        "a4": "if it's a great striker",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "thomas muller": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "if it's a great striker",
+        "a4_v2": "if it's a great striker",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "thomas muller"
+    },
+    {
+        "q5": "how many international goals does thomas muller have",
+        "a5": "he has 10 world cup goals.",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "thomas muller": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "he has @object world cup @relation",
+        "a5_v2": "he has 10 world cup goals.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "thomas muller"
+    }
+]

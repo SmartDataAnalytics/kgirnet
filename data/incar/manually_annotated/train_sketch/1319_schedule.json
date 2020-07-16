@@ -1,0 +1,15 @@
+[
+    {
+        "q1": "what time should i get my shot this afternoon",
+        "a1": "your lab_appointment is at 1pm on tuesday so you should get your shot then",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "time",
+        "obj1": "1pm",
+        "input_ent1": "lab_appointment",
+        "kvr_entlist_qa1": [
+            "1pm",
+            "tuesday",
+            "lab_appointment"
+        ]
+    }
+]

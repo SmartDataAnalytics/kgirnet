@@ -1,0 +1,145 @@
+[
+    {
+        "q1": "in which year did mauricio pochettino sign for the club from espanyol?",
+        "a1": "he spent 18 years as a professional player, ten of which were in la liga with espanyol where he scored 13 goals in 275 games.",
+        "kgER1": {
+            "roberto alvarado": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "maxico": [
+                "number of world cup champion"
+            ]
+        },
+        "a1_skt": "he spent @object years as a professional player, ten of which were in la liga with espanyol where he scored @object @relation in @object games.",
+        "a1_v2": "he spent 18 years as a professional player, ten of which were in la liga with espanyol where he scored 13 goals in 275 games.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "i think it's this year in 1994 he was transferred to real club deportivo espanyol",
+        "a2": "if in that year it was transferred to the spanish sports",
+        "kgER2": {
+            "roberto alvarado": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "maxico": [
+                "number of world cup champion"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "if in that year it was transferred to the spanish sports",
+        "a2_v2": "if in that year it was transferred to the spanish sports",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "1994"
+    },
+    {
+        "q3": "is psg well known?",
+        "a3": "if it is one of the most famous clubs",
+        "kgER3": {
+            "roberto alvarado": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "maxico": [
+                "number of world cup champion"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "if it is one of the most famous clubs",
+        "a3_v2": "if it is one of the most famous clubs",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "i understand paris sg have rich owners, who are they?",
+        "a4": "paris sg are owned by qatar sports investments.",
+        "kgER4": {
+            "roberto alvarado": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "maxico": [
+                "number of world cup champion"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "paris sg are owned by qatar sports investments.",
+        "a4_v2": "paris sg are owned by qatar sports investments.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "paris sg"
+    },
+    {
+        "q5": "cavanii paris sg ",
+        "a5": "total net worth of psg?",
+        "kgER5": {
+            "roberto alvarado": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "maxico": [
+                "number of world cup champion"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "total net worth of psg?",
+        "a5_v2": "total net worth of psg?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "paris sg"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "what time is my football_activity and who is attending",
+        "a1": "i have two driver one for 6pm with alex and one for 1pm with brother",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "time,party",
+        "obj1": "6pm,brother,1pm,alex",
+        "input_ent1": "football_activity",
+        "kvr_entlist_qa1": [
+            "6pm",
+            "brother",
+            "1pm",
+            "alex"
+        ]
+    },
+    {
+        "q2": "perfect",
+        "a2": "no problem",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

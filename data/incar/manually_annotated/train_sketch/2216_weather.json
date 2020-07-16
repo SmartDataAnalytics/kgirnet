@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "is it going to snow this week",
+        "a1": "what city are you wanting to know if it s going to snow",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "snow"
+        ]
+    },
+    {
+        "q2": "can you tell me about menlo_park",
+        "a2": "the forecast does not specifically state that there will be snow this week in menlo_park but there is a blizzard predicted on thursday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "thursday",
+        "obj2": "blizzard",
+        "input_ent2": "menlo_park",
+        "kvr_entlist_qa2": [
+            "blizzard",
+            "menlo_park",
+            "thursday",
+            "week",
+            "snow"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

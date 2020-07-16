@@ -1,0 +1,41 @@
+[
+    {
+        "q1": "car i need to get to a gas_station is there any around me",
+        "a1": "chevron is 8_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "chevron,8_miles",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "chevron",
+            "8_miles"
+        ]
+    },
+    {
+        "q2": "could you please pick a route to avoid all heavy_traffic",
+        "a2": "actually there isn t any traffic on our way enjoy your trip",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "chevron",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "please give me an address and directions by the route that avoids heavy_traffic thank you",
+        "a3": "setting navigation to 783_arcadia_place now",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel3": "address",
+        "obj3": "783_arcadia_place",
+        "input_ent3": "chevron",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thank you car",
+        "a4": "you re welcome drive safely",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

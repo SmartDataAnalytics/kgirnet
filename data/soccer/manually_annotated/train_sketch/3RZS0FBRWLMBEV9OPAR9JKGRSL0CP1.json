@@ -1,0 +1,145 @@
+[
+    {
+        "q1": "does neymar junior plays in this team?",
+        "a1": "yes, he's a forward on the team.",
+        "kgER1": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes, he's a @relation on the team.",
+        "a1_v2": "yes, he's a forward on the team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "neymar"
+    },
+    {
+        "q2": "yes he's a foreword ",
+        "a2": "he usually plays as a left inside forward in the paris sg line up.",
+        "kgER2": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "he usually plays as a left inside @relation in the paris sg line up.",
+        "a2_v2": "he usually plays as a left inside forward in the paris sg line up.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who else is a good forward in paris sg?",
+        "a3": "timothy weah is also an excellent forward from paris sg.",
+        "kgER3": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "timothy weah is also an excellent @relation from paris sg.",
+        "a3_v2": "timothy weah is also an excellent forward from paris sg.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "paris sg"
+    },
+    {
+        "q4": "it seems to me that the best forward in the paris sg team is neymar",
+        "a4": "neymar is the best psg player at this time",
+        "kgER4": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object is the best @relation at this time",
+        "a4_v2": "neymar is the best psg player at this time",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "paris sg"
+    },
+    {
+        "q5": "neymar is a very good player is a very good striker the best of this team ",
+        "a5": "maybe neymar plays very well but still needs to improve its game tactics so that the psg plays better",
+        "kgER5": {
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "maybe @object plays very well but still needs to improve its game tactics so that the psg plays better",
+        "a5_v2": "maybe neymar plays very well but still needs to improve its game tactics so that the psg plays better",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "neymar"
+    }
+]

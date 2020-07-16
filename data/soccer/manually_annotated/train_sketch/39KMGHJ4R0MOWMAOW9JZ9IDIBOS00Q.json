@@ -1,0 +1,142 @@
+[
+    {
+        "q1": "how often has a hand ball killed the game and caused you to lose?",
+        "a1": "sometimes hand ball causes a team to lose like for croatia in the world cup final.",
+        "kgER1": {
+            "dani ceballos": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a1_skt": "sometimes hand ball causes a team to lose like for @entity in the world cup final.",
+        "a1_v2": "sometimes hand ball causes a team to lose like for croatia in the world cup final.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "white and red"
+    },
+    {
+        "q2": "part and parcel.look at maradona",
+        "a2": "yes maradona is the best.",
+        "kgER2": {
+            "dani ceballos": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a2_skt": "yes maradona is the best.",
+        "a2_v2": "yes maradona is the best.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "white and red"
+    },
+    {
+        "q3": "has the paris sg team had a hand ball recently?",
+        "a3": "if there was recently a penalty by hand",
+        "kgER3": {
+            "dani ceballos": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "if there was recently a penalty by hand",
+        "a3_v2": "if there was recently a penalty by hand",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "paris sg"
+    },
+    {
+        "q4": "how many penalties did paris sg get last season?",
+        "a4": "i believe they received 10 penalties.",
+        "kgER4": {
+            "dani ceballos": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i believe they received @object penalties.",
+        "a4_v2": "i believe they received 10 penalties.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "paris sg"
+    },
+    {
+        "q5": "neymar nominated ",
+        "a5": "nominated for diving at the world cup.",
+        "kgER5": {
+            "dani ceballos": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "nominated for diving at the world cup.",
+        "a5_v2": "nominated for diving at the world cup.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "neymar"
+    }
+]

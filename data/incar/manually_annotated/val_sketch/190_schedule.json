@@ -1,0 +1,16 @@
+[
+    {
+        "q1": "what time is my next swimming_activity and who will be attending",
+        "a1": "your next swimming_activity is at 6pm with your brother on sunday",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "time",
+        "obj1": "6pm, brother",
+        "input_ent1": "swimming_activity",
+        "kvr_entlist_qa1": [
+            "brother",
+            "6pm",
+            "swimming_activity",
+            "sunday"
+        ]
+    }
+]

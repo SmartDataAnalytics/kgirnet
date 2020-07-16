@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "i completely love fc. porto",
+        "a1": "what is their current strip? ",
+        "kgER1": {},
+        "a1_skt": "what is their current strip? ",
+        "a1_v2": "what is their current strip? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "blue and white stripes.",
+        "a2": "who is the current manager of fc. porto? ",
+        "kgER2": {
+            "white": [
+                "jersey color"
+            ],
+            "blue": [
+                "jersey color"
+            ],
+            "blue and white": [
+                "home jersey"
+            ]
+        },
+        "a2_skt": "who is the current manager of fc. porto? ",
+        "a2_v2": "who is the current manager of fc. porto? ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "blue and white"
+    },
+    {
+        "q3": "did mourinho manage porto ",
+        "a3": "yes he did",
+        "kgER3": {
+            "white": [
+                "jersey color"
+            ],
+            "blue": [
+                "jersey color"
+            ],
+            "blue and white": [
+                "home jersey"
+            ]
+        },
+        "a3_skt": "yes he did",
+        "a3_v2": "yes he did",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "jose mourinho"
+    },
+    {
+        "q4": "early life and education ",
+        "a4": "he was educated at the technical university of lisbon",
+        "kgER4": {
+            "white": [
+                "jersey color"
+            ],
+            "blue": [
+                "jersey color"
+            ],
+            "blue and white": [
+                "home jersey"
+            ]
+        },
+        "a4_skt": "he was educated at the technical university of @object",
+        "a4_v2": "he was educated at the technical university of lisbon",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "white and red"
+    },
+    {
+        "q5": "which other teams he managed?",
+        "a5": "he managed real madrid and chelsea. he currently manages manchester united ",
+        "kgER5": {
+            "white": [
+                "jersey color"
+            ],
+            "blue": [
+                "jersey color"
+            ],
+            "blue and white": [
+                "home jersey"
+            ]
+        },
+        "a5_skt": "he managed @entity and @entity he currently manages @entity ",
+        "a5_v2": "he managed real madrid and chelsea. he currently manages manchester united ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

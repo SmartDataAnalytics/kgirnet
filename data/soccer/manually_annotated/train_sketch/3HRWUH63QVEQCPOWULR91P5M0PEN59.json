@@ -1,0 +1,72 @@
+[
+    {
+        "q1": "do you like the green bay packers?",
+        "a1": "that's not fc porto or soccer.  who is porto's current coach.",
+        "kgER1": {
+            "blue": [
+                "jersey color"
+            ]
+        },
+        "a1_skt": "that's not fc porto or soccer.  who is porto's current @relation",
+        "a1_v2": "that's not fc porto or soccer.  who is porto's current coach.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": " s\u00e9rgio concei\u00e7\u00e3o is the current coach.",
+        "a2": "no, that is not the real coach",
+        "kgER2": {
+            "blue": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "no, that is not the real @relation",
+        "a2_v2": "no, that is not the real coach",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "sergio conceicao"
+    },
+    {
+        "q3": "who would make a good future coach for fc. porto?",
+        "a3": "i think arsene wenger would be a good fit.",
+        "kgER3": {
+            "blue": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "i think arsene wenger would be a good fit.",
+        "a3_v2": "i think arsene wenger would be a good fit.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "fc. porto"
+    },
+    {
+        "q4": "records aside, the match is meant to win ",
+        "a4": "arsene wenger is a very good technician for fc porto ",
+        "kgER4": {
+            "blue": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "arsene wenger is a very good technician for fc porto ",
+        "a4_v2": "arsene wenger is a very good technician for fc porto ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what is his club history? ",
+        "a5": "in september of 1893 the team was founded by an illustrious and port sportsman named ant\u00f3nio nicolau d'almeida",
+        "kgER5": {
+            "blue": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "in september of @object the team was @relation by an illustrious and port sportsman named ant\u00f3nio nicolau d'almeida",
+        "a5_v2": "in september of 1893 the team was founded by an illustrious and port sportsman named ant\u00f3nio nicolau d'almeida",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

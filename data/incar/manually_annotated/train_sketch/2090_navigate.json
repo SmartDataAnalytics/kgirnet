@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "where is the nearest rest_stop",
+        "a1": "the closeest rest_stop is comfort_inn which is 1_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "comfort_inn",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "rest_stop",
+            "1_miles",
+            "comfort_inn"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "comfort_inn is at 753_university_ave",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "753_university_ave",
+        "input_ent2": "comfort_inn",
+        "kvr_entlist_qa2": [
+            "753_university_ave",
+            "comfort_inn"
+        ]
+    },
+    {
+        "q3": "set the navigation and thank you so much for the help",
+        "a3": "you re welcome and navigation is all set",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

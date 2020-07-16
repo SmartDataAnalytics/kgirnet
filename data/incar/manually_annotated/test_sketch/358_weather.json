@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "will there be clear_skies in san_francisco on friday",
+        "a1": "on friday on san_francisco the weather will be dry with a high of 80f",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "friday",
+        "obj1": "dry,80f",
+        "input_ent1": "san_francisco",
+        "kvr_entlist_qa1": [
+            "dry",
+            "friday",
+            "80f",
+            "san_francisco"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "anytime",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "q1": "do any indigenous people play for brazil?",
+        "a1": "it's hard to say but my guy says yes",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "it's hard to say but my guy says yes",
+        "a1_v2": "it's hard to say but my guy says yes",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "how much time does the team spend practicing per day?",
+        "a2": "i'm sure it's a lot of time.",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i'm sure it's a lot of time.",
+        "a2_v2": "i'm sure it's a lot of time.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": " what sportscaster posted an nfl coaching record of 103-22-7?  a: john madden.",
+        "a3": "mention the goalkeeper of brazil",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "mention the @relation of @entity",
+        "a3_v2": "mention the goalkeeper of brazil",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "7 (first in 1966)"
+    },
+    {
+        "q4": "alisson becker is brazil's goal; keeper. i believe he is italian.",
+        "a4": "alisson becker also plays for liverpool",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "alisson": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "goalkeeper"
+            ]
+        },
+        "a4_skt": "@object becker also plays for @entity",
+        "a4_v2": "alisson becker also plays for liverpool",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "brazil"
+    },
+    {
+        "q5": "who eliminated brazil from this years world cup?",
+        "a5": "belgium",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "alisson": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "goalkeeper"
+            ]
+        },
+        "a5_skt": "@entity",
+        "a5_v2": "belgium",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "brazil"
+    }
+]

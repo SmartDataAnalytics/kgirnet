@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i love the team italy",
+        "a1": "i was not sure italy had a team before this prompt.",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i was not sure @entity had a team before this prompt.",
+        "a1_v2": "i was not sure italy had a team before this prompt.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "who is the coach for italy?",
+        "a2": "i think roberto mancini ",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i think @object ",
+        "a2_v2": "i think @coach ",
+        "corr_rel2": "coach",
+        "obj2": "roberto mancini",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "who is the captain of italy?",
+        "a3": "chiellini",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "@captain",
+        "corr_rel3": "captain",
+        "obj3": "giorgio chiellini",
+        "input_ent3": "italy"
+    },
+    {
+        "q4": "which position does he play?",
+        "a4": "chiellini is a defender. ",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "chiellini is a @object ",
+        "a4_v2": "chiellini is a @position ",
+        "corr_rel4": "position",
+        "obj4": "defender",
+        "input_ent4": "italy"
+    },
+    {
+        "q5": "do you know  him? ",
+        "a5": "not personally, no, but as stated he is italy's captain.",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "not personally, no, but as stated he is italy's @relation",
+        "a5_v2": "not personally, no, but as stated he is italy's captain.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "q1": "where can i get tea",
+        "a1": "i have a couple listings for tea places which are you interested in",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "the closest one",
+        "a2": "palo_alto_cafe is 4_miles away",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel2": "poi,distance",
+        "obj2": "palo_alto_cafe,4_miles",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "4_miles",
+            "palo_alto_cafe"
+        ]
+    },
+    {
+        "q3": "what is the address",
+        "a3": "palo_alto_cafe is at 436_alger_dr",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "436_alger_dr",
+        "input_ent3": "palo_alto_cafe",
+        "kvr_entlist_qa3": [
+            "436_alger_dr",
+            "palo_alto_cafe"
+        ]
+    },
+    {
+        "q4": "please pick the quickest route and let s go there",
+        "a4": "plotting fastest route to 436_alger_dr 4_miles away with moderate_traffic",
+        "input_rel4": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address,distance",
+        "corr_rel4": "address,distance",
+        "obj4": "436_alger_dr,4_miles",
+        "input_ent4": "palo_alto_cafe",
+        "kvr_entlist_qa4": [
+            "436_alger_dr",
+            "4_miles",
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q5": "thank you car",
+        "a5": "you re welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

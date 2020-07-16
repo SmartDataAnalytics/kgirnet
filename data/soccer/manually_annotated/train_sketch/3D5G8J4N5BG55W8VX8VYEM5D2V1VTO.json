@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "what are crotia's world cup final chances?",
+        "a1": "great as long as the midfield magician plays well!",
+        "kgER1": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "great as long as the @relation magician plays well!",
+        "a1_v2": "great as long as the midfield magician plays well!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who is one of their midfielders?",
+        "a2": "luka modri\u0107",
+        "kgER2": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "@captain",
+        "corr_rel2": "midfielder",
+        "obj2": "luka modric",
+        "input_ent2": "croatia"
+    },
+    {
+        "q3": "is that the magician you'd mentioned before?",
+        "a3": "yes, luka modri\u0107 is known as the midfield magician and the magician.",
+        "kgER3": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a3_skt": "yes, @object is known as the @relation magician and the magician.",
+        "a3_v2": "yes, luka modri\u0107 is known as the midfield magician and the magician.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "although it is also an anti mage of other equipment",
+        "a4": "luka modric won the golden ball award at the fifa 2018 world cup tournament. ",
+        "kgER4": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a4_skt": "@object won the golden ball award at the fifa @object world cup tournament. ",
+        "a4_v2": "luka modric won the golden ball award at the fifa 2018 world cup tournament. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "timbersaw",
+        "a5": "i think it's one of the best in the world",
+        "kgER5": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a5_skt": "i think it's one of the best in the world",
+        "a5_v2": "i think it's one of the best in the world",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

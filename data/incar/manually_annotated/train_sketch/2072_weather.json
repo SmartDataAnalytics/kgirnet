@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "will it rain anytime in the next_week",
+        "a1": "where would you like me to check to see if it will be raining during the week",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "week"
+        ]
+    },
+    {
+        "q2": "check compton for me",
+        "a2": "it will rain on thursday in compton",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "thursday",
+        "obj2": "rain",
+        "input_ent2": "compton",
+        "kvr_entlist_qa2": [
+            "thursday",
+            "rain",
+            "compton"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

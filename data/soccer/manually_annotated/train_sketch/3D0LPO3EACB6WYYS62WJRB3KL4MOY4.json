@@ -1,0 +1,78 @@
+[
+    {
+        "q1": "is arsenal ranked 1 this week",
+        "a1": "they are 17th",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they are 17th",
+        "a1_v2": "they are 17th",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "what country is arsenal located \\?",
+        "a2": "england",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "england",
+        "a2_v2": "england",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "arsenal"
+    },
+    {
+        "q3": "how do you think arsenal with do this year with a new coach at the helm \\?",
+        "a3": "the arsenal this year will do very well thanks to its new coach who is very good and will make the players look more",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "the @entity this year will do very well thanks to its new @relation who is very good and will make the players look more",
+        "a3_v2": "the arsenal this year will do very well thanks to its new coach who is very good and will make the players look more",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "who is this new coach \\?",
+        "a4": "unai emery is the current coach of arsenal",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object is the current @relation of @entity",
+        "a4_v2": "@coach is the current coach of @entity",
+        "corr_rel4": "coach",
+        "obj4": "unai emery",
+        "input_ent4": "arsenal"
+    }
+]

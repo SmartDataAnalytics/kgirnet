@@ -1,0 +1,108 @@
+[
+    {
+        "q1": "who is chelsea's captain now?",
+        "a1": "chelsea's captain is john terry",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "chelsea's @relation is john terry",
+        "a1_v2": "chelsea's captain is john terry",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "who is the  coach for chelsea?",
+        "a2": "conte",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "conte",
+        "a2_v2": "conte",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "chelsea"
+    },
+    {
+        "q3": "do you think terry would ever become a coach?",
+        "a3": "yes he has potential ",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "yes he has potential ",
+        "a3_v2": "yes he has potential ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ever banega"
+    },
+    {
+        "q4": "how many goals has he scored for chelsea?",
+        "a4": "68 total goals ",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "@object total @relation ",
+        "a4_v2": "68 total goals ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "chelsea"
+    },
+    {
+        "q5": "could chelsea win?",
+        "a5": "they have a chance for sure",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "they have a chance for sure",
+        "a5_v2": "they have a chance for sure",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "chelsea"
+    }
+]

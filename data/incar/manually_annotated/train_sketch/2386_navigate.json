@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "get me directions to a local cafe",
+        "a1": "the closest cafe is teavana it is 2_miles away at 145_amherst_st",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "teavana",
+            "145_amherst_st",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "do you have the quickest route available",
+        "a2": "unfortunately there is heavy_traffic but the cafe is just 2_miles away at 145_amherst_st",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "145_amherst_st",
+            "2_miles",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

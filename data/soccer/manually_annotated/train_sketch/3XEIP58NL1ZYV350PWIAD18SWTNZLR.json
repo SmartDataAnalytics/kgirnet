@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "love belgium",
+        "a1": "they're not as good as france ",
+        "kgER1": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they're not as good as @entity ",
+        "a1_v2": "they're not as good as france ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "belgium"
+    },
+    {
+        "q2": "what do you think of fallaini?",
+        "a2": "he is a great player and you have many offensive qualities and he has good air play...",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "he is a great player and you have many offensive qualities and he has good air play...",
+        "a2_v2": "he is a great player and you have many offensive qualities and he has good air play...",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "who is their manager presently? ",
+        "a3": "roberto mart\u00ednez montoliu",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object montoliu",
+        "a3_v2": "@coach montoliu",
+        "corr_rel3": "coach",
+        "obj3": "roberto martinez",
+        "input_ent3": "belgium"
+    },
+    {
+        "q4": "roberto mart\u00ednez montoliu is the manager of belgica",
+        "a4": "belgium is very good team is one of the favorites in the world ",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity is very good team is one of the favorites in the world ",
+        "a4_v2": "belgium is very good team is one of the favorites in the world ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "roberto martinez"
+    },
+    {
+        "q5": "what in particular makes them so great?",
+        "a5": "they are very young and passionate!",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they are very young and passionate!",
+        "a5_v2": "they are very young and passionate!",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

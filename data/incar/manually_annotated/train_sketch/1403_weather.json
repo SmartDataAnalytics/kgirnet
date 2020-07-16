@@ -1,0 +1,42 @@
+[
+    {
+        "q1": "how is the weather this week in inglewood",
+        "a1": "what days are you interested in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "inglewood",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "the whole week",
+        "a2": "in inglewood it will be overcast monday frost on tuesday clear on wednesday raining on thursday dry on friday misty on saturday clear on sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "",
+        "input_ent2": "inglewood",
+        "kvr_entlist_qa2": [
+            "misty",
+            "thursday",
+            "frost",
+            "monday",
+            "wednesday",
+            "dry",
+            "sunday",
+            "saturday",
+            "tuesday",
+            "inglewood",
+            "overcast",
+            "friday"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

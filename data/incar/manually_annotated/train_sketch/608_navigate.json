@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "find a parking_garage",
+        "a1": "there is 2 local parking_garage s both are 3_miles away palo alto garage has moderate_traffic and stanford oval has no_traffic which one do you prefer",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "obj1": "3_miles",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "parking_garage",
+            "moderate_traffic",
+            "no_traffic",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "stanford oval please",
+        "a2": "alright stanford_oval_parking is located at 610_amarillo_ave",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "610_amarillo_ave",
+        "input_ent2": "stanford_oval_parking",
+        "kvr_entlist_qa2": [
+            "610_amarillo_ave",
+            "stanford_oval_parking"
+        ]
+    },
+    {
+        "q3": "please pick the fastest way to go there thank you",
+        "a3": "fastest route chosen we should arrive shortly",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

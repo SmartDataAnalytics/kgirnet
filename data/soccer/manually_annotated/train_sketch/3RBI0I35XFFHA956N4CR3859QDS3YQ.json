@@ -1,0 +1,79 @@
+[
+    {
+        "q1": "i am a big fan of this team",
+        "a1": "i think a lot of people either like them or hate them, there is no in between.",
+        "kgER1": {},
+        "a1_skt": "i think a lot of people either like them or hate them, there is no in between.",
+        "a1_v2": "i think a lot of people either like them or hate them, there is no in between.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "inter fans especially hate them. ",
+        "a2": "yes, most of the inter",
+        "kgER2": {},
+        "a2_skt": "yes, most of the inter",
+        "a2_v2": "yes, most of the inter",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "fans are against ac milan because they always beat them!",
+        "a3": "ac milan should support their fans more.",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "ac milan should support their fans more.",
+        "a3_v2": "ac milan should support their fans more.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ac milan"
+    },
+    {
+        "q4": "who is the coach for ac milan?",
+        "a4": "milan",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "milan",
+        "a4_v2": "milan",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "gattuso is the current milan manager.",
+        "a5": "gennaro ivan \"rino\" gattuso",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "gennaro ivan \"rino\" gattuso",
+        "a5_v2": "gennaro ivan \"rino\" gattuso",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "gennaro gattuso"
+    }
+]

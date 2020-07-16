@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "what do you think about senegal",
+        "a1": "i think they were very unluck to go out of the world cup. don't you?",
+        "kgER1": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i think they were very unluck to go out of the world cup. don't you?",
+        "a1_v2": "i think they were very unluck to go out of the world cup. don't you?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "senegal"
+    },
+    {
+        "q2": "do you think senegal can win the africa cup of nations?",
+        "a2": "senegal has a chance, but it will certainly be a challenge for them.",
+        "kgER2": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity has a chance, but it will certainly be a challenge for them.",
+        "a2_v2": "senegal has a chance, but it will certainly be a challenge for them.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "senegal"
+    },
+    {
+        "q3": "do you think senegal's players are as homophobic as their country?",
+        "a3": "they may be but it is hard to say. ",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they may be but it is hard to say. ",
+        "a3_v2": "they may be but it is hard to say. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "senegal"
+    },
+    {
+        "q4": "hey there",
+        "a4": "the roster on wikipedia shows everyone playing for a european club except for one of the goalkeepers.",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "the roster on wikipedia shows everyone playing for a european club except for one of the @relation",
+        "a4_v2": "the roster on wikipedia shows everyone playing for a european club except for one of the goalkeepers.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is the coach for senegal?",
+        "a5": "aliou ciss\u00e9 is senegal's coach",
+        "kgER5": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object is senegal's @relation",
+        "a5_v2": "@coach is senegal's coach",
+        "corr_rel5": "coach",
+        "obj5": "aliou cisse",
+        "input_ent5": "senegal"
+    }
+]

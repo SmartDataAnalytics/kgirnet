@@ -1,0 +1,121 @@
+[
+    {
+        "q1": "who is the best forward ronaldo or dybala?",
+        "a1": "for juventus i would say ronaldo.",
+        "kgER1": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a1_skt": "for @entity i would say ronaldo.",
+        "a1_v2": "for juventus i would say ronaldo.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "forward"
+    },
+    {
+        "q2": "how long has juventus been in the league?",
+        "a2": "all the time",
+        "kgER2": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "forward": [
+                "position"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "all the time",
+        "a2_v2": "all the time",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "juventus"
+    },
+    {
+        "q3": " juventus f.c must be good then",
+        "a3": "yes they are pretty good ",
+        "kgER3": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "forward": [
+                "position"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "yes they are pretty good ",
+        "a3_v2": "yes they are pretty good ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "juventus"
+    },
+    {
+        "q4": "who is younger dybala or ronaldo?",
+        "a4": "i'm totally sure that dybala is younger",
+        "kgER4": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "forward": [
+                "position"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "i'm totally sure that dybala is younger",
+        "a4_v2": "i'm totally sure that dybala is younger",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "paulo dybala"
+    }
+]

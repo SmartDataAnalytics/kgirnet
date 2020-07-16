@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i love the team sweden",
+        "a1": "robin olsen is my favorite player on the sweden team.",
+        "kgER1": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object is my favorite player on the @entity team.",
+        "a1_v2": "robin olsen is my favorite player on the sweden team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "sweden"
+    },
+    {
+        "q2": "who is their best player?",
+        "a2": "larsson is very good. ",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "larsson is very good. ",
+        "a2_v2": "larsson is very good. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how successful is the swedish team?",
+        "a3": "they've never won any major titles, but their 7th place finish in this year's world cup was their best since 1974.",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they've never won any major titles, but their 7th place finish in this year's world cup was their best since @object",
+        "a3_v2": "they've never won any major titles, but their 7th place finish in this year's world cup was their best since 1974.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "how did sweden finish in 2018?",
+        "a4": "they finished first",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they finished first",
+        "a4_v2": "they finished first",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "sweden"
+    },
+    {
+        "q5": "is sweden a good sport team?",
+        "a5": "yes! just take in consideration the fact that they played their first international game against norway back in 1908 and managed to win against them 11-3!",
+        "kgER5": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes! just take in consideration the fact that they played their first international game against norway back in @object and managed to win against them 11-3!",
+        "a5_v2": "yes! just take in consideration the fact that they played their first international game against norway back in 1908 and managed to win against them 11-3!",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "sweden"
+    }
+]

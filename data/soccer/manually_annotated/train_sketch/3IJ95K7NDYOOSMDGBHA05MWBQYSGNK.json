@@ -1,0 +1,133 @@
+[
+    {
+        "q1": "for how much longer will vincent kompany play for the national team",
+        "a1": "maybe another year or two , there were rumours it would be after the recent world cup",
+        "kgER1": {
+            "vincent kompany": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a1_skt": "maybe another year or two , there were rumours it would be after the recent world cup",
+        "a1_v2": "maybe another year or two , there were rumours it would be after the recent world cup",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "vincent kompany"
+    },
+    {
+        "q2": "where would he go after that \\?",
+        "a2": "could play for belgium",
+        "kgER2": {
+            "vincent kompany": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a2_skt": "could play for @entity",
+        "a2_v2": "could play for belgium",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "the belgian team are quite strong and many of their stars are the right age to be considered contenders at major tournaments , so kompany may try to win some silverware at the uefa euro 2020 competition",
+        "a3": "if it is fully compatible with kompany can win earn some skills of uefa euro 2020",
+        "kgER3": {
+            "vincent kompany": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "if it is fully compatible with kompany can win earn some skills of uefa euro @object",
+        "a3_v2": "if it is fully compatible with kompany can win earn some skills of uefa euro 2020",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "vincent kompany"
+    },
+    {
+        "q4": "who is the head coach of the belgium team \\?",
+        "a4": "roberto martinez montoliu is the coach of belgica",
+        "kgER4": {
+            "vincent kompany": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object montoliu is the @relation of belgica",
+        "a4_v2": "@coach montoliu is the coach of belgica",
+        "corr_rel4": "coach",
+        "obj4": "roberto martinez",
+        "input_ent4": "belgium"
+    },
+    {
+        "q5": "that 's right the coach is roberto martinez",
+        "a5": "bad question",
+        "kgER5": {
+            "vincent kompany": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "roberto martinez": [
+                "coach"
+            ]
+        },
+        "a5_skt": "bad question",
+        "a5_v2": "bad question",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "roberto martinez"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "q1": "what teams do you think are better than spain in europe?",
+        "a1": "england!",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "england!",
+        "a1_v2": "england!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "spain"
+    },
+    {
+        "q2": "why do you think england is better than spain?",
+        "a2": "england advanced further than spain in the world cup.",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "england advanced further than @entity in the world cup.",
+        "a2_v2": "england advanced further than spain in the world cup.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "spain"
+    },
+    {
+        "q3": "who do you think is spain\u2019s worst player?",
+        "a3": "most of there team is terrible. too many to choose from ",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "most of there team is terrible. too many to choose from ",
+        "a3_v2": "most of there team is terrible. too many to choose from ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "spain"
+    },
+    {
+        "q4": "why do you think spain has such a poor team?",
+        "a4": "poor coaching and they don\u2019t seem prepared ",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "poor @relation and they don\u2019t seem prepared ",
+        "a4_v2": "poor coaching and they don\u2019t seem prepared ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "spain"
+    },
+    {
+        "q5": "do you think argentina will not perform well in the 2018 world?",
+        "a5": "i'm not sure. i don't really follow argentina, just spain and england.",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i'm not sure. i don't really follow @entity just @entity and england.",
+        "a5_v2": "i'm not sure. i don't really follow argentina, just spain and england.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "argentina"
+    }
+]

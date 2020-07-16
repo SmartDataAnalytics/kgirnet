@@ -1,0 +1,114 @@
+[
+    {
+        "q1": "i absolutely adore juventus",
+        "a1": "i think they are best italian team, certainly.",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "i think they are best italian team, certainly.",
+        "a1_v2": "i think they are best italian team, certainly.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "do they have red in their kits ?",
+        "a2": "not on their first kit",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "not on their first kit",
+        "a2_v2": "not on their first kit",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "red"
+    },
+    {
+        "q3": "what color is their jersey?",
+        "a3": "their jersey color are black and white .",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "their @relation are @object",
+        "a3_v2": "their jersey color are @jersey_color .",
+        "corr_rel3": "jersey color",
+        "obj3": "black and white",
+        "input_ent3": "juventus"
+    },
+    {
+        "q4": "national football league ",
+        "a4": "juventus is the club that has contributed the most players to the italy national team ",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "@entity is the club that has contributed the most players to the @entity national team ",
+        "a4_v2": "juventus is the club that has contributed the most players to the italy national team ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "how many italians play for juventus?",
+        "a5": "7",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "7",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "juventus"
+    }
+]

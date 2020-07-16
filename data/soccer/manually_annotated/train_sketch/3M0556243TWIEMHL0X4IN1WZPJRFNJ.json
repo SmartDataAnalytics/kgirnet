@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who 's your favorite player for psg \\?",
+        "a1": "neymar for paris sg",
+        "kgER1": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object for paris sg",
+        "a1_v2": "@has_player for paris sg",
+        "corr_rel1": "has player",
+        "obj1": "neymar",
+        "input_ent1": "paris sg"
+    },
+    {
+        "q2": "did paris sg win the last national cup \\?",
+        "a2": "i did n't even know paris sg was in contention for the last national cup",
+        "kgER2": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i did n't even know paris sg was in contention for the last national cup",
+        "a2_v2": "i did n't even know paris sg was in contention for the last national cup",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "paris sg"
+    },
+    {
+        "q3": "psg is not a national team , you dingus",
+        "a3": "how long is presnel kimpembe renew his contract with paris sg \\?",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "how long is @object renew his contract with paris sg \\?",
+        "a3_v2": "how long is presnel kimpembe renew his contract with paris sg \\?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who owns psg \\?",
+        "a4": "belongs to the league of france",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "belongs to the league of @entity",
+        "a4_v2": "belongs to the league of france",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "three more years",
+        "a5": "until they can compete again",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "until they can compete again",
+        "a5_v2": "until they can compete again",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "where can i get a coffee",
+        "a1": "teavana is 2_miles away",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "teavana",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "2_miles",
+            "teavana"
+        ]
+    },
+    {
+        "q2": "is there a quick route to reach it",
+        "a2": "unfortunately teavana is the only coffee place i can find it is 2_miles away through heavy_traffic located at 145_amherst_st",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "145_amherst_st",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "heavy_traffic",
+            "2_miles",
+            "145_amherst_st",
+            "teavana"
+        ]
+    },
+    {
+        "q3": "well it is what it is let s navigate there now",
+        "a3": "navigation is set have a great day",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

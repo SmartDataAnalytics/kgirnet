@@ -1,0 +1,31 @@
+[
+    {
+        "q1": "how hot is it going to be this week",
+        "a1": "any day in particular you are looking for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i want to know if the weather will be hot in san_jose this week",
+        "a2": "yes the forecast is calling for highs in the 90s for most of the week",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "90f",
+        "input_ent2": "san_jose",
+        "kvr_entlist_qa2": [
+            "week"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

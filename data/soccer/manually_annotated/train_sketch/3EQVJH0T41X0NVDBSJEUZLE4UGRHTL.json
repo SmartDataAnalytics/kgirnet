@@ -1,0 +1,94 @@
+[
+    {
+        "q1": "who has the played the most matches for psg?",
+        "a1": "jean-marc pilorget",
+        "kgER1": {},
+        "a1_skt": "jean-marc pilorget",
+        "a1_v2": "jean-marc pilorget",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "are paris sg any good?",
+        "a2": "they are quite good and now have signed neymar.",
+        "kgER2": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they are quite good and now have signed @object",
+        "a2_v2": "they are quite good and now have signed neymar.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "paris sg"
+    },
+    {
+        "q3": "who else plays for psg?",
+        "a3": "edinson cavani ",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object ",
+        "a3_v2": "edinson cavani ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "how many goals has cavani scored for psg?",
+        "a4": "cavani a uruguayan forward has scored for the paris pg so far 46 goals",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "cavani a uruguayan @relation has scored for the paris pg so far @object goals",
+        "a4_v2": "cavani a uruguayan goals has scored for the paris pg so far @goals goals",
+        "corr_rel4": "goals",
+        "obj4": "46",
+        "input_ent4": "edinson cavani"
+    },
+    {
+        "q5": "who is the most scoring player for psg?",
+        "a5": "neymar",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "neymar",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

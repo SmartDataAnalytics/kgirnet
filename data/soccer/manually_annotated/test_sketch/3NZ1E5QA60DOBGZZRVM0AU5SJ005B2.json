@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "who currently owns chelsea?",
+        "a1": "roman abramovich ",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "roman abramovich ",
+        "a1_v2": "roman abramovich ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "oh alright",
+        "a2": "did roman abramovich play for chelsea at one point?",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "did roman abramovich play for @entity at one point?",
+        "a2_v2": "did roman abramovich play for chelsea at one point?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "does this team have good winnings?",
+        "a3": "no, roman abramovich is a businessman and he has never played football professionally himself.",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "no, roman abramovich is a businessman and he has never played football professionally himself.",
+        "a3_v2": "no, roman abramovich is a businessman and he has never played football professionally himself.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "roman abramovich is his owner is still a businessman but is always looking for his team",
+        "a4": "chelsea won 3 - 0 on saturday ",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "@entity won @object - @object on saturday ",
+        "a4_v2": "chelsea won 3 - 0 on saturday ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "roman burki"
+    },
+    {
+        "q5": "is chelsea the best right now?",
+        "a5": "not really, no, they fell behind last season, but they have an opportunity to be the best in the league this season. ",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "not really, no, they fell behind last season, but they have an opportunity to be the best in the league this season. ",
+        "a5_v2": "not really, no, they fell behind last season, but they have an opportunity to be the best in the league this season. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "chelsea"
+    }
+]

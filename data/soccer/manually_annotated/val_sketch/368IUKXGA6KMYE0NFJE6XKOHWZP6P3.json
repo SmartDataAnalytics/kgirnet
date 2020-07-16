@@ -1,0 +1,148 @@
+[
+    {
+        "q1": "who is the goalkeeper for real madrid?",
+        "a1": "one of real madrid's goalkeepers is keylor navas",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a1_skt": "one of real madrid's @relation is @object",
+        "a1_v2": "one of real madrid's goalkeepers is keylor navas",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "does keylor navas stop a lot of goals?",
+        "a2": "of course, it's his job to stop shots.",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "keylor navas": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "of course, it's his job to stop shots.",
+        "a2_v2": "of course, it's his job to stop shots.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "keylor navas"
+    },
+    {
+        "q3": "was this job? ",
+        "a3": "that is the job of the goalie/goal keeper. ",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "keylor navas": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "that is the job of the goalie/goal keeper. ",
+        "a3_v2": "that is the job of the goalie/goal keeper. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "keylor navas  is real madrid's keeper",
+        "a4": "what is the most goals ever scored on him in one game?",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "keylor navas": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "what is the most @relation ever scored on him in one game?",
+        "a4_v2": "what is the most goals ever scored on him in one game?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "how many times has this team tied a game?",
+        "a5": "8 goals scored in a game and many times tied",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "keylor navas": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "@object @relation scored in a game and many times tied",
+        "a5_v2": "8 goals scored in a game and many times tied",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

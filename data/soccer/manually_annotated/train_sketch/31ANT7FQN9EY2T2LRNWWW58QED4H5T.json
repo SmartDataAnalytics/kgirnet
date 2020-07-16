@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who has most caps for barcelona?",
+        "a1": "lionel andr\u00e9s messi cuccittini",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "lionel andr\u00e9s messi cuccittini",
+        "a1_v2": "lionel andr\u00e9s messi cuccittini",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "will barcelona miss iniesta?",
+        "a2": "no, they will not care.",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "no, they will not care.",
+        "a2_v2": "no, they will not care.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "barcelona"
+    },
+    {
+        "q3": "but he wants to return in the future.",
+        "a3": "what about barcelona?",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "what about @entity",
+        "a3_v2": "what about barcelona?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "he has a great squad currently, but probably will not have another player like iniesta ",
+        "a4": "iniesta is one of the best players that barcelona have had; if he will miss",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "iniesta is one of the best players that @entity have had; if he will miss",
+        "a4_v2": "iniesta is one of the best players that barcelona have had; if he will miss",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres iniesta"
+    },
+    {
+        "q5": "valverde hails dembele after putting barca uncertainty behind him",
+        "a5": "i think dembele is off to a good season this year.",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i think dembele is off to a good season this year.",
+        "a5_v2": "i think dembele is off to a good season this year.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "mousa dembele"
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "q1": "i admire manchester united",
+        "a1": "they are a very long-time best team in uk.",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they are a very long-time best team in uk.",
+        "a1_v2": "they are a very long-time best team in uk.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "how many times have they won the premier league title?",
+        "a2": "two",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "two",
+        "a2_v2": "two",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who\u2019s man utd\u2019s best midfielder ",
+        "a3": "do you like this teams colors?",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a3_skt": "do you like this teams colors?",
+        "a3_v2": "do you like this teams colors?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "midfielder"
+    },
+    {
+        "q4": "#5 david beckham (1992-2003) ",
+        "a4": "no i mean who is the best now?",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a4_skt": "no i mean who is the best now?",
+        "a4_v2": "no i mean who is the best now?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "5 (first in 1998)"
+    },
+    {
+        "q5": "i think fred is the best because his name is pretty funny.",
+        "a5": "lukaku is probably the best player on the team currently",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "midfielder": [
+                "position"
+            ],
+            "fred": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "lukaku is probably the @relation on the team currently",
+        "a5_v2": "lukaku is probably the best player on the team currently",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "fred"
+    }
+]

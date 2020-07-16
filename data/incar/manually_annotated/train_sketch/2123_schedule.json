@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "hello car hi i want to find out the time and the parties attending my lab_appointment please",
+        "a1": "your sister will be in attendance at your 3pm lab_appointment",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "time,party",
+        "obj1": "3pm,sister",
+        "input_ent1": "lab_appointment",
+        "kvr_entlist_qa1": [
+            "sister",
+            "3pm",
+            "lab_appointment"
+        ]
+    },
+    {
+        "q2": "great thanks",
+        "a2": "happy to help",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

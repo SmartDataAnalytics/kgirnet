@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "please give me the address and directions to the nearest parking_garage avoiding all heavy_traffic",
+        "a1": "palo_alto_garage_r is 1_miles away at 481_amaranta_ave with moderate_traffic noted",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "palo_alto_garage_r",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "481_amaranta_ave",
+            "moderate_traffic",
+            "1_miles",
+            "palo_alto_garage_r"
+        ]
+    },
+    {
+        "q2": "ok please give me directions via a route that avoids all heavy_traffic",
+        "a2": "setting fastest route to palo_alto_garage_r",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "moderate_traffic",
+        "input_ent2": "palo_alto_garage_r",
+        "kvr_entlist_qa2": [
+            "palo_alto_garage_r"
+        ]
+    },
+    {
+        "q3": "thank you car assistant",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

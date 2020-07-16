@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "look for parking",
+        "a1": "we are 1_miles away from webster_garage",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "webster_garage",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "webster_garage",
+            "1_miles"
+        ]
+    },
+    {
+        "q2": "let s avoid all heavy_traffic and send me its address on screen please",
+        "a2": "sure we re going to 880_ames_ct drive carefully",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "address",
+        "obj2": "880_ames_ct",
+        "input_ent2": "parking_garage",
+        "kvr_entlist_qa2": [
+            "880_ames_ct"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

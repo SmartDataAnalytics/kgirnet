@@ -1,0 +1,49 @@
+[
+    {
+        "q1": "car i wanna go to a grocery_store",
+        "a1": "sure we re 5_miles away from trader_joes and 7_miles away from sigona_farmers_market which one do you prefer",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "trader_joes,sigona_farmers_market",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "7_miles",
+            "5_miles",
+            "trader_joes",
+            "sigona_farmers_market"
+        ]
+    },
+    {
+        "q2": "which has less traffic",
+        "a2": "sigona_farmers_market is the best option available at 638_amherst_st with moderate_traffic noted",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "sigona_farmers_market",
+        "input_ent2": "grocery_store",
+        "kvr_entlist_qa2": [
+            "638_amherst_st",
+            "moderate_traffic",
+            "sigona_farmers_market"
+        ]
+    },
+    {
+        "q3": "ok what s the address",
+        "a3": "as i said the address is 638_amherst_st do you want me to navigate you there",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "638_amherst_st",
+        "input_ent3": "sigona_farmers_market",
+        "kvr_entlist_qa3": [
+            "638_amherst_st"
+        ]
+    },
+    {
+        "q4": "yes please and thank you car",
+        "a4": "you re welcome drive carefully",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "please give me the address and directions by the fastest route to a coffee_or_tea_place avoid heavy_traffic please",
+        "a1": "we re 4_miles away from starbucks that s located at 792_bedoin_street and there is moderate_traffic on our way do you want me to set the gps to go there",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel1": "poi",
+        "obj1": "starbucks",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "moderate_traffic",
+            "4_miles",
+            "792_bedoin_street",
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "yes it sounds perfect thank you car",
+        "a2": "you re very welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

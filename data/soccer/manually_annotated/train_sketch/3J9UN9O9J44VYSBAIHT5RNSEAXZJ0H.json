@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "are there enough people in iceland to form a football team?",
+        "a1": "iceland's population is 334,252. so i hope so.",
+        "kgER1": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "iceland's population is 334,252. so i hope so.",
+        "a1_v2": "iceland's population is 334,252. so i hope so.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "iceland"
+    },
+    {
+        "q2": "was everybody in the iceland team born in iceland?",
+        "a2": "no, some players were born elsewhere but have parents from iceland.",
+        "kgER2": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no, some players were born elsewhere but have parents from @entity",
+        "a2_v2": "no, some players were born elsewhere but have parents from iceland.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "iceland"
+    },
+    {
+        "q3": "how did iceland do in the world cup? ",
+        "a3": "they were qualified",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they were qualified",
+        "a3_v2": "they were qualified",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "iceland"
+    },
+    {
+        "q4": "have they ever won the world cup?",
+        "a4": "iceland has not won the world cup but has come very close.",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity has not won the world cup but has come very close.",
+        "a4_v2": "iceland has not won the world cup but has come very close.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ever banega"
+    },
+    {
+        "q5": "they qualified but they lacked a lot to do and they lack a lot of staff ",
+        "a5": "if they were properly staffed would iceland stand a good chance at winning the next world cup?",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "if they were properly staffed would @entity stand a good chance at winning the next world cup?",
+        "a5_v2": "if they were properly staffed would iceland stand a good chance at winning the next world cup?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "q1": "who has played the most minutes for argentina \\?",
+        "a1": "javier mascherano",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "javier mascherano",
+        "a1_v2": "javier mascherano",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "what position does he play \\?",
+        "a2": "he 's a midfielder",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "he 's a @relation",
+        "a2_v2": "he 's a midfielder",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "i agree but macherano sometimes also plays as central defense",
+        "a3": "he does better as midfielder",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "he does better as @relation",
+        "a3_v2": "he does better as midfielder",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "why do you think he 's a better midfielder than defense \\?",
+        "a4": "because as a midfielder he 's more involved with setting up opportunities and movement for his strikers whilst also being able to assist in defense when needed",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a4_skt": "because as a @relation he 's more involved with setting up opportunities and movement for his strikers whilst also being able to assist in @object when needed",
+        "a4_v2": "because as a midfielder he 's more involved with setting up opportunities and movement for his strikers whilst also being able to assist in defense when needed",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "midfielder"
+    },
+    {
+        "q5": "do you think he will help with the team 's success \\?",
+        "a5": "he is getting old for argentina",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a5_skt": "he is getting old for @entity",
+        "a5_v2": "he is getting old for argentina",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

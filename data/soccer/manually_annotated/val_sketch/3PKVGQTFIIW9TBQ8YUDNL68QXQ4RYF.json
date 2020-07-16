@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "have iceland ever won a world cup?",
+        "a1": "no they have never won the world cup.",
+        "kgER1": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "no they have never won the world cup.",
+        "a1_v2": "no they have never won the world cup.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "iceland"
+    },
+    {
+        "q2": "can you name a midfielder of iceland?",
+        "a2": "aron gunnarsson ",
+        "kgER2": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a2_skt": "@object ",
+        "a2_v2": "@midfielder",
+        "corr_rel2": "midfielder",
+        "obj2": "aron gunnarsson",
+        "input_ent2": "iceland"
+    },
+    {
+        "q3": "is there any players from iceland playing in the english premiership?",
+        "a3": "yes, 2 siggurdsson and gudmundsson",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a3_skt": "yes, @object siggurdsson and gudmundsson",
+        "a3_v2": "yes, 2 siggurdsson and gudmundsson",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "iceland"
+    },
+    {
+        "q4": "name any two iceland players?",
+        "a4": "olaffson and hermannssonn",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a4_skt": "olaffson and @object",
+        "a4_v2": "olaffson and @has_player",
+        "corr_rel4": "has player",
+        "obj4": "hjortur hermannsson",
+        "input_ent4": "iceland"
+    },
+    {
+        "q5": "is iceland a famous team?",
+        "a5": "they played in their first ever world cup this year. they deserve some recognition for that great achievement.",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a5_skt": "they played in their first ever world cup this year. they deserve some recognition for that great achievement.",
+        "a5_v2": "they played in their first ever world cup this year. they deserve some recognition for that great achievement.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "iceland"
+    }
+]

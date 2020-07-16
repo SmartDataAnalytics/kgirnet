@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "where is a rest_stop within 5_miles",
+        "a1": "four_seasons is 2_miles away want the address",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "four_seasons",
+        "input_ent1": "5_miles,rest_stop",
+        "kvr_entlist_qa1": [
+            "four_seasons",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "yes",
+        "a2": "the four_seasons is 2_miles away at 465_arcadia_pl",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "four_seasons",
+            "465_arcadia_pl",
+            "2_miles"
+        ]
+    },
+    {
+        "q3": "set gps for a route with no_traffic if possible",
+        "a3": "there is no_traffic on our way and you should arrive in few minutes",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel3": "traffic_info",
+        "obj3": "no_traffic",
+        "input_ent3": "5_miles,rest_stop",
+        "kvr_entlist_qa3": [
+            "no_traffic"
+        ]
+    },
+    {
+        "q4": "perfect thanks",
+        "a4": "anytime",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

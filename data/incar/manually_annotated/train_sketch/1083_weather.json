@@ -1,0 +1,27 @@
+[
+    {
+        "q1": "what will the temperature be this weekend in grand_rapids",
+        "a1": "it looks like it will be 70f - 80f on saturday and 90f - 100f on sunday",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "saturday, sunday",
+        "obj1": "70f,100f,80f,90f",
+        "input_ent1": "grand_rapids",
+        "kvr_entlist_qa1": [
+            "70f",
+            "100f",
+            "80f",
+            "90f",
+            "sunday",
+            "saturday"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "no problem",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

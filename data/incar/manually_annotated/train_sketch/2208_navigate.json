@@ -1,0 +1,46 @@
+[
+    {
+        "q1": "please give me directions to a nearby parking_garage parking lot",
+        "a1": "we are 2_miles away from dish_parking send you its address on screen",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi",
+        "obj1": "dish_parking",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "2_miles",
+            "dish_parking"
+        ]
+    },
+    {
+        "q2": "yes",
+        "a2": "the address is 550_alester_ave with no_traffic",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "address",
+        "obj2": "550_alester_ave",
+        "input_ent2": "dish_parking",
+        "kvr_entlist_qa2": [
+            "no_traffic",
+            "550_alester_ave"
+        ]
+    },
+    {
+        "q3": "set navigation for quickest route",
+        "a3": "setting navigation for quickest route which has no_traffic",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel3": "traffic_info",
+        "obj3": "no_traffic",
+        "input_ent3": "dish_parking",
+        "kvr_entlist_qa3": [
+            "no_traffic"
+        ]
+    },
+    {
+        "q4": "thanks so much for the help",
+        "a4": "you re welcome glad i could help",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

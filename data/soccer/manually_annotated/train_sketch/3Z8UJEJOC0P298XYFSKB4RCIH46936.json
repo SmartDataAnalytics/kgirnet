@@ -1,0 +1,88 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "no but some of their players will probably play for national teams.",
+        "kgER1": {},
+        "a1_skt": "no but some of their players will probably play for national teams.",
+        "a1_v2": "no but some of their players will probably play for national teams.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "does reus still play for bvb dortmund?",
+        "a2": "yes, and he is the current captain.",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes, and he is the current @relation",
+        "a2_v2": "yes, and he is the current captain.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bvb dortmund"
+    },
+    {
+        "q3": "probably if you qualify for the next season",
+        "a3": "do you think bvb dortmund are capable of winning the league?",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "do you think bvb dortmund are capable of winning the league?",
+        "a3_v2": "do you think bvb dortmund are capable of winning the league?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "i think the bvb dortmund is capable of winning the league thanks to its good players and the experienced technician",
+        "a4": "i'm actually not too familiar with the team, which players stand out on the team?",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i'm actually not too familiar with the team, which players stand out on the team?",
+        "a4_v2": "i'm actually not too familiar with the team, which players stand out on the team?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bvb dortmund"
+    },
+    {
+        "q5": "i think that reus still plays bvb dortmund",
+        "a5": "has he been there very long? ",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "has he been there very long? ",
+        "a5_v2": "has he been there very long? ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bvb dortmund"
+    }
+]

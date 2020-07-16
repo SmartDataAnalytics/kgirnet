@@ -1,0 +1,79 @@
+[
+    {
+        "q1": "this is one of my favorite team",
+        "a1": "dortmund is my favorite team.",
+        "kgER1": {},
+        "a1_skt": "dortmund is my favorite team.",
+        "a1_v2": "dortmund is my favorite team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "what team is from dortmund? bvb",
+        "a2": "bvb dortmund is the football team that is based out of dortmund, germany.",
+        "kgER2": {},
+        "a2_skt": "bvb dortmund is the football team that is based out of dortmund, @entity",
+        "a2_v2": "bvb dortmund is the football team that is based out of dortmund, germany.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bvb dortmund"
+    },
+    {
+        "q3": "how good is bvb dortmund?",
+        "a3": "i think it's a good team",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think it's a good team",
+        "a3_v2": "i think it's a good team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "what was their record last year? ",
+        "a4": "who is the top player on the team bvb dortmund?",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "who is the top player on the team bvb dortmund?",
+        "a4_v2": "who is the top player on the team bvb dortmund?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "aubameyang is their best player. ",
+        "a5": "how many goals has he scored this year?",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "how many @relation has he scored this year?",
+        "a5_v2": "how many goals has he scored this year?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "pierre-emerick aubameyang"
+    }
+]

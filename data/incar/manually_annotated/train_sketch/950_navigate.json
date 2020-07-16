@@ -1,0 +1,23 @@
+[
+    {
+        "q1": "i need a place that serves coffee locally",
+        "a1": "there is a philz 6_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi,distance",
+        "obj1": "philz,6_miles",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "philz",
+            "6_miles"
+        ]
+    },
+    {
+        "q2": "it sounds good please pick a quick route and send it on the screen thank you",
+        "a2": "i sent the best possible route on your screen you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

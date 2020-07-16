@@ -1,0 +1,75 @@
+[
+    {
+        "q1": "do you think this team has a chance of winning",
+        "a1": "they might but there is no such thing as a certain win ",
+        "kgER1": {},
+        "a1_skt": "they might but there is no such thing as a certain win ",
+        "a1_v2": "they might but there is no such thing as a certain win ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "who do you think their best player will be a year from now?",
+        "a2": "cristiano ronaldo will be his best player",
+        "kgER2": {},
+        "a2_skt": "@object will be his @relation",
+        "a2_v2": "cristiano ronaldo will be his best player",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "no doubt christian is the best",
+        "a3": "so i heard they had made his transfer fee back in kit sales already, is this true ?",
+        "kgER3": {},
+        "a3_skt": "so i heard they had made his transfer fee back in kit sales already, is this true ?",
+        "a3_v2": "so i heard they had made his transfer fee back in kit sales already, is this true ?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "christian benteke"
+    },
+    {
+        "q4": "what colours are juventus colours",
+        "a4": "white and black",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "@object and black",
+        "a4_v2": "white and black",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "juventus"
+    },
+    {
+        "q5": "are you sure it's white and black?",
+        "a5": "yes it is black and white.",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "white": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "yes it is black and @object",
+        "a5_v2": "yes it is black and white.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "black and white"
+    }
+]

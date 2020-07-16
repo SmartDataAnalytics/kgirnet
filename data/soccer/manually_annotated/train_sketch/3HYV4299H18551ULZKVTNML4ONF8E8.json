@@ -1,0 +1,103 @@
+[
+    {
+        "q1": "i admire arsenal",
+        "a1": "they have a good chance to win the title.",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they have a good chance to win the title.",
+        "a1_v2": "they have a good chance to win the title.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "when will they win as well as last final match?",
+        "a2": "what country is arsenal from?",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "what country is @entity from?",
+        "a2_v2": "what country is arsenal from?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "arsenal are in the uk ",
+        "a3": "who is the current coach after wenger ",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "who is the current @relation after wenger ",
+        "a3_v2": "who is the current coach after wenger ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "arsenal"
+    },
+    {
+        "q4": "unai emery is currently the head coach. ",
+        "a4": "where did he coach before?",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "unai emery": [
+                "coach"
+            ]
+        },
+        "a4_skt": "where did he @relation before?",
+        "a4_v2": "where did he coach before?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "unai emery"
+    },
+    {
+        "q5": "he coached at sevilla before arsenal",
+        "a5": "yeah but his team never won",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "unai emery": [
+                "coach"
+            ]
+        },
+        "a5_skt": "yeah but his team never won",
+        "a5_v2": "yeah but his team never won",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "arsenal"
+    }
+]

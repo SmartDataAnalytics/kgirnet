@@ -1,0 +1,82 @@
+[
+    {
+        "q1": "when did chelsea came into existence?",
+        "a1": "chelsea were founded in 1905 in fulham west london.",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "@entity were @relation in @object in fulham west london.",
+        "a1_v2": "chelsea were founded in 1905 in fulham west london.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "yes, but who founded them?",
+        "a2": "henry augustus \"gus\" mears",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "henry augustus \"gus\" mears",
+        "a2_v2": "henry augustus \"gus\" mears",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is chelsea's star player?",
+        "a3": "eden hazard i\u2019d say",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "@object i\u2019d say",
+        "a3_v2": "eden hazard i\u2019d say",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "chelsea"
+    },
+    {
+        "q4": "why is eden the best player?",
+        "a4": "great skills.",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "great skills.",
+        "a4_v2": "great skills.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "eden hazard"
+    }
+]

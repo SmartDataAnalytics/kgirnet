@@ -1,0 +1,106 @@
+[
+    {
+        "q1": "who is the goalkeeper for portugal \\?",
+        "a1": "rui patricio",
+        "kgER1": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@goalkeeper",
+        "corr_rel1": "goalkeeper",
+        "obj1": "rui patricio",
+        "input_ent1": "portugal"
+    },
+    {
+        "q2": "when did portugal win the world cup \\?",
+        "a2": "portugal did n't win a world cup",
+        "kgER2": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a2_skt": "@entity did n't win a world cup",
+        "a2_v2": "portugal did n't win a world cup",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "portugal"
+    },
+    {
+        "q3": "why have they never won \\?",
+        "a3": "it 's a not a huge country and needs better investments in their national team",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "it 's a not a huge country and needs better investments in their national team",
+        "a3_v2": "it 's a not a huge country and needs better investments in their national team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "will portugal qualify for the next world cup \\?",
+        "a4": "i believe they will qualify for their sixth consecutive appearances",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "i believe they will qualify for their sixth consecutive appearances",
+        "a4_v2": "i believe they will qualify for their sixth consecutive appearances",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "portugal"
+    }
+]

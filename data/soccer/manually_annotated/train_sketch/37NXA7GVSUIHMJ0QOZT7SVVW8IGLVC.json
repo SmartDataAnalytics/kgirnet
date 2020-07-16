@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "is sir alex ferguson manchester united's best coach ever? ",
+        "a1": "no he isn't.",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "no he isn't.",
+        "a1_v2": "no he isn't.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "who is their current manager?",
+        "a2": "jose mourinho is currently their manager. ",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object is currently their manager. ",
+        "a2_v2": "@coach is currently their manager. ",
+        "corr_rel2": "coach",
+        "obj2": "jose mourinho",
+        "input_ent2": "manchester united"
+    },
+    {
+        "q3": "who is their all-time winning-est coach?",
+        "a3": "sir alex ferguson, is the most winning coach of all time",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "sir alex ferguson, is the most winning @relation of all time",
+        "a3_v2": "sir alex ferguson, is the most winning coach of all time",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who owns the manchester united team?",
+        "a4": " i think it's a legend in manchester",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": " i think it's a legend in manchester",
+        "a4_v2": " i think it's a legend in manchester",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "what makes them better than manchester city, assuming you think they are? ",
+        "a5": "they have a longer history, better fans, and a better track record.",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "they have a longer history, better fans, and a better track record.",
+        "a5_v2": "they have a longer history, better fans, and a better track record.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "manchester united"
+    }
+]

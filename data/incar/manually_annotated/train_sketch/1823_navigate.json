@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "please give the address and directions via the fastest route to a hospital",
+        "a1": "we re 8_miles away from stanford_express_care it s at 214_el_camino_real",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi, address",
+        "obj1": "stanford_express_care,214_el_camino_real",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "stanford_express_care",
+            "214_el_camino_real",
+            "8_miles"
+        ]
+    },
+    {
+        "q2": "sounds good let s go there thank you",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

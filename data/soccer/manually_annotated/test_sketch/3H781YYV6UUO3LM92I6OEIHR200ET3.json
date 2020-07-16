@@ -1,0 +1,115 @@
+[
+    {
+        "q1": "i like team",
+        "a1": "they played the  villar perosa friendly today.",
+        "kgER1": {},
+        "a1_skt": "they played the  villar perosa friendly today.",
+        "a1_v2": "they played the  villar perosa friendly today.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "what day was that match up played on?",
+        "a2": "i am not sure",
+        "kgER2": {},
+        "a2_skt": "i am not sure",
+        "a2_v2": "i am not sure",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "cristiano ronaldo debuts this saturday, august 12 with his new colors in the traditional friendly match against juventus b in villar perosa, where the match always ends with a field invasion by the fans in a festive atmosphere",
+        "a3": "do you think the other players resent ronaldo's fame? ",
+        "kgER3": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "do you think the other players resent ronaldo's fame? ",
+        "a3_v2": "do you think the other players resent ronaldo's fame? ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "12 (first in 1934)"
+    },
+    {
+        "q4": "cristiano ronaldo film captures giant ego and strange, lonely world of being cr7 ",
+        "a4": "juventus needs ronaldo ",
+        "kgER4": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "@entity needs ronaldo ",
+        "a4_v2": "juventus needs ronaldo ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "cristiano ronaldo"
+    },
+    {
+        "q5": "i think this team is perfect with or without cr7 ( cristiano)",
+        "a5": "ronaldo makes juventus a lot better ",
+        "kgER5": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "ronaldo makes @entity a lot better ",
+        "a5_v2": "ronaldo makes juventus a lot better ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "cristiano ronaldo"
+    }
+]

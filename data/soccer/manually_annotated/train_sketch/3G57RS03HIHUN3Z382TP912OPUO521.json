@@ -1,0 +1,91 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "they have a shot but it will be tuff.",
+        "kgER1": {},
+        "a1_skt": "they have a shot but it will be tuff.",
+        "a1_v2": "they have a shot but it will be tuff.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "why will it be tough?",
+        "a2": "iceland doesn't have enough world class players to really make a dent.",
+        "kgER2": {},
+        "a2_skt": "@entity doesn't have enough world @relation to really make a dent.",
+        "a2_v2": "iceland doesn't have enough world class players to really make a dent.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "could iceland be good enough long term to maintain their position as a middle of the pack nation?",
+        "a3": "yes, they can",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes, they can",
+        "a3_v2": "yes, they can",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "iceland"
+    },
+    {
+        "q4": "given that this was their first world cup, do you believe they can make it to the next?",
+        "a4": "iceland will make it but will not win.",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity will make it but will not win.",
+        "a4_v2": "iceland will make it but will not win.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "emre can"
+    },
+    {
+        "q5": "who is iceland's manager?",
+        "a5": "heimir hallgr\u00edmsson",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "heimir hallgr\u00edmsson",
+        "a5_v2": "heimir hallgr\u00edmsson",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "iceland"
+    }
+]

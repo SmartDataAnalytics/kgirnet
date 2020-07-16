@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "do you support liverpool at football?",
+        "a1": "not personally but i respect them as a team ",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "not personally but i respect them as a team ",
+        "a1_v2": "not personally but i respect them as a team ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "awesome",
+        "a2": "how do you feel about liverpool, then?",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "how do you feel about @entity then?",
+        "a2_v2": "how do you feel about liverpool, then?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "they are a great team under kloppo, great chemistry, great teamwork",
+        "a3": "the liverpool is a great team under the command of klopp since it is a very good technician and with good strategies",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "the @entity is a great team under the command of klopp since it is a very good technician and with good strategies",
+        "a3_v2": "the liverpool is a great team under the command of klopp since it is a very good technician and with good strategies",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is your favourite person on liverpool?",
+        "a4": "has to be mohamed salah",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "has to be @object",
+        "a4_v2": "has to be mohamed salah",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    },
+    {
+        "q5": "is liverpool in the champions again?",
+        "a5": "yes, they always are ",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes, they always are ",
+        "a5_v2": "yes, they always are ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

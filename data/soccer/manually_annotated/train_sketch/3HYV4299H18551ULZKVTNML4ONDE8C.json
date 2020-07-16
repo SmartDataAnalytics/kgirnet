@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "can any north american nation overtake mexico as the top in concacaf?",
+        "a1": "costa rica is 2 wins from tying mexico. ",
+        "kgER1": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "costa rica is @object wins from tying @entity ",
+        "a1_v2": "costa rica is 2 wins from tying mexico. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "mexico"
+    },
+    {
+        "q2": "what is their goalies name?",
+        "a2": "is it navas ",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "is it navas ",
+        "a2_v2": "is it navas ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "yes it is navas",
+        "a3": "have they ever won the world cup before?",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "have they ever won the world cup before?",
+        "a3_v2": "have they ever won the world cup before?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "jesus navas"
+    },
+    {
+        "q4": "never",
+        "a4": "mexico will never win a world cup. ",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity will never win a world cup. ",
+        "a4_v2": "mexico will never win a world cup. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "how far did they get in the world cup?",
+        "a5": "mexico could go far if it is proposed",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity could go far if it is proposed",
+        "a5_v2": "mexico could go far if it is proposed",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

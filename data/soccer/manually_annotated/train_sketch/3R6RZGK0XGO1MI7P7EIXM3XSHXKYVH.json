@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "has spain ever won a world cup?",
+        "a1": "yes, in 2010.",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes, in @object",
+        "a1_v2": "yes, in @number_of_world_cup_champion",
+        "corr_rel1": "world cup champions",
+        "obj1": "2010",
+        "input_ent1": "spain"
+    },
+    {
+        "q2": "who did they defeat in the final in 2010?",
+        "a2": "i seem to have heard that to holland ",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i seem to have heard that to holland ",
+        "a2_v2": "i seem to have heard that to holland ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "when is the next spain game?",
+        "a3": "i do not think spain has a schedule out yet. i cannot wait for them to add a striker. there's a desert a drought of strikers in spain. ",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i do not think @entity has a schedule out yet. i cannot wait for them to add a striker. there's a desert a drought of strikers in @entity. ",
+        "a3_v2": "i do not think spain has a schedule out yet. i cannot wait for them to add a striker. there's a desert a drought of strikers in spain. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "spain"
+    },
+    {
+        "q4": "who are the captain in final?",
+        "a4": "sergio ramos",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "@captain",
+        "corr_rel4": "captain",
+        "obj4": "sergio ramos",
+        "input_ent4": "spain"
+    },
+    {
+        "q5": "will spain win the world cup 2022?",
+        "a5": "spain is always competitive, so they have a good a chance as anyone. ",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity is always competitive, so they have a good a chance as anyone. ",
+        "a5_v2": "spain is always competitive, so they have a good a chance as anyone. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "spain"
+    }
+]

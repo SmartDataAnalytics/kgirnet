@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "will it be cloudy this week",
+        "a1": "what city are you in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "san_mateo",
+        "a2": "it s not gonna be cloudy this week in san_mateo but it might rain on wednesday and it could fall hail on saturday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "wednesday,saturday",
+        "obj2": "hail,rain",
+        "input_ent2": "san_mateo",
+        "kvr_entlist_qa2": [
+            "hail",
+            "san_mateo",
+            "cloudy",
+            "wednesday",
+            "saturday",
+            "rain",
+            "week"
+        ]
+    },
+    {
+        "q3": "oh ok thanks",
+        "a3": "you re welcome glad i could help",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "q1": "i completely love fc. porto",
+        "a1": "what do you think of their strip? ",
+        "kgER1": {},
+        "a1_skt": "what do you think of their strip? ",
+        "a1_v2": "what do you think of their strip? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "i like it. why do they play in blue and white stripes?",
+        "a2": "they had blue and white stripes since the club started.",
+        "kgER2": {
+            "white": [
+                "jersey color"
+            ],
+            "blue": [
+                "jersey color"
+            ],
+            "blue and white": [
+                "home jersey"
+            ]
+        },
+        "a2_skt": "they had @object and @object stripes since the club started.",
+        "a2_v2": "they had blue and white stripes since the club started.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "blue and white"
+    },
+    {
+        "q3": "do you think they will change their kit for the new season?",
+        "a3": "what city do they play in!",
+        "kgER3": {
+            "white": [
+                "jersey color"
+            ],
+            "blue": [
+                "jersey color"
+            ],
+            "blue and white": [
+                "home jersey"
+            ]
+        },
+        "a3_skt": "what city do they play in!",
+        "a3_v2": "what city do they play in!",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "porto play in porto... ",
+        "a4": "i think if they change it",
+        "kgER4": {
+            "white": [
+                "jersey color"
+            ],
+            "blue": [
+                "jersey color"
+            ],
+            "blue and white": [
+                "home jersey"
+            ]
+        },
+        "a4_skt": "i think if they change it",
+        "a4_v2": "i think if they change it",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "fc. porto"
+    },
+    {
+        "q5": "what colors are on fc porto's uni's",
+        "a5": "red and black mostly.",
+        "kgER5": {
+            "white": [
+                "jersey color"
+            ],
+            "blue": [
+                "jersey color"
+            ],
+            "blue and white": [
+                "home jersey"
+            ],
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object and black mostly.",
+        "a5_v2": "red and black mostly.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "fc. porto"
+    }
+]

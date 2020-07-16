@@ -1,0 +1,28 @@
+[
+    {
+        "q1": "is there a rest_stop near me",
+        "a1": "a rest_stop is located at 333_arbol_dr 6_miles away with moderate_traffic called the travelers_lodge",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "travelers_lodge",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "moderate_traffic",
+            "333_arbol_dr",
+            "rest_stop",
+            "6_miles",
+            "travelers_lodge"
+        ]
+    },
+    {
+        "q2": "let s go there thank you car",
+        "a2": "heading to travelers_lodge you re welcome",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "rest_stop",
+        "kvr_entlist_qa2": [
+            "travelers_lodge"
+        ]
+    }
+]

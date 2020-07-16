@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "find me a tea house",
+        "a1": "there is cafe_venetia that s 4_miles away at 269_alger_dr",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "cafe_venetia",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "cafe_venetia",
+            "4_miles",
+            "269_alger_dr"
+        ]
+    },
+    {
+        "q2": "is there an alternate route and is this the quickest way there",
+        "a2": "there is no_traffic on our route i ve set the navigation there",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "no_traffic"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

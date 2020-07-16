@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "where can i get pizza",
+        "a1": "there is a pizza_chicago 1_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "pizza_chicago",
+        "input_ent1": "pizza_restaurant",
+        "kvr_entlist_qa1": [
+            "pizza_chicago",
+            "1_miles"
+        ]
+    },
+    {
+        "q2": "what s the traffic like",
+        "a2": "there is moderate_traffic to pizza_chicago",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "moderate_traffic",
+        "input_ent2": "pizza_chicago",
+        "kvr_entlist_qa2": [
+            "moderate_traffic",
+            "pizza_chicago"
+        ]
+    },
+    {
+        "q3": "then let s go there thank you car",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "remind me of the time for today s dinner",
+        "a1": "dinner event time 5pm wednesday evening",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "time",
+        "obj1": "5pm",
+        "input_ent1": "dinner",
+        "kvr_entlist_qa1": [
+            "wednesday",
+            "dinner",
+            "5pm"
+        ]
+    },
+    {
+        "q2": "thank you",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

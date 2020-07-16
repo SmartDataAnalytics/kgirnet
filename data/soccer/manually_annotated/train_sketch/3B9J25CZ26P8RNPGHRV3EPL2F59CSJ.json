@@ -1,0 +1,103 @@
+[
+    {
+        "q1": "i like the team bvb dortmund",
+        "a1": "i like the being yellow",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i like the being @object",
+        "a1_v2": "i like the being yellow",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "what are bvb dortmund team colors \\?",
+        "a2": "yellow and black",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object and black",
+        "a2_v2": "@jersey_color and black",
+        "corr_rel2": "jersey color",
+        "obj2": "yellow",
+        "input_ent2": "bvb dortmund"
+    },
+    {
+        "q3": "who is dortmunds best player \\?",
+        "a3": "marco rues is their best player",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "marco rues is their @relation",
+        "a3_v2": "marco rues is their best player",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is dortmund 's goalkeeper \\?",
+        "a4": "i think it 's roman burki",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "i think it 's @object",
+        "a4_v2": "i think it 's roman burki",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "goalkeeper"
+    },
+    {
+        "q5": "what is bvb dortmund 's current ranking \\?",
+        "a5": "world ranking is 35 and european ranking is 34",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "world ranking is @object and european ranking is @object",
+        "a5_v2": "world ranking is 35 and european ranking is 34",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bvb dortmund"
+    }
+]

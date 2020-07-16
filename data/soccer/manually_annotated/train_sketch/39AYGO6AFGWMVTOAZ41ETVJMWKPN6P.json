@@ -1,0 +1,98 @@
+[
+    {
+        "q1": "how far did spain's national team advance in the 2018 fifa world cup?",
+        "a1": "they lost to russia in the round of 16 ",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "they lost to russia in the @relation of @object ",
+        "a1_v2": "they lost to russia in the round of 16 ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "2018"
+    },
+    {
+        "q2": "what was the reason of their bad performance?",
+        "a2": "the defense selection probably",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "the @relation selection probably",
+        "a2_v2": "the defense selection probably",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "is pique still alright playing for spain?",
+        "a3": "i think he's still active for spain.",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "i think he's still active for spain.",
+        "a3_v2": "i think he's still active for spain.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "spain"
+    }
+]

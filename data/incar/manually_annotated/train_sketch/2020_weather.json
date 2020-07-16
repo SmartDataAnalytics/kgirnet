@@ -1,0 +1,43 @@
+[
+    {
+        "q1": "is it gonna be hot in danville during the week",
+        "a1": "in danville the forcast is a high of 50f on monday a high of 60f on tuesday a high of 40f on wednesday a high of 80f on thursday a high of 100f on friday a high of 50f on saturday and a high of 40f on sunday",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj1": "100f,80f,60f,40f,50f",
+        "input_ent1": "danville",
+        "kvr_entlist_qa1": [
+            "100f",
+            "danville",
+            "80f",
+            "60f",
+            "monday",
+            "wednesday",
+            "sunday",
+            "saturday",
+            "40f",
+            "tuesday",
+            "thursday",
+            "friday",
+            "50f"
+        ]
+    },
+    {
+        "q2": "thank you",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "goodbye",
+        "a3": "bye",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

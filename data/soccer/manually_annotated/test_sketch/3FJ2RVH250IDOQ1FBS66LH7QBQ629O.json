@@ -1,0 +1,82 @@
+[
+    {
+        "q1": "what is considered when choosing players for each position?",
+        "a1": "speed, ball skill",
+        "kgER1": {
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a1_skt": "speed, ball skill",
+        "a1_v2": "speed, ball skill",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "do coaches get fired from professional soccer teams like they do in american football?",
+        "a2": "they can -- mexico and spain both fired their coaches recently.",
+        "kgER2": {
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "they can -- @entity and @entity both fired their @relation recently.",
+        "a2_v2": "they can -- mexico and spain both fired their coaches recently.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "who is the coach for france's team?",
+        "a3": "didier deschamps is the coach of france",
+        "kgER3": {
+            "red": [
+                "jersey color"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object is the @relation of @entity",
+        "a3_v2": "didier deschamps is the coach of france",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "france"
+    },
+    {
+        "q4": "who is better, messi or cr7?",
+        "a4": "obviously cr proven in more than just one league.",
+        "kgER4": {
+            "red": [
+                "jersey color"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "obviously cr proven in more than just one league.",
+        "a4_v2": "obviously cr proven in more than just one league.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "lionel messi"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "q1": "get me the address of a chinese_restaurant around this area",
+        "a1": "the closest chinese_restaurant i have is 4_miles away would you like more info",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi",
+        "obj1": "4_miles",
+        "input_ent1": "chinese_restaurant",
+        "kvr_entlist_qa1": [
+            "chinese_restaurant",
+            "4_miles"
+        ]
+    },
+    {
+        "q2": "no need it will work fine please pick a route to avoid all heavy_traffic and let s go there",
+        "a2": "setting gps on route to avoid all heavy_traffic",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel2": "traffic_info",
+        "obj2": "heavy_traffic",
+        "input_ent2": "chinese_restaurant",
+        "kvr_entlist_qa2": [
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "thank you what is the address",
+        "a3": "jing_jing s address is 113_arbol_dr",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "113_arbol_dr,jing_jing",
+        "input_ent3": "jing_jing",
+        "kvr_entlist_qa3": [
+            "113_arbol_dr",
+            "jing_jing"
+        ]
+    },
+    {
+        "q4": "thank you car let s go there",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

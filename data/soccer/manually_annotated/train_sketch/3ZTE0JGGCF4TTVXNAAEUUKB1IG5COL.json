@@ -1,0 +1,114 @@
+[
+    {
+        "q1": "what's the name of the home stadium of juventus?",
+        "a1": "allianz stadium.",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "allianz stadium.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "which country is it in?",
+        "a2": "italy",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "@entity",
+        "a2_v2": "italy",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "how many people does that stadium seat?",
+        "a3": "41507",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "41507",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "allianz stadium"
+    },
+    {
+        "q4": "wow! who is your favorite juventus player?",
+        "a4": "my favorite juventus player is ronaldo.",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "my favorite @entity player is ronaldo.",
+        "a4_v2": "my favorite juventus player is ronaldo.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "juventus"
+    },
+    {
+        "q5": " juventus has history and is great in italy and the world with more value even with ronaldo",
+        "a5": "i was not asked a question, warn the guy before me.",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i was not asked a question, warn the guy before me.",
+        "a5_v2": "i was not asked a question, warn the guy before me.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "juventus"
+    }
+]

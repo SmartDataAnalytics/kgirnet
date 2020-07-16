@@ -1,0 +1,60 @@
+[
+    {
+        "q1": "what country is this team from?",
+        "a1": "bvb dortmund comes from germany.",
+        "kgER1": {},
+        "a1_skt": "bvb dortmund comes from @entity",
+        "a1_v2": "bvb dortmund comes from germany.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "they seem like a good team this year.",
+        "a2": "did paul lambert play for dortmund?",
+        "kgER2": {},
+        "a2_skt": "did paul lambert play for dortmund?",
+        "a2_v2": "did paul lambert play for dortmund?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "yep, from 1996-1997.",
+        "a3": "what are the official colors of dortmund ?",
+        "kgER3": {},
+        "a3_skt": "what are the official colors of dortmund ?",
+        "a3_v2": "what are the official colors of dortmund ?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "black and yellow ",
+        "a4": "the are black and yellow colors",
+        "kgER4": {
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "the are black and @object colors",
+        "a4_v2": "the are black and yellow colors",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "yellow"
+    },
+    {
+        "q5": "who is their star player in your opinion?",
+        "a5": "bvb star player is marco reus",
+        "kgER5": {
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "bvb @relation is @object",
+        "a5_v2": "bvb star player is marco reus",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

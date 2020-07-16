@@ -1,0 +1,86 @@
+[
+    {
+        "q1": "are you know about bayern munich?",
+        "a1": "i had never heard of them",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i had never heard of them",
+        "a1_v2": "i had never heard of them",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "a german soccer team, i have heard of them. they play in munich, germany. they play in the uefa champions league. they also play in the dfl-supercup. these are both great challenging leagues. they have a good squad and a balance offense attack with good forwards. they are my favorite team in germany and have good team chemistry. who is everyone's favorite player?well everyone, have a good day and goodbye:)",
+        "a2": "sorry i have no idea",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "forward": [
+                "position"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "sorry i have no idea",
+        "a2_v2": "sorry i have no idea",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "germany"
+    },
+    {
+        "q3": "what do you know about bayern munich?",
+        "a3": "default winners of the bundesliga, not really challenged in germany, one of the five best teams in the world.",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "forward": [
+                "position"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "default winners of the bundesliga, not really challenged in @entity one of the five best teams in the world.",
+        "a3_v2": "default winners of the bundesliga, not really challenged in germany, one of the five best teams in the world.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bayern munich"
+    }
+]

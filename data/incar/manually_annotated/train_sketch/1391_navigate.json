@@ -1,0 +1,57 @@
+[
+    {
+        "q1": "how many hotels are around here",
+        "a1": "there are two hotels around here one is 2_miles away the other is 3_miles away neither route has any traffic",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "poi, distance",
+        "obj1": "2_miles,3_miles",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "2_miles",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "pick the one 2_miles away and let s go through the fastest route",
+        "a2": "here are directions to comfort_inn",
+        "input_rel2": "party",
+        "corr_rel2": "",
+        "obj2": "poi",
+        "input_ent2": "rest_stop",
+        "kvr_entlist_qa2": [
+            "comfort_inn"
+        ]
+    },
+    {
+        "q3": "what is the address to the comfort_inn",
+        "a3": "753_university_ave you can see it on your map now",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "753_university_ave",
+        "input_ent3": "comfort_inn",
+        "kvr_entlist_qa3": [
+            "753_university_ave"
+        ]
+    },
+    {
+        "q4": "set the gps and thank you for the information",
+        "a4": "setting gps to comfort_inn at 753_university_ave",
+        "input_rel4": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel4": "none",
+        "obj4": "753_university_ave",
+        "input_ent4": "hot",
+        "kvr_entlist_qa4": [
+            "753_university_ave",
+            "comfort_inn"
+        ]
+    },
+    {
+        "q5": "thank you car",
+        "a5": "you re welcome enjoy your trip",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

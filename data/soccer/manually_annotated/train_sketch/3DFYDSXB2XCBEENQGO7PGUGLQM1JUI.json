@@ -1,0 +1,91 @@
+[
+    {
+        "q1": "when do they play again?",
+        "a1": "september 8th",
+        "kgER1": {},
+        "a1_skt": "september 8th",
+        "a1_v2": "september 8th",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "soon",
+        "a2": "which league are they playing in?",
+        "kgER2": {},
+        "a2_skt": "which league are they playing in?",
+        "a2_v2": "which league are they playing in?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "when was the last time that nigeria made the world cup?",
+        "a3": "nigeria was in the 2018 world cup, but they did not advance past the group stage.",
+        "kgER3": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity was in the @object world cup, but they did not advance past the group stage.",
+        "a3_v2": "nigeria was in the 2018 world cup, but they did not advance past the group stage.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "nigeria"
+    },
+    {
+        "q4": "that's true, nigeria is a great team, but they did not advance as much in this world cup ",
+        "a4": "nigeria is ranked 48th it is a wonder they even make the cup.",
+        "kgER4": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity is ranked 48th it is a wonder they even make the cup.",
+        "a4_v2": "nigeria is ranked 48th it is a wonder they even make the cup.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "nigeria"
+    },
+    {
+        "q5": "will nigeria qualify for the 2022 world cup?",
+        "a5": "nigeria will qualify for sure",
+        "kgER5": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity will qualify for sure",
+        "a5_v2": "nigeria will qualify for sure",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "nigeria"
+    }
+]

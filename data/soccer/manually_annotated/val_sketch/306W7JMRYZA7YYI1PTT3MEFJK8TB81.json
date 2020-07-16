@@ -1,0 +1,134 @@
+[
+    {
+        "q1": "can you believe that red card called in the real madrid game? ",
+        "a1": "i think without a doubt it was one of the worst decisions ever.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a1_skt": "i think without a doubt it was one of the worst decisions ever.",
+        "a1_v2": "i think without a doubt it was one of the worst decisions ever.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "q1: i know right! what did you think of real madrid's performance after the red card ruling?  a1: terrible, their overall confidence to win was drained completely. ",
+        "a2": "if only the referee had shown more discretion.",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "if only the referee had shown more discretion.",
+        "a2_v2": "if only the referee had shown more discretion.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "i mean madrid could have played more carefully in the start.",
+        "a3": "i think they have had some issues since the new coach took over. ",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "i think they have had some issues since the new @relation took over. ",
+        "a3_v2": "i think they have had some issues since the new coach took over. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "why has the new coach not rallied the team? ",
+        "a4": "i agree the new coach needs to rally the team more.",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "i agree the new @relation needs to rally the team more.",
+        "a4_v2": "i agree the new coach needs to rally the team more.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "the players should be able to rally themselves without the coach",
+        "a5": "true, but all players need a good coach. ",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "true, but all players need a good @relation ",
+        "a5_v2": "true, but all players need a good coach. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    },
+    {
+        "q6": "that's true, i need to go goodbye.",
+        "a6": "have a great night! bye.",
+        "kgER6": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a6_skt": "have a great night! bye.",
+        "a6_v2": "have a great night! bye.",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "andres guardado"
+    }
+]

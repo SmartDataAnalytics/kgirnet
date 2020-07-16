@@ -1,0 +1,107 @@
+[
+    {
+        "q1": "how many times has this team scored an own goal in the past two years?",
+        "a1": "will portugal win uefa euro 2020?",
+        "kgER1": {
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a1_skt": "will @entity win uefa euro 2020?",
+        "a1_v2": "will portugal win uefa euro 2020?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "they might win it, they got incredibly lucky in 2016 with scraping wins but by 2020 ronaldo will most likely be gone or not as clinical.",
+        "a2": "but they aren't that good.",
+        "kgER2": {
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "but they aren't that good.",
+        "a2_v2": "but they aren't that good.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "cristiano ronaldo"
+    },
+    {
+        "q3": "why do they have so much hype if they're not that good?",
+        "a3": "lots of fans support portugal, even if they are not doing so hot. its all about loyalty",
+        "kgER3": {
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "lots of fans support @entity even if they are not doing so hot. its all about loyalty",
+        "a3_v2": "lots of fans support portugal, even if they are not doing so hot. its all about loyalty",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "yes, i think support of the fans has been helping portugal's players to perform well.",
+        "a4": "people will always support and hype their country of origin. plus having cristiano ronaldo helps build hype. ",
+        "kgER4": {
+            "red": [
+                "jersey color"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "people will always support and hype their country of origin. plus having @object helps build hype. ",
+        "a4_v2": "people will always support and hype their country of origin. plus having cristiano ronaldo helps build hype. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "portugal"
+    },
+    {
+        "q5": "is cristiano ronaldo overrated?",
+        "a5": "no, cristiano ronaldo is not overrated",
+        "kgER5": {
+            "red": [
+                "jersey color"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "no, @object is not overrated",
+        "a5_v2": "no, cristiano ronaldo is not overrated",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "cristiano ronaldo"
+    }
+]

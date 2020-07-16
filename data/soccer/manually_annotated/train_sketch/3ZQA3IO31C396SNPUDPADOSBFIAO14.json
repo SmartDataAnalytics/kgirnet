@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "salah is the liverpools best player?",
+        "a1": "of course he is",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "of course he is",
+        "a1_v2": "of course he is",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "mohamed salah"
+    },
+    {
+        "q2": "did liverpool buy any expensive players this season?",
+        "a2": "this season alisson for 62,5 million",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "this season @object for 62,5 million",
+        "a2_v2": "this season alisson for 62,5 million",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "expensive transfer of liverpool?",
+        "a3": "virgil van dijk",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "virgil van dijk",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "would you go if you had free tickets?",
+        "a4": "i would love to go to anfield for free . great atmosphere",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i would love to go to @object for free . great atmosphere",
+        "a4_v2": "i would love to go to anfield for free . great atmosphere",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "i love the way they play",
+        "a5": "yes they have a great playing style",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes they have a great playing style",
+        "a5_v2": "yes they have a great playing style",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "check weather forecast for seattle",
+        "a1": "today in seattle it will be cold are you interested as well in other days weather forecast",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "monday",
+        "obj1": "cold",
+        "input_ent1": "seattle",
+        "kvr_entlist_qa1": [
+            "today",
+            "cold",
+            "seattle"
+        ]
+    },
+    {
+        "q2": "what about the next 2 days",
+        "a2": "the 2 day forecast predicts temperatures in the lows of 50f and highs of 80f",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "80f",
+            "50f"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

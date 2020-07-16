@@ -1,0 +1,61 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "yes madrid is.",
+        "kgER1": {},
+        "a1_skt": "yes madrid is.",
+        "a1_v2": "yes madrid is.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "are we talking about the club world cup here?",
+        "a2": "no. atletico madrid cannot qualify, it is a club not a nation. you are talking about the champions league.",
+        "kgER2": {},
+        "a2_skt": "no. @entity cannot qualify, it is a club not a nation. you are talking about the champions league.",
+        "a2_v2": "no. atletico madrid cannot qualify, it is a club not a nation. you are talking about the champions league.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "playing in:uefa champions league2018/2019",
+        "a3": "which seed is atletico madrid in the champions league?",
+        "kgER3": {},
+        "a3_skt": "which seed is @entity in the champions league?",
+        "a3_v2": "which seed is atletico madrid in the champions league?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "i think it's griezmann",
+        "a4": "yes i agree that is griezmann",
+        "kgER4": {},
+        "a4_skt": "yes i agree that is griezmann",
+        "a4_v2": "yes i agree that is griezmann",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "antoine griezmann"
+    },
+    {
+        "q5": "who is the atletico madrid keeper?",
+        "a5": "some old guy, they need to replace him",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "some old guy, they need to replace him",
+        "a5_v2": "some old guy, they need to replace him",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "atletico madrid"
+    }
+]

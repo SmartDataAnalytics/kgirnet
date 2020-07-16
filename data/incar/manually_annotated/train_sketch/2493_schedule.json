@@ -1,0 +1,27 @@
+[
+    {
+        "q1": "what time is my tennis match for this saturday",
+        "a1": "you don t have a tennis match scheduled for saturday should i check the rest of the week",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "saturday",
+            "week"
+        ]
+    },
+    {
+        "q2": "that would be great",
+        "a2": "you have a tennis_activity on wednesday at 10am",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "10am",
+            "tennis_activity",
+            "wednesday"
+        ]
+    }
+]

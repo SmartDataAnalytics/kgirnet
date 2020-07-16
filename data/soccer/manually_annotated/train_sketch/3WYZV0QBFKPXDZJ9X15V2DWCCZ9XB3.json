@@ -1,0 +1,104 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "yes, spain should easily qualify for the next world cup.",
+        "kgER1": {},
+        "a1_skt": "yes, @entity should easily qualify for the next world cup.",
+        "a1_v2": "yes, spain should easily qualify for the next world cup.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "how do you think spain will do in the next world cup?",
+        "a2": "spain always do well in the world cup and i'm sure they will continue that trend.",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity always do well in the world cup and i'm sure they will continue that trend.",
+        "a2_v2": "spain always do well in the world cup and i'm sure they will continue that trend.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "when was the last time they actually made a final though? ",
+        "a3": "a few world cups ago they did.",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "a few world cups ago they did.",
+        "a3_v2": "a few world cups ago they did.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who was their top goal scorer in that world cup?",
+        "a4": "david villa had five goals.",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "david villa had five @relation",
+        "a4_v2": "david villa had five goals.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "how many goals did the team score in the last world cup?",
+        "a5": "spain scored 7 goals.",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity scored @object @relation",
+        "a5_v2": "spain scored 7 goals.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

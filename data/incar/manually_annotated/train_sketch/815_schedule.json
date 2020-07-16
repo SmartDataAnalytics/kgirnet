@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "who is taking_medicine with me and on what day",
+        "a1": "which one i have two one on the_19th with jon and one on the_20th with your mother",
+        "input_rel1": "time,date",
+        "corr_rel1": "time,date",
+        "obj1": "jon,mother,the_20th,the_19th",
+        "input_ent1": "taking_medicine",
+        "kvr_entlist_qa1": [
+            "jon",
+            "mother",
+            "the_20th",
+            "the_19th"
+        ]
+    },
+    {
+        "q2": "that will do",
+        "a2": "have a good day",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

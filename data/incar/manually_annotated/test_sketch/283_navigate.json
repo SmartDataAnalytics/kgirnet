@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "find me a chinese_restaurant with a no_traffic route",
+        "a1": "chef_chu_s is the only chinese_restaurant but here is heavy_traffic",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "chef_chu_s",
+        "input_ent1": "chinese_restaurant",
+        "kvr_entlist_qa1": [
+            "heavy_traffic",
+            "chinese_restaurant",
+            "chef_chu_s"
+        ]
+    },
+    {
+        "q2": "send me the address anyway",
+        "a2": "chef_chu_s is at 593_arrowhead_way",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "593_arrowhead_way",
+        "input_ent2": "chef_chu_s",
+        "kvr_entlist_qa2": [
+            "593_arrowhead_way",
+            "chef_chu_s"
+        ]
+    },
+    {
+        "q3": "please pick a route with no_traffic to get there thanks",
+        "a3": "there will be heavy_traffic sorry",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q4": "that is ok thank you",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

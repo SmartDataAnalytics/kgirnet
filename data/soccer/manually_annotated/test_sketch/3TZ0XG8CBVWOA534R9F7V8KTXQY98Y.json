@@ -1,0 +1,118 @@
+[
+    {
+        "q1": "how long has manuel peter neuer been goalkeeping for the bayern munich team?",
+        "a1": "manuel neuer has been with bayern munich since 2011.",
+        "kgER1": {
+            "manuel neuer": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "goalkeeper"
+            ],
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object has been with @entity since 2011.",
+        "a1_v2": "manuel neuer has been with bayern munich since 2011.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "can munich win?",
+        "a2": "yes, they are known for their winning...",
+        "kgER2": {
+            "manuel neuer": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "goalkeeper"
+            ],
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes, they are known for their winning...",
+        "a2_v2": "yes, they are known for their winning...",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "do they have a chance in champions league?",
+        "a3": "yes i think bayern may win it this season",
+        "kgER3": {
+            "manuel neuer": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "goalkeeper"
+            ],
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "yes i think bayern may win it this season",
+        "a3_v2": "yes i think bayern may win it this season",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "what colours bayern\u2019s kit",
+        "a4": "red is the color.",
+        "kgER4": {
+            "manuel neuer": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "goalkeeper"
+            ],
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object is the color.",
+        "a4_v2": "red is the color.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bayern munich"
+    }
+]

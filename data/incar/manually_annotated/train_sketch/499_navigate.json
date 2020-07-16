@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "where is the nearest gas_station",
+        "a1": "there is a 76 4_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi,distance",
+        "obj1": "76,4_miles",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "76",
+            "4_miles"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "the 76 gas_station is located at 91_el_camino_real it is 4_miles away through moderate_traffic",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "distance,address",
+        "obj2": "4_miles,91_el_camino_real",
+        "input_ent2": "76",
+        "kvr_entlist_qa2": [
+            "moderate_traffic",
+            "gas_station",
+            "4_miles",
+            "91_el_camino_real",
+            "76"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

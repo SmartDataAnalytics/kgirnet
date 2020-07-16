@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "brazil haven't won a world cup in a long time, or did they?",
+        "a1": "2002 was the last which wasn't too long ago.",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object was the last which wasn't too long ago.",
+        "a1_v2": "@world_cup_champions was the last which wasn't too long ago.",
+        "corr_rel1": "world cup champions",
+        "obj1": "2002",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "who was the top goal scorer for brazil in 2002?",
+        "a2": "ronaldo was the top player in 2002 worldcup with 8 goals to his credit. ",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "ronaldo was the top player in @object worldcup with @object @relation to his credit. ",
+        "a2_v2": "ronaldo was the top player in 2002 worldcup with 8 goals to his credit. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2002"
+    },
+    {
+        "q3": "will brazil be able to recover their standing after the world cup disaster?",
+        "a3": "i think that if he can recover his position, he has great money in the team",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think that if he can recover his @relation he has great money in the team",
+        "a3_v2": "i think that if he can recover his position, he has great money in the team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "brazil"
+    },
+    {
+        "q4": "who's their best player now?",
+        "a4": "neymar is brazil's best player but running close behind is marcelo. ",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object is brazil's @relation but running close behind is @object ",
+        "a4_v2": "neymar is brazil's best player but running close behind is marcelo. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "could a player as charismatic as pele come through again?",
+        "a5": "pele was a great player i don't think so anyone will like him come",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "pele was a great player i don't think so anyone will like him come",
+        "a5_v2": "pele was a great player i don't think so anyone will like him come",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

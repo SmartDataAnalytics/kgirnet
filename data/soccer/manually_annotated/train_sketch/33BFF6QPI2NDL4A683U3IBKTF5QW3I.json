@@ -1,0 +1,114 @@
+[
+    {
+        "q1": "how many goals did they score last season?",
+        "a1": "they scored none.",
+        "kgER1": {
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "they scored none.",
+        "a1_v2": "they scored none.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who scored no goals?",
+        "a2": "good question, i'd like to know what team scored no goals for an entire season as well.",
+        "kgER2": {
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "good question, i'd like to know what team scored no @relation for an entire season as well.",
+        "a2_v2": "good question, i'd like to know what team scored no goals for an entire season as well.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how many players are on a soccer field? ",
+        "a3": "22 - eleven from each team. ",
+        "kgER3": {
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "@object - eleven from each team. ",
+        "a3_v2": "22 - eleven from each team. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "how long is a soccer field?",
+        "a4": "the field dimensions are within the range found optimal by fifa: 110\u2013120 yards (100\u2013110 m) long by 70\u201380 yards (64\u201373 m) wide.",
+        "kgER4": {
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "the @object dimensions are within the range found optimal by fifa: 110\u2013120 yards (100\u2013110 m) long by 70\u201380 yards (64\u201373 m) wide.",
+        "a4_v2": "the field dimensions are within the range found optimal by fifa: 110\u2013120 yards (100\u2013110 m) long by 70\u201380 yards (64\u201373 m) wide.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "4-4-2 is the most common formation",
+        "a5": "i agree with that",
+        "kgER5": {
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "i agree with that",
+        "a5_v2": "i agree with that",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "2 (first in 2002)"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "i love argentina",
+        "a1": "they have two stadiums. sometimes they play at estadio mario alberto kempes.",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they have two stadiums. sometimes they play at estadio mario alberto kempes.",
+        "a1_v2": "they have two stadiums. sometimes they play at estadio mario alberto kempes.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "when was the argentina team formed?",
+        "a2": "argentina's team was formed in 1893.",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity team was formed in @object",
+        "a2_v2": "argentina's team was formed in 1893.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "argentina"
+    },
+    {
+        "q3": "who was the founder? ",
+        "a3": "the so-called \"father of argentine football\" was a glaswegian schoolteacher alexander watson hutton.",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "the so-called \"father of @entity football\" was a glaswegian schoolteacher @object hutton.",
+        "a3_v2": "the so-called \"father of argentine football\" was a glaswegian schoolteacher alexander watson hutton.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is the best player in argentina",
+        "a4": "does argentina need to forget about messi?",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "does @entity need to forget about messi?",
+        "a4_v2": "does argentina need to forget about messi?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "argentina"
+    },
+    {
+        "q5": "not yet, messi has some years left",
+        "a5": "how old is he currently?",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "how old is he currently?",
+        "a5_v2": "how old is he currently?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "lionel messi"
+    }
+]

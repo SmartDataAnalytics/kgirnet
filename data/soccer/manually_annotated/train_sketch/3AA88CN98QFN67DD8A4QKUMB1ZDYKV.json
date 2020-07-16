@@ -1,0 +1,154 @@
+[
+    {
+        "q1": "i admire senegal",
+        "a1": "i also like them",
+        "kgER1": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i also like them",
+        "a1_v2": "i also like them",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "senegal"
+    },
+    {
+        "q2": "yeah, i was really excited to see them make it to the world cup group stage this year. ",
+        "a2": "i was surprised by senegal making the world cup. ",
+        "kgER2": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i was surprised by @entity making the world cup. ",
+        "a2_v2": "i was surprised by senegal making the world cup. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "too bad they were not a match against colombia",
+        "a3": "what colours are the senegal jerseys?",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "what colours are the @entity jerseys?",
+        "a3_v2": "what colours are the senegal jerseys?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "colombia"
+    },
+    {
+        "q4": "they are green and yellow and do not drink very well in the cup ",
+        "a4": "can senegal qualify again for next wc?",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "can @entity qualify again for next wc?",
+        "a4_v2": "can senegal qualify again for next wc?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "yellow"
+    },
+    {
+        "q5": "they have ability to qualify",
+        "a5": "yes senegal may do so.",
+        "kgER5": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "yes @entity may do so.",
+        "a5_v2": "yes senegal may do so.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "do you think paris sg will qualify for the next world cup?",
+        "a1": "some of their players should.",
+        "kgER1": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "some of their players should.",
+        "a1_v2": "some of their players should.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "paris sg"
+    },
+    {
+        "q2": "which players?",
+        "a2": "neymar, mbappe, thiago silva, most of their players are active in international duty",
+        "kgER2": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object mbappe, @object silva, most of their players are active in international duty",
+        "a2_v2": "neymar, mbappe, thiago silva, most of their players are active in international duty",
+        "corr_rel2": "has player",
+        "obj2": "thiago silva",
+        "input_ent2": "paris sg"
+    },
+    {
+        "q3": "paris sg is a club team, they can't play in the world cup",
+        "a3": "neymar 'tells paris saint-germain team-mates he won't return after the world cup' as talk of a mega-money move to real madrid continues",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object 'tells paris saint-germain team-mates he won't return after the world cup' as talk of a mega-money move to @entity continues",
+        "a3_v2": "neymar 'tells paris saint-germain team-mates he won't return after the world cup' as talk of a mega-money move to real madrid continues",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "paris sg"
+    },
+    {
+        "q4": "do you think paris sg should try and sign boateng?",
+        "a4": "i think that would be a good move",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i think that would be a good move",
+        "a4_v2": "i think that would be a good move",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "paris sg"
+    },
+    {
+        "q5": "does psg need an improvement in the defense department?",
+        "a5": "yes psg needs to improve slightly in the defense department",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes psg needs to improve slightly in the @relation department",
+        "a5_v2": "yes psg needs to improve slightly in the defense department",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

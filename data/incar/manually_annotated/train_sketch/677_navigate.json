@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "take me to the nearest grocery_store",
+        "a1": "the nearest grocery_store is 6_miles away whole_foods at 819_alma_st",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel1": "poi,address",
+        "obj1": "whole_foods,819_alma_st",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "819_alma_st",
+            "whole_foods",
+            "6_miles",
+            "grocery_store"
+        ]
+    },
+    {
+        "q2": "please give directions to that store by the fastest route thank you",
+        "a2": "setting navigation now",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "okay should i expect to see any traffic",
+        "a3": "there is a road_block_nearby but i already sent on your screen a route to go around it",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel3": "traffic_info",
+        "obj3": "road_block_nearby",
+        "input_ent3": "grocery_store",
+        "kvr_entlist_qa3": [
+            "road_block_nearby"
+        ]
+    },
+    {
+        "q4": "thank you",
+        "a4": "you are welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

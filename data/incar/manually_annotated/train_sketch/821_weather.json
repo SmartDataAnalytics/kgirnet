@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "let me know if there will be snow and ice in the next_week s forecast",
+        "a1": "what location do you want the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "mountain_view",
+        "a2": "on wednesday is gonna snow in mountain_view",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "snow",
+        "input_ent2": "mountain_view",
+        "kvr_entlist_qa2": [
+            "mountain_view",
+            "snow",
+            "wednesday"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

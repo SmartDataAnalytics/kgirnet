@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i love liverpool",
+        "a1": "do you think they have a strong enough squad to win the premier league?",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "do you think they have a strong enough squad to win the premier league?",
+        "a1_v2": "do you think they have a strong enough squad to win the premier league?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "they can really challenge the title this year",
+        "a2": "i'm excited to see some good matches of liverpool including the derbys.",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i'm excited to see some good matches of @entity including the derbys.",
+        "a2_v2": "i'm excited to see some good matches of liverpool including the derbys.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "who will be their toughest competition?",
+        "a3": "i think your toughest competition will be manchester",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think your toughest competition will be manchester",
+        "a3_v2": "i think your toughest competition will be manchester",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "yeah manchester is a pretty tough team to beat.",
+        "a4": "what are the stats between liverpool and manchester? ",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "what are the stats between @entity and manchester? ",
+        "a4_v2": "what are the stats between liverpool and manchester? ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "liverpool wins more often but in general the matches can go any way.",
+        "a5": "liverpool has won 73 matches, drawn 65, and lost 88 against manchester",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@entity has won @object matches, drawn @object and lost @object against manchester",
+        "a5_v2": "liverpool has won 73 matches, drawn 65, and lost 88 against manchester",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

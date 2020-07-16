@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "france win the wolrd cup \\?",
+        "a1": "france is 2018 world cup champion",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity is @object @relation",
+        "a1_v2": "@entity is @number_of_world_cup_champion world cup champions",
+        "corr_rel1": "world cup champions",
+        "obj1": "2018",
+        "input_ent1": "france"
+    },
+    {
+        "q2": "who was the captain of france in the wc \\?",
+        "a2": "hugo lloris was the captain of france at the last world cup",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object was the @relation of @entity at the last world cup",
+        "a2_v2": "@captain was the captain of @entity at the last world cup",
+        "corr_rel2": "captain",
+        "obj2": "hugo lloris",
+        "input_ent2": "france"
+    },
+    {
+        "q3": "do you think will win again \\?",
+        "a3": "yes , they do",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes , they do",
+        "a3_v2": "yes , they do",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "when was the last time they won a wc \\?",
+        "a4": "france won an 2018 wc",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity won an @object wc",
+        "a4_v2": "@entity won an @number_of_world_cup_champion wc",
+        "corr_rel4": "world cup champions",
+        "obj4": "2018",
+        "input_ent4": "france"
+    },
+    {
+        "q5": "is mbappe their best player \\?",
+        "a5": "yes he is best player for france",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes he is @relation for @entity",
+        "a5_v2": "yes he is best player for france",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "kylian mbappe"
+    }
+]

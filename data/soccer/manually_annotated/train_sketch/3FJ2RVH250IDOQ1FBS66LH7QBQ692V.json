@@ -1,0 +1,98 @@
+[
+    {
+        "q1": "who is the coach of bayern munich?",
+        "a1": "niko kova\u010d",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@coach",
+        "corr_rel1": "coach",
+        "obj1": "niko kovac",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "is niko the best choice?",
+        "a2": "i think he will do well there. he is a very good coach and i think he fits very well.",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i think he will do well there. he is a very good @relation and i think he fits very well.",
+        "a2_v2": "i think he will do well there. he is a very good coach and i think he fits very well.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "niko kovac"
+    },
+    {
+        "q3": "did they win any trophies in 2018?",
+        "a3": "yes, they've won the bundesliga league.",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "yes, they've won the bundesliga league.",
+        "a3_v2": "yes, they've won the bundesliga league.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "2018"
+    },
+    {
+        "q4": "if the bayer is prepared very well",
+        "a4": "i think they are prepared well",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "i think they are prepared well",
+        "a4_v2": "i think they are prepared well",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "they have confident and work hard so they won the match",
+        "a5": "does robin roben play for bayern munich?",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "does robin roben play for @entity",
+        "a5_v2": "does robin roben play for bayern munich?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "white and red"
+    }
+]

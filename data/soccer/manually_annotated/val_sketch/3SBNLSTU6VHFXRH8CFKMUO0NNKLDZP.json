@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i really love the team atletico madrid",
+        "a1": "i've never seen their matches yet.",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i've never seen their matches yet.",
+        "a1_v2": "i've never seen their matches yet.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "how many games did they win last year?",
+        "a2": "they won 23 games last year. ",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they won @object games last year. ",
+        "a2_v2": "they won 23 games last year. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "although they have also lost many matches",
+        "a3": "i like their colors.",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i like their colors.",
+        "a3_v2": "i like their colors.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "i like your attitude and that of the coach ",
+        "a4": "do you not think that the coach is overpaid? ",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "do you not think that the @relation is overpaid? ",
+        "a4_v2": "do you not think that the coach is overpaid? ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "white and red"
+    },
+    {
+        "q5": "no, hes a good coach.",
+        "a5": "yeah the coach is worth his weight in platinum.",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yeah the @relation is worth his weight in platinum.",
+        "a5_v2": "yeah the coach is worth his weight in platinum.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

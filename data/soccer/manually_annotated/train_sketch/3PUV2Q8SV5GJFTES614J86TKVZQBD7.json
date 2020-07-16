@@ -1,0 +1,199 @@
+[
+    {
+        "q1": "hai which team plays today? are all players ok?",
+        "a1": "france plays today. their starting goalkeeper is out with a knee injury.",
+        "kgER1": {},
+        "a1_skt": "@entity plays today. their starting @relation is out with a knee injury.",
+        "a1_v2": "france plays today. their starting goalkeeper is out with a knee injury.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "how will france perform at the 2020 euros?",
+        "a2": "france should do very well.  they are an early favorite and a strong team. ",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity should do very well.  they are an early favorite and a strong team. ",
+        "a2_v2": "france should do very well.  they are an early favorite and a strong team. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "france"
+    },
+    {
+        "q3": "can paul pogba play as well for manchester united as he can for france?",
+        "a3": "soccer is a team sport not an individual one. they must work well as a team to succeed as a team. ",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "paul pogba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "soccer is a team sport not an individual one. they must work well as a team to succeed as a team. ",
+        "a3_v2": "soccer is a team sport not an individual one. they must work well as a team to succeed as a team. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    },
+    {
+        "q4": "who do you think is the best player in france right now?",
+        "a4": "i really think kylian mbapp\u00e9 is the best france player.",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "paul pogba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i really think @object is the best @entity player.",
+        "a4_v2": "i really think kylian mbapp\u00e9 is the best france player.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "france"
+    },
+    {
+        "q5": "i think so too, he made them win this year.",
+        "a5": "but we can't ignore that they had a great coach and very steady defense .",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "paul pogba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "but we can't ignore that they had a great @relation and very steady @object .",
+        "a5_v2": "but we can't ignore that they had a great coach and very steady defense .",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    },
+    {
+        "q6": "that's true. anyways enough talking about france, i have to go goodbye!",
+        "a6": "alright, have a great night, bye!",
+        "kgER6": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "paul pogba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a6_skt": "alright, have a great night, bye!",
+        "a6_v2": "alright, have a great night, bye!",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "france"
+    }
+]

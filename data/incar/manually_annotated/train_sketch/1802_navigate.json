@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "get me the home address of my friend that is the closest to my location",
+        "a1": "we re 1_miles away from jack s house i sent his address position on your screen",
+        "input_rel1": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type,distance",
+        "corr_rel1": "distance",
+        "obj1": "1_miles",
+        "input_ent1": "friends_house",
+        "kvr_entlist_qa1": [
+            "1_miles"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "864_almanor_ln",
+        "input_rel2": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel2": "address",
+        "obj2": "864_almanor_ln",
+        "input_ent2": "jacks_house",
+        "kvr_entlist_qa2": [
+            "864_almanor_ln"
+        ]
+    },
+    {
+        "q3": "please pick the quickest route to go there and send the info on my screen",
+        "a3": "jacks_house information sent to screen and set to 864_almanor_ln on the quickest route",
+        "input_rel3": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel3": "address,poi",
+        "obj3": "jacks_house,864_almanor_ln",
+        "input_ent3": "friends_house",
+        "kvr_entlist_qa3": [
+            "jacks_house",
+            "864_almanor_ln"
+        ]
+    },
+    {
+        "q4": "thank you very much car",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

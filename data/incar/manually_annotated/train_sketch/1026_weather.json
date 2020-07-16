@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "how hot is it going to be this week",
+        "a1": "what city would you like weather information for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i need to know if it is going to be hot in exeter this week",
+        "a2": "this week in exeter the temperatures do not show that it will be hot the warmest day of the week will be sunday with highs in the 80f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "80f,exeter,week,hot",
+        "input_ent2": "exeter",
+        "kvr_entlist_qa2": [
+            "80f",
+            "sunday",
+            "exeter",
+            "week",
+            "hot"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

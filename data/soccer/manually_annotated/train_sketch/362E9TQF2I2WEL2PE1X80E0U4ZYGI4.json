@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "who is the captain of chelsea?",
+        "a1": "gary cahill",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "gary cahill",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "who is the most expensive player of chelsea?",
+        "a2": "i would have to check ",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "i would have to check ",
+        "a2_v2": "i would have to check ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "chelsea"
+    },
+    {
+        "q3": "the most expensive chelsea player is pedro and the captain is edeen hazard",
+        "a3": "i do not agree with that, i think that hazard is more expensive including that he is the captain ",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "pedro": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "i do not agree with that, i think that hazard is more expensive including that he is the @relation ",
+        "a3_v2": "i do not agree with that, i think that hazard is more expensive including that he is the captain ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "pedro"
+    },
+    {
+        "q4": "did you hear about the new player that got signed by chelsea yesterday ?",
+        "a4": "one of the better teams, do you think?",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "pedro": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "one of the better teams, do you think?",
+        "a4_v2": "one of the better teams, do you think?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "chelsea"
+    },
+    {
+        "q5": "where do they play?",
+        "a5": "they play in premier league",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "pedro": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "they play in premier league",
+        "a5_v2": "they play in premier league",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

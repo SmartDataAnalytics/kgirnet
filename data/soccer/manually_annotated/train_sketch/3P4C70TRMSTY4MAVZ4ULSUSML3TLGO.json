@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "how many british born players are there currently playing for bayern munich? ",
+        "a1": "0",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "0",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "i don't know",
+        "a2": "there are 0 british players currently playing for baynern munich",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "there are @object british players currently playing for @entity",
+        "a2_v2": "there are 0 british players currently playing for baynern munich",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "when did a brit last play for them? ",
+        "a3": "owen hargreaves played for bayern munich until 2007, a fellow englishman.",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "owen hargreaves played for @entity until 2007, a @object englishman.",
+        "a3_v2": "owen hargreaves played for bayern munich until 2007, a fellow englishman.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who actually coaches bayern munich currently?",
+        "a4": "niko kovac is the head coach of bayern munich.",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "niko kovac is the head @relation of @entity",
+        "a4_v2": "niko kovac is the head coach of bayern munich.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "where are most of the players from then?  ",
+        "a5": "traditionally thier star forward.",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "traditionally thier star @relation",
+        "a5_v2": "traditionally thier star forward.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

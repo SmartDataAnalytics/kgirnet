@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i really love the team arsenal",
+        "a1": "i dont",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i dont",
+        "a1_v2": "i dont",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "why don't you like arsenal?",
+        "a2": "they are too mainstream.",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they are too mainstream.",
+        "a2_v2": "they are too mainstream.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "arsenal"
+    },
+    {
+        "q3": "will they ever get over themselves?",
+        "a3": "arsenal should be relegated to give them a wake up call ",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@entity should be relegated to give them a wake up call ",
+        "a3_v2": "arsenal should be relegated to give them a wake up call ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ever banega"
+    },
+    {
+        "q4": "they will never get relegated, they are too good for that. ",
+        "a4": "will the exit of wenger really make a difference with the prent team of arsenal?",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "will the exit of wenger really make a difference with the prent team of @entity",
+        "a4_v2": "will the exit of wenger really make a difference with the prent team of arsenal?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "his departure will certainly be felt, but i think they will be just fine in the end.",
+        "a5": "yes arsenal has ended their run.",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes @entity has ended their run.",
+        "a5_v2": "yes arsenal has ended their run.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

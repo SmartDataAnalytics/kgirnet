@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "when is the football",
+        "a1": "the football game is friday at 9am",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "time",
+        "obj1": "9am",
+        "input_ent1": "football_activity",
+        "kvr_entlist_qa1": [
+            "9am",
+            "friday"
+        ]
+    },
+    {
+        "q2": "who is going",
+        "a2": "alex will be at the football_activity on friday at 9am",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "9am",
+            "football_activity",
+            "friday",
+            "alex"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "q1": "i d like to know where i can get some chinese takeout",
+        "a1": "we re 2_miles away from jing_jing and 5_miles away from p_.f_._changs which one do you like more",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "2_miles",
+            "5_miles",
+            "jing_jing"
+        ]
+    },
+    {
+        "q2": "let s try jing_jing",
+        "a2": "i sent its position and the route to reach it on your screen don t speed too much",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "what is the address and is there supposed to be any traffic",
+        "a3": "jing_jing is at 113_arbol_dr there is a road_block_nearby shall i give you directions",
+        "input_rel3": "car_collision_nearby,moderate_traffic,poi,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel3": "address",
+        "obj3": "113_arbol_dr",
+        "input_ent3": "jing_jing",
+        "kvr_entlist_qa3": [
+            "113_arbol_dr",
+            "jing_jing",
+            "road_block_nearby"
+        ]
+    },
+    {
+        "q4": "yes please give me directions via the fastest route",
+        "a4": "i sent the best route on your screen enjoy your trip",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    },
+    {
+        "q5": "thank you car",
+        "a5": "you re welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

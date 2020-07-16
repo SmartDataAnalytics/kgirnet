@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "find me a tea house",
+        "a1": "we re 3_miles away from starbucks do you want me to highlight its position on the map",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "starbucks",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "starbucks",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "yes give me the address",
+        "a2": "the address is 792_bedoin_street i sent it on your map there is no_traffic and you should be able to reach there in few minutes",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "792_bedoin_street",
+        "input_ent2": "starbucks",
+        "kvr_entlist_qa2": [
+            "no_traffic",
+            "792_bedoin_street"
+        ]
+    },
+    {
+        "q3": "thank you very much car",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

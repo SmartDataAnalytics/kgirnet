@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "what s the weather like today and tomorrow",
+        "a1": "what city are you interested in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "in durham will it rain",
+        "a2": "there isn t any rain in the forecast for durham today or tomorrow",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "durham",
+        "kvr_entlist_qa2": [
+            "rain",
+            "durham",
+            "today",
+            "tomorrow"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

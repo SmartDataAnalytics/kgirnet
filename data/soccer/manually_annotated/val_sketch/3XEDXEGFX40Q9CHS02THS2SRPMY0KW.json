@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "have any americans started for manchester united?",
+        "a1": "yes, tim howard.",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes, tim howard.",
+        "a1_v2": "yes, tim howard.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "howard played for manchester united and did a great job.",
+        "a2": "i agree.",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i agree.",
+        "a2_v2": "i agree.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "manchester united"
+    },
+    {
+        "q3": "how long did he play for them? ",
+        "a3": "he was only really there for 3 seasons and spent another officially signed to them but on loan elsewhere. ",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "he was only really there for @object seasons and spent another officially signed to them but on loan elsewhere. ",
+        "a3_v2": "he was only really there for 3 seasons and spent another officially signed to them but on loan elsewhere. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "is de gea better than peter schmeichel was?",
+        "a4": "who has played on this team the longest?",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "who has played on this team the longest?",
+        "a4_v2": "who has played on this team the longest?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "david de gea"
+    },
+    {
+        "q5": "what\u2019s man utd\u2019s ground called?",
+        "a5": "old trafford",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@ground",
+        "corr_rel5": "ground",
+        "obj5": "old trafford",
+        "input_ent5": "manchester united"
+    }
+]

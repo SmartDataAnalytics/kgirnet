@@ -1,0 +1,111 @@
+[
+    {
+        "q1": "love fc. porto",
+        "a1": "do you like fc. porto",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "do you like fc. porto",
+        "a1_v2": "do you like fc. porto",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "i do not really like that team",
+        "a2": "he is a good team but he has a lot of performance in the leagues ",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "he is a good team but he has a lot of performance in the leagues ",
+        "a2_v2": "he is a good team but he has a lot of performance in the leagues ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "i really like this team, but it has low performance compared to others",
+        "a3": "they are one of the tops in portugal, not low performing. ",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "they are one of the tops in @entity not low performing. ",
+        "a3_v2": "they are one of the tops in portugal, not low performing. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "joachim low"
+    },
+    {
+        "q4": "how has its performance been in the champions league?",
+        "a4": "fc porto is true under his performance but it is clear that this year will be better",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "fc porto is true under his performance but it is clear that this year will be better",
+        "a4_v2": "fc porto is true under his performance but it is clear that this year will be better",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "what indicates that they will be better?",
+        "a5": "their up and coming talent.",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "their up and coming talent.",
+        "a5_v2": "their up and coming talent.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

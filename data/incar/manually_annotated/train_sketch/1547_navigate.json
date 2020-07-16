@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "where is a nearby parking_garage",
+        "a1": "stanford_oval_parking and webster_garage are both close",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "stanford_oval_parking,webster_garage",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "webster_garage",
+            "stanford_oval_parking"
+        ]
+    },
+    {
+        "q2": "which is the closest of the two",
+        "a2": "webster_garage is closer",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "webster_garage",
+        "input_ent2": "parking_garage",
+        "kvr_entlist_qa2": [
+            "webster_garage"
+        ]
+    },
+    {
+        "q3": "okay so is there any traffic and where is webster_garage",
+        "a3": "webster_garage is at 880 ames st and a road block is being reported nearby",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "traffic_info",
+        "obj3": "road_block_nearby",
+        "input_ent3": "webster_garage",
+        "kvr_entlist_qa3": [
+            "webster_garage"
+        ]
+    },
+    {
+        "q4": "thank you car set the gps to go there please",
+        "a4": "i sent the info on your screen you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

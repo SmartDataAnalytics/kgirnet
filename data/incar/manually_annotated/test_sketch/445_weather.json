@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "what s the temperature going to be this week",
+        "a1": "what city are you wanting to know the temperature for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "fresno",
+        "a2": "the lowest_temperature in fresno this week is predicted to be 60f the highest 100f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "660f,100",
+        "input_ent2": "fresno",
+        "kvr_entlist_qa2": [
+            "lowest_temperature",
+            "60f",
+            "fresno",
+            "100f",
+            "week"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

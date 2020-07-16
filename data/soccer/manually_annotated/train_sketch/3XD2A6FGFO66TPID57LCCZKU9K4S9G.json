@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "when was chelsea founded?",
+        "a1": "chelsea football club was founded on march 10th, 1905.",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "@entity football club was @relation on march 10th, @object",
+        "a1_v2": "@entity football club was founded on on march 10th, @goals",
+        "corr_rel1": "founded on",
+        "obj1": "1905",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "1905.",
+        "a2": "that seems right.",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "that seems right.",
+        "a2_v2": "that seems right.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "they were founded in 1905.",
+        "a3": "1905 it is.",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "@object it is.",
+        "a3_v2": "1905 it is.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "is that the oldest english club?",
+        "a4": "no it isn't. ",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "no it isn't. ",
+        "a4_v2": "no it isn't. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "which club is the oldest english club?",
+        "a5": "the oldest club in england is the sheffield football club",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "the oldest club in england is the sheffield football club",
+        "a5_v2": "the oldest club in england is the sheffield football club",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "what is the date time and agenda of my next conference",
+        "a1": "your next conference is on the_1st at 4pm to discuss_the_merger",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,agenda,date",
+        "obj1": "4pm,discuss_the_merger,the_1st",
+        "input_ent1": "conference",
+        "kvr_entlist_qa1": [
+            "4pm",
+            "discuss_the_merger",
+            "conference",
+            "the_1st"
+        ]
+    },
+    {
+        "q2": "thank you",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

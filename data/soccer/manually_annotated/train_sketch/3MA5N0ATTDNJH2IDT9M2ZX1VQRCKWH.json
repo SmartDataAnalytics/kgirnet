@@ -1,0 +1,188 @@
+[
+    {
+        "q1": "did cavani score any goals during the world cup 2018?",
+        "a1": "yes",
+        "kgER1": {
+            "edinson cavani": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "yes",
+        "a1_v2": "yes",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "2018"
+    },
+    {
+        "q2": "how many goals did he score?",
+        "a2": "when was the last time uruguay made it to the world cup?",
+        "kgER2": {
+            "edinson cavani": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "when was the last time @entity made it to the world cup?",
+        "a2_v2": "when was the last time uruguay made it to the world cup?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how good is uruguay?",
+        "a3": "a3: uruguay is a very strong south american team, with excellent players.",
+        "kgER3": {
+            "edinson cavani": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "a3: @entity is a very strong south american team, with excellent players.",
+        "a3_v2": "a3: uruguay is a very strong south american team, with excellent players.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "uruguay"
+    },
+    {
+        "q4": "does uruguay have the best players in the liga profesional de primera divisi\u00f3n?",
+        "a4": "no, their players are good but no the best.",
+        "kgER4": {
+            "edinson cavani": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "no, their players are good but no the best.",
+        "a4_v2": "no, their players are good but no the best.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "uruguay"
+    },
+    {
+        "q5": "do you think suarez is a good human being?",
+        "a5": "whilst suarez is sometimes a controversial player, it's difficult to know without getting to know him personally.",
+        "kgER5": {
+            "edinson cavani": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "whilst suarez is sometimes a controversial player, it's difficult to know without getting to know him personally.",
+        "a5_v2": "whilst suarez is sometimes a controversial player, it's difficult to know without getting to know him personally.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "luis suarez"
+    }
+]

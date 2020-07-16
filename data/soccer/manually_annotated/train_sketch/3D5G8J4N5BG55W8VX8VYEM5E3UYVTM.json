@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "who is the most expensive player in juventus \\?",
+        "a1": "cristiano ronaldo",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "cristiano ronaldo",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "i agree with that",
+        "a2": "yeah he is the most expensive of the club",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "yeah he is the most expensive of the club",
+        "a2_v2": "yeah he is the most expensive of the club",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "cristiano is the most expensive player , even the most famous",
+        "a3": "both messi and ronaldo are",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "both messi and ronaldo are",
+        "a3_v2": "both messi and ronaldo are",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "cristiano ronaldo"
+    },
+    {
+        "q4": "what do you think about their chances this year \\?",
+        "a4": "ronaldo will surely elevate juventus in europe this year",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "ronaldo will surely elevate @entity in europe this year",
+        "a4_v2": "ronaldo will surely elevate juventus in europe this year",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "what is their jersey color \\?",
+        "a5": "black and white",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "black and @object",
+        "a5_v2": "black and white",
+        "corr_rel5": "jersey color",
+        "obj5": "black and white",
+        "input_ent5": "juventus"
+    }
+]

@@ -1,0 +1,150 @@
+[
+    {
+        "q1": "which country are juventus from \\?",
+        "a1": "juventus comes from turin , italy",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "@entity comes from turin , @entity",
+        "a1_v2": "juventus comes from turin , italy",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "turin is located in the northern part of italy",
+        "a2": "that is correct",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "that is correct",
+        "a2_v2": "that is correct",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "how many people there and how many of them are juventus fans \\?",
+        "a3": "there are just under 900 , 000 people living in turin i have to imagine juventus has a big following there",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "there are just under @object , 000 people living in turin i have to imagine @entity has a big following there",
+        "a3_v2": "there are just under 900 , 000 people living in turin i have to imagine juventus has a big following there",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "juventus"
+    },
+    {
+        "q4": "what color are juventus' jerseys \\?",
+        "a4": "juventus has black and white jersey",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity has black and @object jersey",
+        "a4_v2": "juventus has black and white jersey",
+        "corr_rel4": "jersey color",
+        "obj4": "black and white",
+        "input_ent4": "juventus"
+    },
+    {
+        "q5": "cristiano will make a difference in this team \\?",
+        "a5": "cr7 will lead juventus in uefa champions league",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "cr7 will lead @entity in uefa champions league",
+        "a5_v2": "cr7 will lead juventus in uefa champions league",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "cristiano ronaldo"
+    }
+]

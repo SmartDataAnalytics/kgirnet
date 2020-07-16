@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i like liverpool",
+        "a1": "they are not what they once were.",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they are not what they once were.",
+        "a1_v2": "they are not what they once were.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "who is the liverpool coach?",
+        "a2": "jurgen klopp",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "jurgen klopp",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "which year was liverpool fc founded?",
+        "a3": "liverpool was founded in 1892.",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@entity was @relation in @object",
+        "a3_v2": "@entity was founded on in @goals",
+        "corr_rel3": "founded on",
+        "obj3": "1892",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "who is the goalie for liverpool?",
+        "a4": "alisson becker",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object becker",
+        "a4_v2": "alisson becker",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    },
+    {
+        "q5": "how many transfers has liverpool received?",
+        "a5": "liverpool has received 8 transfers in the 18/19 season.",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@entity has received @object transfers in the 1@object/19 season.",
+        "a5_v2": "liverpool has received 8 transfers in the 18/19 season.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

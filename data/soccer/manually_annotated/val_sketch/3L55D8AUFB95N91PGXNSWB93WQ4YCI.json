@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "how many players are arsenal allowed on the pitch at any one time?",
+        "a1": "only ever eleven at a time. ",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "only ever eleven at a time. ",
+        "a1_v2": "only ever eleven at a time. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "arsenal started when ?",
+        "a2": "arsenal started in 1886.",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@entity started in @object",
+        "a2_v2": "arsenal started in 1886.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "arsenal"
+    },
+    {
+        "q3": "history of arsenal f.c. (1886\u20131966)",
+        "a3": "correct",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "correct",
+        "a3_v2": "correct",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "arsenal"
+    },
+    {
+        "q4": "why are arsenal the worst team in the uk?",
+        "a4": "arsenal is just not that talented",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity is just not that talented",
+        "a4_v2": "arsenal is just not that talented",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "arsenal"
+    },
+    {
+        "q5": "what is arsenal's biggest accomplishment?",
+        "a5": "completed 38-match season unbeaten",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "completed 38-match season unbeaten",
+        "a5_v2": "completed 38-match season unbeaten",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "arsenal"
+    }
+]

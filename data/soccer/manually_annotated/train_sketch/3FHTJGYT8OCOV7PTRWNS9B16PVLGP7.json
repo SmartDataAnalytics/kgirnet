@@ -1,0 +1,177 @@
+[
+    {
+        "q1": "seemed to be missing a big character this time around.  feel they have blown their chance for another couple of world cups.",
+        "a1": "they have a young team. their skill will develop over the next few years. ",
+        "kgER1": {},
+        "a1_skt": "they have a young team. their skill will develop over the next few years. ",
+        "a1_v2": "they have a young team. their skill will develop over the next few years. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "was james rodriguez injured?",
+        "a2": "yes, i believe he was having a scan done to check on the injury.",
+        "kgER2": {
+            "james rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "yes, i believe he was having a scan done to check on the injury.",
+        "a2_v2": "yes, i believe he was having a scan done to check on the injury.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "james rodriguez"
+    },
+    {
+        "q3": "what part of his body did james injure?",
+        "a3": "he had a tear in his calf.",
+        "kgER3": {
+            "james rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "he had a tear in his calf.",
+        "a3_v2": "he had a tear in his calf.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "james rodriguez"
+    },
+    {
+        "q4": "that sounds painful, but how long will he be out for?",
+        "a4": "definitely a long time.",
+        "kgER4": {
+            "james rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "definitely a long time.",
+        "a4_v2": "definitely a long time.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "were you surprised when england beat them? ",
+        "a5": "yes, i thought they had a real chance to advance to the quarter-finals.",
+        "kgER5": {
+            "james rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "yes, i thought they had a real chance to advance to the quarter-finals.",
+        "a5_v2": "yes, i thought they had a real chance to advance to the quarter-finals.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    },
+    {
+        "q6": "columbia couldn't make it happen. maybe next year?",
+        "a6": "goal james",
+        "kgER6": {
+            "james rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a6_skt": "@relation james",
+        "a6_v2": "goal james",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "andres guardado"
+    }
+]

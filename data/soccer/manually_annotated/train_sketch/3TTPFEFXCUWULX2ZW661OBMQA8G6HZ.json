@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "where is chelsea from?",
+        "a1": "very good team",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "chelsea, london, united kingdom",
+        "a2": "that is correct about chelsea fc.",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "that is correct about @entity fc.",
+        "a2_v2": "that is correct about chelsea fc.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "chelsea"
+    },
+    {
+        "q3": "they are from the united kingdom.",
+        "a3": "yes, chelsea is a club in london.  the finished 5th last season behind liverpool.",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "yes, @entity is a club in london.  the finished 5th last season behind @entity",
+        "a3_v2": "yes, chelsea is a club in london.  the finished 5th last season behind liverpool.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "manchester united"
+    },
+    {
+        "q4": "have you been to any matches? ",
+        "a4": "no, but would love to",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "no, but would love to",
+        "a4_v2": "no, but would love to",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "we\u2019re chelsea home ground",
+        "a5": "chelsea football club is a professional football club in london, england, ",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "@entity football club is a professional football club in london, england, ",
+        "a5_v2": "chelsea football club is a professional football club in london, england, ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "chelsea"
+    }
+]

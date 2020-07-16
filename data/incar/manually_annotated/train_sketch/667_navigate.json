@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "i want pizza",
+        "a1": "there is two pizza places local dominos and pizza_my_heart do you have a preference",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "dominos,pizza_my_heart",
+        "input_ent1": "pizza_restaurant",
+        "kvr_entlist_qa1": [
+            "dominos",
+            "pizza_my_heart"
+        ]
+    },
+    {
+        "q2": "yes i d like the route nearest me with no heavy_traffic",
+        "a2": "let s go to pizza_my_heart it is just 2_miles away with no_traffic noted",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel2": "traffic_info",
+        "obj2": "no_traffic",
+        "input_ent2": "pizza_my_heart",
+        "kvr_entlist_qa2": [
+            "no_traffic",
+            "pizza_my_heart",
+            "2_miles"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "where can i buy groceries",
+        "a1": "there is a safeway 4_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "safeway",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "safeway",
+            "4_miles"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "safeway is located at 452_arcadia_pl with a road_block_nearby",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "452_arcadia_pl",
+        "input_ent2": "safeway",
+        "kvr_entlist_qa2": [
+            "road_block_nearby",
+            "safeway",
+            "452_arcadia_pl"
+        ]
+    },
+    {
+        "q3": "ouch this sounds awful but patience please set the gps to go there",
+        "a3": "i sent the fastest route on your gps drive carefully",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thank you car",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "q1": "what is the weather forecast in the city",
+        "a1": "what city should i check the weather forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "boston",
+        "a2": "for what day would you like the forecast in boston for",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "boston",
+        "kvr_entlist_qa2": [
+            "boston"
+        ]
+    },
+    {
+        "q3": "the next 7 days",
+        "a3": "in boston it will be clear and humid monday and tuesday snowy and windy wednesday and thursday hot on friday and sunday and drizzling on saturday .,",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "boston",
+            "monday",
+            "wednesday",
+            "humid",
+            "sunday",
+            "saturday",
+            "tuesday",
+            "hot",
+            "thursday",
+            "windy",
+            "friday"
+        ]
+    },
+    {
+        "q4": "thanks",
+        "a4": "no problem",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

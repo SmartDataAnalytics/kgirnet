@@ -1,0 +1,90 @@
+[
+    {
+        "q1": "is team mexico top 5 in the league?",
+        "a1": "no, mexico did not make last 5 in world cup.",
+        "kgER1": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "no, @entity did not make last @object in world cup.",
+        "a1_v2": "no, mexico did not make last 5 in world cup.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "mexico"
+    },
+    {
+        "q2": "has mexico ever won a world cup?",
+        "a2": "mexico has never won a world cup. ",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity has never won a world cup. ",
+        "a2_v2": "mexico has never won a world cup. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "mexico"
+    },
+    {
+        "q3": "do you think mexico can win a world cup in the near future?",
+        "a3": "anything is possible with enough hard work.",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "anything is possible with enough hard work.",
+        "a3_v2": "anything is possible with enough hard work.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mexico"
+    },
+    {
+        "q4": "what is the highest finish mexico has ever achieved at the world cup?",
+        "a4": "mexico had a great world championship this year after defeating germany but i do not think that it's time to become a champion ",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity had a great @relation this year after defeating @entity but i do not think that it's time to become a champion ",
+        "a4_v2": "mexico had a great world championship this year after defeating germany but i do not think that it's time to become a champion ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "mexico"
+    }
+]

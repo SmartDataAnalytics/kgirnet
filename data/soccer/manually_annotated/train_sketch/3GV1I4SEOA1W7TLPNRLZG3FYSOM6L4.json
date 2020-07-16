@@ -1,0 +1,125 @@
+[
+    {
+        "q1": "how old is eddison cavani \\?",
+        "a1": "he is 31 years old",
+        "kgER1": {
+            "edinson cavani": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a1_skt": "he is @object years old",
+        "a1_v2": "he is 31 years old",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "old trafford"
+    },
+    {
+        "q2": "how many goals did he scored \\?",
+        "a2": "he has scored 46 goals",
+        "kgER2": {
+            "edinson cavani": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "he has scored @object @relation",
+        "a2_v2": "he has scored @goals goals",
+        "corr_rel2": "goals",
+        "obj2": "46",
+        "input_ent2": "eddison cavani"
+    },
+    {
+        "q3": "who is ther best partner for edison cavani",
+        "a3": "it has to be suarez a prolific goalscorer",
+        "kgER3": {
+            "edinson cavani": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "it has to be suarez a prolific goalscorer",
+        "a3_v2": "it has to be suarez a prolific goalscorer",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "edinson cavani"
+    },
+    {
+        "q4": "who is their best goalkeeper of all time \\?",
+        "a4": "the best goalkeeper of uruguay is muslera",
+        "kgER4": {
+            "edinson cavani": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "the best @relation of @entity is muslera",
+        "a4_v2": "the best goalkeeper of uruguay is muslera",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "goalkeeper"
+    },
+    {
+        "q5": "who is the current goalkeeper \\?",
+        "a5": "martin silva is the goalkeeper",
+        "kgER5": {
+            "edinson cavani": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "@object is the @relation",
+        "a5_v2": "@goalkeeper is the goalkeeper",
+        "corr_rel5": "goalkeeper",
+        "obj5": "martin silva",
+        "input_ent5": "uruguay"
+    }
+]

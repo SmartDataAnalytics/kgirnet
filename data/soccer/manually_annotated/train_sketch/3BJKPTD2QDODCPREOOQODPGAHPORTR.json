@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "when was the last time italy win a world cup trophy \\?",
+        "a1": "2006",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "2006",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "who are the players playing for the team \\?",
+        "a2": "messi was",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "messi was",
+        "a2_v2": "messi was",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "do they have good odds of qualifying next year \\?",
+        "a3": "i would say so , they usually end up qualifying",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i would say so , they usually end up qualifying",
+        "a3_v2": "i would say so , they usually end up qualifying",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "coach name \\?",
+        "a4": "roberto mancini",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "@coach",
+        "corr_rel4": "coach",
+        "obj4": "roberto mancini",
+        "input_ent4": "italy"
+    },
+    {
+        "q5": "list of india national cricket coaches",
+        "a5": "ravi shastri is the head coach of the indian national cricket team antonio conte was the previous italian national football coach",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "ravi shastri is the head @relation of the indian national cricket team antonio conte was the previous italian national football @relation",
+        "a5_v2": "ravi shastri is the head coach of the indian national cricket team antonio conte was the previous italian national football coach",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

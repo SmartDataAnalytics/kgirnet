@@ -1,0 +1,137 @@
+[
+    {
+        "q1": "france is a terrible team",
+        "a1": "france world cup celebrations",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity world cup celebrations",
+        "a1_v2": "france world cup celebrations",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "france"
+    },
+    {
+        "q2": "who is your favorite player on the french national team?",
+        "a2": "france has many very good players: mbapp\u00e9, griezmann, pogba, dembele, matuidi, tolisso, kant\u00e9 and so on.",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity has many very good players: mbapp\u00e9, griezmann, pogba, dembele, matuidi, tolisso, kant\u00e9 and so on.",
+        "a2_v2": "france has many very good players: mbapp\u00e9, griezmann, pogba, dembele, matuidi, tolisso, kant\u00e9 and so on.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who was the best french player at the world cup this year?",
+        "a3": "kante of course, legend.",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "kante of course, legend.",
+        "a3_v2": "kante of course, legend.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "the story of n'golo kante is a remarkable one",
+        "a4": "what is the best player currently in france",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "n'golo kante": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a4_skt": "what is the @relation currently in @entity",
+        "a4_v2": "what is the best player currently in france",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "n'golo kante"
+    },
+    {
+        "q5": "pogba",
+        "a5": "i think mbappe will replace pogba as the best player in france",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "n'golo kante": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a5_skt": "i think mbappe will replace pogba as the @relation in @entity",
+        "a5_v2": "i think mbappe will replace pogba as the best player in france",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "paul pogba"
+    }
+]

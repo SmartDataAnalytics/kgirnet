@@ -1,0 +1,229 @@
+[
+    {
+        "q1": "were brazil expecting to get into the finals at this year's world cup? ",
+        "a1": "brazil is always expected to reach the finals based on their history in the world cup",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "marius wolf": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "@entity is always expected to reach the finals based on their history in the world cup",
+        "a1_v2": "brazil is always expected to reach the finals based on their history in the world cup",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "will all brazilians cry if their team won't qualify to the world cup?",
+        "a2": "they are a passionate country when it comes to football so i would think they would be extremely upset.",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "marius wolf": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "they are a passionate country when it comes to football so i would think they would be extremely upset.",
+        "a2_v2": "they are a passionate country when it comes to football so i would think they would be extremely upset.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "of course i think they would probably cry because they took a loss.",
+        "a3": "they'll be devastated if its anything like the world cup 2014 when they faced germany",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "marius wolf": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "they'll be devastated if its anything like the world cup @object when they faced @entity",
+        "a3_v2": "they'll be devastated if its anything like the world cup 2014 when they faced germany",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "do you think the neymar held the team together?",
+        "a4": "no, i believe coutinho actually did that.",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "marius wolf": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "no, i believe coutinho actually did that.",
+        "a4_v2": "no, i believe coutinho actually did that.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "neymar"
+    },
+    {
+        "q5": "would you rate coutinho as the best player in the side?",
+        "a5": "yes, he plays amazing for both brazil and barca.",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "marius wolf": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes, he plays amazing for both @entity and barca.",
+        "a5_v2": "yes, he plays amazing for both brazil and barca.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "philippe coutinho"
+    }
+]

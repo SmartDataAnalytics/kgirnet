@@ -1,0 +1,111 @@
+[
+    {
+        "q1": "who is your best player?",
+        "a1": "hector ",
+        "kgER1": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "hector ",
+        "a1_v2": "hector ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "michael hector?",
+        "a2": "yes. michael hector is contracted to chelsea, but there are many other players who are more well-known around the world. he is my favourite though.",
+        "kgER2": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "yes. michael hector is contracted to @entity but there are many other players who are more well-known around the world. he is my favourite though.",
+        "a2_v2": "yes. michael hector is contracted to chelsea, but there are many other players who are more well-known around the world. he is my favourite though.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "michael lang"
+    },
+    {
+        "q3": "what makes him your favorite player?",
+        "a3": "a4: good skills and an excellent prospect.",
+        "kgER3": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "a4: good skills and an excellent prospect.",
+        "a3_v2": "a4: good skills and an excellent prospect.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "hazard is an excellent player for that team ",
+        "a4": "of course he is, he is a very important player and a lot of weight for the rivals ",
+        "kgER4": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "of course he is, he is a very important player and a lot of @relation for the rivals ",
+        "a4_v2": "of course he is, he is a very important player and a lot of weight for the rivals ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "eden hazard"
+    },
+    {
+        "q5": "can sarri win the league with chelsea? ",
+        "a5": "i think so, although it might happen in his second year with them rather than the first. ",
+        "kgER5": {
+            "beto": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "i think so, although it might happen in his second year with them rather than the first. ",
+        "a5_v2": "i think so, although it might happen in his second year with them rather than the first. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "chelsea"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "q1": "i like this yeam",
+        "a1": "what do you like about them? ",
+        "kgER1": {},
+        "a1_skt": "what do you like about them? ",
+        "a1_v2": "what do you like about them? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "i like their rich soccer culture and style of play.",
+        "a2": "what is ac milan's style of play?",
+        "kgER2": {},
+        "a2_skt": "what is ac milan's style of play?",
+        "a2_v2": "what is ac milan's style of play?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "white and red"
+    },
+    {
+        "q3": "ac milan is strategic n their play. ",
+        "a3": "if they think all about the style of play",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "if they think all about the style of play",
+        "a3_v2": "if they think all about the style of play",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ac milan"
+    },
+    {
+        "q4": "why he? ",
+        "a4": "donnarumma is a great talent",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "donnarumma is a great talent",
+        "a4_v2": "donnarumma is a great talent",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "how many matches did donnarumma play for the club last season?",
+        "a5": "zero matches",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "zero matches",
+        "a5_v2": "zero matches",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "gianluigi donnarumma"
+    }
+]

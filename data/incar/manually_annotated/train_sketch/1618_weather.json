@@ -1,0 +1,43 @@
+[
+    {
+        "q1": "get me the weather forecast for the next 7 days",
+        "a1": "for what city would you like the weather forecast for the next 7 days",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i need the 7 day forecast for danville",
+        "a2": "in danville is gonna be overcast on monday hail on tuesday overcast again on wednesday foggy on thrusday misty on friday stormy on saturday snow on sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "misty,stormy,hail,foggy,snow,overcast",
+        "input_ent2": "danville",
+        "kvr_entlist_qa2": [
+            "misty",
+            "stormy",
+            "danville",
+            "hail",
+            "monday",
+            "wednesday",
+            "sunday",
+            "saturday",
+            "tuesday",
+            "foggy",
+            "snow",
+            "overcast",
+            "friday"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

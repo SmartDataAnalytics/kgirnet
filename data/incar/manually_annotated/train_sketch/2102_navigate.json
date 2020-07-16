@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "i need the quickest route to a gas_station please",
+        "a1": "the quickest route to a gas_station is through moderate_traffic would you like more info",
+        "input_rel1": "",
+        "corr_rel1": "poi",
+        "obj1": "valero",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "moderate_traffic",
+            "gas_station"
+        ]
+    },
+    {
+        "q2": "yes please send me the address and how s the traffic",
+        "a2": "valero is at 200_alester_ave and there is moderate_traffic",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "200_alester_ave",
+        "input_ent2": "valero",
+        "kvr_entlist_qa2": [
+            "200_alester_ave",
+            "valero",
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

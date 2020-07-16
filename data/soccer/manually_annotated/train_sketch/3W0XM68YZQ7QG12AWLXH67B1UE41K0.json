@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who is the coach for atletico madrid?",
+        "a1": "diego simeone is atletico madrid's coach.",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object is @entity @relation",
+        "a1_v2": "@coach is @entity coach",
+        "corr_rel1": "coach",
+        "obj1": "diego simeone",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "can madrid dominate?",
+        "a2": "they can if they counter attack.",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they can if they counter attack.",
+        "a2_v2": "they can if they counter attack.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "who is the atletico madrid goal keeper?",
+        "a3": "jan oblak is the goal keeper of atletico madrid",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object is the @relation of @entity",
+        "a3_v2": "jan oblak is the goal keeper of atletico madrid",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "atletico madrid"
+    },
+    {
+        "q4": "if he is one of the best goalie that the athletic",
+        "a4": "its a proven fact he is",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "its a proven fact he is",
+        "a4_v2": "its a proven fact he is",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "can atletico madrid challenge for la liga title this year?",
+        "a5": "yes, they will challenge but only finish in the top 3.",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes, they will challenge but only finish in the top 3.",
+        "a5_v2": "yes, they will challenge but only finish in the top 3.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "atletico madrid"
+    }
+]

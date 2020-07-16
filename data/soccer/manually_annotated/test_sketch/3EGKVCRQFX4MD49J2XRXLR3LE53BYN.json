@@ -1,0 +1,178 @@
+[
+    {
+        "q1": "mexico had a really solid soccer team , i feel like mexico with more experience and with more endurance can reach the finals on the world cup ",
+        "a1": "teams that win world cups are those can neutralize. mexico cut down soccer's most clinical attacking force and made it look decidedly ...",
+        "kgER1": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "teams that win world cups are those can neutralize. @entity cut down soccer's most clinical attacking force and made it look decidedly ...",
+        "a1_v2": "teams that win world cups are those can neutralize. mexico cut down soccer's most clinical attacking force and made it look decidedly ...",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "mexico"
+    },
+    {
+        "q2": "underachievers",
+        "a2": "why do you call them underachievers?",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "why do you call them underachievers?",
+        "a2_v2": "why do you call them underachievers?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "i don't see mexico reaching the finals. parking the bus and playing on the counter can only get you so far.",
+        "a3": "who is the youngest player in mexico?",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "who is the youngest player in @entity",
+        "a3_v2": "who is the youngest player in mexico?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mexico"
+    },
+    {
+        "q4": "if it seems to me that mexico with a little effort can get better and the youngest player is edson alvarez",
+        "a4": "thats not a question, but i'm inclined to agree.",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "edson alvarez": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "thats not a question, but i'm inclined to agree.",
+        "a4_v2": "thats not a question, but i'm inclined to agree.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "edson alvarez"
+    },
+    {
+        "q5": "the america defender is among a group of players who must use monday's friendly to build their case for russia",
+        "a5": "mexico is playing its very very well games have young players and very good can do a lot ",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "rafinha": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "edson alvarez": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a5_skt": "@entity is playing its very very well games have young players and very good can do a lot ",
+        "a5_v2": "mexico is playing its very very well games have young players and very good can do a lot ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "defender"
+    }
+]

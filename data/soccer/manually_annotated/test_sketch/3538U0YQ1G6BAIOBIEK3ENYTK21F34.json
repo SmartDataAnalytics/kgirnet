@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "how many catches did iker casillas caught while playing for the fc. porto team, this year? ",
+        "a1": "hard to tell. he has lots of catches for fc. porto.",
+        "kgER1": {
+            "iker casillas": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "hard to tell. he has lots of catches for fc. porto.",
+        "a1_v2": "hard to tell. he has lots of catches for fc. porto.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "iker casillas"
+    },
+    {
+        "q2": "can casillas do it again.",
+        "a2": "at his age it might be difficult",
+        "kgER2": {
+            "iker casillas": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "at his @relation it might be difficult",
+        "a2_v2": "at his age it might be difficult",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "i agree, he's getting older",
+        "a3": "do you think navas has replaced him well at madrid?",
+        "kgER3": {
+            "iker casillas": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "do you think navas has replaced him well at madrid?",
+        "a3_v2": "do you think navas has replaced him well at madrid?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "navas has been a great goalkeeper, bit shaky at times bit good enough.",
+        "a4": "what colors ar fc. porto's jerseys?",
+        "kgER4": {
+            "iker casillas": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "what colors ar fc. porto's jerseys?",
+        "a4_v2": "what colors ar fc. porto's jerseys?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "goalkeeper"
+    },
+    {
+        "q5": "blue and white",
+        "a5": "do they have any sponsors? ",
+        "kgER5": {
+            "iker casillas": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "white": [
+                "jersey color"
+            ],
+            "blue": [
+                "jersey color"
+            ],
+            "blue and white": [
+                "home jersey"
+            ]
+        },
+        "a5_skt": "do they have any sponsors? ",
+        "a5_v2": "do they have any sponsors? ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "blue and white"
+    }
+]

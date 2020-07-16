@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what s the weekly weather report for the city",
+        "a1": "what city would you like the weekly weather report for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "will it be humid in corona next_week",
+        "a2": "the forecast for thursday is supposed to be humid for carson",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "thursday",
+        "obj2": "humid",
+        "input_ent2": "corona",
+        "kvr_entlist_qa2": [
+            "thursday",
+            "humid",
+            "carson"
+        ]
+    },
+    {
+        "q3": "thanks for the information",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

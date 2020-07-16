@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "what s the temperature for today",
+        "a1": "what city should i check the temperature for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "well i need to know the temperature for seattle today",
+        "a2": "the temperature for seattle today will be low of 60f high of 80f and also cloudy",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "60f,80f,cloudy,today",
+        "input_ent2": "seattle",
+        "kvr_entlist_qa2": [
+            "80f",
+            "60f",
+            "cloudy",
+            "seattle",
+            "today"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

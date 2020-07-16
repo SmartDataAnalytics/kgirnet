@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "i love the team senegal",
+        "a1": "they have a nice  team strip ",
+        "kgER1": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they have a nice  team strip ",
+        "a1_v2": "they have a nice  team strip ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "senegal"
+    },
+    {
+        "q2": "did they make it to the world cup?",
+        "a2": "senegal played the last world cup but lost to columbia. ",
+        "kgER2": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity played the last world cup but lost to columbia. ",
+        "a2_v2": "senegal played the last world cup but lost to columbia. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "that doesn't sound right for the finals. was that in the group stage?",
+        "a3": "one of my favorite ",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "one of my favorite ",
+        "a3_v2": "one of my favorite ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "what colour is the senegal kit",
+        "a4": "colombia's striking yellow home kit is inspired by their iconic world cup 1990 apparel, and features spiky blue and red graphics matching the colours of the south american country's flag.",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity striking @object home kit is inspi@object by their iconic world cup @object apparel, and features spiky @object and @object graphics matching the colours of the south american country's flag.",
+        "a4_v2": "colombia's striking yellow home kit is inspired by their iconic world cup 1990 apparel, and features spiky blue and red graphics matching the colours of the south american country's flag.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "senegal"
+    },
+    {
+        "q5": "yes very good team senegal this year he did very well in the world cup",
+        "a5": "what position did senegal finish in the world cup?",
+        "kgER5": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "what @relation did @entity finish in the world cup?",
+        "a5_v2": "what position did senegal finish in the world cup?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "senegal"
+    }
+]

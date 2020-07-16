@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "how many times have nigeria played at the fifa world cup finals?",
+        "a1": "they haven't made it to the finals yet.",
+        "kgER1": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they haven't made it to the finals yet.",
+        "a1_v2": "they haven't made it to the finals yet.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "nigeria"
+    },
+    {
+        "q2": "do you think nigeria will get into the finals?",
+        "a2": "i seriously doubt nigeria will make it. ",
+        "kgER2": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i seriously doubt @entity will make it. ",
+        "a2_v2": "i seriously doubt nigeria will make it. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "nigeria"
+    },
+    {
+        "q3": "which teams from africa are usually winning against nigeria?",
+        "a3": ": what team has been drubbed in super bowls by scores of 27-10, 39-20, 42-10, and 55-10? a: the denver broncos",
+        "kgER3": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": ": what team has been drubbed in super bowls by scores of 27-10, 39-20, 42-10, and 55-10? a: the denver broncos",
+        "a3_v2": ": what team has been drubbed in super bowls by scores of 27-10, 39-20, 42-10, and 55-10? a: the denver broncos",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "nigeria"
+    },
+    {
+        "q4": "how many professional soccer teams are based in the uk?",
+        "a4": "as of the 2018\u201319 season, there are eleven teams playing in professional leagues in london, six play in the premier league and five in the football league.",
+        "kgER4": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "as of the 2018\u201319 season, there are eleven teams playing in professional leagues in london, six play in the premier league and five in the football league.",
+        "a4_v2": "as of the 2018\u201319 season, there are eleven teams playing in professional leagues in london, six play in the premier league and five in the football league.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "so can we get back to nigeria already. who is nigeria's coach?",
+        "a5": "the manager right now is gernot rohr. ",
+        "kgER5": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "the manager right now is @object ",
+        "a5_v2": "the manager right now is @coach ",
+        "corr_rel5": "coach",
+        "obj5": "gernot rohr",
+        "input_ent5": "nigeria"
+    }
+]

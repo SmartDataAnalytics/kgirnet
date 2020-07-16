@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "what is the date and time of my next meeting and who will be attending it",
+        "a1": "your next meeting is with your boss on the_5th at 2pm",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,party,date",
+        "obj1": "boss,the_5th,2pm",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "boss",
+            "the_5th",
+            "meeting",
+            "2pm"
+        ]
+    },
+    {
+        "q2": "thank you",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

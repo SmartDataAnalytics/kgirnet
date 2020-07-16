@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "who is the goalkeeper of the ac milan?",
+        "a1": "donnaruma",
+        "kgER1": {
+            "goalkeeper": [
+                "position"
+            ],
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "donnaruma",
+        "a1_v2": "donnaruma",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "who was the best goalkeeper ac milan has ever had?",
+        "a2": "lorenzo buffon may be the best they ever had.",
+        "kgER2": {
+            "goalkeeper": [
+                "position"
+            ],
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "lorenzo buffon may be the best they ever had.",
+        "a2_v2": "lorenzo buffon may be the best they ever had.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "when did buffon play for ac milan?",
+        "a3": "in 1995",
+        "kgER3": {
+            "goalkeeper": [
+                "position"
+            ],
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "in 1995",
+        "a3_v2": "in 1995",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ac milan"
+    },
+    {
+        "q4": "buffon is capatin of ac milan?",
+        "a4": "no, buffon is not the captain of ac milan.",
+        "kgER4": {
+            "goalkeeper": [
+                "position"
+            ],
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "no, buffon is not the @relation of ac milan.",
+        "a4_v2": "no, buffon is not the captain of ac milan.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "then who is the captain?",
+        "a5": "mauro icardi is the captian of milan",
+        "kgER5": {
+            "goalkeeper": [
+                "position"
+            ],
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "mauro icardi is the @relation of milan",
+        "a5_v2": "mauro icardi is the captian of milan",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

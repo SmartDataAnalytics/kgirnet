@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is the top scorer of italy?",
+        "a1": "luigi riva has 35 goals.",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "luigi riva has @object @relation",
+        "a1_v2": "luigi riva has 35 goals.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "who is the current captain of italy?",
+        "a2": "giorgio chiellini is the captain ",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object is the @relation ",
+        "a2_v2": "@captain is the captain ",
+        "corr_rel2": "captain",
+        "obj2": "giorgio chiellini",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "what is current italy's standing for euro qualifications? ",
+        "a3": "i still do not know why they have not played the playoffs",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i still do not know why they have not played the playoffs",
+        "a3_v2": "i still do not know why they have not played the playoffs",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "italy"
+    },
+    {
+        "q4": "how many world cup titles has ital won?",
+        "a4": "they have won 4 ",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they have won @object ",
+        "a4_v2": "they have won @number_of_world_cup_champion ",
+        "corr_rel4": "number of world cup champion",
+        "obj4": "4",
+        "input_ent4": "italy"
+    },
+    {
+        "q5": "do you think they will qualify for the next world cup?",
+        "a5": "i think they will ",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think they will ",
+        "a5_v2": "i think they will ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "q1": "i like team",
+        "a1": "they are one of the better european sides ",
+        "kgER1": {},
+        "a1_skt": "they are one of the better european sides ",
+        "a1_v2": "they are one of the better european sides ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "is messi is playing tonight?",
+        "a2": "yes the is playing",
+        "kgER2": {},
+        "a2_skt": "yes the is playing",
+        "a2_v2": "yes the is playing",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "lionel messi"
+    },
+    {
+        "q3": "is one of the better europeans team.. besides, they have the best player of the world, messi.",
+        "a3": "messi will be leaving barcelona soon.",
+        "kgER3": {},
+        "a3_skt": "messi will be leaving @entity soon.",
+        "a3_v2": "messi will be leaving barcelona soon.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "lionel messi"
+    },
+    {
+        "q4": "barcelona  flag what is color ?  ",
+        "a4": "barcelona is red and yellow",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity is @object and @object",
+        "a4_v2": "barcelona is red and yellow",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "what is the fc barcelona stadium called? ",
+        "a5": "it called camp nou and is the largest stadium in europe. it seats 99,354 fans!",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "it called camp nou and is the largest stadium in europe. it seats @object fans!",
+        "a5_v2": "it called camp nou and is the largest stadium in europe. it seats 99,354 fans!",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "barcelona"
+    }
+]

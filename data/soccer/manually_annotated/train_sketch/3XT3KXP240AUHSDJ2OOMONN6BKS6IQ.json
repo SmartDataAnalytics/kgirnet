@@ -1,0 +1,150 @@
+[
+    {
+        "q1": "brazil wins world cup?",
+        "a1": "brazil has won the world cup 5 times, last time being 2002.",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity has won the world cup @object times, last time being @object",
+        "a1_v2": "@entity has won the world cup @world_cup_champions times, last time being @world_cup_champions",
+        "corr_rel1": "number of world cup champion",
+        "obj1": "5",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "is the brazil team ever going to win the world cup again?",
+        "a2": "yes i think they stand a good chance.",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes i think they stand a good chance.",
+        "a2_v2": "yes i think they stand a good chance.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "brazil"
+    },
+    {
+        "q3": "will brazil keep neymar in the first tesm?",
+        "a3": "i think so, he is an important player ",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "i think so, he is an important player ",
+        "a3_v2": "i think so, he is an important player ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "brazil"
+    },
+    {
+        "q4": "is he still a good player?",
+        "a4": "yes, he is",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes, he is",
+        "a4_v2": "yes, he is",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "how many goals did neymar score for brazil?",
+        "a5": "he has scored 60 goals ",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "he has scored @object @relation ",
+        "a5_v2": "he has scored @goals goals ",
+        "corr_rel5": "goals",
+        "obj5": "60",
+        "input_ent5": "neymar"
+    }
+]

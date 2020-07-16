@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "switzerland is getting slowly but surely year after year better and better when do you think they 'll have their biggest success \\?",
+        "a1": "it is hard to tell , maybe 2030",
+        "kgER1": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "it is hard to tell , maybe 2030",
+        "a1_v2": "it is hard to tell , maybe 2030",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "maybe already had it",
+        "a2": "there 's probably a cap to their improvement",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "there 's probably a @relation to their improvement",
+        "a2_v2": "there 's probably a cap to their improvement",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "if they invest in their youth and their national league there is no limit to the improvement",
+        "a3": "has switzerland ever won the world cup \\?",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "has @entity ever won the world cup \\?",
+        "a3_v2": "has switzerland ever won the world cup \\?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "white and red"
+    },
+    {
+        "q4": "who are some famous swiss players \\?",
+        "a4": "switzerland has quite a few",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity has quite a few",
+        "a4_v2": "switzerland has quite a few",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is you favorite swiss player \\?",
+        "a5": "shaqiri",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@has_player",
+        "corr_rel5": "has player",
+        "obj5": "xherdan shaqiri",
+        "input_ent5": "switzerland"
+    }
+]

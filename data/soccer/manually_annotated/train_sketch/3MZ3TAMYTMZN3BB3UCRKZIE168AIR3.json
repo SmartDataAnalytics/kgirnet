@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "will arsenals new manager be an improvement on arsene wenger?",
+        "a1": "i think so, i was not a fan of his.",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i think so, i was not a fan of his.",
+        "a1_v2": "i think so, i was not a fan of his.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "he was the manager of the invincibles.",
+        "a2": "i think it will be an improvement and they will continue with the project",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i think it will be an improvement and they will continue with the project",
+        "a2_v2": "i think it will be an improvement and they will continue with the project",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "if the arsenal is going to be fine this season",
+        "a3": "the arsenal ceo will look for someone who is a good head coach for the team by appointing mikel arteta who will be the replacement of wenger this summer who will make a good role for the team",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "the @entity ceo will look for someone who is a good head @relation for the team by appointing mikel arteta who will be the replacement of wenger this summer who will make a good role for the team",
+        "a3_v2": "the arsenal ceo will look for someone who is a good head coach for the team by appointing mikel arteta who will be the replacement of wenger this summer who will make a good role for the team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "arsenal"
+    },
+    {
+        "q4": "is lacazette going to score lots this season?",
+        "a4": "almost definitely. he's at the top of his game.",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "almost definitely. he's at the top of his game.",
+        "a4_v2": "almost definitely. he's at the top of his game.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "alexandre lacazette"
+    },
+    {
+        "q5": "does he normally also help his team in defense or pressing?",
+        "a5": "he isn't going to with arsenal",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "he isn't going to with @entity",
+        "a5_v2": "he isn't going to with arsenal",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

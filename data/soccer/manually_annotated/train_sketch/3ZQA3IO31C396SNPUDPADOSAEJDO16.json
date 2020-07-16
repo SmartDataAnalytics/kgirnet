@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "is sweden stronger on offense , or defense \\?",
+        "a1": "i believe their defense is solid",
+        "kgER1": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i believe their @relation is solid",
+        "a1_v2": "i believe their defense is solid",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "sweden"
+    },
+    {
+        "q2": "defense all the way",
+        "a2": "their defense is the goals for other teams",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "their @object is the @relation for other teams",
+        "a2_v2": "their defense is the goals for other teams",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what is the name of sweden 's goalie \\?",
+        "a3": "robin olsen is their goalie",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object is their goalie",
+        "a3_v2": "@goalkeeper is their goalie",
+        "corr_rel3": "goalkeeper",
+        "obj3": "robin olsen",
+        "input_ent3": "sweden"
+    },
+    {
+        "q4": "who 's sweedens best player \\?",
+        "a4": "andreas granqvist is their best player",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object is their @relation",
+        "a4_v2": "andreas granqvist is their best player",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "swedens best player is whom \\?",
+        "a5": "robin olsen is also their best player",
+        "kgER5": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object is also their @relation",
+        "a5_v2": "robin olsen is also their best player",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

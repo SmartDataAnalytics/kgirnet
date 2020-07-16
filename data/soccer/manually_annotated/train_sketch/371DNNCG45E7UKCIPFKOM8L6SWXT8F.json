@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "who was argentina 's captain at the last world cup \\?",
+        "a1": "lionel messi",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@captain",
+        "corr_rel1": "captain",
+        "obj1": "lionel messi",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "did argentina win the world cup \\?",
+        "a2": "no , argentina did n't win the last world cup",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no , @entity did n't win the last world cup",
+        "a2_v2": "no , argentina did n't win the last world cup",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "argentina"
+    },
+    {
+        "q3": "how many times has argentina won the world cup \\?",
+        "a3": "twice in 1978 and 1986 it 's been a while",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "twice in @object and @object it 's been a while",
+        "a3_v2": "twice in @world_cup_champions and @world_cup_champions it 's been a while",
+        "corr_rel3": "number of world cup champion",
+        "obj3": "2",
+        "input_ent3": "argentina"
+    },
+    {
+        "q4": "do you think messi has a chance of winning the cup with argentina in the next world cup \\?",
+        "a4": "i think he has a change however the players around him are n't good enough and age is n't on his side",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i think he has a change however the players around him are n't good enough and @relation is n't on his side",
+        "a4_v2": "i think he has a change however the players around him are n't good enough and age is n't on his side",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "argentina"
+    },
+    {
+        "q5": "will the next world cup definitely be his last then \\?",
+        "a5": "yes he is going to older",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes he is going to older",
+        "a5_v2": "yes he is going to older",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

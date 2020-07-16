@@ -1,0 +1,43 @@
+[
+    {
+        "q1": "quickest route to my friends_house",
+        "a1": "your friend jack lives at 864 alamanor lane but there is heavy_traffic would you like directions",
+        "input_rel1": "car_collision_nearby,moderate_traffic,poi,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel1": "traffic_info",
+        "obj1": "heavy_traffic",
+        "input_ent1": "friends_house",
+        "kvr_entlist_qa1": [
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q2": "yes please show me the quickest route to go there",
+        "a2": "unfortunately there is heavy_traffic on our way but since it s just 2_miles away it shouldn t take too long to reach",
+        "input_rel2": "car_collision_nearby,moderate_traffic,poi,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel2": "distance",
+        "obj2": "2_miles",
+        "input_ent2": "friends_house",
+        "kvr_entlist_qa2": [
+            "2_miles",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "ok please give me directions via the quickest route available",
+        "a3": "the current given route is the quickest one",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "ok thanks for the information",
+        "a4": "no problem",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

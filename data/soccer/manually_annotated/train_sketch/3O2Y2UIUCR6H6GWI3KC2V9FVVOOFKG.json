@@ -1,0 +1,118 @@
+[
+    {
+        "q1": "what colors are senegal's jersey? ",
+        "a1": "senegal's jersey's are green.",
+        "kgER1": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "senegal's jersey's are green.",
+        "a1_v2": "senegal's jersey's are green.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "senegal"
+    },
+    {
+        "q2": "who is the best player on the senegal team?",
+        "a2": "the best player is mane",
+        "kgER2": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "the @relation is mane",
+        "a2_v2": "the best player is mane",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "senegal"
+    },
+    {
+        "q3": "the best player in senegal, mane",
+        "a3": "i totally agree, that the best player in senegal is man",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i totally agree, that the @relation in @entity is man",
+        "a3_v2": "i totally agree, that the best player in senegal is man",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "senegal"
+    },
+    {
+        "q4": "who is the goalkeeper for senegal?",
+        "a4": "the goalkeeper of senegal is ndiaye",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "the @relation of @entity is ndiaye",
+        "a4_v2": "the has player of @entity is ndiaye",
+        "corr_rel4": "has player",
+        "obj4": "abdoulaye diallo",
+        "input_ent4": "senegal"
+    },
+    {
+        "q5": "how long has he been playing for his country? ",
+        "a5": "he has been playing since 2015",
+        "kgER5": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "he has been playing since 2015",
+        "a5_v2": "he has been playing since 2015",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

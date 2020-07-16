@@ -1,0 +1,139 @@
+[
+    {
+        "q1": "i love brazil",
+        "a1": "brazil is my favorite team because they have some great players.",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity is my favorite team because they have some great players.",
+        "a1_v2": "brazil is my favorite team because they have some great players.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "your favorite team is brazil or not",
+        "a2": "how good is brazil?",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "how good is @entity",
+        "a2_v2": "how good is brazil?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "brazil"
+    },
+    {
+        "q3": "for me it is an excellent team, it has very good players",
+        "a3": "what will happen to brazil when all of their high caliber players retire?",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "what will happen to @entity when all of their @relation caliber players retire?",
+        "a3_v2": "what will happen to brazil when all of their high caliber players retire?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "honestly brazil will always reload the cupboard with new talent, it never ends. pele, ronaldihno, ronaldo,neymar. there's just way too many. ",
+        "a4": "brazil has always had excellent players, albeit one ",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity has always had excellent players, albeit one ",
+        "a4_v2": "brazil has always had excellent players, albeit one ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "brazil"
+    },
+    {
+        "q5": "when was the first and last time brazil won the world cup?",
+        "a5": "their last time was 2002.",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "their last time was @object",
+        "a5_v2": "their last time was @world_cup_champions",
+        "corr_rel5": "world cup champions",
+        "obj5": "2002",
+        "input_ent5": "brazil"
+    }
+]

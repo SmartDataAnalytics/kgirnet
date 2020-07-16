@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "bring me to the nearest grocery_store",
+        "a1": "the nearest grocery_store is sigona_farmers_market 4_miles away would you like directions",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi,distance",
+        "obj1": "sigona_farmers_market,4_miles",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "sigona_farmers_market",
+            "4_miles",
+            "grocery_store"
+        ]
+    },
+    {
+        "q2": "yes please",
+        "a2": "i will start navigating now",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

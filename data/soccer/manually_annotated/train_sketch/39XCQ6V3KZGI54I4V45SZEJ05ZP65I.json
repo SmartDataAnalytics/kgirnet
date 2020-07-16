@@ -1,0 +1,118 @@
+[
+    {
+        "q1": "have you ever watch colombia's soccer team play live?",
+        "a1": "i saw colombia vs chile live.",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i saw @entity vs chile live.",
+        "a1_v2": "i saw colombia vs chile live.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "colombia"
+    },
+    {
+        "q2": "who is the top player that plays for colombia? ",
+        "a2": "james rodriguez is the top player.",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object is the top player.",
+        "a2_v2": "james rodriguez is the top player.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "colombia"
+    },
+    {
+        "q3": "jamez rodriguez could be the best midfielder in the world ",
+        "a3": "i was hoping that manchester united would buy jamez ",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "midfielder": [
+                "position"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "i was hoping that @entity would buy jamez ",
+        "a3_v2": "i was hoping that manchester united would buy jamez ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "midfielder"
+    },
+    {
+        "q4": "for which club does rodriguez play currently?",
+        "a4": "he plays for fc bayern munich.",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "midfielder": [
+                "position"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "he plays for fc @entity",
+        "a4_v2": "he plays for fc bayern munich.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "luis rodriguez"
+    }
+]

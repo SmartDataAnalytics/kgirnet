@@ -1,0 +1,123 @@
+[
+    {
+        "q1": "uruguay had a very interesting world cup they went allot further then i thought they would",
+        "a1": "i thought they may do better tbf",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i thought they may do better tbf",
+        "a1_v2": "i thought they may do better tbf",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": "who is uruguay 's key player \\?",
+        "a2": "suarez",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "suarez",
+        "a2_v2": "suarez",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "uruguay"
+    },
+    {
+        "q3": "i think luis suerez is the key player in uruguay and he makes a good cup of the world",
+        "a3": "luis suarez with cavani are lethal in the attack",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object with cavani are lethal in the attack",
+        "a3_v2": "luis suarez with cavani are lethal in the attack",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "uruguay"
+    },
+    {
+        "q4": "who plays goalkeeper for uruguay \\?",
+        "a4": "fernando muslera is the goalkeeper for uruguay",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "@object is the @relation for @entity",
+        "a4_v2": "@goalkeeper is the goalkeeper for @entity",
+        "corr_rel4": "goalkeeper",
+        "obj4": "fernando muslera",
+        "input_ent4": "uruguay"
+    },
+    {
+        "q5": "if they are the best",
+        "a5": "if it is one of the best in uruguay",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "if it is one of the best in @entity",
+        "a5_v2": "if it is one of the best in uruguay",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "directions to local hotel",
+        "a1": "i have no hotels listed as local",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "what about a rest_stop while avoiding heavy_traffic",
+        "a2": "the_westin located at 329_el_camino_real is 4_miles away without any traffic",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "the_westin",
+        "input_ent2": "rest_stop",
+        "kvr_entlist_qa2": [
+            "4_miles",
+            "329_el_camino_real",
+            "the_westin"
+        ]
+    },
+    {
+        "q3": "sounds great thank you",
+        "a3": "anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

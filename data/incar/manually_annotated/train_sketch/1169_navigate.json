@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "where is a nearby parking_garage",
+        "a1": "we re 6_miles away from dish_parking",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi",
+        "obj1": "dish_parking",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "6_miles",
+            "dish_parking"
+        ]
+    },
+    {
+        "q2": "how is the traffic",
+        "a2": "there is moderate_traffic near dish_parking",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel2": "traffic_info",
+        "obj2": "moderate_traffic",
+        "input_ent2": "dish_parking",
+        "kvr_entlist_qa2": [
+            "moderate_traffic",
+            "dish_parking"
+        ]
+    },
+    {
+        "q3": "ok that works set the navigation for there",
+        "a3": "navigation set have a great day",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

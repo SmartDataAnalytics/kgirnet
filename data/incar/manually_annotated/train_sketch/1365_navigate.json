@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "give me directions to a coffee place",
+        "a1": "we re 4_miles away from philz but there is a car_collision_nearby",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "philz",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "car_collision_nearby",
+            "philz",
+            "4_miles"
+        ]
+    },
+    {
+        "q2": "ok please give me the address and directions via the fastest available route",
+        "a2": "it is located at 583_alester_ave and i will provide turn by turn directions now",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "address",
+        "obj2": "583_alester_ave",
+        "input_ent2": "philz",
+        "kvr_entlist_qa2": [
+            "583_alester_ave"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re welcome happy to help",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

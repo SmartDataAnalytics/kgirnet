@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "please give me the address and directions via the shortest distance to a rest_stop around here",
+        "a1": "the comfort_inn is 6_miles away at 753_university_ave there is no_traffic on this route",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address,distance",
+        "corr_rel1": "address,distance",
+        "obj1": "753_university_ave,6_miles",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "no_traffic",
+            "6_miles",
+            "753_university_ave",
+            "comfort_inn"
+        ]
+    },
+    {
+        "q2": "awesome thanks",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "where s parking",
+        "a1": "there is a parking_garage 3_miles away its name is stanford_oval_parking",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi,distance",
+        "obj1": "stanford_oval_parking,3_miles",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "parking_garage",
+            "stanford_oval_parking",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "let s go there thank you",
+        "a2": "you re welcome have a great day",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

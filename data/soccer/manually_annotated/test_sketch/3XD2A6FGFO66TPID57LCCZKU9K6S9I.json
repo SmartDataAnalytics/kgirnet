@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i completely love bayern munich",
+        "a1": "how the hell like bayern munich?",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "how the hell like @entity",
+        "a1_v2": "how the hell like bayern munich?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "they are enjoyable to watch. who do you like to watch on the bayern munich team?",
+        "a2": "i like lewandowski because he scores lots of goals. ",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i like lewandowski because he scores lots of @relation ",
+        "a2_v2": "i like lewandowski because he scores lots of goals. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bayern munich"
+    },
+    {
+        "q3": "i agree with this it's nice to see the world of music that is a great team",
+        "a3": "it's nice to see bayern munich, but i think it's better thiago",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "it's nice to see @entity but i think it's better @object",
+        "a3_v2": "it's nice to see bayern munich, but i think it's better thiago",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "can bayern regain the championship",
+        "a4": "for sure, theyll have some competition from bvb but they should pull it off",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "for sure, theyll have some competition from bvb but they should pull it off",
+        "a4_v2": "for sure, theyll have some competition from bvb but they should pull it off",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "emre can"
+    },
+    {
+        "q5": "will they be humiliated if they lose? ",
+        "a5": "it is always difficult to lose to a rival, but if you can get your team qualified for the champions league, it takes away a bit of the embarrassment.",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "it is always difficult to lose to a rival, but if you can get your team qualified for the champions league, it takes away a bit of the embarrassment.",
+        "a5_v2": "it is always difficult to lose to a rival, but if you can get your team qualified for the champions league, it takes away a bit of the embarrassment.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

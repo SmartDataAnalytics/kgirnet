@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "how many wins did barcelona have last season?",
+        "a1": "barcelona had 41 wins in the last season.",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity had @object wins in the last season.",
+        "a1_v2": "barcelona had 41 wins in the last season.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "who's the second best player on the team ?",
+        "a2": "the second best player is gomez.",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "the second @relation is gomez.",
+        "a2_v2": "the second best player is gomez.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "one of the best team that ever wins",
+        "a3": "for me, the second best player is luis suarez",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "for me, the second @relation is @object",
+        "a3_v2": "for me, the second best player is luis suarez",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ever banega"
+    },
+    {
+        "q4": "the worst is paco\u2026 alcacer another one of those valencia players that joined barcelona and faded to obscurity.",
+        "a4": "i agree with them, they have lowered the performance",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i agree with them, they have lowered the performance",
+        "a4_v2": "i agree with them, they have lowered the performance",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "paco alcacer"
+    },
+    {
+        "q5": "how is barcelona preparing for this season? ",
+        "a5": "they are very good for this season",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "they are very good for this season",
+        "a5_v2": "they are very good for this season",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "barcelona"
+    }
+]

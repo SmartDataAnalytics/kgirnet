@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "is it cloudy today",
+        "a1": "what city would you like to know if it is cloudy in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "cloudy"
+        ]
+    },
+    {
+        "q2": "i want to know about cleveland",
+        "a2": "it is foggy in cleveland today",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "foggy",
+        "input_ent2": "cleveland",
+        "kvr_entlist_qa2": [
+            "foggy",
+            "today",
+            "cleveland"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

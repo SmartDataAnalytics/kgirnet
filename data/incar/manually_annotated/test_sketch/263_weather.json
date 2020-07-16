@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "what s the weather forecast for today and tomorrow",
+        "a1": "in what city are you interested",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "los_angeles",
+        "a2": "in los_angeles it will rain today and be 40f - 60f tomorrow it will be warm and 60f - 80f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday,tuesday",
+        "obj2": "warm,60f,rain,40f,80f",
+        "input_ent2": "los_angeles",
+        "kvr_entlist_qa2": [
+            "tomorrow",
+            "warm",
+            "today",
+            "60f",
+            "los_angeles",
+            "80f",
+            "rain",
+            "40f"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "i want pizza",
+        "a1": "there is a pizza_chicago 3_miles away with heavy_traffic at 915_arbol_dr",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi,address",
+        "obj1": "pizza_chicago,915_arbol_dr",
+        "input_ent1": "pizza_restaurant",
+        "kvr_entlist_qa1": [
+            "heavy_traffic",
+            "pizza_chicago",
+            "915_arbol_dr",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "are they any other ones in the area with lighter traffic",
+        "a2": "unfortunately there aren t other options nearby but i can set an alternate route to not waste too much time in the traffic",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "that sounds great thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

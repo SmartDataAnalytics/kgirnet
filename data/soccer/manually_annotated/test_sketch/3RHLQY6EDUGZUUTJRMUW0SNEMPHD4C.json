@@ -1,0 +1,101 @@
+[
+    {
+        "q1": "do you support bayern munich in the bundesliga?",
+        "a1": "i am all for bayern munich!",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i am all for @entity",
+        "a1_v2": "i am all for bayern munich!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "who do you think is the best goal scorer in the team?",
+        "a2": "levandowski",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "levandowski",
+        "a2_v2": "levandowski",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "what is his goal average?",
+        "a3": "have more wins and bring more trophies home ",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "have more wins and bring more trophies home ",
+        "a3_v2": "have more wins and bring more trophies home ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "q: who scored aston villa\u2019s winning goal against bayern munich in the 1982 european cup final? a:peter wythe",
+        "a4": "peter wythe scored the winner vs bayern munich.",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "peter wythe scored the winner vs @entity",
+        "a4_v2": "peter wythe scored the winner vs bayern munich.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "who is going to be the central midfielder this year?",
+        "a5": "isn't the central midfielder this year javi mart\u00ednez?",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a5_skt": "isn't the central @relation this year javi mart\u00ednez?",
+        "a5_v2": "isn't the central midfielder this year javi mart\u00ednez?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "midfielder"
+    }
+]

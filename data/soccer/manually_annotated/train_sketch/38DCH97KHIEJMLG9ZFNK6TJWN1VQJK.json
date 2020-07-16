@@ -1,0 +1,139 @@
+[
+    {
+        "q1": "is team belium good?",
+        "a1": "yes belgium are good.",
+        "kgER1": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes @entity are good.",
+        "a1_v2": "yes belgium are good.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who is belgium's most famous player?",
+        "a2": "eden hazard is captain.",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object is @relation",
+        "a2_v2": "eden hazard is captain.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "belgium"
+    },
+    {
+        "q3": "i mean of all time. ",
+        "a3": "eden hazard, no. it's jean-marie pfaff",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object no. it's jean-marie pfaff",
+        "a3_v2": "eden hazard, no. it's jean-marie pfaff",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who else is popular on team belgium right now besides eden hazard ?",
+        "a4": "their goal keeper, thibaut courtois.",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "their @relation @object",
+        "a4_v2": "their goal keeper, thibaut courtois.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "eden hazard"
+    },
+    {
+        "q5": "courtois signed for madrid recently",
+        "a5": "courtois is an over-rated belgium goalkeeper.",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "courtois is an over-rated @entity @relation",
+        "a5_v2": "courtois is an over-rated belgium goalkeeper.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "thibaut courtois"
+    }
+]

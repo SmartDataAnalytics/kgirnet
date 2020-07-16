@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "what will the temperature be for the next_week",
+        "a1": "in what city do you need to hear the weather forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "durham",
+        "a2": "the weekly forecast for durham shows low temperatures in the 20f and 30f with high temperatures in the 80f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "30f,20f,80f",
+        "input_ent2": "durham",
+        "kvr_entlist_qa2": [
+            "30f",
+            "durham",
+            "20f",
+            "80f"
+        ]
+    },
+    {
+        "q3": "great thanks",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

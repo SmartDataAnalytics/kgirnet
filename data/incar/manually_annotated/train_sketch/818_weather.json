@@ -1,0 +1,26 @@
+[
+    {
+        "q1": "what is the weather report for saturday in manhattan",
+        "a1": "it will be foggy and between 20f - 30f on saturday in manhattan",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday,wednesday,thursday",
+        "obj1": "20f,30f,foggy",
+        "input_ent1": "manhattan",
+        "kvr_entlist_qa1": [
+            "20f",
+            "saturday",
+            "30f",
+            "foggy",
+            "manhattan"
+        ]
+    },
+    {
+        "q2": "thank you",
+        "a2": "anytime",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

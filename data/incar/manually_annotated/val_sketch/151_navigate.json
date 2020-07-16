@@ -1,0 +1,65 @@
+[
+    {
+        "q1": "find the nearest coffee shop",
+        "a1": "the nearest coffee shop is cafe_venetia on 269_alger_dr",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "cafe_venetia",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "cafe_venetia",
+            "269_alger_dr"
+        ]
+    },
+    {
+        "q2": "ok please direct me there via a route that avoids all heavy_traffic",
+        "a2": "there is a car collision reported on the route to cafe_venetia",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "cafe_venetia"
+        ]
+    },
+    {
+        "q3": "that is fine just give directions around the traffic",
+        "a3": "unfortunately there is a car_collision_nearby do you want me to set the gps anyway",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "cafe_venetia",
+        "kvr_entlist_qa3": [
+            "car_collision_nearby"
+        ]
+    },
+    {
+        "q4": "how far away is it",
+        "a4": "2_miles away",
+        "input_rel4": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel4": "distance",
+        "obj4": "2_miles",
+        "input_ent4": "cafe_venetia",
+        "kvr_entlist_qa4": [
+            "2_miles"
+        ]
+    },
+    {
+        "q5": "yes please direct me via the route with least traffic",
+        "a5": "ok setting navigation now",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    },
+    {
+        "q6": "thank you car assistant",
+        "a6": "you re very welcome",
+        "input_rel6": "",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "",
+        "kvr_entlist_qa6": []
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "please give me an address and directions via the fastest route to a local grocery_store",
+        "a1": "trader_joes grocery_store is 7_miles away at 408_university_ave there isn t any traffic",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel1": "address",
+        "obj1": "408_university_ave",
+        "input_ent1": "trader_joes",
+        "kvr_entlist_qa1": [
+            "7_miles",
+            "grocery_store",
+            "trader_joes",
+            "408_university_ave"
+        ]
+    },
+    {
+        "q2": "sounds perfect set the navigation for there thank you",
+        "a2": "navigation set happy to help",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is chelsea 's goalkeeper \\?",
+        "a1": "they just got a new goalkeeper , kepa arrizabalaga",
+        "kgER1": {
+            "goalkeeper": [
+                "position"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "they just got a new @relation , @object",
+        "a1_v2": "they just got a new goalkeeper , kepa arrizabalaga",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "goalkeeper"
+    },
+    {
+        "q2": "how good is arrizabalaga \\?",
+        "a2": "he is best in goalkeeper",
+        "kgER2": {
+            "goalkeeper": [
+                "position"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "he is best in @relation",
+        "a2_v2": "he is best in goalkeeper",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "kepa arrizabalaga"
+    },
+    {
+        "q3": "what club was arrizabalag at prior to chelsea \\?",
+        "a3": "athletic bilbao",
+        "kgER3": {
+            "goalkeeper": [
+                "position"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "athletic bilbao",
+        "a3_v2": "athletic bilbao",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "chelsea"
+    },
+    {
+        "q4": "who is number 10 of chelsea \\?",
+        "a4": "eden hazard",
+        "kgER4": {
+            "goalkeeper": [
+                "position"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "eden hazard",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "chelsea"
+    },
+    {
+        "q5": "which position does he play currently \\?",
+        "a5": "he 's their foward",
+        "kgER5": {
+            "goalkeeper": [
+                "position"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "he 's their @relation",
+        "a5_v2": "he 's their position",
+        "corr_rel5": "position",
+        "obj5": "forward",
+        "input_ent5": "eden hazard"
+    }
+]

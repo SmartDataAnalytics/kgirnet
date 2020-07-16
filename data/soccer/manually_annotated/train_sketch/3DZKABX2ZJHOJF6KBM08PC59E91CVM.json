@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "how many times did spain win the world cup?",
+        "a1": "spain have won the world cup once, in 2010.",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity have won the world cup once, in @object",
+        "a1_v2": "@entity have won the world cup once, in @number_of_world_cup_champion",
+        "corr_rel1": "world cup champions",
+        "obj1": "2010",
+        "input_ent1": "spain"
+    },
+    {
+        "q2": "does spain often make the quarter-finals?",
+        "a2": "spain has reached the quarter finals 4 times. 1934, 1986, 1994 and 2002. thats only 4 times out of 21 world cups.",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity has reached the quarter finals @object times. 193@object, @object 199@object and @object thats only @object times out of @object world cups.",
+        "a2_v2": "spain has reached the quarter finals 4 times. 1934, 1986, 1994 and 2002. thats only 4 times out of 21 world cups.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "spain"
+    },
+    {
+        "q3": "who is spain's coach now?",
+        "a3": "spain's coach is luis enrique, a former barcelona coach.",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "spain's @relation is @object a former @entity @relation.",
+        "a3_v2": "spain's coach is @coach a former @entity coach.",
+        "corr_rel3": "coach",
+        "obj3": "luis enrique",
+        "input_ent3": "spain"
+    },
+    {
+        "q4": "is he a competent coach ?",
+        "a4": "spain is doing alright so i would say yes.",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity is doing alright so i would say yes.",
+        "a4_v2": "spain is doing alright so i would say yes.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "leadership skills",
+        "a5": "spain players are good in leadership skills",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity players are good in leadership skills",
+        "a5_v2": "spain players are good in leadership skills",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

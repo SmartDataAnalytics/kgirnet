@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "how has atletico madrid been doing with their last few games?",
+        "a1": "not too well, they've been losing all their games recently.",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "not too well, they've been losing all their games recently.",
+        "a1_v2": "not too well, they've been losing all their games recently.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "maybe madrid needs a new coach.",
+        "a2": "they definitely do. ",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they definitely do. ",
+        "a2_v2": "they definitely do. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "who do you think they should hire? ",
+        "a3": "i think they should contact zidane",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think they should contact zidane",
+        "a3_v2": "i think they should contact zidane",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "does zidane have experience as a coach?",
+        "a4": "zidane was last season coach of real madrid ",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "zidane was last season @relation of @entity ",
+        "a4_v2": "zidane was last season coach of real madrid ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "zinedine zidane"
+    },
+    {
+        "q5": "would zidane doe well as coach of atletico?",
+        "a5": "of course, he's had a lot of success in limited time as a coach",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "of course, he's had a lot of success in limited time as a @relation",
+        "a5_v2": "of course, he's had a lot of success in limited time as a coach",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "atletico madrid"
+    }
+]

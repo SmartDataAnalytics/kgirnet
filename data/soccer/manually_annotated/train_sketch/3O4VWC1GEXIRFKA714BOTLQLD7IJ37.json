@@ -1,0 +1,78 @@
+[
+    {
+        "q1": "what year was the ac milan soccer club founded \\?",
+        "a1": "the club was founded in 1899",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "the club was @relation in @object",
+        "a1_v2": "the club was founded on in @founded_on",
+        "corr_rel1": "founded on",
+        "obj1": "1899",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "what was ac milans final position for season 2016 2017 in serie a \\?",
+        "a2": "6th",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "6th",
+        "a2_v2": "6th",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "is that better or worse than they did the previous season \\?",
+        "a3": "ac milan improved their placement from 2015 2016 by six points , going from 7th place to 6th place",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "ac milan improved their placement from 2015 2016 by six points , going from 7th place to 6th place",
+        "a3_v2": "ac milan improved their placement from 2015 2016 by six points , going from 7th place to 6th place",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "do you think they will ever return to the success they had under ancelotti \\?",
+        "a4": "i dearly hope they does",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i dearly hope they does",
+        "a4_v2": "i dearly hope they does",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ever banega"
+    }
+]

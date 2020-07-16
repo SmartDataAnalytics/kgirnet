@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i love the team ac milan",
+        "a1": "real madrid",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity",
+        "a1_v2": "real madrid",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "no i was talking about ac milan",
+        "a2": "how many times have ac milan won the champions league?",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "how many times have ac milan won the champions league?",
+        "a2_v2": "how many times have ac milan won the champions league?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "8 champions league takes the ac milan",
+        "a3": "ac milan have 7 champions league wins.",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "ac milan have @object champions league wins.",
+        "a3_v2": "ac milan have 7 champions league wins.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ac milan"
+    },
+    {
+        "q4": "is ac milan competing in the champions league during the 2018-2019 season?",
+        "a4": "no because they finished sixth in the league. ",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "no because they finished sixth in the league. ",
+        "a4_v2": "no because they finished sixth in the league. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "who is ac milan captain?",
+        "a5": "alessio romagnoli is the current captain.",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is the current @relation",
+        "a5_v2": "alessio romagnoli is the current captain.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ac milan"
+    }
+]

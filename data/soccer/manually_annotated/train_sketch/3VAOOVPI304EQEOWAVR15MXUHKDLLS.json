@@ -1,0 +1,130 @@
+[
+    {
+        "q1": "who\u2019s psg top scorer",
+        "a1": "edinson cavani is psg's top scorer.",
+        "kgER1": {
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "@object is psg's top scorer.",
+        "a1_v2": "edinson cavani is psg's top scorer.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "vvery good team",
+        "a2": "might win champs lg",
+        "kgER2": {
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "might win @relation lg",
+        "a2_v2": "might win champs lg",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "can psg keep him?",
+        "a3": "aslong as they have money in the bank they can keep anyone they want.",
+        "kgER3": {
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "aslong as they have money in the bank they can keep anyone they want.",
+        "a3_v2": "aslong as they have money in the bank they can keep anyone they want.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    },
+    {
+        "q4": "is edinson cavani at the top of his game?",
+        "a4": "yes i\u2019d say he\u2019s in his prime",
+        "kgER4": {
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "edinson cavani": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes i\u2019d say he\u2019s in his prime",
+        "a4_v2": "yes i\u2019d say he\u2019s in his prime",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "edinson cavani"
+    },
+    {
+        "q5": "how long has paris sg have been playing for?",
+        "a5": "more than 45 years.",
+        "kgER5": {
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "edinson cavani": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "more than @object years.",
+        "a5_v2": "more than 45 years.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "paris sg"
+    }
+]

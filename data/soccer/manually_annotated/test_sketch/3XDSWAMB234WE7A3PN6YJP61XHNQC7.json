@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "will portugal ever win the fifa world cup?",
+        "a1": "eventually",
+        "kgER1": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "eventually",
+        "a1_v2": "eventually",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "portugal"
+    },
+    {
+        "q2": "has portugal even ever made it to a final?",
+        "a2": "no. they reached the semis in 1966 and 2006.",
+        "kgER2": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no. they reached the semis in @object and @object",
+        "a2_v2": "no. they reached the semis in @world_cup_third_place and @world_cup_third_place",
+        "corr_rel2": "world cup third place",
+        "obj2": "1966",
+        "input_ent2": "portugal"
+    },
+    {
+        "q3": "i arrive at the end of the euro and i am champion",
+        "a3": "what does the end of the euro have to do with portugal football?",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "what does the end of the euro have to do with @entity football?",
+        "a3_v2": "what does the end of the euro have to do with portugal football?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "white and red"
+    },
+    {
+        "q4": "what does portugal need in order to succeed in the world cup?",
+        "a4": "they need better youth players",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they need better youth players",
+        "a4_v2": "they need better youth players",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "portugal"
+    },
+    {
+        "q5": "does portugal have any young stars coming up?",
+        "a5": "not that i'm aware of any.",
+        "kgER5": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "not that i'm aware of any.",
+        "a5_v2": "not that i'm aware of any.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "portugal"
+    }
+]

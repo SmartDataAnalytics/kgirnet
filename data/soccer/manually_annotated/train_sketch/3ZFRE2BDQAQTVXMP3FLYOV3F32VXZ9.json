@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who is liverpools top scorer this year?",
+        "a1": "very good team",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "salah",
+        "a2": "will liverpool win the league ",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "will @entity win the league ",
+        "a2_v2": "will liverpool win the league ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "mohamed salah"
+    },
+    {
+        "q3": "i doubt it, man u is tough",
+        "a3": "i think liverpool will be champion this season ",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think @entity will be champion this season ",
+        "a3_v2": "i think liverpool will be champion this season ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "did you watch liverpool's first game this season?",
+        "a4": "if for me they played it very well",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "if for me they played it very well",
+        "a4_v2": "if for me they played it very well",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    },
+    {
+        "q5": "what color is liverpool's uniforms?",
+        "a5": "red and black.",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object and black.",
+        "a5_v2": "red and black.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

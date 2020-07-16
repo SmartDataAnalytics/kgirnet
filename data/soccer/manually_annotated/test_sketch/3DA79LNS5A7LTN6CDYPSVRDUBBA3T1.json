@@ -1,0 +1,65 @@
+[
+    {
+        "q1": "i really like this team",
+        "a1": "yes,defenately me too.",
+        "kgER1": {},
+        "a1_skt": "yes,defenately me too.",
+        "a1_v2": "yes,defenately me too.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "which team are you support? i like all the team",
+        "a2": "how can you like all of them? you must have a favorite. ",
+        "kgER2": {},
+        "a2_skt": "how can you like all of them? you must have a favorite. ",
+        "a2_v2": "how can you like all of them? you must have a favorite. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "which do you \"really\" like exactly?",
+        "a3": "i like ice cream with peanuts and whipped cream.",
+        "kgER3": {},
+        "a3_skt": "i like ice cream with peanuts and whipped cream.",
+        "a3_v2": "i like ice cream with peanuts and whipped cream.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "who do you want to win the european cup 2020?",
+        "a4": "i'd like to see croatia win since they came so close in the world cup and it would mean a lot to the fans. ",
+        "kgER4": {},
+        "a4_skt": "i'd like to see @entity win since they came so close in the world cup and it would mean a lot to the fans. ",
+        "a4_v2": "i'd like to see croatia win since they came so close in the world cup and it would mean a lot to the fans. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "how long has croatia had an organized team?",
+        "a5": "about 15 years but really pulled it together in the last 5",
+        "kgER5": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "about @object years but really pulled it together in the last @object",
+        "a5_v2": "about 15 years but really pulled it together in the last 5",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "croatia"
+    }
+]

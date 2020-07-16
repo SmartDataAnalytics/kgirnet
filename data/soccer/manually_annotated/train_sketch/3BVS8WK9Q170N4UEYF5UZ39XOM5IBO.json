@@ -1,0 +1,120 @@
+[
+    {
+        "q1": "when running should a person always run with a ball at their feet \\?",
+        "a1": "he also has to look around the surroundings",
+        "kgER1": {},
+        "a1_skt": "he also has to look around the surroundings",
+        "a1_v2": "he also has to look around the surroundings",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "should croatians always run with a ball at their feet \\?",
+        "a2": "depends if they are playing football , if so yes , to score goals and to win !",
+        "kgER2": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "depends if they are playing football , if so yes , to score @relation and to win !",
+        "a2_v2": "depends if they are playing football , if so yes , to score goals and to win !",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how many good players does croatia have \\?",
+        "a3": "q1 what is the native name for croatia \\? a1 hrvatska",
+        "kgER3": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "q1 what is the native name for @entity \\? a1 hrvatska",
+        "a3_v2": "q1 what is the native name for croatia \\? a1 hrvatska",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "croatia"
+    },
+    {
+        "q4": "does croatia have players playing in famous teams like real madrid or manchester \\?",
+        "a4": "yes , luka modric",
+        "kgER4": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "yes , @object",
+        "a4_v2": "yes , luka modric",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "any other players \\?",
+        "a5": "luka modric",
+        "kgER5": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "luka modric",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

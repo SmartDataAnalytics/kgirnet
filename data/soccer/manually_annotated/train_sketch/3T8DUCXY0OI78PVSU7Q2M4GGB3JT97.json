@@ -1,0 +1,195 @@
+[
+    {
+        "q1": "did kevin keegan ever play for liverpool?",
+        "a1": "yes.  from 1971 to 1977",
+        "kgER1": {
+            "kevin mirallas": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes.  from 1971 to @object",
+        "a1_v2": "yes.  from 1971 to 1977",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "didn't he go to hamburger sv after that?",
+        "a2": "did kevin keegan ever play for liverpool? yes. from 1971 to 1977",
+        "kgER2": {
+            "kevin mirallas": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "did kevin keegan ever play for @entity yes. from 1971 to @object",
+        "a2_v2": "did kevin keegan ever play for liverpool? yes. from 1971 to 1977",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "yes. from 1971 to 1977 he played listed matches and was named one of the best",
+        "a3": "tes one of the best if not the best at the time.",
+        "kgER3": {
+            "kevin mirallas": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "tes one of the best if not the best at the time.",
+        "a3_v2": "tes one of the best if not the best at the time.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "white and red"
+    },
+    {
+        "q4": "it was one of the best in those moments of 1971",
+        "a4": "kevin keegan is a very good player ",
+        "kgER4": {
+            "kevin mirallas": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "kevin keegan is a very good player ",
+        "a4_v2": "kevin keegan is a very good player ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "is keegan a defender or striker?",
+        "a5": "striker!",
+        "kgER5": {
+            "kevin mirallas": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a5_skt": "striker!",
+        "a5_v2": "striker!",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "defender"
+    }
+]

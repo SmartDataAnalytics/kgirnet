@@ -1,0 +1,128 @@
+[
+    {
+        "q1": "who's the youngest player on the team? ",
+        "a1": "i'm not sure but is it hern\u00e2ni jorge santos fortes, maybe?",
+        "kgER1": {},
+        "a1_skt": "i'm not sure but is it hern\u00e2ni jorge santos fortes, maybe?",
+        "a1_v2": "i'm not sure but is it hern\u00e2ni jorge santos fortes, maybe?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "kadu, their goalkeeper is only 16 years old\u00b0",
+        "a2": "that is correct i agree with it",
+        "kgER2": {
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a2_skt": "that is correct i agree with it",
+        "a2_v2": "that is correct i agree with it",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "goalkeeper"
+    },
+    {
+        "q3": "i think ruben neves is the youngest player who has had the porto and was born in 1997",
+        "a3": "fc. porto flag is what color ? ",
+        "kgER3": {
+            "goalkeeper": [
+                "position"
+            ],
+            "ruben neves": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "fc. porto flag is what color ? ",
+        "a3_v2": "fc. porto flag is what color ? ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ruben neves"
+    },
+    {
+        "q4": "will fc. porto win next time they play against italy?",
+        "a4": "f.c porto is a club and italy is a team ",
+        "kgER4": {
+            "goalkeeper": [
+                "position"
+            ],
+            "ruben neves": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "f.c porto is a club and @entity is a team ",
+        "a4_v2": "f.c porto is a club and italy is a team ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "italy"
+    },
+    {
+        "q5": "did any current fc porto players play on the portuguese team in the 2018 world cup?",
+        "a5": "no they didn't .",
+        "kgER5": {
+            "goalkeeper": [
+                "position"
+            ],
+            "ruben neves": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a5_skt": "no they didn't .",
+        "a5_v2": "no they didn't .",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "2018"
+    }
+]

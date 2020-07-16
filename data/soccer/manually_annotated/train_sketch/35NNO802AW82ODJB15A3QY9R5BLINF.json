@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i love liverpool",
+        "a1": "liverpool is a good soccer team. they won 4-0 today.",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity is a good soccer team. they won @object today.",
+        "a1_v2": "liverpool is a good soccer team. they won 4-0 today.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "have you ever been to one of their matches in person?",
+        "a2": "no but i hope one day i will",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "no but i hope one day i will",
+        "a2_v2": "no but i hope one day i will",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ever banega"
+    },
+    {
+        "q3": "would you like to sit in the kop one day?",
+        "a3": "i'd rather stand. yes just for the experience.",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i'd rather stand. yes just for the experience.",
+        "a3_v2": "i'd rather stand. yes just for the experience.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "used to be so good.",
+        "a4": "i do not agree with that, it seems to me that liverpool is a great team",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i do not agree with that, it seems to me that @entity is a great team",
+        "a4_v2": "i do not agree with that, it seems to me that liverpool is a great team",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what is the left side of liverpool called? ",
+        "a5": "i am not sure, what is it called?",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i am not sure, what is it called?",
+        "a5_v2": "i am not sure, what is it called?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

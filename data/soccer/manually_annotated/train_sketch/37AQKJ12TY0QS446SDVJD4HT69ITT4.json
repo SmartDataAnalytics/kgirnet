@@ -1,0 +1,52 @@
+[
+    {
+        "q1": "who was the manager of porto when they last won the champions league?",
+        "a1": "fc porto did not win any ucl",
+        "kgER1": {},
+        "a1_skt": "fc porto did not win any ucl",
+        "a1_v2": "fc porto did not win any ucl",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "how good is fc porto?",
+        "a2": "they're not the best in europe but they're not bad ",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they're not the best in europe but they're not bad ",
+        "a2_v2": "they're not the best in europe but they're not bad ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "fc. porto"
+    },
+    {
+        "q3": "who are their main rivals? ",
+        "a3": "in my opinion it is a big rivalry with benfica. ",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a3_skt": "in my opinion it is a big rivalry with benfica. ",
+        "a3_v2": "in my opinion it is a big rivalry with benfica. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    }
+]

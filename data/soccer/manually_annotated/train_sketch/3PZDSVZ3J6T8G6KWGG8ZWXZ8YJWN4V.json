@@ -1,0 +1,121 @@
+[
+    {
+        "q1": "who's your favorite arsenal team?",
+        "a1": "my favorite player? i'm not sure. they've got a great team overall",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "my favorite player? i'm not sure. they've got a great team overall",
+        "a1_v2": "my favorite player? i'm not sure. they've got a great team overall",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "i'm not sure about arsenal's goalie, though.",
+        "a2": "their goalies from previous years were definitely better options.",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "their @relation from previous years were definitely better options.",
+        "a2_v2": "their goalies from previous years were definitely better options.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "arsenal"
+    },
+    {
+        "q3": "yes david ospina was approached by boca juniors i think but he decided to stay with arsenal.",
+        "a3": "yeah i don't blame him",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "david ospina": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a3_skt": "yeah i don't blame him",
+        "a3_v2": "yeah i don't blame him",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "david ospina"
+    },
+    {
+        "q4": "what do you think about torreira to arsenal? ",
+        "a4": "i don't think that would work.",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "david ospina": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a4_skt": "i don't think that would work.",
+        "a4_v2": "i don't think that would work.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "arsenal"
+    },
+    {
+        "q5": "who is the youngest on arsenal?",
+        "a5": "matt\u00e9o guendouzi",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "david ospina": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "matt\u00e9o guendouzi",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "arsenal"
+    }
+]

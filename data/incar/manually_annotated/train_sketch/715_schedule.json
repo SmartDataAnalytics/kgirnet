@@ -1,0 +1,50 @@
+[
+    {
+        "q1": "where is my meeting which parties will be attending and what is the meeting about",
+        "a1": "your meeting with the infrastructure_team in in conference_room_50 to go over the quarterly report",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "room,party",
+        "obj1": "infrastructure_team,conference_room_50",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "meeting",
+            "infrastructure_team",
+            "conference_room_50"
+        ]
+    },
+    {
+        "q2": "please set a reminder for this thank you",
+        "a2": "currently you have three meeting schedules the first is in conference_room_50 with the infrastructure_team about the quarterly report the next is in conference_room_102 with hr about signing the nda and the last is in conference_room_100 with the executive_team about signing the nda as well",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "hr",
+            "infrastructure_team",
+            "executive_team",
+            "conference_room_102",
+            "conference_room_100",
+            "meeting",
+            "conference_room_50"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "do you need to add any additional reminders",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "no that s all",
+        "a4": "very well goodbye",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

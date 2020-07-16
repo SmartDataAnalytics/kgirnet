@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "no , i prefer iceland 's team",
+        "a1": "iceland are doing unexpectedly well",
+        "kgER1": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity are doing unexpectedly well",
+        "a1_v2": "iceland are doing unexpectedly well",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "iceland"
+    },
+    {
+        "q2": "work hard together",
+        "a2": "who should work hard together \\?",
+        "kgER2": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "who should work hard together \\?",
+        "a2_v2": "who should work hard together \\?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "which is the best icelandic player \\?",
+        "a3": "what about iceland \\?",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "what about @entity \\?",
+        "a3_v2": "what about iceland \\?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "will iceland qualify for euro 2020 \\?",
+        "a4": "they did this year , so i hope so",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they did this year , so i hope so",
+        "a4_v2": "they did this year , so i hope so",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "iceland"
+    },
+    {
+        "q5": "who is iceland 's goalie \\?",
+        "a5": "their goalie is hannes thor halldorsson",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "their goalie is @object",
+        "a5_v2": "their goalie is @goalkeeper",
+        "corr_rel5": "goalkeeper",
+        "obj5": "hannes thor halldorsson",
+        "input_ent5": "iceland"
+    }
+]

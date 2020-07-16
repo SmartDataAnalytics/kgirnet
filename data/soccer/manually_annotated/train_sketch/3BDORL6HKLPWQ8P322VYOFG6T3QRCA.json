@@ -1,0 +1,103 @@
+[
+    {
+        "q1": "i love the team bvb dortmund",
+        "a1": "dortmund has a good coach",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "dortmund has a good @relation",
+        "a1_v2": "dortmund has a good coach",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "who is their coach \\?",
+        "a2": "lucian favre is dortmund 's coach",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "lucian favre is dortmund 's @relation",
+        "a2_v2": "lucian favre is dortmund 's coach",
+        "corr_rel2": "coach",
+        "obj2": "lucien favre",
+        "input_ent2": "bvb dortmund"
+    },
+    {
+        "q3": "if it 's lusian faver the bvb trainer",
+        "a3": "so who were their previous coaches \\?",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "so who were their previous @relation \\?",
+        "a3_v2": "so who were their previous coaches \\?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "lucien favre \\?",
+        "a4": "yes , that 's why bvb dortmund is a good team",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "lucien favre": [
+                "coach"
+            ]
+        },
+        "a4_skt": "yes , that 's why bvb dortmund is a good team",
+        "a4_v2": "yes , that 's why bvb dortmund is a good team",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "lucien favre"
+    },
+    {
+        "q5": "what makes lucian favre such a good coach \\?",
+        "a5": "his tactics and of course his beautiful name",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "lucien favre": [
+                "coach"
+            ]
+        },
+        "a5_skt": "his tactics and of course his beautiful name",
+        "a5_v2": "his tactics and of course his beautiful name",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "lucien favre"
+    }
+]

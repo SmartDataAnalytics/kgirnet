@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "give me a quick route to a pizza_restaurant within 5_miles of here",
+        "a1": "there is dominos it s 2_miles away and with no_traffic on our way",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "dominos",
+        "input_ent1": "pizza_restaurant",
+        "kvr_entlist_qa1": [
+            "dominos",
+            "2_miles",
+            "no_traffic"
+        ]
+    },
+    {
+        "q2": "where is domino s at",
+        "a2": "dominos is located at 776_arastradero_rd setting navigation now",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "776_arastradero_rd",
+        "input_ent2": "dominos",
+        "kvr_entlist_qa2": [
+            "776_arastradero_rd",
+            "dominos"
+        ]
+    },
+    {
+        "q3": "yes please pick a quick route and send it on my screen",
+        "a3": "showing you the quickest route to dominos",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel3": "none",
+        "obj3": "none",
+        "input_ent3": "dominos",
+        "kvr_entlist_qa3": [
+            "dominos"
+        ]
+    },
+    {
+        "q4": "ok sounds good thank you car assistant",
+        "a4": "no problem",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

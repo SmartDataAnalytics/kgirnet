@@ -1,0 +1,149 @@
+[
+    {
+        "q1": "how far did belgium get in the 2018 world cup?",
+        "a1": "belgium reached the semi-finals in the 2018 world cup. ",
+        "kgER1": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "@entity reached the semi-finals in the @object world cup. ",
+        "a1_v2": "@entity reached the semi-finals in the @number_of_world_cup_champion world cup. ",
+        "corr_rel1": "world cup third place",
+        "obj1": "2018",
+        "input_ent1": "belgium"
+    },
+    {
+        "q2": "do they have squad for win the euro cup?",
+        "a2": "no, they will not win but they might make quarter finals ",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "no, they will not win but they might make quarter finals ",
+        "a2_v2": "no, they will not win but they might make quarter finals ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "what makes you think they wont win?",
+        "a3": "i think that they will win",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "i think that they will win",
+        "a3_v2": "i think that they will win",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who is the richest kevin de bruyne or eden hazard?",
+        "a4": " kevin de bruyne",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "kevin de bruyne": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a4_skt": " @object",
+        "a4_v2": " kevin de bruyne",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "kevin de bruyne"
+    }
+]

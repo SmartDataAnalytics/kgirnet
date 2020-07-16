@@ -1,0 +1,56 @@
+[
+    {
+        "q1": "where is a parking_garage without heavy_traffic",
+        "a1": "there is stanford_oval_parking 6_miles avoid with moderate_traffic on its direction",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "stanford_oval_parking",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "moderate_traffic",
+            "6_miles",
+            "stanford_oval_parking"
+        ]
+    },
+    {
+        "q2": "that s great please send me the directions on my map",
+        "a2": "displaying directions on your map",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "thanks what is the address",
+        "a3": "stanford_oval_parking is at 610_amarillo_ave",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "610_amarillo_ave",
+        "input_ent3": "stanford_oval_parking",
+        "kvr_entlist_qa3": [
+            "610_amarillo_ave",
+            "stanford_oval_parking"
+        ]
+    },
+    {
+        "q4": "please pick a route to avoid all heavy_traffic and let s go there thanks",
+        "a4": "maping route to stanford_oval_parking",
+        "input_rel4": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel4": "poi",
+        "obj4": "stanford_oval_parking",
+        "input_ent4": "parking_garage",
+        "kvr_entlist_qa4": [
+            "stanford_oval_parking"
+        ]
+    },
+    {
+        "q5": "thank you car",
+        "a5": "you re welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

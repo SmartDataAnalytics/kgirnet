@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "what is the weather like in the city",
+        "a1": "what city are you inquiring about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i am in durham",
+        "a2": "what would you like to know about the weather in durham",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "durham"
+        ]
+    },
+    {
+        "q3": "will there be a blizzard",
+        "a3": "the weekly forecast does not show that there will be a blizzard in durham this week",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "durham",
+            "blizzard",
+            "week"
+        ]
+    },
+    {
+        "q4": "thanks",
+        "a4": "not a problem",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

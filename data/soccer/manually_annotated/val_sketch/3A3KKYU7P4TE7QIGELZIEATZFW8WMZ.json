@@ -1,0 +1,111 @@
+[
+    {
+        "q1": "i have a lot of confidence in this team",
+        "a1": "who is the manchester united team captain?",
+        "kgER1": {},
+        "a1_skt": "who is the @entity team @relation",
+        "a1_v2": "who is the manchester united team captain?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "antonio valencia is the current captain.",
+        "a2": "yes, i totally agree i have a lot of confidence in this team",
+        "kgER2": {
+            "antonio valencia": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "yes, i totally agree i have a lot of confidence in this team",
+        "a2_v2": "yes, i totally agree i have a lot of confidence in this team",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "antonio valencia"
+    },
+    {
+        "q3": "why are you so confident?",
+        "a3": "their record in competition is second to none.",
+        "kgER3": {
+            "antonio valencia": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "their record in competition is second to none.",
+        "a3_v2": "their record in competition is second to none.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "manchester united ",
+        "a4": "yes, his record is incredible",
+        "kgER4": {
+            "antonio valencia": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "yes, his record is incredible",
+        "a4_v2": "yes, his record is incredible",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "is man u's player that incredible?",
+        "a5": "what is his record?",
+        "kgER5": {
+            "antonio valencia": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "what is his record?",
+        "a5_v2": "what is his record?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

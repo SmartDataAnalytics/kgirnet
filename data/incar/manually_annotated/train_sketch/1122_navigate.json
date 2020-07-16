@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "where is the nearest hotel",
+        "a1": "there is no hotel located locally",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "where is the closest and fastest route to a rest_stop",
+        "a2": "there is no_traffic to the_westin that is 4_miles away the address is 329_el_camino_real",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "address,poi",
+        "obj2": "329_el_camino_real,the_westin",
+        "input_ent2": "rest_stop",
+        "kvr_entlist_qa2": [
+            "no_traffic",
+            "329_el_camino_real",
+            "4_miles",
+            "the_westin"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "what colour do brazil play in? ",
+        "a1": "yellow and green are their main colors. ",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object and green are their main colors. ",
+        "a1_v2": "yellow and green are their main colors. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "is there more yellow or more green in the uniforms  ",
+        "a2": "their main color is yellow with green accents. ",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "their main color is @object with green accents. ",
+        "a2_v2": "their main color is yellow with green accents. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "yellow"
+    },
+    {
+        "q3": "why are brazil always good",
+        "a3": "brazil has a deep history of good soccer and support for the team. ",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "@entity has a deep history of good soccer and support for the team. ",
+        "a3_v2": "brazil has a deep history of good soccer and support for the team. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "brazil"
+    },
+    {
+        "q4": "brazil are beautiful to watch",
+        "a4": "beautiful ",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "beautiful ",
+        "a4_v2": "beautiful ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "brazil"
+    },
+    {
+        "q5": "they are very elegant players ",
+        "a5": "agreed - they train hard to make it look so easy.",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "agreed - they train hard to make it look so easy.",
+        "a5_v2": "agreed - they train hard to make it look so easy.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

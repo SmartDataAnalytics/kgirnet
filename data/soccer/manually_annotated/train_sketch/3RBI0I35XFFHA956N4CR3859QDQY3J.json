@@ -1,0 +1,115 @@
+[
+    {
+        "q1": "who is the actual mu head coach?",
+        "a1": "the head coach is jos\u00e9 mourinho",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "the head @relation is @object",
+        "a1_v2": "the head coach is @coach",
+        "corr_rel1": "coach",
+        "obj1": "jose mourinho",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "do you think manchester united is the best team in the premier league?",
+        "a2": "probably, yes",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "probably, yes",
+        "a2_v2": "probably, yes",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "manchester united"
+    },
+    {
+        "q3": "how many tiles did jose mourinho has acquired ?",
+        "a3": "8 leagues, 13 cups, 2 ucl, and 2 uel",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "jose mourinho": [
+                "coach"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "@object leagues, @object cups, @object ucl, and @object uel",
+        "a3_v2": "8 leagues, 13 cups, 2 ucl, and 2 uel",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "jose mourinho"
+    },
+    {
+        "q4": "yes i know that manchester united is a great team and it is very likely that the premier league will win",
+        "a4": "how did they do last year?",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "jose mourinho": [
+                "coach"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "how did they do last year?",
+        "a4_v2": "how did they do last year?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "they came in 2nd in the premier league.",
+        "a5": "will they play in the next season?",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "jose mourinho": [
+                "coach"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "will they play in the next season?",
+        "a5_v2": "will they play in the next season?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "q1": "after a game do you run to cool down or take an ice bath?",
+        "a1": "it's better to do a cool down and stretching and then do an ice bath if they're sore spots",
+        "kgER1": {},
+        "a1_skt": "it's better to do a cool down and stretching and then do an ice bath if they're sore spots",
+        "a1_v2": "it's better to do a cool down and stretching and then do an ice bath if they're sore spots",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "what does the cold do?",
+        "a2": "relax your muscles.",
+        "kgER2": {},
+        "a2_skt": "relax your muscles.",
+        "a2_v2": "relax your muscles.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "do milan players often take ice baths?",
+        "a3": "yes because they need to relax on these losing games",
+        "kgER3": {},
+        "a3_skt": "yes because they need to relax on these losing games",
+        "a3_v2": "yes because they need to relax on these losing games",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ac milan"
+    },
+    {
+        "q4": "speaking of ice baths, any current injuries for ac milan?",
+        "a4": "andrea conti",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "andrea conti",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ac milan"
+    }
+]

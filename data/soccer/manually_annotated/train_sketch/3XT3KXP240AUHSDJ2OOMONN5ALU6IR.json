@@ -1,0 +1,78 @@
+[
+    {
+        "q1": "when was the bayern munich team created \\?",
+        "a1": "they were founded on february 27th , 1900",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they were @relation on february 27th , @object",
+        "a1_v2": "they were founded on february 27th , 1900",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "what is the capacity of their stadium \\?",
+        "a2": "they currently play at allianz arena , which holds 75 , 000 people",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they currently play at @object , which holds @object , 000 people",
+        "a2_v2": "they currently play at @ground , which holds @ground , 000 people",
+        "corr_rel2": "capacity",
+        "obj2": "75,000",
+        "input_ent2": "allianz arena"
+    },
+    {
+        "q3": "how many years will bayern dominate the budesliga \\?",
+        "a3": "i think for a very long time",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think for a very long time",
+        "a3_v2": "i think for a very long time",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "what 's their record for longest winning streak \\?",
+        "a4": "best start to the season in the bundesliga 10 consecutive wins",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "best start to the season in the bundesliga @object consecutive wins",
+        "a4_v2": "best start to the season in the bundesliga 10 consecutive wins",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    }
+]

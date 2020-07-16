@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "what do you think about spain's world cup performance?",
+        "a1": "chelsea.",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity",
+        "a1_v2": "chelsea.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "spain"
+    },
+    {
+        "q2": "spain struggled in the group stage and just won 1 out of 3 matches but were still able to win the group.",
+        "a2": "his performance was too low",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "his performance was too low",
+        "a2_v2": "his performance was too low",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "spain"
+    },
+    {
+        "q3": "spain were poor in the group stage and were lucky to win the group.",
+        "a3": "spain had a terrible cup. they are in dire need of a striker. ",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity had a terrible cup. they are in dire need of a striker. ",
+        "a3_v2": "spain had a terrible cup. they are in dire need of a striker. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "spain"
+    },
+    {
+        "q4": "you think firing coach affected them?",
+        "a4": "of course it affects the technician and his workouts ",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "of course it affects the technician and his workouts ",
+        "a4_v2": "of course it affects the technician and his workouts ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "if they were affected by the technician's exit",
+        "a5": "they haven't had the same performance since firing the coach.",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they haven't had the same performance since firing the @relation",
+        "a5_v2": "they haven't had the same performance since firing the coach.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

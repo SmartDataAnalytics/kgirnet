@@ -1,0 +1,123 @@
+[
+    {
+        "q1": "are senegal a good team?",
+        "a1": "they aren't the best team",
+        "kgER1": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they aren't the best team",
+        "a1_v2": "they aren't the best team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "senegal"
+    },
+    {
+        "q2": "were they in the last world cup?",
+        "a2": "when it was the last game that senegal won?",
+        "kgER2": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "when it was the last game that @entity won?",
+        "a2_v2": "when it was the last game that senegal won?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "not sure but i think they won a game in the world cup",
+        "a3": "senegal wins one game in the world cup and tie other one",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity wins one game in the world cup and tie other one",
+        "a3_v2": "senegal wins one game in the world cup and tie other one",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "senegal are a strong team",
+        "a4": "yes but not a dominant one",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes but not a dominant one",
+        "a4_v2": "yes but not a dominant one",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "senegal"
+    },
+    {
+        "q5": "sadio mane plays in senegal? ",
+        "a5": "yes, he's a winger.",
+        "kgER5": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "sadio mane": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes, he's a winger.",
+        "a5_v2": "yes, he's a winger.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "sadio mane"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "q1": "can you find me a shopping_center",
+        "a1": "i have two listings for shopping_centers which would you like",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "shopping_center",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "the one i could get to the fastest",
+        "a2": "ravenswood_shopping_center is the quickest at 3_miles with no_traffic it s located at 434_arastradero_rd",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel2": "poi,distance",
+        "obj2": "ravenswood_shopping_center,3_miles",
+        "input_ent2": "shopping_center",
+        "kvr_entlist_qa2": [
+            "no_traffic",
+            "3_miles",
+            "434_arastradero_rd",
+            "ravenswood_shopping_center"
+        ]
+    },
+    {
+        "q3": "please pick a route to avoid all heavy_traffic and let s go there thank you",
+        "a3": "i sent on your screen the best available route drive carefully",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thanks",
+        "a4": "you re very welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

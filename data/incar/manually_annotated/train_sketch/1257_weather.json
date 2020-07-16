@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what will the weather be like in the city",
+        "a1": "in what city would you like the weather information for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i d like to know if the weather will be hot in san_jose during the next_week",
+        "a2": "the temperature in san_jose will reach a high of 100f on sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "sunday",
+        "obj2": "100f",
+        "input_ent2": "san_jose",
+        "kvr_entlist_qa2": [
+            "sunday",
+            "100f",
+            "san_jose"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

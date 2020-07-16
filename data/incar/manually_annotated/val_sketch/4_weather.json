@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what is the weather today",
+        "a1": "what location specifically are you asking about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i want to know if it is raining in alhambra today",
+        "a2": "no raining in alhambra today the prediction is overcast",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "overcast",
+        "input_ent2": "alhambra",
+        "kvr_entlist_qa2": [
+            "today",
+            "alhambra",
+            "overcast"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

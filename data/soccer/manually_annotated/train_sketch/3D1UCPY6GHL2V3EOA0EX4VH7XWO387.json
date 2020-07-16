@@ -1,0 +1,106 @@
+[
+    {
+        "q1": "should jose mourinho be sacked?",
+        "a1": "yes. manchester united is underachieving. ",
+        "kgER1": {
+            "jose mourinho": [
+                "coach"
+            ]
+        },
+        "a1_skt": "yes. @entity is underachieving. ",
+        "a1_v2": "yes. manchester united is underachieving. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "jose mourinho"
+    },
+    {
+        "q2": "who should they replace him with?",
+        "a2": "i'm not sure. but i hope they are looking for someone",
+        "kgER2": {
+            "jose mourinho": [
+                "coach"
+            ]
+        },
+        "a2_skt": "i'm not sure. but i hope they are looking for someone",
+        "a2_v2": "i'm not sure. but i hope they are looking for someone",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "will manchester united take the league title this year?",
+        "a3": "manchester united achieved their highest points total and league placing since the retirement of sir alex ferguson in 2013, amassing 81 points to finish second in the premier league, so yes!",
+        "kgER3": {
+            "jose mourinho": [
+                "coach"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@entity achieved their @relation points total and league placing since the retirement of sir alex ferguson in 2013, amassing @object points to finish second in the premier league, so yes!",
+        "a3_v2": "manchester united achieved their highest points total and league placing since the retirement of sir alex ferguson in 2013, amassing 81 points to finish second in the premier league, so yes!",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "manchester united"
+    },
+    {
+        "q4": "why was alex ferguson knighted?",
+        "a4": " he was knighted in the 1999 queen's birthday honours list, for his services to the game and manchester united",
+        "kgER4": {
+            "jose mourinho": [
+                "coach"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": " he was knighted in the 1999 queen's birthday honours list, for his services to the game and @entity",
+        "a4_v2": " he was knighted in the 1999 queen's birthday honours list, for his services to the game and manchester united",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "alex oxlade-chamberlain"
+    },
+    {
+        "q5": "will paul pogba leave manchester united?",
+        "a5": "no. he has too high a price tag for another team to buy him right now.",
+        "kgER5": {
+            "jose mourinho": [
+                "coach"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "paul pogba": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a5_skt": "no. he has too @relation a price tag for another team to buy him right now.",
+        "a5_v2": "no. he has too high a price tag for another team to buy him right now.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "manchester united"
+    }
+]

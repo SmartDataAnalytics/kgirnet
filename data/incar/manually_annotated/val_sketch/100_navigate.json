@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "give me directions to the nearest place to get to eat",
+        "a1": "there is dominos 4_miles away does it sound good",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "4_miles",
+            "dominos"
+        ]
+    },
+    {
+        "q2": "that s fine please give me the address and directions via the quickest route",
+        "a2": "the quickest route to dominos is with moderate_traffic to 776_arastradero_rd",
+        "input_rel2": "car_collision_nearby,moderate_traffic,poi,road_block_nearby,no_traffic,heavy_traffic,poi_typel,address",
+        "corr_rel2": "address",
+        "obj2": "776_arastradero_rd",
+        "input_ent2": "dominos",
+        "kvr_entlist_qa2": [
+            "moderate_traffic",
+            "dominos",
+            "776_arastradero_rd"
+        ]
+    },
+    {
+        "q3": "show me the route please",
+        "a3": "i sent the route on your screen drive carefully",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thank you car",
+        "a4": "you re welcome drive safely and enjoy",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

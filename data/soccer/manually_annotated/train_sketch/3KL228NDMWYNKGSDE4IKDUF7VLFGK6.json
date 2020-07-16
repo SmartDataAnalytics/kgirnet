@@ -1,0 +1,152 @@
+[
+    {
+        "q1": "how will real madrid fair after losing ronaldo?",
+        "a1": "it's going to be very difficult for them to replace him.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "it's going to be very difficult for them to replace him.",
+        "a1_v2": "it's going to be very difficult for them to replace him.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "i don\u2019t think they will do well without him unless they can replace him with someone just as good.",
+        "a2": "the asian teams had a strong showing at the 2018 world cup. is it possible for a team from asia to win the cup someday? or are the teams from europe and south america too strong?",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "the asian teams had a strong showing at the @object world cup. is it possible for a team from asia to win the cup someday? or are the teams from europe and south america too strong?",
+        "a2_v2": "the asian teams had a strong showing at the 2018 world cup. is it possible for a team from asia to win the cup someday? or are the teams from europe and south america too strong?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "a healthy gareth bale should help real madrid along with marco arsensio get more opportunities but you can\u2019t replace ronaldo ",
+        "a3": "like yo bale do well but feel he is injury prone and doesn't play enough any more.",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "gareth bale": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "like yo bale do well but feel he is injury prone and doesn't play enough any more.",
+        "a3_v2": "like yo bale do well but feel he is injury prone and doesn't play enough any more.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "gareth bale"
+    },
+    {
+        "q4": "yeah, how old is bale getting to be, anyway? ",
+        "a4": "i think bale getting 25 years old",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "gareth bale": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "i think bale getting @object years old",
+        "a4_v2": "i think bale getting 25 years old",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "gareth bale"
+    },
+    {
+        "q5": "i don't think bale can do much to real madrid anyways",
+        "a5": "bale is a great player i have to disagree.",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "gareth bale": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "bale is a great player i have to disagree.",
+        "a5_v2": "bale is a great player i have to disagree.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    },
+    {
+        "q6": "what makes bale good?",
+        "a6": "he's had 20 starting appearances and has 16 goals",
+        "kgER6": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "gareth bale": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a6_skt": "he's had @object starting appearances and has @object @relation",
+        "a6_v2": "he's had 20 starting appearances and has 16 goals",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "gareth bale"
+    }
+]

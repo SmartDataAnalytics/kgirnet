@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "what continent is uruguay in?",
+        "a1": "uruguay is in south america.",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity is in south america.",
+        "a1_v2": "uruguay is in south america.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": "does uruguay have a new coach?",
+        "a2": "no, \u00f3scar tab\u00e1rez is still their coach. ",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no, @object is still their @relation ",
+        "a2_v2": "no, @coach is still their coach ",
+        "corr_rel2": "coach",
+        "obj2": "oscar tabarez",
+        "input_ent2": "uruguay"
+    },
+    {
+        "q3": "how do you think he's doing as a coach?",
+        "a3": "a3: he is doing well so far.",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "a3: he is doing well so far.",
+        "a3_v2": "a3: he is doing well so far.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "i think uruguay is very happy with having oscar tebarez as their coach?",
+        "a4": "yes uruguay seems happy with tebarez as their coach.",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes @entity seems happy with tebarez as their @relation",
+        "a4_v2": "yes uruguay seems happy with tebarez as their coach.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "uruguay"
+    },
+    {
+        "q5": "do you think uruguay will qualify for the next world cup again?",
+        "a5": "they are not as good as mexico, brazil and argentina, but i think they still have a good shot.",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they are not as good as @entity @entity and @entity but i think they still have a good shot.",
+        "a5_v2": "they are not as good as mexico, brazil and argentina, but i think they still have a good shot.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "uruguay"
+    }
+]

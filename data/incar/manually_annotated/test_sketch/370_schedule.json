@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "check my agenda for my meeting",
+        "a1": "the agenda for your meeting is to discuss_the_merger",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "agenda",
+        "obj1": "discuss_the_merger",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "discuss_the_merger",
+            "meeting"
+        ]
+    },
+    {
+        "q2": "okay i want to find out what time my meeting is and where and what day please",
+        "a2": "your meeting is on wednesday at 3pm in conference_room_100",
+        "input_rel2": "room,date,time,agenda,party",
+        "corr_rel2": "time,room",
+        "obj2": "3pm,conference_room_100",
+        "input_ent2": "meeting",
+        "kvr_entlist_qa2": [
+            "conference_room_100",
+            "wednesday",
+            "3pm",
+            "meeting"
+        ]
+    },
+    {
+        "q3": "perfect thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

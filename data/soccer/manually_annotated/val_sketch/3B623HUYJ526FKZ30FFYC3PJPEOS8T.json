@@ -1,0 +1,121 @@
+[
+    {
+        "q1": "i like the team atletico madrid",
+        "a1": "very strong team, they should improve in the national competition.",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "very strong team, they should improve in the national competition.",
+        "a1_v2": "very strong team, they should improve in the national competition.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "how do you think atletico madrid could improve on the national scale?",
+        "a2": "by winning more titles against real madrid.",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "by winning more titles against @entity",
+        "a2_v2": "by winning more titles against real madrid.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "atletico madrid"
+    },
+    {
+        "q3": "do they have a chance against real madrid?",
+        "a3": "atletico madrid will beat real madrid. i am predicting a 2-1 victory in extended time. ",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@entity will beat @entity i am predicting a @object victory in extended time. ",
+        "a3_v2": "atletico madrid will beat real madrid. i am predicting a 2-1 victory in extended time. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "i agree because i think atletico are much more inform that real madrid this year.",
+        "a4": "the atletico de madrid can not against real madrid ",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "the @entity can not against @entity ",
+        "a4_v2": "the atletico de madrid can not against real madrid ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "can anyone beat real madrid?",
+        "a5": "i personally don't think so",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i personally don't think so",
+        "a5_v2": "i personally don't think so",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "q1": "when is the next yoga lesson and who is coming with me",
+        "a1": "you have one yoga_activity on tuesday and one on thursday which one are you interested in",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "date",
+        "obj1": "yoga_activity",
+        "input_ent1": "yoga_activity",
+        "kvr_entlist_qa1": [
+            "thursday",
+            "yoga_activity",
+            "tuesday"
+        ]
+    },
+    {
+        "q2": "please give me the information for tuesday",
+        "a2": "your yoga_activity on tuesday is at 9am with your mother",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "mother",
+            "yoga_activity",
+            "tuesday",
+            "9am"
+        ]
+    },
+    {
+        "q3": "please give me the information for thursday",
+        "a3": "your yoga_activity on thursday is at 5pm with jon",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "thursday",
+            "jon",
+            "yoga_activity",
+            "5pm"
+        ]
+    },
+    {
+        "q4": "thanks",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

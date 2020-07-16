@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "love juventus",
+        "a1": "juventus are good, should win the italian league with ease.",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "@entity are good, should win the italian league with ease.",
+        "a1_v2": "juventus are good, should win the italian league with ease.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "how many times have they won?",
+        "a2": "they have won 34 times ",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "they have won @object times ",
+        "a2_v2": "they have won 34 times ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "that should put them on the road to victory, next time right?",
+        "a3": "i think i should keep winning easily",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "i think i should keep winning easily",
+        "a3_v2": "i think i should keep winning easily",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "will ronaldo make them better",
+        "a4": "not really better but increase their fan base and popularity",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "not really better but increase their fan base and popularity",
+        "a4_v2": "not really better but increase their fan base and popularity",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "cristiano ronaldo"
+    },
+    {
+        "q5": "i wonder how long ronaldo will play for them?",
+        "a5": "probably 3-5 more years.",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "probably @object more years.",
+        "a5_v2": "probably 3-5 more years.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "cristiano ronaldo"
+    }
+]

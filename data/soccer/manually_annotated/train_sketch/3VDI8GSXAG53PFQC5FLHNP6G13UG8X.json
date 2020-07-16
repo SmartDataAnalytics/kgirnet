@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i really love the team brazil",
+        "a1": "they were beaten by belgium.",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they were beaten by @entity",
+        "a1_v2": "they were beaten by belgium.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "do you think brazil will win the 2022 world cup?",
+        "a2": "yes, i think they have a great chance! ",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes, i think they have a great chance! ",
+        "a2_v2": "yes, i think they have a great chance! ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "brazil"
+    },
+    {
+        "q3": "who do you think brazil's best player is?",
+        "a3": "yes, i think brazil they have a great chance!",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes, i think @entity they have a great chance!",
+        "a3_v2": "yes, i think brazil they have a great chance!",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "brazil"
+    },
+    {
+        "q4": "when was the last time brazil won the cup?",
+        "a4": "the last time brazil won the world cup was in 2002.",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "the last time @entity won the world cup was in @object",
+        "a4_v2": "the last time brazil won the world cup was in 2002.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "brazil"
+    },
+    {
+        "q5": "what stage did brazil make in the last world cup?",
+        "a5": "brazil lost to belgium in the quarterfinals in the 2018 world cup.",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity lost to @entity in the quarterfinals in the @object world cup.",
+        "a5_v2": "brazil lost to belgium in the quarterfinals in the 2018 world cup.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "brazil"
+    }
+]

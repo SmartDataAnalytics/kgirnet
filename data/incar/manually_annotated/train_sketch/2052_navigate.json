@@ -1,0 +1,27 @@
+[
+    {
+        "q1": "show me the nearby hospital",
+        "a1": "the stanford_express_care hospital is 3_miles away there currently isn t any traffic on this route the address of the hospital is 214_el_camino_real",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi,distance",
+        "obj1": "stanford_express_care,3_miles",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "stanford_express_care",
+            "hospital",
+            "214_el_camino_real",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "this sounds great thank you let s go there",
+        "a2": "you are welcome heading to stanford_express_care",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "stanford_express_care",
+        "input_ent2": "hospital",
+        "kvr_entlist_qa2": [
+            "stanford_express_care"
+        ]
+    }
+]

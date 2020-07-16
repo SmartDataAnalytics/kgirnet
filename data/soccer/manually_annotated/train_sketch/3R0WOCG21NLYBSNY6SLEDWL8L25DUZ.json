@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "who is chelsea 's manager at the moment \\?",
+        "a1": "maurizio sarri is the manager for chelsea",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "@object is the manager for @entity",
+        "a1_v2": "@coach is the manager for @entity",
+        "corr_rel1": "coach",
+        "obj1": "maurizio sarri",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "how long has he been with chelsea \\?",
+        "a2": "he was just appointed manager this summer",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "he was just appointed manager this summer",
+        "a2_v2": "he was just appointed manager this summer",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "chelsea"
+    },
+    {
+        "q3": "how do you think he is doing so far \\?",
+        "a3": "it is doing very well , it should improve small details",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "it is doing very well , it should improve small details",
+        "a3_v2": "it is doing very well , it should improve small details",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "what are the details \\? \\? \\? \\? \\?",
+        "a4": "scoring more goals , tightening up the defense , improving the passing in midfield",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "scoring more @relation , tightening up the @object , improving the passing in @object",
+        "a4_v2": "scoring more goals , tightening up the defense , improving the passing in midfield",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "which other southern english teams can rival chelsea \\?",
+        "a5": "what place are they in premier league \\?",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "what place are they in premier league \\?",
+        "a5_v2": "what place are they in premier league \\?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "chelsea"
+    }
+]

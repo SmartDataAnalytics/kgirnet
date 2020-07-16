@@ -1,0 +1,91 @@
+[
+    {
+        "q1": "football is cool",
+        "a1": "very good team",
+        "kgER1": {},
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "yes it is",
+        "a2": "underrated team who beat argentina",
+        "kgER2": {},
+        "a2_skt": "underrated team who beat @entity",
+        "a2_v2": "underrated team who beat argentina",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "why was iceland so underrated this last year?",
+        "a3": "gotta love iceland ",
+        "kgER3": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "gotta love @entity ",
+        "a3_v2": "gotta love iceland ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "iceland"
+    },
+    {
+        "q4": "what young players are coming up for iceland?",
+        "a4": "gialason is improving constantly!",
+        "kgER4": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "gialason is improving constantly!",
+        "a4_v2": "gialason is improving constantly!",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "iceland"
+    },
+    {
+        "q5": "hj\u00f6rtur hermannsson  ",
+        "a5": "are they any good?",
+        "kgER5": {
+            "iceland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Group stage,",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "are they any good?",
+        "a5_v2": "are they any good?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "hjortur hermannsson"
+    }
+]

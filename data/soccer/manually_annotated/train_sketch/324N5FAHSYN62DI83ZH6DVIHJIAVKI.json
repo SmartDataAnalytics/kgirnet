@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "what is ac milan?",
+        "a1": "an italian soccer team.",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "an italian soccer team.",
+        "a1_v2": "an italian soccer team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "what position does a c milan play?",
+        "a2": "they are a club, not a person. the team as a whole plays multiple positions. ",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they are a club, not a person. the team as a whole plays multiple @relation ",
+        "a2_v2": "they are a club, not a person. the team as a whole plays multiple positions. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "and how good is this team you talk about?",
+        "a3": "it is a competitive team in all the requests",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "it is a competitive team in all the requests",
+        "a3_v2": "it is a competitive team in all the requests",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "white and red"
+    },
+    {
+        "q4": "what reward did the current players win for ac milan?",
+        "a4": "ac milan has won the italian cup in 2016 and some of the players are still on the team.",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "ac milan has won the italian cup in 2016 and some of the players are still on the team.",
+        "a4_v2": "ac milan has won the italian cup in 2016 and some of the players are still on the team.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "who is the best player for ac milan?",
+        "a5": "christiano ronaldo is now.",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is now.",
+        "a5_v2": "christiano ronaldo is now.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ac milan"
+    }
+]

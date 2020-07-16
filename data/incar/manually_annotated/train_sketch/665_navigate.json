@@ -1,0 +1,49 @@
+[
+    {
+        "q1": "take me to the nearest shopping_center",
+        "a1": "there is a shopping_center 1_miles away it is called topanga_mall",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "topanga_mall",
+        "input_ent1": "shopping_center",
+        "kvr_entlist_qa1": [
+            "topanga_mall",
+            "shopping_center",
+            "1_miles"
+        ]
+    },
+    {
+        "q2": "give me the quickest route",
+        "a2": "unfortunately there is heavy_traffic for the 1_miles drive to topanga_mall at 171_oak_rd",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "heavy_traffic",
+        "input_ent2": "topanga_mall",
+        "kvr_entlist_qa2": [
+            "topanga_mall",
+            "171_oak_rd",
+            "1_miles",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "find me a different route please",
+        "a3": "i m sorry this is the only route i am showing to the shopping_center",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel3": "",
+        "obj3": "none",
+        "input_ent3": "shopping_center",
+        "kvr_entlist_qa3": [
+            "shopping_center"
+        ]
+    },
+    {
+        "q4": "ok thank you then",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

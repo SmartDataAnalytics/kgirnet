@@ -1,0 +1,133 @@
+[
+    {
+        "q1": "i love liverpool",
+        "a1": "i feel like they havent done their best recently.",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i feel like they havent done their best recently.",
+        "a1_v2": "i feel like they havent done their best recently.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "i don't think liverpool has been that bad. ",
+        "a2": "with salah and mane i think this year the liverpool win a few trophies",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "with salah and mane i think this year the @entity win a few trophies",
+        "a2_v2": "with salah and mane i think this year the liverpool win a few trophies",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "no kidding, not to mention daniel sturridge, one of the best forwards in the league on their side",
+        "a3": "do you feel that sturridge will get any starts this year?",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "forward": [
+                "position"
+            ],
+            "daniel sturridge": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "do you feel that sturridge will get any starts this year?",
+        "a3_v2": "do you feel that sturridge will get any starts this year?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "daniel sturridge"
+    },
+    {
+        "q4": "it's possible, he seems to have the attitude to work for it.",
+        "a4": "his attitude is fine",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "forward": [
+                "position"
+            ],
+            "daniel sturridge": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "his attitude is fine",
+        "a4_v2": "his attitude is fine",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what are the biggest hurdles for liverpool next season?",
+        "a5": "they have to improve their teamwork, for one.",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "forward": [
+                "position"
+            ],
+            "daniel sturridge": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "they have to improve their teamwork, for one.",
+        "a5_v2": "they have to improve their teamwork, for one.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "where are the nearest coffee shops",
+        "a1": "the nearby coffee shops are teavana which is 6_miles away and peets_coffee which is 3_miles away",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "teavana,peets_coffee",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "teavana",
+            "3_miles",
+            "6_miles",
+            "peets_coffee"
+        ]
+    },
+    {
+        "q2": "please give me an address and directions to the peets_coffee and take the fastest route available",
+        "a2": "peets_coffee is located at 9981_archuleta_ave but a car collision is nearby on the route i will try to find the quickest route possible",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "9981_archuleta_ave",
+        "input_ent2": "peets_coffee",
+        "kvr_entlist_qa2": [
+            "peets_coffee",
+            "9981_archuleta_ave"
+        ]
+    },
+    {
+        "q3": "thanks for all the help",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

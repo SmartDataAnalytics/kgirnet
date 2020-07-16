@@ -1,0 +1,103 @@
+[
+    {
+        "q1": "what are some of the names of players on team paris sc",
+        "a1": "neymar & mbappe",
+        "kgER1": {},
+        "a1_skt": "@object & mbappe",
+        "a1_v2": "@has_player & mbappe",
+        "corr_rel1": "has player",
+        "obj1": "neymar",
+        "input_ent1": "paris sg"
+    },
+    {
+        "q2": "who is the coach?",
+        "a2": "thomas tuchel",
+        "kgER2": {},
+        "a2_skt": "@object",
+        "a2_v2": "@coach",
+        "corr_rel2": "coach",
+        "obj2": "thomas tuchel",
+        "input_ent2": "paris sg"
+    },
+    {
+        "q3": "i heard neywar wants to move from paris sg to real madrid, is this likely?",
+        "a3": "i'd say a solid chance",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i'd say a solid chance",
+        "a3_v2": "i'd say a solid chance",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "paris sg"
+    },
+    {
+        "q4": "who is the best player? ",
+        "a4": "i think mbappe",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i think mbappe",
+        "a4_v2": "i think mbappe",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "how old is he? ",
+        "a5": "he is only 20",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "he is only @object",
+        "a5_v2": "he is only 20",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "old trafford"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "what do you think of the ac milan team now?",
+        "a1": "they're doing great!",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they're doing great!",
+        "a1_v2": "they're doing great!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "who is ac milan?",
+        "a2": "associazione calcio milan, commonly referred to as a.c. milan or simply milan, is a professional football club in milan, italy, founded in 1899.",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "associazione calcio milan, commonly referred to as a.c. milan or simply milan, is a professional football club in milan, italy, @relation in @object",
+        "a2_v2": "associazione calcio milan, commonly referred to as a.c. milan or simply milan, is a professional football club in milan, italy, founded in 1899.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "who is their top scorer?",
+        "a3": "goalscorers. milan's all-time leading scorer is gunnar nordahl, who scored 221 goals for the club from 1948 to 1956. he holds the record for the most goals in a season with 38 in all competitions in the 1950\u201351 season",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@relationcorers. milan's all-time leading scorer is gunnar nordahl, who scored @object @relation for the club from @object to 1956. he holds the record for the most @relation in a season with @object in all competitions in the 1950\u201351 season",
+        "a3_v2": "goalscorers. milan's all-time leading scorer is gunnar nordahl, who scored 221 goals for the club from 1948 to 1956. he holds the record for the most goals in a season with 38 in all competitions in the 1950\u201351 season",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "how did milan pay for nordahl?",
+        "a4": "ac milan has lots of very rich investors and backers.",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "ac milan has lots of very rich investors and backers.",
+        "a4_v2": "ac milan has lots of very rich investors and backers.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "what soccer team has the most loyal fans? ",
+        "a5": "dortmund and liverpool",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "dortmund and @entity",
+        "a5_v2": "dortmund and liverpool",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

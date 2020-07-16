@@ -1,0 +1,104 @@
+[
+    {
+        "q1": "who is the star player?",
+        "a1": "belgium's star player is eden hazard.",
+        "kgER1": {},
+        "a1_skt": "belgium's @relation is @object",
+        "a1_v2": "belgium's star player is eden hazard.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "hazard is definitely number one but belgium has a bunch of young good players. i hope belgium wins the world cup in qatar. ",
+        "a2": "they did well in russia in 2018, so i'm sure they'll play well.",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they did well in russia in @object so i'm sure they'll play well.",
+        "a2_v2": "they did well in russia in 2018, so i'm sure they'll play well.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "belgium"
+    },
+    {
+        "q3": "do you think they can get themselves even higher in the world rankings over the next few years?",
+        "a3": "they absolutely can with all the talent they have on the team right now. ",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they absolutely can with all the talent they have on the team right now. ",
+        "a3_v2": "they absolutely can with all the talent they have on the team right now. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    },
+    {
+        "q4": "belgium can win the world cup next year",
+        "a4": "i do believe that they will win",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i do believe that they will win",
+        "a4_v2": "i do believe that they will win",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "belgium"
+    },
+    {
+        "q5": "why belgium can go all the way",
+        "a5": "belgium will be able to go all the way because of their start attacking players like hazard, lukaku and mertens.",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity will be able to go all the way because of their start attacking players like hazard, lukaku and mertens.",
+        "a5_v2": "belgium will be able to go all the way because of their start attacking players like hazard, lukaku and mertens.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "belgium"
+    }
+]

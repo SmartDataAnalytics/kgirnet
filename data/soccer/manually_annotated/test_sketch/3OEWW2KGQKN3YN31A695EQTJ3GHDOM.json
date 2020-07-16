@@ -1,0 +1,150 @@
+[
+    {
+        "q1": "did you see who juventus acquired this year?",
+        "a1": "yes, juventus acquired an amazing player this year by the name of cristiano ronaldo.",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a1_skt": "yes, @entity acquired an amazing player this year by the name of @object",
+        "a1_v2": "yes, juventus acquired an amazing player this year by the name of cristiano ronaldo.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "what a signing",
+        "a2": "yeah ronaldo will do great things for juventus.",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "yeah ronaldo will do great things for @entity",
+        "a2_v2": "yeah ronaldo will do great things for juventus.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "you think cristiano ronaldo can lead juventus to the champions league title?",
+        "a3": "yes, he's one of the best players in the world. ",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes, he's one of the best players in the world. ",
+        "a3_v2": "yes, he's one of the best players in the world. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "cristiano ronaldo"
+    },
+    {
+        "q4": "juventus have now more chances to win the champions, with cristiano, the entire team will be more solid.",
+        "a4": "i agree! i see juventus winning the champions league and ronaldo will make history. ",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "i agree! i see @entity winning the champions league and ronaldo will make history. ",
+        "a4_v2": "i agree! i see juventus winning the champions league and ronaldo will make history. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "juventus"
+    },
+    {
+        "q5": "juventus is an amazing player compare ronaldo",
+        "a5": "the youth has very good players, but now cristiano ronaldo is the best player player",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "the youth has very good players, but now @object is the @relation player",
+        "a5_v2": "the youth has very good players, but now cristiano ronaldo is the best player player",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "juventus"
+    }
+]

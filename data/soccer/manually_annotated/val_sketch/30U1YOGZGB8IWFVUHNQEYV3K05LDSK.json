@@ -1,0 +1,91 @@
+[
+    {
+        "q1": "do this team ever win anything",
+        "a1": "yes they won the world cup back in 2014",
+        "kgER1": {},
+        "a1_skt": "yes they won the world cup back in @object",
+        "a1_v2": "yes they won the world cup back in 2014",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ever banega"
+    },
+    {
+        "q2": "they have won several world cups.",
+        "a2": "how long has it been since germany was unified? ",
+        "kgER2": {},
+        "a2_skt": "how long has it been since @entity was unified? ",
+        "a2_v2": "how long has it been since germany was unified? ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "germany placed third in the 2014 world cup",
+        "a3": "germany needs to play as a team to win.",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity needs to play as a team to win.",
+        "a3_v2": "germany needs to play as a team to win.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "2014"
+    },
+    {
+        "q4": "did germany qualify for the 2018 world cup?",
+        "a4": "yes they did qualify.",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes they did qualify.",
+        "a4_v2": "yes they did qualify.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "2018"
+    },
+    {
+        "q5": "how many games to germany win in the last world cup?",
+        "a5": "germany has won only one game during the world cup.",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity has won only one game during the world cup.",
+        "a5_v2": "germany has won only one game during the world cup.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "germany"
+    }
+]

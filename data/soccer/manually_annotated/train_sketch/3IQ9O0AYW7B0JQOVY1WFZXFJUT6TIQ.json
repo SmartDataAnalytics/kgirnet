@@ -1,0 +1,64 @@
+[
+    {
+        "q1": "this would be a good team to play against",
+        "a1": "agreed especially in the maradona days !",
+        "kgER1": {},
+        "a1_skt": "agreed especially in the maradona days !",
+        "a1_v2": "agreed especially in the maradona days !",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "but how about today \\?",
+        "a2": "they would still be a great team to play against time does not change anything !",
+        "kgER2": {},
+        "a2_skt": "they would still be a great team to play against time does not change anything !",
+        "a2_v2": "they would still be a great team to play against time does not change anything !",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "do n't you think that messi 's best days are behind him \\?",
+        "a3": "yes , he is sadly getting older",
+        "kgER3": {},
+        "a3_skt": "yes , he is sadly getting older",
+        "a3_v2": "yes , he is sadly getting older",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "lionel messi"
+    },
+    {
+        "q4": "was maradona more successful than messi",
+        "a4": "yes he was at international level",
+        "kgER4": {},
+        "a4_skt": "yes he was at international level",
+        "a4_v2": "yes he was at international level",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "lionel messi"
+    },
+    {
+        "q5": "who else plays for argentina \\?",
+        "a5": "in the argentine selection players like dybala , di maria among other players play",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "in the @entity selection players like dybala , @object among other players play",
+        "a5_v2": "in the @entity selection players like dybala , @has_player among other players play",
+        "corr_rel5": "midfielder",
+        "obj5": "angel di maria",
+        "input_ent5": "argentina"
+    }
+]

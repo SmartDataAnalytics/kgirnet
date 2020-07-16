@@ -1,0 +1,94 @@
+[
+    {
+        "q1": "how did sweden do in the most recent world cup?",
+        "a1": "they won their group before losing to england in the quarterfinals.",
+        "kgER1": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they won their group before losing to england in the quarterfinals.",
+        "a1_v2": "they won their group before losing to england in the quarterfinals.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "sweden"
+    },
+    {
+        "q2": "were you surprised that they lost to england? ",
+        "a2": "no, that didn't came as a surprise. ",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no, that didn't came as a surprise. ",
+        "a2_v2": "no, that didn't came as a surprise. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is sweden's manager?",
+        "a3": "janne andersson",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "@coach",
+        "corr_rel3": "coach",
+        "obj3": "janne andersson",
+        "input_ent3": "sweden"
+    },
+    {
+        "q4": " how many world cup has sweden played in ? ",
+        "a4": "about 11",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "about @object",
+        "a4_v2": "about 11",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "sweden"
+    }
+]

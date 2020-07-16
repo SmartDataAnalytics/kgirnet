@@ -1,0 +1,125 @@
+[
+    {
+        "q1": "who are the top two player from spain ? ",
+        "a1": "andr\u00e9s iniesta and xavi",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object and xavi",
+        "a1_v2": "andr\u00e9s iniesta and xavi",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "spain"
+    },
+    {
+        "q2": "agreed",
+        "a2": "andres iniesta is the top player from spain",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object is the top player from @entity",
+        "a2_v2": "andres iniesta is the top player from spain",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what club does iniesta typically play for?",
+        "a3": "formerly barcelona he now plays for japanese club vissel kobe",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "formerly @entity he now plays for japanese club vissel kobe",
+        "a3_v2": "formerly barcelona he now plays for japanese club vissel kobe",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres iniesta"
+    },
+    {
+        "q4": "are there many spanish players in the japanese league? ",
+        "a4": "no there is not.",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "no there is not.",
+        "a4_v2": "no there is not.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "how old is andres iniesta?",
+        "a5": "34 years old",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "andres iniesta": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a5_skt": "@object years old",
+        "a5_v2": "34 years old",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres iniesta"
+    }
+]

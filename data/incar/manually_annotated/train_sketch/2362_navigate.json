@@ -1,0 +1,46 @@
+[
+    {
+        "q1": "search for nearby starbucks",
+        "a1": "there are no nearby starbucks",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "starbucks",
+        "kvr_entlist_qa1": [
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "is there another coffee place within 4_miles",
+        "a2": "sure there are philz and coupa they re both 1_miles away but there is a car_collision_nearby philz and heavy_traffic on coupa s direction",
+        "input_rel2": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel2": "distance",
+        "obj2": "philz,coupa",
+        "input_ent2": "4_miles",
+        "kvr_entlist_qa2": [
+            "car_collision_nearby",
+            "philz",
+            "coupa",
+            "1_miles",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "give me directions to philz please",
+        "a3": "i sent all the info on your screen please drive carefully",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thank you very much",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

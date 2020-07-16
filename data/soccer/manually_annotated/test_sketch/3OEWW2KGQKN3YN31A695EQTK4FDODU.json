@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "it's a shame at how badly germany did in the last world cup ",
+        "a1": "i think the same a penalty but we will see for the eurocopa?",
+        "kgER1": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i think the same a penalty but we will see for the eurocopa?",
+        "a1_v2": "i think the same a penalty but we will see for the eurocopa?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "who is currently germany's goalie? ",
+        "a2": "its manuel neuer the germany goalie",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "its @object the @entity goalie",
+        "a2_v2": "its @goalkeeper the @entity goalie",
+        "corr_rel2": "goalkeeper",
+        "obj2": "manuel neuer",
+        "input_ent2": "germany"
+    },
+    {
+        "q3": "who is the best young player for germany?",
+        "a3": "marius wold obvi",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "marius wold obvi",
+        "a3_v2": "marius wold obvi",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "germany"
+    },
+    {
+        "q4": "think germany failed spectacularly in wc2018. agree?",
+        "a4": "yes it was sad.",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes it was sad.",
+        "a4_v2": "yes it was sad.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "germany"
+    },
+    {
+        "q5": "is germany one of the best teams?",
+        "a5": "yes, they won several world cups",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes, they won several world cups",
+        "a5_v2": "yes, they won several world cups",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "germany"
+    }
+]

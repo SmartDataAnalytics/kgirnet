@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "what s the weather like in new_york city",
+        "a1": "the weather in new_york is predicted as a drizzle with lows in the 60s and highs in the 80s",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "monday",
+        "obj1": "drizzle",
+        "input_ent1": "new_york",
+        "kvr_entlist_qa1": [
+            "new_york",
+            "drizzle"
+        ]
+    },
+    {
+        "q2": "thanks i would like to know if it will be windy n new_york on tuesday please",
+        "a2": "it will not be windy in new_york city tomorrow",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "new_york",
+        "kvr_entlist_qa2": [
+            "tomorrow",
+            "windy",
+            "new_york"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

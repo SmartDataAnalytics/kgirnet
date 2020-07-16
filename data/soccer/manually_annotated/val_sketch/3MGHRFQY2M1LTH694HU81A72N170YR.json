@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "do you think that arsenal will win the premiership next year?",
+        "a1": "yes.",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes.",
+        "a1_v2": "yes.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "will ozil still be playing wih the club next season?",
+        "a2": "i would be surprised if ozil leaves arsenal. he is doing well there. ",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i would be surprised if ozil leaves @entity he is doing well there. ",
+        "a2_v2": "i would be surprised if ozil leaves arsenal. he is doing well there. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "mesut ozil"
+    },
+    {
+        "q3": "how many goals did ozil score last season?",
+        "a3": "i do not think the arsenal wins the cup",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i do not think the @entity wins the cup",
+        "a3_v2": "i do not think the arsenal wins the cup",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mesut ozil"
+    },
+    {
+        "q4": "arsenal is a great candidate to win this year",
+        "a4": "i agree, arsenal and ozil will do great this season. ",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i agree, @entity and ozil will do great this season. ",
+        "a4_v2": "i agree, arsenal and ozil will do great this season. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "arsenal"
+    },
+    {
+        "q5": "if ozil did leave, which club do you think he'd want to play for?",
+        "a5": "ozil might want to play for a different league.",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "ozil might want to play for a different league.",
+        "a5_v2": "ozil might want to play for a different league.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "mesut ozil"
+    }
+]

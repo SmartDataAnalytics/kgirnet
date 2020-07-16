@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "are switzerland going to be in the next world cup \\?",
+        "a1": "it can be that i achieve it with a lot of effort and training a lot i think that it can be achieved",
+        "kgER1": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "it can be that i achieve it with a lot of effort and training a lot i think that it can be achieved",
+        "a1_v2": "it can be that i achieve it with a lot of effort and training a lot i think that it can be achieved",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "i think switzerland have a great chance of being in the next world cup , do you \\?",
+        "a2": "judging by form over past 10 years yes",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "judging by form over past @object years yes",
+        "a2_v2": "judging by form over past 10 years yes",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "switzerland"
+    },
+    {
+        "q3": "who is the best player \\?",
+        "a3": "many would consider xherdan shaqiri their best player",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "many would consider @object their @relation",
+        "a3_v2": "many would consider xherdan shaqiri their best player",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "why switzerland never win wc \\?",
+        "a4": "they have tried but winning the cup is hard",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they have tried but winning the cup is hard",
+        "a4_v2": "they have tried but winning the cup is hard",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "switzerland"
+    },
+    {
+        "q5": "who is the current coach they have \\?",
+        "a5": "the current coach is vladimir petkovic",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "the current @relation is @object",
+        "a5_v2": "the current coach is @coach",
+        "corr_rel5": "coach",
+        "obj5": "vladimir petkovic",
+        "input_ent5": "switzerland"
+    }
+]

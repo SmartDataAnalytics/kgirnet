@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i like the team paris sg",
+        "a1": "did paris sg win today against caen?",
+        "kgER1": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "did paris sg win today against caen?",
+        "a1_v2": "did paris sg win today against caen?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "paris sg"
+    },
+    {
+        "q2": "yes, they dominated them 3-0.",
+        "a2": "do paris sg often win against caen?",
+        "kgER2": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "do paris sg often win against caen?",
+        "a2_v2": "do paris sg often win against caen?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "paris sg has traditionally wins against caen",
+        "a3": "paris sg is the champion of france",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "paris sg is the champion of @entity",
+        "a3_v2": "paris sg is the champion of france",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "paris sg"
+    },
+    {
+        "q4": "whos their current goal keeper?",
+        "a4": "buffon",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "buffon",
+        "a4_v2": "buffon",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "is he better than the last goalie they had?",
+        "a5": "definitely yes.",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "definitely yes.",
+        "a5_v2": "definitely yes.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

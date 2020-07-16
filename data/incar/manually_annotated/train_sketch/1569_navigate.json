@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "where is a hospital within 4_miles",
+        "a1": "palo_alto_medical_foundation is 4_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "palo_alto_medical_foundation",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "palo_alto_medical_foundation",
+            "4_miles"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "palo_alto_medical_foundation is at 611_ames_ave do you want me to set the gps",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "611_ames_ave",
+        "input_ent2": "palo_alto_medical_foundation",
+        "kvr_entlist_qa2": [
+            "palo_alto_medical_foundation",
+            "611_ames_ave"
+        ]
+    },
+    {
+        "q3": "yes please and pick the shortest distance too thank you",
+        "a3": "setting gps now there is moderate_traffic on the route to the hospital",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel3": "traffic_info",
+        "obj3": "moderate_traffic",
+        "input_ent3": "palo_alto_medical_foundation",
+        "kvr_entlist_qa3": [
+            "moderate_traffic",
+            "hospital"
+        ]
+    },
+    {
+        "q4": "thank you",
+        "a4": "have a safe day",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

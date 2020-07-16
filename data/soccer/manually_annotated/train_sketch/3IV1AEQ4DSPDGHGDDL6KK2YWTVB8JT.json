@@ -1,0 +1,88 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "yes i do",
+        "kgER1": {},
+        "a1_skt": "yes i do",
+        "a1_v2": "yes i do",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "do you think their 2nd goal against poland in this world cup should have been disallowed?",
+        "a2": " if i agree with that",
+        "kgER2": {},
+        "a2_skt": " if i agree with that",
+        "a2_v2": " if i agree with that",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "senegal has a great team. why would you take a goal away from them?",
+        "a3": "senegal stood out for being a seasoned team which makes it a good role in the next world cup",
+        "kgER3": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity stood out for being a seasoned team which makes it a good role in the next world cup",
+        "a3_v2": "senegal stood out for being a seasoned team which makes it a good role in the next world cup",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "senegal"
+    },
+    {
+        "q4": "senegal flag is what color ?",
+        "a4": "senegal's country flag has the colors red, green and yellow.",
+        "kgER4": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "senegal's country flag has the colors @object green and @object",
+        "a4_v2": "senegal's country flag has the colors red, green and yellow.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "senegal"
+    },
+    {
+        "q5": "senegal is a small team that lacks a lot of training to reach ljos ",
+        "a5": "but they are on the up, don't you  think? ",
+        "kgER5": {
+            "senegal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-Finals",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "but they are on the up, don't you  think? ",
+        "a5_v2": "but they are on the up, don't you  think? ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "senegal"
+    }
+]

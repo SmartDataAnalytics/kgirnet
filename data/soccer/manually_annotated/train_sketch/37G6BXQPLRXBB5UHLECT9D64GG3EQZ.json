@@ -1,0 +1,123 @@
+[
+    {
+        "q1": "who is captain of ac milan \\?",
+        "a1": "wikipedia lists leonardo bonucci as the captain of ac milan",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "wikipedia lists @object as the @relation of ac milan",
+        "a1_v2": "wikipedia lists leonardo bonucci as the captain of ac milan",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "how many goals has leonardo bonucci scored this season \\?",
+        "a2": "i think it is 1",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "leonardo bonucci": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "i think it is @object",
+        "a2_v2": "i think it is @goals",
+        "corr_rel2": "goals",
+        "obj2": "2",
+        "input_ent2": "leonardo bonucci"
+    },
+    {
+        "q3": "he must be a defender then",
+        "a3": "yes he is a center back",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "leonardo bonucci": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a3_skt": "yes he is a center back",
+        "a3_v2": "yes he is a center back",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "defender"
+    },
+    {
+        "q4": "wikipedia shows two goals scored for milan at 31 years of age , do you think he is slowing down \\?",
+        "a4": "he is still very fast",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "leonardo bonucci": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a4_skt": "he is still very fast",
+        "a4_v2": "he is still very fast",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ac milan"
+    }
+]

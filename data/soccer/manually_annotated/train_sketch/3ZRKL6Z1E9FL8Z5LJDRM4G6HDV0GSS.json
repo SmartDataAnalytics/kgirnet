@@ -1,0 +1,133 @@
+[
+    {
+        "q1": "who is the current goalie for the real madrid soccer team?",
+        "a1": "keylor navas",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "keylor navas",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "has keylor navas been in real madrid for long?",
+        "a2": "he has played for them since 2014.",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "keylor navas": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "he has played for them since @object",
+        "a2_v2": "he has played for them since 2014.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "does real madrid have a successor to navas?",
+        "a3": "they can always sign someone at anytime. ",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "keylor navas": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "they can always sign someone at anytime. ",
+        "a3_v2": "they can always sign someone at anytime. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "do you think navas will stay at real madrid for much longer?",
+        "a4": "madrid just acquired thibaut courtois, i think navas will probably be leaving madrid soon.",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "keylor navas": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "madrid just acquired @object i think navas will probably be leaving madrid soon.",
+        "a4_v2": "madrid just acquired thibaut courtois, i think navas will probably be leaving madrid soon.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "who is the captain of real madrid?",
+        "a5": "do ronaldo play for real madrid?",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "keylor navas": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "do ronaldo play for @entity",
+        "a5_v2": "do ronaldo play for real madrid?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

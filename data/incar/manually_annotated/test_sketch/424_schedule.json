@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "please tell me the location time and parties that are attending my meeting",
+        "a1": "your next meeting is with your boss at 10am in conference_room_102",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,room,party",
+        "obj1": "10am,conference_room_102,boss",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "10am",
+            "conference_room_102",
+            "boss",
+            "meeting"
+        ]
+    },
+    {
+        "q2": "great thank you so much",
+        "a2": "you re welcome did you also want to know the agenda for the meeting",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "meeting"
+        ]
+    },
+    {
+        "q3": "that is all thanks",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

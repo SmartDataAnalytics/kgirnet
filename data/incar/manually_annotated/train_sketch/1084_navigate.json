@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "where can i find tea around me",
+        "a1": "the closest tea shop is coupa and is 6_miles from you located at 394_van_ness_ave",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel1": "poi",
+        "obj1": "coupa",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "394_van_ness_ave",
+            "6_miles",
+            "coupa"
+        ]
+    },
+    {
+        "q2": "which one is it the quickest route to reach it",
+        "a2": "the quickest route available to coupa is 6_miles and there is a car_collision_nearby",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "distance",
+        "obj2": "6_miles",
+        "input_ent2": "coupa",
+        "kvr_entlist_qa2": [
+            "car_collision_nearby",
+            "6_miles",
+            "coupa"
+        ]
+    },
+    {
+        "q3": "patience let s go there anyway thank you car",
+        "a3": "i sent the route on your screen you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

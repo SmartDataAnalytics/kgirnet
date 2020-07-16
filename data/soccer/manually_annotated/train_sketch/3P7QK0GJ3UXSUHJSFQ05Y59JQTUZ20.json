@@ -1,0 +1,109 @@
+[
+    {
+        "q1": "who is the captain of team liverpool \\?",
+        "a1": "jordan henderson",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "jordan henderson",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "who is the manager of liverpool \\?",
+        "a2": "jurgen klopp",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "@coach",
+        "corr_rel2": "coach",
+        "obj2": "jurgen klopp",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "jurgen klopp",
+        "a3": "how long has he been manager \\?",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "jurgen klopp": [
+                "coach"
+            ]
+        },
+        "a3_skt": "how long has he been manager \\?",
+        "a3_v2": "how long has he been manager \\?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "jurgen klopp"
+    },
+    {
+        "q4": "what colors does liverpool wear \\?",
+        "a4": "they wear red",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "jurgen klopp": [
+                "coach"
+            ]
+        },
+        "a4_skt": "they wear @object",
+        "a4_v2": "they wear @jersey_color",
+        "corr_rel4": "jersey color",
+        "obj4": "red",
+        "input_ent4": "liverpool"
+    },
+    {
+        "q5": "yes red always represents liverpool",
+        "a5": "i agree , red represents liverpool",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "jurgen klopp": [
+                "coach"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "i agree , @object represents @entity",
+        "a5_v2": "i agree , red represents liverpool",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

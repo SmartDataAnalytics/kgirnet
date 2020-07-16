@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "tomorrow s forecast",
+        "a1": "what city can i tell you tomorrows forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i need the forecast in alhambra for tomorrow please",
+        "a2": "tomorrow it will be overcast in alhambra with low of 30f and high of 40f",
+        "input_rel2": "party",
+        "corr_rel2": "tuesday",
+        "obj2": "overcast,40f,30f",
+        "input_ent2": "alhambra",
+        "kvr_entlist_qa2": [
+            "40f",
+            "alhambra",
+            "30f",
+            "overcast",
+            "tomorrow"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "why are barcelona considered so good?",
+        "a1": "they have a great history and arguably the best player in the world in lionel messi.",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a1_skt": "they have a great history and arguably the @relation in the world in @object",
+        "a1_v2": "they have a great history and arguably the best player in the world in lionel messi.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "when was the last time they have won the champions league?",
+        "a2": "2015",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "2015",
+        "a2_v2": "2015",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "will barcelona win the league",
+        "a3": "there is a good possibility that they will. but it is still between the 3 top teams in spain.",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "there is a good possibility that they will. but it is still between the @object top teams in spain.",
+        "a3_v2": "there is a good possibility that they will. but it is still between the 3 top teams in spain.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "barcelona"
+    },
+    {
+        "q4": "will barcelona win la liga",
+        "a4": "yes, i'm sure of that",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "yes, i'm sure of that",
+        "a4_v2": "yes, i'm sure of that",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "did barcelona win la liga last season?",
+        "a5": "yes, they won last season. it was the 3rd win in the last 4 seasons.",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "yes, they won last season. it was the 3rd win in the last @object seasons.",
+        "a5_v2": "yes, they won last season. it was the 3rd win in the last 4 seasons.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "barcelona"
+    }
+]

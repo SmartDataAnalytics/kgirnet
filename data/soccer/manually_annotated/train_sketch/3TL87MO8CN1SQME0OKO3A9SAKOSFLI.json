@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who is the founder of barcelona football team?",
+        "a1": "joan gamper.",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "joan gamper.",
+        "a1_v2": "joan gamper.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "how many champions league titles does barca have.",
+        "a2": "barcelona have won the champions league 5 times.",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@entity have won the champions league @object times.",
+        "a2_v2": "barcelona have won the champions league 5 times.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "q3: when was the last time barca won a title.",
+        "a3": "barca won a title last in la liga 2017-2018.",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "barca won a title last in la liga 2017-2018.",
+        "a3_v2": "barca won a title last in la liga 2017-2018.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "where does barcelona play their home matches?",
+        "a4": "in barcelona.",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "in @entity",
+        "a4_v2": "in barcelona.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "what is the stadium called? ",
+        "a5": "camp nou",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "camp nou",
+        "a5_v2": "camp nou",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "allianz stadium"
+    }
+]

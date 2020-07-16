@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "liverpool would be a good idea",
+        "a1": "yeah,you're right.",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yeah,you're right.",
+        "a1_v2": "yeah,you're right.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "will liverpool win the league this season?",
+        "a2": "may be..",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "may be..",
+        "a2_v2": "may be..",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "i think they can do it. they got a strong team and a solid coach.",
+        "a3": "\u201cindividual commitment to a group effort: that is what makes a team work, a company work, a society work, a civilization work.\u201d -- vince lombardi  ",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "\u201cindividual commitment to a group effort: that is what makes a team work, a company work, a society work, a civilization work.\u201d -- vince lombardi  ",
+        "a3_v2": "\u201cindividual commitment to a group effort: that is what makes a team work, a company work, a society work, a civilization work.\u201d -- vince lombardi  ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    },
+    {
+        "q4": "did liverpool beat manchester this year?",
+        "a4": "yes, on 7/28 they won 4-1",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "yes, on 7/28 they won @object",
+        "a4_v2": "yes, on 7/28 they won 4-1",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    },
+    {
+        "q5": "do you think liverpool or manchester will perform better this season?",
+        "a5": "i think that liverpool will be the better team",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i think that @entity will be the better team",
+        "a5_v2": "i think that liverpool will be the better team",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "what s the weather like today",
+        "a1": "what location do you want the weather for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "san_francisco what s the weather report for today",
+        "a2": "today is gonna be dry in san_francisco with low temperature of 40f and high of 50f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "dry,40f,50f",
+        "input_ent2": "san_francisco",
+        "kvr_entlist_qa2": [
+            "dry",
+            "today",
+            "40f",
+            "san_francisco",
+            "50f"
+        ]
+    },
+    {
+        "q3": "great thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

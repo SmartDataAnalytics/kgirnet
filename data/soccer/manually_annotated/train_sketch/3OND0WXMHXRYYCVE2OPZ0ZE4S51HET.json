@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i like arsenal",
+        "a1": "well, that's not a question i can answer, but i am sure you do. they are an interesting team.",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "well, that's not a question i can answer, but i am sure you do. they are an interesting team.",
+        "a1_v2": "well, that's not a question i can answer, but i am sure you do. they are an interesting team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "who is arsenals best player at the moment?",
+        "a2": "that is highly debatable and depends on your personal point of view ",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "that is highly debatable and depends on your personal point of view ",
+        "a2_v2": "that is highly debatable and depends on your personal point of view ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "arsene wenger or unai emry?",
+        "a3": "unai emry",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "unai emry",
+        "a3_v2": "unai emry",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "unai emery"
+    },
+    {
+        "q4": "how long has arsenal been a soccer club?",
+        "a4": "arsenal was founded in 1886 making it 132 years old",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity was @relation in @object making it @object years old",
+        "a4_v2": "arsenal was founded in 1886 making it 132 years old",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "arsenal"
+    },
+    {
+        "q5": "how many premier league titles they won?",
+        "a5": "arsenal won the 13 league titles",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@entity won the @object league titles",
+        "a5_v2": "arsenal won the 13 league titles",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

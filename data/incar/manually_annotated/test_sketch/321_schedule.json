@@ -1,0 +1,17 @@
+[
+    {
+        "q1": "tell me when is my next meeting and who are invited in the meeting and what are the agenda of the next meeting",
+        "a1": "your next meeting is on monday at 7pm with the infrastructure_team to go_over_budget",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,agenda,party",
+        "obj1": "go_over_budget,7pm,infrastructure_team",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "go_over_budget",
+            "infrastructure_team",
+            "7pm",
+            "monday",
+            "meeting"
+        ]
+    }
+]

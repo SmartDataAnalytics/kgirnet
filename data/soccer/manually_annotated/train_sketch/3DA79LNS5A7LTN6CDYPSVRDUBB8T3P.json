@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "how was atletico madrid founded?",
+        "a1": "the club was founded on 26 april 1903 as athletic club de madrid by three basque students living in madrid.",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "the club was @relation on @object april @object as athletic club de madrid by three basque students living in madrid.",
+        "a1_v2": "the club was founded on on @jersey april @jersey as athletic club de madrid by three basque students living in madrid.",
+        "corr_rel1": "founded on",
+        "obj1": "1903",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "intresting fact",
+        "a2": "definitely! and since then they've won 3 uefa europa leagues. the last being in 2017.",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "definitely! and since then they've won @object uefa europa leagues. the last being in 2017.",
+        "a2_v2": "definitely! and since then they've won 3 uefa europa leagues. the last being in 2017.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "do you think atletico madrid will receive more wins in the uefa europa leagues? ",
+        "a3": "yes, he will do it",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "yes, he will do it",
+        "a3_v2": "yes, he will do it",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "atletico madrid"
+    },
+    {
+        "q4": "i believe atletico madrid will d well this year in the uefa europa league too. ",
+        "a4": "yes, atletico madrid should fare well against the other teams in their league. maybe they will go all the way to the championship.",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "yes, @entity should fare well against the other teams in their league. maybe they will go all the way to the championship.",
+        "a4_v2": "yes, atletico madrid should fare well against the other teams in their league. maybe they will go all the way to the championship.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "atletico madrid"
+    },
+    {
+        "q5": "who are their likely rivals shaping up to be?",
+        "a5": "there rival main rival will be real madrid",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "there rival main rival will be @entity",
+        "a5_v2": "there rival main rival will be real madrid",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

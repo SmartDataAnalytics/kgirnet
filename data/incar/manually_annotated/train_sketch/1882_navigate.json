@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "please give me the address and directions for a hotel within 4_miles of here avoiding all heavy_traffic",
+        "a1": "travelers_lodge is 1_miles away at 333_arbol_dr with no_traffic noted",
+        "input_rel1": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel1": "poi, distance",
+        "obj1": "333_arbol_dr,1_miles,travelers_lodge",
+        "input_ent1": "rest_point",
+        "kvr_entlist_qa1": [
+            "no_traffic",
+            "travelers_lodge",
+            "1_miles",
+            "333_arbol_dr"
+        ]
+    },
+    {
+        "q2": "that sounds great set the gps for there please",
+        "a2": "i sent its position and route on your screen drive carefully",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "thank you car",
+        "a3": "your welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

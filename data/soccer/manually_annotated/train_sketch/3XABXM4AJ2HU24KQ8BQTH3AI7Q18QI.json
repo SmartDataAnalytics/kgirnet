@@ -1,0 +1,162 @@
+[
+    {
+        "q1": "how many goals did they score last season?",
+        "a1": "they scored 16 goals across the world cup in total.",
+        "kgER1": {
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "they scored @object @relation across the world cup in total.",
+        "a1_v2": "they scored 16 goals across the world cup in total.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who scored the most goals for belgium at the world cup 2018?",
+        "a2": "romelu lukaku scoring 4 goals.",
+        "kgER2": {
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "@object scoring @object @relation",
+        "a2_v2": "romelu lukaku scoring 4 goals.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "belgium"
+    },
+    {
+        "q3": "which round of the 2018 world cup did belgium progress to?",
+        "a3": "they lost in the semi finals",
+        "kgER3": {
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "they lost in the semi finals",
+        "a3_v2": "they lost in the semi finals",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "belgium"
+    },
+    {
+        "q4": "they lost because their strategy did not work with the enemy team",
+        "a4": "i don't agree with that ,they played hard but france team was more lucky ",
+        "kgER4": {
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "i don't agree with that ,they played hard but @entity team was more lucky ",
+        "a4_v2": "i don't agree with that ,they played hard but france team was more lucky ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "they needed a little bit of luck to win",
+        "a5": "belgium has sold basic skills they do not need luck.",
+        "kgER5": {
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "@entity has sold basic skills they do not need luck.",
+        "a5_v2": "belgium has sold basic skills they do not need luck.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

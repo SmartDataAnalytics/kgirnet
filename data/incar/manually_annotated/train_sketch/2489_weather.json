@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "please tell me the weather for today and what the weather will be tomorrow",
+        "a1": "for which city did you need information about today s and tomorrow s weather",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "today",
+            "tomorrow"
+        ]
+    },
+    {
+        "q2": "in brentwood will it be cloudy",
+        "a2": "it will be cloudy on friday in brentwood",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "friday",
+        "obj2": "cloudy",
+        "input_ent2": "brentwood",
+        "kvr_entlist_qa2": [
+            "cloudy",
+            "brentwood",
+            "friday"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

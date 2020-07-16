@@ -1,0 +1,137 @@
+[
+    {
+        "q1": "are atletico madrid as good as real madrid?",
+        "a1": "atletico madrid are better than real madrid.",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity are better than @entity",
+        "a1_v2": "atletico madrid are better than real madrid.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "atletico madrid stadium name?",
+        "a2": "its called vicente calder\u00f3n stadium",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "its called vicente calder\u00f3n stadium",
+        "a2_v2": "its called vicente calder\u00f3n stadium",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "atletico madrid"
+    },
+    {
+        "q3": "who is atletico madrid's manager?",
+        "a3": "diego simeone is their manager.",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object is their manager.",
+        "a3_v2": "@coach is their manager.",
+        "corr_rel3": "coach",
+        "obj3": "diego simeone",
+        "input_ent3": "atletico madrid"
+    },
+    {
+        "q4": "what are the team colors for atletico madrid?",
+        "a4": "red and white",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object and @object",
+        "a4_v2": "red and white",
+        "corr_rel4": "jersey color",
+        "obj4": "red and white",
+        "input_ent4": "atletico madrid"
+    },
+    {
+        "q5": "how many year was gil the president of atletico de madrid?",
+        "a5": "10 games.",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object games.",
+        "a5_v2": "10 games.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "atletico madrid"
+    }
+]

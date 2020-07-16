@@ -1,0 +1,138 @@
+[
+    {
+        "q1": "who is the manager for fc. porto?",
+        "a1": "s\u00e9rgio concei\u00e7\u00e3o is the manager for fc. porto.",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object is the manager for fc. porto.",
+        "a1_v2": "@coach is the manager for fc. porto.",
+        "corr_rel1": "coach",
+        "obj1": "sergio conceicao",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "how does he rank alongside their previous managers? ",
+        "a2": "he is the best in my opinion",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "he is the best in my opinion",
+        "a2_v2": "he is the best in my opinion",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "can sergio keep them on top of their league again?",
+        "a3": "absolutely they've been killing it this season.",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a3_skt": "absolutely they've been killing it this season.",
+        "a3_v2": "absolutely they've been killing it this season.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    },
+    {
+        "q4": "sergio ramos comes to the rescue yet again for real madrid",
+        "a4": "sergio ramos has never played for fc. porto. ",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "sergio ramos": [
+                "captain",
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object has never played for fc. porto. ",
+        "a4_v2": "sergio ramos has never played for fc. porto. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "who plays on fc porto?",
+        "a5": "iker casillas is the goalkeeper",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "sergio ramos": [
+                "captain",
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is the @relation",
+        "a5_v2": "iker casillas is the goalkeeper",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "fc. porto"
+    }
+]

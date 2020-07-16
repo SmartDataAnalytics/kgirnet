@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "take me to a fast food restaurant",
+        "a1": "we are 3_miles away from pizza_my_heart and 4_miles away from pizza_chicago which one do you prefer",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "pizza_my_heart,pizza_chicago",
+        "input_ent1": "pizza_restaurant",
+        "kvr_entlist_qa1": [
+            "pizza_chicago",
+            "4_miles",
+            "pizza_my_heart",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "let s go to the one near me and on the quickest route",
+        "a2": "going to pizza_my_heart",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "pizza_my_heart",
+        "input_ent2": "pizza_restaurant",
+        "kvr_entlist_qa2": [
+            "pizza_my_heart"
+        ]
+    },
+    {
+        "q3": "thanks can you show me the address please",
+        "a3": "i sent the address on your screen 528_anton_ct you re welcome",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel3": "address",
+        "obj3": "528_anton_ct",
+        "input_ent3": "pizza_my_heart",
+        "kvr_entlist_qa3": [
+            "528_anton_ct"
+        ]
+    }
+]

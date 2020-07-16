@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who is the manager at arsenal?",
+        "a1": "unai emery.",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@coach",
+        "corr_rel1": "coach",
+        "obj1": "unai emery",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "emory is the current arsenal manager.",
+        "a2": "yes he is and he is a successful manager at that.",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes he is and he is a successful manager at that.",
+        "a2_v2": "yes he is and he is a successful manager at that.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "arsenal"
+    },
+    {
+        "q3": "what makes unai emory a successful manager? ",
+        "a3": "his experience and understanding of the game.",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "his experience and understanding of the game.",
+        "a3_v2": "his experience and understanding of the game.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "unai emery"
+    },
+    {
+        "q4": "can unai dig arsenal out of that hole?",
+        "a4": "he is capable of! if he can get those arsenal players to buy into his system watch out!!",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "he is capable of! if he can get those @entity players to buy into his system watch out!!",
+        "a4_v2": "he is capable of! if he can get those arsenal players to buy into his system watch out!!",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "arsenal"
+    },
+    {
+        "q5": "who should be the next manager for arsenal?",
+        "a5": "emery will be successful there, but he needs time to build his own team after such a long time with wenger in charge. ",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "emery will be successful there, but he needs time to build his own team after such a long time with wenger in charge. ",
+        "a5_v2": "emery will be successful there, but he needs time to build his own team after such a long time with wenger in charge. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "arsenal"
+    }
+]

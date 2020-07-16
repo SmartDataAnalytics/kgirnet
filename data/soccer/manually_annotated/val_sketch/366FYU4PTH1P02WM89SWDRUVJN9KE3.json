@@ -1,0 +1,118 @@
+[
+    {
+        "q1": "i admire juventus",
+        "a1": "who are their main rivals? ",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "who are their main rivals? ",
+        "a1_v2": "who are their main rivals? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "probably turino",
+        "a2": "turino is their main rival.",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "turino is their main rival.",
+        "a2_v2": "turino is their main rival.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "although juventus will be very difficult to win because it is a great team",
+        "a3": "i think one of the main rivals of juventus is milan, inter or napoli",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "i think one of the main rivals of @entity is milan, inter or napoli",
+        "a3_v2": "i think one of the main rivals of juventus is milan, inter or napoli",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "juventus"
+    },
+    {
+        "q4": "can you explain why over two legs juventus seem capable of defeating real madrid, but why they can't do so in finals?",
+        "a4": "juventus needs better players.",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity needs better players.",
+        "a4_v2": "juventus needs better players.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "have they qualified for the champions league this season?",
+        "a5": "yes, juventus will be playing in champions league this season.",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes, @entity will be playing in champions league this season.",
+        "a5_v2": "yes, juventus will be playing in champions league this season.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

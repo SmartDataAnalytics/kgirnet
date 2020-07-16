@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i love real madrid",
+        "a1": "what do you like most about them?",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "what do you like most about them?",
+        "a1_v2": "what do you like most about them?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "i like their players a lot. what colors does real madrid wear?",
+        "a2": "white",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "@jersey_color",
+        "corr_rel2": "jersey color",
+        "obj2": "white",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "that must be quite difficult to keep looking pristine. ",
+        "a3": "sometimes it gets dirty",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "sometimes it gets dirty",
+        "a3_v2": "sometimes it gets dirty",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "how many cl's have they won? ",
+        "a4": "i think its 23 total",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i think its @object total",
+        "a4_v2": "i think its 23 total",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "thy have 13 champions league, no 23",
+        "a5": "13 is their lucky number?",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is their lucky number?",
+        "a5_v2": "13 is their lucky number?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "13 (first in 1930)"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what is the weather like for tomorrow night",
+        "a1": "where would you like to hear the weather report from",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "brentwood",
+        "a2": "tomorrow is gonna be humid in brentwood",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday",
+        "obj2": "humid",
+        "input_ent2": "brentwood",
+        "kvr_entlist_qa2": [
+            "humid",
+            "brentwood",
+            "tomorrow"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

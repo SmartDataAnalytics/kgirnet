@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what are the directions for the nearest shopping_center without traffic",
+        "a1": "there is no shopping_centers close without traffic but i have one that is 4_miles away with a car collision noted on the route do you want the details",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "distance",
+        "obj1": "4_miles",
+        "input_ent1": "shopping_center",
+        "kvr_entlist_qa1": [
+            "4_miles"
+        ]
+    },
+    {
+        "q2": "yes please give me the address and directions via a route that avoids as much heavy_traffic as possible",
+        "a2": "setting navigation to the topanga_mall at 171 oak road now",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "address",
+        "obj2": "171_oak_rd",
+        "input_ent2": "topanga_mall",
+        "kvr_entlist_qa2": [
+            "topanga_mall"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "your welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

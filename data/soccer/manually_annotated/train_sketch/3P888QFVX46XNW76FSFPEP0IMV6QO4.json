@@ -1,0 +1,81 @@
+[
+    {
+        "q1": "i really believe in this team",
+        "a1": "portugal are due a big win.",
+        "kgER1": {},
+        "a1_skt": "@entity are due a big win.",
+        "a1_v2": "portugal are due a big win.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "do you believe portugal will win the next tournament? ",
+        "a2": "no i don't, their squad is ageing and i think they are past their best ",
+        "kgER2": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no i don't, their squad is ageing and i think they are past their best ",
+        "a2_v2": "no i don't, their squad is ageing and i think they are past their best ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "who is a star for portugal other than ronaldo?",
+        "a3": "maybe pepe",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "maybe pepe",
+        "a3_v2": "maybe pepe",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "portugal"
+    },
+    {
+        "q4": "who is portugal's current manager?",
+        "a4": "fernando santos",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object santos",
+        "a4_v2": "fernando santos",
+        "corr_rel4": "coach",
+        "obj4": "fernando santos",
+        "input_ent4": "portugal"
+    }
+]

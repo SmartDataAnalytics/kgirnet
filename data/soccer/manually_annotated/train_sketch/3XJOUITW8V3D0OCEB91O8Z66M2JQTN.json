@@ -1,0 +1,173 @@
+[
+    {
+        "q1": "who will score more goals, neymar or cavani?",
+        "a1": "i think neymar will score more but the guy dives all the time. ",
+        "kgER1": {
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a1_skt": "i think @object will score more but the guy dives all the time. ",
+        "a1_v2": "i think neymar will score more but the guy dives all the time. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "neymar"
+    },
+    {
+        "q2": " everyone must know that neymar is one of the best scorers and if he is a better scorer than cavani",
+        "a2": "did any of paris sg's players get badly injured last season?",
+        "kgER2": {
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "did any of paris sg's players get badly injured last season?",
+        "a2_v2": "did any of paris sg's players get badly injured last season?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "neymar"
+    },
+    {
+        "q3": "how would you rate neymar from 0-100? ",
+        "a3": "i'd say he's in the top quarter .. seventy five or so ",
+        "kgER3": {
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "i'd say he's in the top quarter .. seventy five or so ",
+        "a3_v2": "i'd say he's in the top quarter .. seventy five or so ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "neymar"
+    },
+    {
+        "q4": "who is the manager of paris sg?",
+        "a4": "thomas tuchel is the new manager of psg",
+        "kgER4": {
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object is the new manager of psg",
+        "a4_v2": "@coach is the new manager of psg",
+        "corr_rel4": "coach",
+        "obj4": "thomas tuchel",
+        "input_ent4": "paris sg"
+    },
+    {
+        "q5": "so he left borussia?",
+        "a5": "oryx qatar sports investments (qsi) have been the club's owner since 2011?",
+        "kgER5": {
+            "soares": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "oryx qatar sports investments (qsi) have been the club's owner since 2011?",
+        "a5_v2": "oryx qatar sports investments (qsi) have been the club's owner since 2011?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

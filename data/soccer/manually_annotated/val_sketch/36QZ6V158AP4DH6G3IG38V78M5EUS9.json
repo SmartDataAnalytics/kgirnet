@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "are you a supporter of ac milan at football?",
+        "a1": "i have nothing against them but they are not my team personally. ",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i have nothing against them but they are not my team personally. ",
+        "a1_v2": "i have nothing against them but they are not my team personally. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "what don't you like about ac milan?",
+        "a2": "they do not win enough for me to support them",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they do not win enough for me to support them",
+        "a2_v2": "they do not win enough for me to support them",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "they dont play well enough. well, maybe with higuin.",
+        "a3": "higuin will definitely help but can't carry the team himself! ",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "higuin will definitely help but can't carry the team himself! ",
+        "a3_v2": "higuin will definitely help but can't carry the team himself! ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "120 minutes worthy of the dragons in the locker room",
+        "a4": "i do not like that equipment but i support it when they play",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i do not like that equipment but i support it when they play",
+        "a4_v2": "i do not like that equipment but i support it when they play",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "what color are ac milan's jerseys?",
+        "a5": "ac milan has black and red jerseys.",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "ac milan has @object jerseys.",
+        "a5_v2": "ac milan has @jersey_color jerseys.",
+        "corr_rel5": "jersey color",
+        "obj5": "black and red",
+        "input_ent5": "ac milan"
+    }
+]

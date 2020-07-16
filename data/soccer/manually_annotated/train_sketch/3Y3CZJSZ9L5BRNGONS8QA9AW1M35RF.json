@@ -1,0 +1,105 @@
+[
+    {
+        "q1": "do you think ac milan's strikers are some of the best in the world?",
+        "a1": "they are an excellent team but there are others who are just as good. ",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they are an excellent team but there are others who are just as good. ",
+        "a1_v2": "they are an excellent team but there are others who are just as good. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "is the usa soccer team the best in the world?",
+        "a2": "usa team cannot beat ac milan or a lot of other teams. ",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "usa team cannot beat ac milan or a lot of other teams. ",
+        "a2_v2": "usa team cannot beat ac milan or a lot of other teams. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "15 (first in 1930)"
+    },
+    {
+        "q3": "you really think so? ",
+        "a3": " i think ac milan can not be defeated by the united states",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": " i think ac milan can not be defeated by the united states",
+        "a3_v2": " i think ac milan can not be defeated by the united states",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": " sometimes any football clud can beat any selection of the world especially the milan",
+        "a4": "the us just don't have a strong enough side to beat ac milan ",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "the us just don't have a strong enough side to beat ac milan ",
+        "a4_v2": "the us just don't have a strong enough side to beat ac milan ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "emre can"
+    },
+    {
+        "q5": "can real madrid beat ac milan?",
+        "a5": "real madrid has enough to challenge ac milan and i think they can beat them. ",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@entity has enough to challenge ac milan and i think they can beat them. ",
+        "a5_v2": "real madrid has enough to challenge ac milan and i think they can beat them. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

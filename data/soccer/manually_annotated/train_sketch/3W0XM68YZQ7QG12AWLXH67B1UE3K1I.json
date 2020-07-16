@@ -1,0 +1,86 @@
+[
+    {
+        "q1": "when did ibrahimovic retire from the swedish international team \\?",
+        "a1": "2016",
+        "kgER1": {
+            "shkodran mustafi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "2016",
+        "a1_v2": "2016",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who is the head coach for sweden \\?",
+        "a2": "janne andersson is the coach",
+        "kgER2": {
+            "shkodran mustafi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object is the @relation",
+        "a2_v2": "@coach is the coach",
+        "corr_rel2": "coach",
+        "obj2": "janne andersson",
+        "input_ent2": "sweden"
+    },
+    {
+        "q3": "even without zlatan sweden continues to do well , they made it to the last 8 in the world cup",
+        "a3": "sweden is a solid team without a real superstar player",
+        "kgER3": {
+            "shkodran mustafi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity is a solid team without a real superstar player",
+        "a3_v2": "sweden is a solid team without a real superstar player",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "sweden"
+    }
+]

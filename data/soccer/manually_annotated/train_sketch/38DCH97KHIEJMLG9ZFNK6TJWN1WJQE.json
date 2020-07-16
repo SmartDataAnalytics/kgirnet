@@ -1,0 +1,76 @@
+[
+    {
+        "q1": "where does this team practice soccer?",
+        "a1": "ac milan's home games are played at san siro.",
+        "kgER1": {},
+        "a1_skt": "ac milan's home games are played at san siro.",
+        "a1_v2": "ac milan's home games are played at san siro.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "ok that is where they play, but do they practice there? ",
+        "a2": "they practice at the milanello. it is located between the towns of carnago, cassano magnago and cairate, in the province of varese, about 40 km northwest of milan.",
+        "kgER2": {},
+        "a2_skt": "they practice at the milanello. it is located between the towns of carnago, cassano magnago and cairate, in the province of varese, about @object km northwest of milan.",
+        "a2_v2": "they practice at the milanello. it is located between the towns of carnago, cassano magnago and cairate, in the province of varese, about 40 km northwest of milan.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "yes i agree with the cities",
+        "a3": "i think that calcio di gallio is training",
+        "kgER3": {},
+        "a3_skt": "i think that calcio di gallio is training",
+        "a3_v2": "i think that calcio di gallio is training",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what colors are ac milan?",
+        "a4": "black and red",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "black and @object",
+        "a4_v2": "black and red",
+        "corr_rel4": "jersey color",
+        "obj4": "black and red",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "have they always been red and black?",
+        "a5": "as far as i can tell, yes.",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "red and black": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "as far as i can tell, yes.",
+        "a5_v2": "as far as i can tell, yes.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "red and black"
+    }
+]

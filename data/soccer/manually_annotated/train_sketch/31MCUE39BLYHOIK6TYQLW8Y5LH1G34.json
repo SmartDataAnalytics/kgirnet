@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "who is the juventus captain \\?",
+        "a1": "giorgio chellini is the captain of juventus",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "@object is the @relation of @entity",
+        "a1_v2": "@captain is the captain of @entity",
+        "corr_rel1": "captain",
+        "obj1": "giorgio chellini",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "good team",
+        "a2": "are captains also players \\?",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "are @relation also players \\?",
+        "a2_v2": "are captains also players \\?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "yes they are players",
+        "a3": "the captain can be any position",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "the @relation can be any position",
+        "a3_v2": "the captain can be any position",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "did buffon retire recently \\?",
+        "a4": "buffon now plays in psg",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "buffon now plays in psg",
+        "a4_v2": "buffon now plays in psg",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "gianluigi buffon"
+    },
+    {
+        "q5": "what does psg stand for \\?",
+        "a5": "paris saint germain",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "paris saint germain",
+        "a5_v2": "paris saint germain",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

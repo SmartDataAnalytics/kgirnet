@@ -1,0 +1,141 @@
+[
+    {
+        "q1": "i really love the team paris sg",
+        "a1": "me too",
+        "kgER1": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "me too",
+        "a1_v2": "me too",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "paris sg"
+    },
+    {
+        "q2": "is the paris sg team better now with neymar joining the roster? ",
+        "a2": "i heard neymar spent almost 5 minutes during a game, faking an injury to get a penalty kick.",
+        "kgER2": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "i heard @object spent almost @object minutes during a game, faking an injury to get a penalty kick.",
+        "a2_v2": "i heard neymar spent almost 5 minutes during a game, faking an injury to get a penalty kick.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "paris sg"
+    },
+    {
+        "q3": "paris sg has great strategy. why be upset because he played it well?",
+        "a3": "paris saint-germain defender presnel kimpembe, a member of france's world cup-winning squad, signed a two-year contract extension on monday (aug 13) keeping him at the club until 2023.",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "paris saint-germain @relation @object a member of france's world cup-winning squad, signed a two-year contract extension on monday (aug @object keeping him at the club until 2023.",
+        "a3_v2": "paris saint-germain defender presnel kimpembe, a member of france's world cup-winning squad, signed a two-year contract extension on monday (aug 13) keeping him at the club until 2023.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "paris sg"
+    },
+    {
+        "q4": "what other cups did they win?",
+        "a4": "always the titles of france just want to win the chanpions",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "always the titles of @entity just want to win the chanpions",
+        "a4_v2": "always the titles of france just want to win the chanpions",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "when did neymar come to psg?",
+        "a5": "neymar joined psg in 2017.",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "neymar": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object joined psg in 2017.",
+        "a5_v2": "neymar joined psg in 2017.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "neymar"
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "what about brazil?",
+        "kgER1": {},
+        "a1_skt": "what about @entity",
+        "a1_v2": "what about brazil?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "i would be very surprised if brazil did not qualify ",
+        "a2": "brazil always qualify.",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity always qualify.",
+        "a2_v2": "brazil always qualify.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "brazil"
+    },
+    {
+        "q3": "when has brazil not qualified to a world cup?",
+        "a3": "i do not remember a moment like that, it does not stop being competitive ",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i do not remember a moment like that, it does not stop being competitive ",
+        "a3_v2": "i do not remember a moment like that, it does not stop being competitive ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "brazil"
+    },
+    {
+        "q4": "what makes brazil such a good team?",
+        "a4": "they have a lot of talented players who can create a goal out of nothing. ",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they have a lot of talented players who can create a @relation out of nothing. ",
+        "a4_v2": "they have a lot of talented players who can create a goal out of nothing. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "brazil"
+    },
+    {
+        "q5": "brazil is the largest country in south america, the uk could fit in south america 33 times",
+        "a5": "can brazil win the next wc?",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "can @entity win the next wc?",
+        "a5_v2": "can brazil win the next wc?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "brazil"
+    }
+]

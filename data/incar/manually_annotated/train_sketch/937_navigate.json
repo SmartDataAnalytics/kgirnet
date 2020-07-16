@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "can you give me directions to the nearest hotel",
+        "a1": "the nearest one is comfort_inn 7_miles away there is also a road_block_nearby",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "comfort_inn",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "7_miles",
+            "road_block_nearby",
+            "comfort_inn"
+        ]
+    },
+    {
+        "q2": "ok please give me the address and directions via a quick route",
+        "a2": "setting navigation to the comfort_inn at 753_university_ave now",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "address",
+        "obj2": "753_university_ave",
+        "input_ent2": "comfort_inn",
+        "kvr_entlist_qa2": [
+            "753_university_ave",
+            "comfort_inn"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re welcome drive safely and sleep well",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "q1": "is liverpool the best uk team?",
+        "a1": "i don't think so, but they are good",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i don't think so, but they are good",
+        "a1_v2": "i don't think so, but they are good",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "does liverpool have the best player in the premier league?",
+        "a2": "arguably, yes, in mohamed salah",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "arguably, yes, in @object",
+        "a2_v2": "arguably, yes, in mohamed salah",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "you also don't think manchester united is the best uk team?",
+        "a3": "if i believe it is the best team in the united kingdom",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "if i believe it is the best team in the united kingdom",
+        "a3_v2": "if i believe it is the best team in the united kingdom",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "manchester united"
+    },
+    {
+        "q4": "at the moment i'm not sure i know who has a better line up, but i'm definitely leaning in favor of liverpool's leadership",
+        "a4": "you are right.",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "you are right.",
+        "a4_v2": "you are right.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    }
+]

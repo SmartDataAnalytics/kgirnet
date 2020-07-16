@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "what s the weather supposed to be like in new_york city this week",
+        "a1": "what days are you interested in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "will it be hot in new_york",
+        "a2": "in new_york it will be dry on saturday with low of 60f and high of 80f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "saturday",
+        "obj2": "dry,60f,80f",
+        "input_ent2": "new_york",
+        "kvr_entlist_qa2": [
+            "new_york",
+            "80f",
+            "60f",
+            "dry",
+            "saturday"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

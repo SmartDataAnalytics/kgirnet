@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "show me this week s forecast",
+        "a1": "which city would you like a weekly forecast of",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "tell me if it will drizzle in atherton this week",
+        "a2": "it s not gonna be drizzle this week in atherton",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "none",
+        "obj2": "drizzle,week",
+        "input_ent2": "atherton",
+        "kvr_entlist_qa2": [
+            "drizzle",
+            "week",
+            "atherton"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

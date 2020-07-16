@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "find me the best parking spot",
+        "a1": "stanford_oval_parking is 2_miles away",
+        "input_rel1": "",
+        "corr_rel1": "poi",
+        "obj1": "stanford_oval_parking",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "2_miles",
+            "stanford_oval_parking"
+        ]
+    },
+    {
+        "q2": "perfect address",
+        "a2": "610_amarillo_ave is the address to stanford_oval_parking",
+        "input_rel2": "car_collision_nearby,moderate_traffic,poi,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "address",
+        "obj2": "610_amarillo_ave",
+        "input_ent2": "stanford_oval_parking",
+        "kvr_entlist_qa2": [
+            "610_amarillo_ave",
+            "stanford_oval_parking"
+        ]
+    },
+    {
+        "q3": "thanks let s go there",
+        "a3": "i sent the info on your screen you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

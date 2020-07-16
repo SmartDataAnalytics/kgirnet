@@ -1,0 +1,91 @@
+[
+    {
+        "q1": "did you ever win a world cup?",
+        "a1": "don\u2019t think they have",
+        "kgER1": {},
+        "a1_skt": "don\u2019t think they have",
+        "a1_v2": "don\u2019t think they have",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ever banega"
+    },
+    {
+        "q2": "sadly not, even if some legends like ibra and larsson",
+        "a2": "have they ever won a euro championship? ",
+        "kgER2": {},
+        "a2_skt": "have they ever won a euro championship? ",
+        "a2_v2": "have they ever won a euro championship? ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "sebastian larsson"
+    },
+    {
+        "q3": "sweden's best result so far has been the fourth-place finish at home in 1996.",
+        "a3": "when did they start ?",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "when did they start ?",
+        "a3_v2": "when did they start ?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "sweden"
+    },
+    {
+        "q4": "1904",
+        "a4": "what are the chances they win a major tournament in the next 20 years or so?",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "what are the chances they win a major tournament in the next @object years or so?",
+        "a4_v2": "what are the chances they win a major tournament in the next 20 years or so?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "the chances are slim but larger than zero.",
+        "a5": "what do you think when will sweden win the next time?",
+        "kgER5": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "what do you think when will @entity win the next time?",
+        "a5_v2": "what do you think when will sweden win the next time?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

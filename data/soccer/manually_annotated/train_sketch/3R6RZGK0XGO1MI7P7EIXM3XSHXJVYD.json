@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i not sure how the rest of the world feels, but i would definitely like to see bvb dortmund change up their uniforms.",
+        "a1": "not bothered",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "not bothered",
+        "a1_v2": "not bothered",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "what do you want to see change?",
+        "a2": "i thin bvb dortmund would do much better under a new manager or coach.",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i thin bvb dortmund would do much better under a new manager or @relation",
+        "a2_v2": "i thin bvb dortmund would do much better under a new manager or coach.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "who is their coach now?",
+        "a3": "bvb dortmund's current coach is lucien favre.",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "bvb dortmund's current @relation is @object",
+        "a3_v2": "bvb dortmund's current coach is @coach",
+        "corr_rel3": "coach",
+        "obj3": "lucien favre",
+        "input_ent3": "bvb dortmund"
+    },
+    {
+        "q4": "lucien faver is the coach borussia",
+        "a4": "bvb dortmund needs to do away with the black and yellow uniforms ",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "bvb dortmund needs to do away with the black and @object uniforms ",
+        "a4_v2": "bvb dortmund needs to do away with the black and yellow uniforms ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "lucien favre"
+    },
+    {
+        "q5": "can dortmund win the league",
+        "a5": "lucien favre is the coach now for lucien bvb.",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is the @relation now for lucien bvb.",
+        "a5_v2": "lucien favre is the coach now for lucien bvb.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "emre can"
+    }
+]

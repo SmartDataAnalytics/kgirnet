@@ -1,0 +1,46 @@
+[
+    {
+        "q1": "what gas_stations are here",
+        "a1": "there is a chevron",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "chevron",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "chevron"
+        ]
+    },
+    {
+        "q2": "that s good please pick the quickest route to get there and avoid all heavy_traffic",
+        "a2": "taking you to chevron",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "chevron",
+        "input_ent2": "gas_station",
+        "kvr_entlist_qa2": [
+            "chevron"
+        ]
+    },
+    {
+        "q3": "what is the address",
+        "a3": "783_arcadia_pl is the address for chevron gas_station",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "783_arcadia_pl",
+        "input_ent3": "chevron",
+        "kvr_entlist_qa3": [
+            "783_arcadia_pl",
+            "chevron",
+            "gas_station"
+        ]
+    },
+    {
+        "q4": "perfect thank you",
+        "a4": "you re welcome happy to help",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

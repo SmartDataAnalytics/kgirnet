@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "where s the nearest parking_garage",
+        "a1": "the nearest parking_garage is dish_parking at 550_alester_ave would you like directions there",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "dish_parking",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "parking_garage",
+            "550_alester_ave",
+            "dish_parking"
+        ]
+    },
+    {
+        "q2": "yes please set directions via a route that avoids all heavy_traffic if possible",
+        "a2": "it looks like there is a road block being reported on the route but i will still find the quickest route to 550_alester_ave",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "address",
+        "obj2": "550_alester_ave",
+        "input_ent2": "parking_garage",
+        "kvr_entlist_qa2": [
+            "550_alester_ave"
+        ]
+    },
+    {
+        "q3": "thanks so much for your help",
+        "a3": "you re very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

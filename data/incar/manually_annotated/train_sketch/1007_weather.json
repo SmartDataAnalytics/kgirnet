@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "is it going to rain this week",
+        "a1": "which city are you interested in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "corona",
+        "a2": "there will be rain on wednesday and a drizzle on saturday for corona this week",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "saturday,wednesday",
+        "obj2": "rain,drizzle",
+        "input_ent2": "corona",
+        "kvr_entlist_qa2": [
+            "corona",
+            "wednesday",
+            "saturday",
+            "drizzle",
+            "rain",
+            "week"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

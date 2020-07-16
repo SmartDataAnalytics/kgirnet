@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "what league do ac milan play in?",
+        "a1": "tim cup, in serie a",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "tim cup, in serie a",
+        "a1_v2": "tim cup, in serie a",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "what does the ac stand for in ac milan?",
+        "a2": "who capped ac milan the most",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "who capped ac milan the most",
+        "a2_v2": "who capped ac milan the most",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "the ac in ac milan stands for associazione calcio.",
+        "a3": "what does that translate to in english?",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "what does that translate to in english?",
+        "a3_v2": "what does that translate to in english?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ac milan"
+    },
+    {
+        "q4": "associazione translates to association, but most people refer to the club as milan. ",
+        "a4": "i refer to it as milan and usually dont say ac",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i refer to it as milan and usually dont say ac",
+        "a4_v2": "i refer to it as milan and usually dont say ac",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "colours and badge ",
+        "a5": "ac milian has red and black are the colours which have represented the club throughout its entire history. ",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "ac @object has @object and black are the colours which have represented the club throughout its entire history. ",
+        "a5_v2": "ac milian has red and black are the colours which have represented the club throughout its entire history. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "white and red"
+    }
+]

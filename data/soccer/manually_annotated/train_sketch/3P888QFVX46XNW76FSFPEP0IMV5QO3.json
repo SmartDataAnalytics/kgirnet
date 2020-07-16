@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "what league placement do you think that atletico madrid will receive this year?",
+        "a1": "i think they will be fourth.",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i think they will be fourth.",
+        "a1_v2": "i think they will be fourth.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "who do you think will be their top goal-scorer this year?",
+        "a2": "it's just too hard to say. ",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "it's just too hard to say. ",
+        "a2_v2": "it's just too hard to say. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "how many member did the team atletico madrid have in total?",
+        "a3": "there are currently 25 members on their roster",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "there are currently @object members on their roster",
+        "a3_v2": "there are currently 25 members on their roster",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "atletico madrid"
+    },
+    {
+        "q4": "what\u2019s athletico madrid\u2019s manager called?",
+        "a4": "diego simeone",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "@coach",
+        "corr_rel4": "coach",
+        "obj4": "diego simeone",
+        "input_ent4": "atletico madrid"
+    },
+    {
+        "q5": "would you consider placing a bet on them winning thie year?",
+        "a5": "i think the atletico will fight until the end this season ",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i think the atletico will fight until the end this season ",
+        "a5_v2": "i think the atletico will fight until the end this season ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

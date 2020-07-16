@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "what is manchester united soccer team's motto when playing soccer?",
+        "a1": "when the club was founded, their motto was \"forged in industry, striving for glory\".",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "when the club was @relation their motto was \"forged in industry, striving for glory\".",
+        "a1_v2": "when the club was founded, their motto was \"forged in industry, striving for glory\".",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "who is the best player on manchester united?",
+        "a2": "lukaku for sure",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "lukaku for sure",
+        "a2_v2": "lukaku for sure",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "manchester united"
+    },
+    {
+        "q3": "totally agree, lukaku is the best player of that team",
+        "a3": "what makes lukaku so great?",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "what makes lukaku so great?",
+        "a3_v2": "what makes lukaku so great?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "romelu lukaku"
+    },
+    {
+        "q4": "what about manchester united?",
+        "a4": "lukaku is great for manchester united because he is strong and scores goals ",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "lukaku is great for @entity because he is strong and scores @relation ",
+        "a4_v2": "lukaku is great for manchester united because he is strong and scores goals ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "yes, i think it's excellent",
+        "a5": "excellent is the word eys.",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "excellent is the word eys.",
+        "a5_v2": "excellent is the word eys.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

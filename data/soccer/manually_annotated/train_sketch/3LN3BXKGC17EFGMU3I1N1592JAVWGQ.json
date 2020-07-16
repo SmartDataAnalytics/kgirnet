@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "when was the first time sweden participated in the world cup?",
+        "a1": "very good team",
+        "kgER1": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "sweden"
+    },
+    {
+        "q2": "1950",
+        "a2": "did they win the world cup in 1950?",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "did they win the world cup in @object",
+        "a2_v2": "did they win the world cup in 1950?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "1950"
+    },
+    {
+        "q3": "no they finished third. ",
+        "a3": "did sweden ever win the world cup?",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "did @entity ever win the world cup?",
+        "a3_v2": "did sweden ever win the world cup?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "just one time ",
+        "a4": "can sweden ever win the wc? ",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "can @entity ever win the wc? ",
+        "a4_v2": "can sweden ever win the wc? ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what do you think sweden need to do to be in with a chance in 2022?",
+        "a5": "they need to get that one dynamic midfielder that can control the game, like modric was to croatia.",
+        "kgER5": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they need to get that one dynamic @relation that can control the game, like modric was to @entity",
+        "a5_v2": "they need to get that one dynamic midfielder that can control the game, like modric was to croatia.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

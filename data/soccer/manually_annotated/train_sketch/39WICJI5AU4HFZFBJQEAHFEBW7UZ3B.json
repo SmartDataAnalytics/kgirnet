@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "are brazil the country with the most world cup wins \\?",
+        "a1": "yes , 5 wins",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes , @object wins",
+        "a1_v2": "yes , @number_of_world_cup_champion wins",
+        "corr_rel1": "number of world cup champion",
+        "obj1": "5",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "which year is the most recent win for brazil in the world cup \\?",
+        "a2": "brazil last won the world cup in 2002 beating germany 2 0",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity last won the world cup in @object@object@object@object beating @entity @object @object",
+        "a2_v2": "@entity last won the world cup in @world_cup_champions@world_cup_champions@world_cup_champions@world_cup_champions beating @entity @world_cup_champions @world_cup_champions",
+        "corr_rel2": "world cup champions",
+        "obj2": "2002",
+        "input_ent2": "brazil"
+    },
+    {
+        "q3": "how many times has brazil qwualified for the world cup \\?",
+        "a3": "brazil has qualified for every world cup and appeared all 21 times",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity has qualified for every world cup and appeared all @object times",
+        "a3_v2": "brazil has qualified for every world cup and appeared all 21 times",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "brazil"
+    },
+    {
+        "q4": "do you think they will repeat this year and be a world cup qualifier again \\?",
+        "a4": "yes , brazil will easily qualify",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes , @entity will easily qualify",
+        "a4_v2": "yes , brazil will easily qualify",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "what is the name of the stadium brazil plays at \\?",
+        "a5": "the stadium in brazil is called maracana",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "the stadium in @entity is called maracana",
+        "a5_v2": "the stadium in brazil is called maracana",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "brazil"
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "q1": "who is your favorite switzerland national player?",
+        "a1": "a-team nati (national team) rossocrociati ",
+        "kgER1": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "a-team nati (national team) rossocrociati ",
+        "a1_v2": "a-team nati (national team) rossocrociati ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "i like him too on the switzerland team",
+        "a2": "who else do you like on the swiss team?",
+        "kgER2": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "who else do you like on the swiss team?",
+        "a2_v2": "who else do you like on the swiss team?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "switzerland"
+    },
+    {
+        "q3": "yann sommer, i have a soft spot for goal keepers.",
+        "a3": "who is your favourite outfield player?",
+        "kgER3": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "yann sommer": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "who is your favourite outfield player?",
+        "a3_v2": "who is your favourite outfield player?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "yann sommer"
+    },
+    {
+        "q4": "i like shaqiri a lot",
+        "a4": "are switzerland performing better or worse than this  time ten years ago? ",
+        "kgER4": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "yann sommer": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "are @entity performing better or worse than this  time ten years ago? ",
+        "a4_v2": "are switzerland performing better or worse than this  time ten years ago? ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "xherdan shaqiri"
+    },
+    {
+        "q5": "do you think switzerland can do as good at the next word cup ?",
+        "a5": "switzerland will always struggle internationally as they are a small country.",
+        "kgER5": {
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "yann sommer": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "@entity will always struggle internationally as they are a small country.",
+        "a5_v2": "switzerland will always struggle internationally as they are a small country.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

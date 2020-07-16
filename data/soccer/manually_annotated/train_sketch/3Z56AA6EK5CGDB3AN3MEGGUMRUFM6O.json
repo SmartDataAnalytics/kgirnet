@@ -1,0 +1,100 @@
+[
+    {
+        "q1": "barcelona has great players and legends like messi",
+        "a1": "i agree, both past and current, players like ronaldinho are one of the biggest legends in football history.",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i agree, both past and current, players like ronaldinho are one of the biggest legends in football history.",
+        "a1_v2": "i agree, both past and current, players like ronaldinho are one of the biggest legends in football history.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "how good are barca?",
+        "a2": "depends how biased you are ",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "depends how biased you are ",
+        "a2_v2": "depends how biased you are ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what biases will effect your opinion of barcelona?",
+        "a3": "you may not like barcelona, and would be biased if you supported their rivals, real madrid.",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "you may not like @entity and would be biased if you supported their rivals, @entity",
+        "a3_v2": "you may not like barcelona, and would be biased if you supported their rivals, real madrid.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "barcelona"
+    },
+    {
+        "q4": "i would not support them, i'm a fan of barcelona ",
+        "a4": "what is the name of the coach of barcelona? ",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "what is the name of the @relation of @entity ",
+        "a4_v2": "what is the name of the coach of barcelona? ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "who is the current forward for barcelona?",
+        "a5": "rakitic, suarez, coutinho",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a5_skt": "rakitic, suarez, coutinho",
+        "a5_v2": "rakitic, suarez, coutinho",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "forward"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i completely love barcelona",
+        "a1": "they will play today alaves today!",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they will play today alaves today!",
+        "a1_v2": "they will play today alaves today!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "how many goals did barcelona score in there last game ",
+        "a2": "they took la liga this year, but i'm not sure which was their last game.",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they took la liga this year, but i'm not sure which was their last game.",
+        "a2_v2": "they took la liga this year, but i'm not sure which was their last game.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "barcelona"
+    },
+    {
+        "q3": "what colours do barcelona play in? ",
+        "a3": "blue and red ",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object and @object ",
+        "a3_v2": "blue and red ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "barcelona"
+    },
+    {
+        "q4": "futbol club barcelona ",
+        "a4": "yes, it's a football club",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "yes, it's a football club",
+        "a4_v2": "yes, it's a football club",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "what is the next team they play?",
+        "a5": "they play boca juniors of argentina.",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "they play boca juniors of @entity",
+        "a5_v2": "they play boca juniors of argentina.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

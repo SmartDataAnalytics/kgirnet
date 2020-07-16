@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "car i need to get to my friends_house it should be within 4_miles from here",
+        "a1": "jacks_house is 4_miles away at 864_almanor_ln",
+        "input_rel1": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel1": "distance",
+        "obj1": "jacks_house,864_almanor_ln",
+        "input_ent1": "friends_house",
+        "kvr_entlist_qa1": [
+            "jacks_house",
+            "4_miles",
+            "864_almanor_ln"
+        ]
+    },
+    {
+        "q2": "set my navigation to jacks for the shortest route possible",
+        "a2": "setting navigation now",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "thanks",
+        "a3": "you re welcome and be careful",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

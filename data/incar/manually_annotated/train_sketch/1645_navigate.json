@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "find me a nearby coffee shop specifically starbucks",
+        "a1": "i m sorry but there are no starbucks nearby if you want there is philz 1_miles away",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "philz",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "philz",
+            "1_miles",
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "their coffee isn t that good but patience please avoid all heavy_traffic and let s go there",
+        "a2": "ok mapping route to philz and trying to avoid all heavy_traffic",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "philz",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "philz",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re welcome glad to help",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "q1": "why doesn't the women's world cup get as much acclaim as the men's world cup?",
+        "a1": "gender unequality or maybe it's not so good.",
+        "kgER1": {},
+        "a1_skt": "gender unequality or maybe it's not so good.",
+        "a1_v2": "gender unequality or maybe it's not so good.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who do you think will win the premier league title this year?",
+        "a2": " manchester city ",
+        "kgER2": {},
+        "a2_skt": " manchester city ",
+        "a2_v2": " manchester city ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "manchester city are strong, but manchester united, liverpool, chelsea, and tottenham will all challenge strongly again.",
+        "a3": "personally i hope liverpool win. it's their time. ",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "personally i hope @entity win. it's their time. ",
+        "a3_v2": "personally i hope liverpool win. it's their time. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "manchester united"
+    },
+    {
+        "q4": "any love for everton?",
+        "a4": "they are a good team too.",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "they are a good team too.",
+        "a4_v2": "they are a good team too.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    }
+]

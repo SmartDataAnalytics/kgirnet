@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "will it be foggy on tuesday in redwood_city",
+        "a1": "it will be cloudy but not foggy in redwood_city on tuesday",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday",
+        "obj1": "cloudy",
+        "input_ent1": "redwood_city",
+        "kvr_entlist_qa1": [
+            "redwood_city",
+            "tuesday",
+            "cloudy",
+            "foggy"
+        ]
+    },
+    {
+        "q2": "thank you",
+        "a2": "glad i could help out",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

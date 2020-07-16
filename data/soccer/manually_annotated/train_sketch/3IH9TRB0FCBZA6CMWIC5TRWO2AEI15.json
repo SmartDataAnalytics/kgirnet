@@ -1,0 +1,109 @@
+[
+    {
+        "q1": "arsenal will play their next match against manchester city.",
+        "a1": "good to know but i ll take your word for it",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "good to know but i ll take your word for it",
+        "a1_v2": "good to know but i ll take your word for it",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "yes the game against manchester city is their first game of the season and their first premier league game under unai emery",
+        "a2": "what will emery bring to the team? ",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "unai emery": [
+                "coach"
+            ]
+        },
+        "a2_skt": "what will emery bring to the team? ",
+        "a2_v2": "what will emery bring to the team? ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "unai emery"
+    },
+    {
+        "q3": "leadership, strength and consistency",
+        "a3": "agree that emery will bring leadership, strength and consistency. ",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "unai emery": [
+                "coach"
+            ]
+        },
+        "a3_skt": "agree that emery will bring leadership, strength and consistency. ",
+        "a3_v2": "agree that emery will bring leadership, strength and consistency. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "white and red"
+    },
+    {
+        "q4": "what will be the keys to victory?",
+        "a4": "score goals ",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "unai emery": [
+                "coach"
+            ]
+        },
+        "a4_skt": "score @relation ",
+        "a4_v2": "score goals ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who will arsenal play next?",
+        "a5": "arsenal plays chelsea next",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "unai emery": [
+                "coach"
+            ]
+        },
+        "a5_skt": "@entity plays @entity next",
+        "a5_v2": "arsenal plays chelsea next",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "arsenal"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "q1": "when did the team get started?",
+        "a1": "a.c. milan or simply milan, is a professional football club in milan, italy, founded in 1899.",
+        "kgER1": {},
+        "a1_skt": "a.c. milan or simply milan, is a professional football club in milan, italy, @relation in @object",
+        "a1_v2": "a.c. milan or simply milan, is a professional football club in milan, italy, founded in 1899.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "how many championships have they won?",
+        "a2": "they haven't won any this century.",
+        "kgER2": {},
+        "a2_skt": "they haven't won any this century.",
+        "a2_v2": "they haven't won any this century.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is their all time scorer? ",
+        "a3": "gunnar nordhal",
+        "kgER3": {},
+        "a3_skt": "gunnar nordhal",
+        "a3_v2": "gunnar nordhal",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "how many champions league titles have they won?",
+        "a4": "it appears they have not around thirty six. ",
+        "kgER4": {},
+        "a4_skt": "it appears they have not around thirty six. ",
+        "a4_v2": "it appears they have not around thirty six. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "when is the main football season in italy?",
+        "a5": "it starts in august and goes till may",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "it starts in august and goes till may",
+        "a5_v2": "it starts in august and goes till may",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "italy"
+    }
+]

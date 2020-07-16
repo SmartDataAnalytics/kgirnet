@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "how would you rate liverpool's transfer business this summer?",
+        "a1": "i think it was a good thing for them",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i think it was a good thing for them",
+        "a1_v2": "i think it was a good thing for them",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "do you think liverpool can win the league with their new transfers?",
+        "a2": "absolutely.  jurgan klopp is an excellent leader and salah is the best goal scorer in the premier league.",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "absolutely.  jurgan klopp is an excellent leader and salah is the best @relation scorer in the premier league.",
+        "a2_v2": "absolutely.  jurgan klopp is an excellent leader and salah is the best goal scorer in the premier league.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "do you think salah will be willing to follow klopp's direction?",
+        "a3": "if he stays in liverpool, then yes",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "if he stays in @entity then yes",
+        "a3_v2": "if he stays in liverpool, then yes",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mohamed salah"
+    },
+    {
+        "q4": "who thinks liverpool will win it all?",
+        "a4": "i do! they have many good players ",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i do! they have many good players ",
+        "a4_v2": "i do! they have many good players ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    },
+    {
+        "q5": "will they focus on winning the premier league or on winning champion's league?",
+        "a5": "yes they focus very much",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes they focus very much",
+        "a5_v2": "yes they focus very much",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

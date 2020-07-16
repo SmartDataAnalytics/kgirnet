@@ -1,0 +1,172 @@
+[
+    {
+        "q1": "is cristiano ronaldo still a forward for juventus?",
+        "a1": "yes, i think he will play forward up top along side paulo dybala.  i think he will get to play where he wants and this is his most favored position. ",
+        "kgER1": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "yes, i think he will play @relation up top along side @object  i think he will get to play where he wants and this is his most favored position. ",
+        "a1_v2": "yes, i think he will play forward up top along side paulo dybala.  i think he will get to play where he wants and this is his most favored position. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "cristiano ronaldo"
+    },
+    {
+        "q2": "of course, he is still in great shape and is a natural goal scorer.",
+        "a2": "what could he do to become a trained goal scorer?",
+        "kgER2": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "what could he do to become a trained @relation scorer?",
+        "a2_v2": "what could he do to become a trained goal scorer?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "white and red"
+    },
+    {
+        "q3": "ronaldo is already a trained goal scorer. he practices very hard. ",
+        "a3": "ronaldo continues to do a great job with juventus",
+        "kgER3": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "ronaldo continues to do a great job with @entity",
+        "a3_v2": "ronaldo continues to do a great job with juventus",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "cristiano ronaldo"
+    },
+    {
+        "q4": "do the juventus fans love ronoldo?",
+        "a4": "no juventus is a character all his own.",
+        "kgER4": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "no @entity is a character all his own.",
+        "a4_v2": "no juventus is a character all his own.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "juventus"
+    },
+    {
+        "q5": "cristiano ronaldo memes have flooded the internet since his \u00a399million move to juventus.  ",
+        "a5": "i believe that the fans of cristiano ronaldo",
+        "kgER5": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "forward": [
+                "position"
+            ],
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "i believe that the fans of @object",
+        "a5_v2": "i believe that the fans of cristiano ronaldo",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "cristiano ronaldo"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "q1": "how did portugal do in the world cup?",
+        "a1": "portugal came second in their group but then lost against uruguay in the round of 16. so it could have been better.",
+        "kgER1": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity came second in their group but then lost against @entity in the @relation of @object so it could have been better.",
+        "a1_v2": "portugal came second in their group but then lost against uruguay in the round of 16. so it could have been better.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "how much dd they lose by?",
+        "a2": "3-2",
+        "kgER2": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "3-2",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who plays for portugal",
+        "a3": "several men play for portugal but among the most well-known or famous is cristiano ronaldo, who is belived to be one of the best players in the world.",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "several men play for @entity but among the most well-known or famous is @object who is belived to be one of the best players in the world.",
+        "a3_v2": "several men play for portugal but among the most well-known or famous is cristiano ronaldo, who is belived to be one of the best players in the world.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "portugal"
+    },
+    {
+        "q4": "what is so great about ronaldo?",
+        "a4": "he is a goal scoring machine. it feels like a goal every time he touches the ball in the box.",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "he is a @relation scoring machine. it feels like a @relation every time he touches the ball in the box.",
+        "a4_v2": "he is a goal scoring machine. it feels like a goal every time he touches the ball in the box.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "cristiano ronaldo"
+    },
+    {
+        "q5": "how many goals has he scored this season? ",
+        "a5": "ronaldo scored 65% of portugal's goals",
+        "kgER5": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "ronaldo scored @object of @entity @relation",
+        "a5_v2": "ronaldo scored 65% of portugal's goals",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    },
+    {
+        "q6": "do you think he will be fit enough to play for portugal next world cup ?",
+        "a6": "yes i think he will fit in just fine",
+        "kgER6": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a6_skt": "yes i think he will fit in just fine",
+        "a6_v2": "yes i think he will fit in just fine",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "estadio do dragaoporto, portugal"
+    }
+]

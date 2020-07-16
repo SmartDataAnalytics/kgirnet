@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is the owner of real madrid?",
+        "a1": "mr florentino p\u00e9rez",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "mr @object",
+        "a1_v2": "mr @chairman",
+        "corr_rel1": "chairman",
+        "obj1": "florentino perez",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "who is the manager?",
+        "a2": "julen lopetegui",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "julen lopetegui",
+        "a2_v2": "julen lopetegui",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "florentino perez is the president",
+        "a3": "when did real madrid start playing ",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "florentino perez": [
+                "chairman"
+            ]
+        },
+        "a3_skt": "when did @entity start playing ",
+        "a3_v2": "when did real madrid start playing ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "florentino perez"
+    },
+    {
+        "q4": "they were formed on the6th march 1902.",
+        "a4": "does team will be strong without cristiano ronaldo",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "florentino perez": [
+                "chairman"
+            ]
+        },
+        "a4_skt": "does team will be strong without @object",
+        "a4_v2": "does team will be strong without cristiano ronaldo",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "when did cristiano ronaldo join real madrid?",
+        "a5": "cr7 has played for real madrid since 2009 until 2018.",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "florentino perez": [
+                "chairman"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "cr7 has played for @entity since 2009 until @object",
+        "a5_v2": "cr7 has played for real madrid since 2009 until 2018.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

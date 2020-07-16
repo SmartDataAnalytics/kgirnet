@@ -1,0 +1,123 @@
+[
+    {
+        "q1": "did you expect croatia to win?",
+        "a1": "no, croatia had a good run, but france are a class act.",
+        "kgER1": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "no, @entity had a good run, but @entity are a class act.",
+        "a1_v2": "no, croatia had a good run, but france are a class act.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "croatia"
+    },
+    {
+        "q2": "will croatia improve in 2019?",
+        "a2": "i would think so. their midfield is strong.",
+        "kgER2": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i would think so. their @relation is strong.",
+        "a2_v2": "i would think so. their midfield is strong.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "croatia"
+    },
+    {
+        "q3": "i think croatia will do well as long as they keep training and working hard. they have the potential to be a good team.",
+        "a3": "i agree. i liken them to be the next germany  when they played in 2014",
+        "kgER3": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i agree. i liken them to be the next @entity  when they played in @object",
+        "a3_v2": "i agree. i liken them to be the next germany  when they played in 2014",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "croatia"
+    },
+    {
+        "q4": "croatia national football team have appeared in the fifa world cup on five occasions (in 1998, 2002, 2006, 2014 and 2018).",
+        "a4": "that is correct",
+        "kgER4": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "that is correct",
+        "a4_v2": "that is correct",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "2002"
+    },
+    {
+        "q5": "yes it is",
+        "a5": " croatia will be a better team for the next world cup",
+        "kgER5": {
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": " @entity will be a better team for the next world cup",
+        "a5_v2": " croatia will be a better team for the next world cup",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

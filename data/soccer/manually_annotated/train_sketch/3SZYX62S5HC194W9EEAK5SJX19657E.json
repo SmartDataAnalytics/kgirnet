@@ -1,0 +1,81 @@
+[
+    {
+        "q1": "who is liverpool coach?",
+        "a1": "j\u00fcrgen klopp is the manager.",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "j\u00fcrgen klopp is the manager.",
+        "a1_v2": "j\u00fcrgen klopp is the manager.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "how is he faring there? ",
+        "a2": "very good under him",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "very good under him",
+        "a2_v2": "very good under him",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what other teams has he coached, do you know?",
+        "a3": "mainz and borussia dortmund",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "mainz and borussia dortmund",
+        "a3_v2": "mainz and borussia dortmund",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "how many trophies has jurgen klopp won ?",
+        "a4": "i think 5 in total  ",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "jurgen klopp": [
+                "coach"
+            ]
+        },
+        "a4_skt": "i think @object in total  ",
+        "a4_v2": "i think 5 in total  ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "jurgen klopp"
+    }
+]

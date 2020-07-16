@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "find a tea shop",
+        "a1": "there is a coupa cafe_venetia philz and starbucks which one would you like",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "cafe_venetia,philz,starbucks,coupa",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "cafe_venetia",
+            "philz",
+            "starbucks",
+            "coupa"
+        ]
+    },
+    {
+        "q2": "pick for me the one with the shortest distance please",
+        "a2": "philz is 2_miles away at 483 alester ave and there is currently moderate_traffic on the route setting directions now",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "distance,poi",
+        "obj2": "philz,2_miles",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "moderate_traffic",
+            "philz",
+            "2_miles"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

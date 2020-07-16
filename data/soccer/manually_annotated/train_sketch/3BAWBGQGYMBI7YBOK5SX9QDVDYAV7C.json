@@ -1,0 +1,161 @@
+[
+    {
+        "q1": "belgium has quite a few talented players , right \\?",
+        "a1": "yes belgium has quite some talented players such as eden hazard , jordan lukaku , and adnan januzaj",
+        "kgER1": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes @entity has quite some talented players such as @object , jordan lukaku , and @object",
+        "a1_v2": "yes belgium has quite some talented players such as eden hazard , jordan lukaku , and adnan januzaj",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "belgium"
+    },
+    {
+        "q2": "who does eden hazard play for other than belgium \\?",
+        "a2": "he plays for english club chelsea",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "he plays for english club @entity",
+        "a2_v2": "he plays for english club chelsea",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "eden hazard"
+    },
+    {
+        "q3": "who plays for belgium \\?",
+        "a3": "eden hazard , romelu lukaku , kevin de bruyne , and thibaut courtois are some of belgium 's best players",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object , @object , @object , and @object are some of @entity 's best players",
+        "a3_v2": "eden hazard , romelu lukaku , kevin de bruyne , and thibaut courtois are some of belgium 's best players",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "belgium"
+    },
+    {
+        "q4": "belgium is going to win the world cup qatar 2022",
+        "a4": "belgium flag what i color \\?",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity flag what i color \\?",
+        "a4_v2": "belgium flag what i color \\?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "belgium"
+    },
+    {
+        "q5": "how many goals does belgium 's team have \\?",
+        "a5": "in the last world cup they scored 16",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "in the last world cup they scored @object",
+        "a5_v2": "in the last world cup they scored 16",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "belgium"
+    }
+]

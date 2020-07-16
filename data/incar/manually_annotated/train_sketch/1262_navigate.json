@@ -1,0 +1,46 @@
+[
+    {
+        "q1": "where is there a coffee_or_tea_place around find me one that will get me there the quickest with the least traffic",
+        "a1": "teavana would be the closest one wold you like directions to this location",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "teavana",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "teavana"
+        ]
+    },
+    {
+        "q2": "yes please tell me the route traffic and where it is",
+        "a2": "there is no_traffic to teavana at 145_amherst_st",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "poi,address",
+        "obj2": "teavana,145_amherst_st",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "no_traffic",
+            "teavana",
+            "145_amherst_st"
+        ]
+    },
+    {
+        "q3": "ok map a route to teavana and let s go",
+        "a3": "gps set to teavana",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "",
+        "obj3": "none",
+        "input_ent3": "teavana",
+        "kvr_entlist_qa3": [
+            "teavana"
+        ]
+    },
+    {
+        "q4": "thank you for the help",
+        "a4": "you re welcome have a safe trip",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

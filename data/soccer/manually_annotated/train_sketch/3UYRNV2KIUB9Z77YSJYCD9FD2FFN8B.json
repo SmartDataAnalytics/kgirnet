@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i love the team barcelona",
+        "a1": "who is your favorite player on the barcelona team?",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "who is your favorite player on the @entity team?",
+        "a1_v2": "who is your favorite player on the barcelona team?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "i like messi",
+        "a2": "messi is the a top-2 player in the game right now",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "messi is the a top-2 player in the game right now",
+        "a2_v2": "messi is the a top-2 player in the game right now",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "lionel messi"
+    },
+    {
+        "q3": "who's the top 1 then?",
+        "a3": "ter stegen",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "ter stegen",
+        "a3_v2": "ter stegen",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "1 (first in 2018)"
+    },
+    {
+        "q4": "i also like messi and he is the no.1 player",
+        "a4": "no i agree ter stegen is no. 1",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "no i agree ter stegen is no. @object",
+        "a4_v2": "no i agree ter stegen is no. 1",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "lionel messi"
+    },
+    {
+        "q5": "who plays for barcelona that is the best",
+        "a5": "messi does.",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "messi does.",
+        "a5_v2": "messi does.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "barcelona"
+    }
+]

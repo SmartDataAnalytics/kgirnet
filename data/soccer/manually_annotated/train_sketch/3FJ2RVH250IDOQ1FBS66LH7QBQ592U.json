@@ -1,0 +1,160 @@
+[
+    {
+        "q1": "where does luka modric play professionally?",
+        "a1": "for croatia.",
+        "kgER1": {
+            "luka modric": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "midfielder"
+            ]
+        },
+        "a1_skt": "for @entity",
+        "a1_v2": "for croatia.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "luka modric"
+    },
+    {
+        "q2": "what position does he play? ",
+        "a2": "he plays as a midfielder .",
+        "kgER2": {
+            "luka modric": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "midfielder"
+            ]
+        },
+        "a2_skt": "he plays as a @relation .",
+        "a2_v2": "he plays as a position .",
+        "corr_rel2": "position",
+        "obj2": "midfielder",
+        "input_ent2": "luka modric"
+    },
+    {
+        "q3": "i agree with them also plays for real madrid",
+        "a3": "totally agree one of the best midfield in the world",
+        "kgER3": {
+            "luka modric": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "midfielder"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "totally agree one of the best @relation in the world",
+        "a3_v2": "totally agree one of the best midfield in the world",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "what is croatia's best player?",
+        "a4": "luka modric hands down is the best player for croatia",
+        "kgER4": {
+            "luka modric": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "midfielder"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object hands down is the @relation for @entity",
+        "a4_v2": "luka modric hands down is the best player for croatia",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "croatia"
+    },
+    {
+        "q5": "would their performance really suffer without him? ",
+        "a5": "yes, the teams stats really did suffer after his injuries. ",
+        "kgER5": {
+            "luka modric": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "midfielder"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "croatia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes, the teams stats really did suffer after his injuries. ",
+        "a5_v2": "yes, the teams stats really did suffer after his injuries. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

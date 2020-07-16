@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who is the head coach?",
+        "a1": "diego simeone",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@coach",
+        "corr_rel1": "coach",
+        "obj1": "diego simeone",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "where are atletico madird placed on the leaders table?",
+        "a2": "dortmund, brugge and monaco",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "dortmund, brugge and monaco",
+        "a2_v2": "dortmund, brugge and monaco",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "atletico madrid"
+    },
+    {
+        "q3": "do you like atletico madrid?",
+        "a3": "i like atletico madrid",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i like @entity",
+        "a3_v2": "i like atletico madrid",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "atletico madrid"
+    },
+    {
+        "q4": "who is the best player for atletico madrid ",
+        "a4": "i think antoine griezmann.",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i think @object",
+        "a4_v2": "i think antoine griezmann.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "atletico madrid"
+    },
+    {
+        "q5": "who is the owner of atl. madrid?",
+        "a5": "enrique cerezo",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@chairman",
+        "corr_rel5": "chairman",
+        "obj5": "enrique cerezo",
+        "input_ent5": "atletico madrid"
+    }
+]

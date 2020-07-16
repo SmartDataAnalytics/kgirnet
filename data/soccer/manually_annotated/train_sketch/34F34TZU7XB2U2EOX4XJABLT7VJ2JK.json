@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "who is the captain for argentina?",
+        "a1": "lionel messi is the captain.",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object is the @relation",
+        "a1_v2": "@captain is the captain",
+        "corr_rel1": "captain",
+        "obj1": "lionel messi",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "when were they started ?",
+        "a2": "two english immigrants, thomas and james hogg, organized a meeting on 9 may 1867 in buenos aires where the buenos aires football club was founded.",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "two english immigrants, thomas and james hogg, organized a meeting on @object may 1867 in buenos aires where the buenos aires football club was @relation",
+        "a2_v2": "two english immigrants, thomas and james hogg, organized a meeting on 9 may 1867 in buenos aires where the buenos aires football club was founded.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "when was the last time argentina went to the world cup?",
+        "a3": "they played in the 2018 world cup. perhaps messi's last one.",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they played in the @object world cup. perhaps messi's last one.",
+        "a3_v2": "they played in the 2018 world cup. perhaps messi's last one.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "argentina"
+    },
+    {
+        "q4": "argentina   flag what i  color?",
+        "a4": "the argentina flag is light blue top and bottom with a white stripe in the middle featuring the sun of may.",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "the @entity flag is light @object top and bottom with a @object stripe in the middle featuring the sun of may.",
+        "a4_v2": "the argentina flag is light blue top and bottom with a white stripe in the middle featuring the sun of may.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "argentina"
+    },
+    {
+        "q5": "messi or maradona? ",
+        "a5": "messi seems to me the best player in history ",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "messi seems to me the @relation in history ",
+        "a5_v2": "messi seems to me the best player in history ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "lionel messi"
+    }
+]

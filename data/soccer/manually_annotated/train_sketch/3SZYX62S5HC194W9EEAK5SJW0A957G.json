@@ -1,0 +1,124 @@
+[
+    {
+        "q1": "is argentina the best team in south america \\?",
+        "a1": "no , brazil is the best team in south america right now",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "no , @entity is the best team in south america right now",
+        "a1_v2": "no , brazil is the best team in south america right now",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "what was the year argentina won the world cup \\?",
+        "a2": "1978 and 1986",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object and @object",
+        "a2_v2": "@world_cup_champions and @world_cup_champions",
+        "corr_rel2": "world cup champions",
+        "obj2": "1978",
+        "input_ent2": "argentina"
+    },
+    {
+        "q3": "who was the last opponent that argentina played against \\?",
+        "a3": "france in the world cup",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity in the world cup",
+        "a3_v2": "france in the world cup",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "argentina"
+    },
+    {
+        "q4": "i agree with that , it was an excellent game that day",
+        "a4": "did you ever thing argentina had a chance of winning \\?",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "did you ever thing @entity had a chance of winning \\?",
+        "a4_v2": "did you ever thing argentina had a chance of winning \\?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "yes , i believed argentina would win against france",
+        "a5": "france have a far better team than argentina though",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity have a far better team than @entity though",
+        "a5_v2": "france have a far better team than argentina though",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "argentina"
+    }
+]

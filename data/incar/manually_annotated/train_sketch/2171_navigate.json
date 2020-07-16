@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "car i need the address of a parking_garage near me please help me",
+        "a1": "webster_garage is 7_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "webster_garage,7_miles",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "webster_garage",
+            "7_miles"
+        ]
+    },
+    {
+        "q2": "is that the closest one to me if so send me the address",
+        "a2": "yes it s the closest one i sent its position on your screen",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "webster_garage",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "what is the address",
+        "a3": "webster_garage is located at 880_ames_ct",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "880_ames_ct",
+        "input_ent3": "webster_garage",
+        "kvr_entlist_qa3": [
+            "webster_garage",
+            "880_ames_ct"
+        ]
+    },
+    {
+        "q4": "please pick the fastest route and let s go there thank you",
+        "a4": "no problem",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

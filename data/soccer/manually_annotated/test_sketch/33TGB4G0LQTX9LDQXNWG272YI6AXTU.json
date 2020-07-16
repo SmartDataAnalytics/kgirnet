@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "how many goals did bvb dortmund score last season?",
+        "a1": "64 goals.",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object @relation",
+        "a1_v2": "64 goals.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "who was their leading scorer?",
+        "a2": "pierre-emerick aubameyang",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "pierre-emerick aubameyang",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "will dvb dortmund ever win a world cup?",
+        "a3": "no, because they are a club team.",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "no, because they are a club team.",
+        "a3_v2": "no, because they are a club team.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ever banega"
+    },
+    {
+        "q4": "64 is the best goal?",
+        "a4": "the best goal was the one that scored aubameyang ",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "the best @relation was the one that scored aubameyang ",
+        "a4_v2": "the best goal was the one that scored aubameyang ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who was bvb's starting goalie?",
+        "a5": "roman b\u00fcrki was the starting goalie",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "roman b\u00fcrki was the starting goalie",
+        "a5_v2": "roman b\u00fcrki was the starting goalie",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bvb dortmund"
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "q1": "i can't help feeling the jose mourinho brand of football will bore manchester utd supporters before too long.",
+        "a1": "agreed, he is too conservative",
+        "kgER1": {
+            "jose mourinho": [
+                "coach"
+            ]
+        },
+        "a1_skt": "agreed, he is too conservative",
+        "a1_v2": "agreed, he is too conservative",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "jose mourinho"
+    },
+    {
+        "q2": "fans, especially manchester united fans, want action and excitement and you have to please the fans!",
+        "a2": "how many people have season passes for manchester united",
+        "kgER2": {
+            "jose mourinho": [
+                "coach"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "how many people have season passes for @entity",
+        "a2_v2": "how many people have season passes for manchester united",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "manchester united"
+    },
+    {
+        "q3": "pretty much the entire ground is season ticket holders so it's got to be over 60000.",
+        "a3": "that can't be true!",
+        "kgER3": {
+            "jose mourinho": [
+                "coach"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "that can't be true!",
+        "a3_v2": "that can't be true!",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "not only is it true, but there is a waiting list of many years before you will have the opportunity to buy one for yourself!",
+        "a4": "well they are the most popular team in england.",
+        "kgER4": {
+            "jose mourinho": [
+                "coach"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "well they are the most popular team in england.",
+        "a4_v2": "well they are the most popular team in england.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "how much would you expect to pay for a season pass? ",
+        "a5": "manchester united have announced they will introduce tickets costing \u00a315 pounds for 18 to 25-year-olds for the 2018-19 premier league campaign.",
+        "kgER5": {
+            "jose mourinho": [
+                "coach"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@entity have announced they will introduce tickets costing @object pounds for @object to 25-year-olds for the 20@object-19 premier league campaign.",
+        "a5_v2": "manchester united have announced they will introduce tickets costing \u00a315 pounds for 18 to 25-year-olds for the 2018-19 premier league campaign.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    },
+    {
+        "q6": "how much would you",
+        "a6": "i would play anything to see them play. see you at the box office!",
+        "kgER6": {
+            "jose mourinho": [
+                "coach"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a6_skt": "i would play anything to see them play. see you at the box office!",
+        "a6_v2": "i would play anything to see them play. see you at the box office!",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "andres guardado"
+    }
+]

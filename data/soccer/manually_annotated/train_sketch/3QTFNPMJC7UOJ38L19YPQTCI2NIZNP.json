@@ -1,0 +1,76 @@
+[
+    {
+        "q1": "what do you think of their season this past year \\?",
+        "a1": "he had very good physical performance and did everything possible to win",
+        "kgER1": {},
+        "a1_skt": "he had very good physical performance and did everything possible to win",
+        "a1_v2": "he had very good physical performance and did everything possible to win",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "the players showed that their hard work and training has paid off",
+        "a2": "bayern munich will win 2018 19 season",
+        "kgER2": {},
+        "a2_skt": "@entity will win @object @object season",
+        "a2_v2": "bayern munich will win 2018 19 season",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "white and red"
+    },
+    {
+        "q3": "who is bayern munich 's manager this year \\?",
+        "a3": "bayern munich 's manager this year is niko kovac",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@entity 's manager this year is niko kovac",
+        "a3_v2": "@entity 's manager this year is niko kovac",
+        "corr_rel3": "coach",
+        "obj3": "niko kovac",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "who is the current manager of bayern munich \\?",
+        "a4": "niko kovac is the bayern manager",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "niko kovac is the bayern manager",
+        "a4_v2": "niko kovac is the bayern manager",
+        "corr_rel4": "coach",
+        "obj4": "niko kovac",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "tell me something about them",
+        "a5": "bayern munich is the biggest sports club in germany and the fourth highest earning football club in the world , generating 20587 8 millions",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@entity is the biggest sports club in @entity and the fourth @relation earning football club in the world , generating 205@object7 @object millions",
+        "a5_v2": "bayern munich is the biggest sports club in germany and the fourth highest earning football club in the world , generating 20587 8 millions",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

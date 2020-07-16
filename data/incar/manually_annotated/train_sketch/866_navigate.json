@@ -1,0 +1,46 @@
+[
+    {
+        "q1": "pull up directions to 5672 barringer street",
+        "a1": "i don t see 5672 barringer street nearby can you confirm that that is the destination you want",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "5672_barringer_street",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "yes it should be near me in the direction we re going now",
+        "a2": "i still do not see 5672 barringer street nearby home is nearby at 3_miles away do you wish to go there",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "distance",
+        "obj2": "3_miles",
+        "input_ent2": "5672_barringer_street",
+        "kvr_entlist_qa2": [
+            "home",
+            "3_miles"
+        ]
+    },
+    {
+        "q3": "yes please show on the map the quickest way to get there",
+        "a3": "mapping route to home 56_cadwell_street 3_miles away with a car_collision_nearby",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "distance",
+        "obj3": "56_cadwell_street,3_miles",
+        "input_ent3": "5672_barringer_street",
+        "kvr_entlist_qa3": [
+            "home",
+            "3_miles",
+            "car_collision_nearby",
+            "56_cadwell_street"
+        ]
+    },
+    {
+        "q4": "ok thanks for the information",
+        "a4": "you re welcome happy to be of assistance",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

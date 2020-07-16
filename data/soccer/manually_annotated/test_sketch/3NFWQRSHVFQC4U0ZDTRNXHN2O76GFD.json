@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "does arsenal have a soccer team?",
+        "a1": "yes.",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes.",
+        "a1_v2": "yes.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "are the any good? ",
+        "a2": "they always finish fourth.",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they always finish fourth.",
+        "a2_v2": "they always finish fourth.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "do you think they can finish in the top-3 this year?",
+        "a3": "what stadium does arsenal play in?",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "what stadium does @entity play in?",
+        "a3_v2": "what stadium does arsenal play in?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    },
+    {
+        "q4": "i think they can finish top 3. they play at the emirates.",
+        "a4": "sport galleries ",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "sport galleries ",
+        "a4_v2": "sport galleries ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "emirates stadium"
+    },
+    {
+        "q5": "who would arsenal face in the final?",
+        "a5": "i think he would face liverpool ",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i think he would face @entity ",
+        "a5_v2": "i think he would face liverpool ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "arsenal"
+    }
+]

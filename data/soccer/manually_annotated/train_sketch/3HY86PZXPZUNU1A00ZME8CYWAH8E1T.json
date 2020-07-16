@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "who is italy's manager this year?",
+        "a1": "not sure",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "not sure",
+        "a1_v2": "not sure",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "roberto mancini the former manchester city manager is the italian head coach.",
+        "a2": "is italy a better team now with their new head coach?",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "roberto mancini": [
+                "coach"
+            ]
+        },
+        "a2_skt": "is @entity a better team now with their new head @relation",
+        "a2_v2": "is italy a better team now with their new head coach?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "roberto mancini"
+    },
+    {
+        "q3": "i would have to wikipedia to find out",
+        "a3": "i think italy is strengthened a lot with the arrival of roberto",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "roberto mancini": [
+                "coach"
+            ]
+        },
+        "a3_skt": "i think @entity is strengthened a lot with the arrival of roberto",
+        "a3_v2": "i think italy is strengthened a lot with the arrival of roberto",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "he will need to do a lot better than the last coach",
+        "a4": "yes i agree, but hes still got time for improvement.",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "roberto mancini": [
+                "coach"
+            ]
+        },
+        "a4_skt": "yes i agree, but hes still got time for improvement.",
+        "a4_v2": "yes i agree, but hes still got time for improvement.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "roberto mancini is an italian football manager and former player who is the current manager of the italy national team",
+        "a5": "buffon's retirement could really force some major changes to the style of play. ",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "roberto mancini": [
+                "coach"
+            ]
+        },
+        "a5_skt": "buffon's retirement could really force some major changes to the style of play. ",
+        "a5_v2": "buffon's retirement could really force some major changes to the style of play. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "roberto mancini"
+    }
+]

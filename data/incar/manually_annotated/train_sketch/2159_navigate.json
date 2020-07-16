@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "tell me the best route to get home with the least amount of traffic",
+        "a1": "home is only 1_miles away and there is no_traffic would you like the directions now",
+        "input_rel1": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel1": "distance",
+        "obj1": "1_miles",
+        "input_ent1": "home",
+        "kvr_entlist_qa1": [
+            "no_traffic",
+            "home",
+            "1_miles"
+        ]
+    },
+    {
+        "q2": "yes sounds good",
+        "a2": "setting navigation now",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "pick the fastest way please",
+        "a3": "setting navigation to 56_cadwell_street now",
+        "input_rel3": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel3": "address",
+        "obj3": "56_cadwell_street",
+        "input_ent3": "home",
+        "kvr_entlist_qa3": [
+            "56_cadwell_street"
+        ]
+    },
+    {
+        "q4": "thank you car",
+        "a4": "you re very welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

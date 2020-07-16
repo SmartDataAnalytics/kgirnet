@@ -1,0 +1,23 @@
+[
+    {
+        "q1": "what is the lowest_temperature in compton on wednesday",
+        "a1": "the lows forecast for wednesday in compton is the 40s",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "wednesday",
+        "obj1": "40f",
+        "input_ent1": "compton",
+        "kvr_entlist_qa1": [
+            "compton",
+            "wednesday"
+        ]
+    },
+    {
+        "q2": "thanks so much",
+        "a2": "anytime",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

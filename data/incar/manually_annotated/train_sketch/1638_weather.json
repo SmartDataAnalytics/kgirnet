@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "check weather for new_york city",
+        "a1": "what time period are you interested in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "new_york",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "the current weather please",
+        "a2": "in new_york it is windy with a high of 80f and low of 60f",
+        "input_rel2": "",
+        "corr_rel2": "windy, 80f, 60f",
+        "obj2": "monday",
+        "input_ent2": "new_york",
+        "kvr_entlist_qa2": [
+            "windy",
+            "60f",
+            "new_york",
+            "80f"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

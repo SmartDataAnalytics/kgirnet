@@ -1,0 +1,29 @@
+[
+    {
+        "q1": "who is going to yoga and when is it",
+        "a1": "your aunt will be going to yoga with you on the_4th at 7pm",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "date,time,party",
+        "obj1": "aunt,7pm,the_4th",
+        "input_ent1": "yoga_activity",
+        "kvr_entlist_qa1": [
+            "aunt",
+            "7pm",
+            "the_4th"
+        ]
+    },
+    {
+        "q2": "when is going to be the next yoga lesson who will be coming with me",
+        "a2": "your next yoga_activity will be on friday at 7pm with your mother",
+        "input_rel2": "time,party,date",
+        "corr_rel2": "time,party",
+        "obj2": "7pm,mother",
+        "input_ent2": "yoga_activity",
+        "kvr_entlist_qa2": [
+            "7pm",
+            "mother",
+            "yoga_activity",
+            "friday"
+        ]
+    }
+]

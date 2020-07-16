@@ -1,0 +1,78 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "come on -- your question is meaningless. ",
+        "kgER1": {},
+        "a1_skt": "come on -- your question is meaningless. ",
+        "a1_v2": "come on -- your question is meaningless. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "name a team that will almost certainly not qualify for the next world cup ",
+        "a2": "india won't qualify.",
+        "kgER2": {},
+        "a2_skt": "india won't qualify.",
+        "a2_v2": "india won't qualify.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how about a team thats a lock to qualify?",
+        "a3": "i think the employee is a good candidate",
+        "kgER3": {},
+        "a3_skt": "i think the employee is a good candidate",
+        "a3_v2": "i think the employee is a good candidate",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "a team that will qualify will be brazil",
+        "a4": "why do you think so?",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "why do you think so?",
+        "a4_v2": "why do you think so?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "brazil"
+    },
+    {
+        "q5": "brazil is a great team but they should put more effort into the game",
+        "a5": "i agree brazil needs to put in better effort for plays ",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i agree @entity needs to put in better effort for plays ",
+        "a5_v2": "i agree brazil needs to put in better effort for plays ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "brazil"
+    }
+]

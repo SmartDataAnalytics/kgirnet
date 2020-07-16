@@ -1,0 +1,113 @@
+[
+    {
+        "q1": "are aletico madrid doing better this year than they did last? ",
+        "a1": "their last season was rather a disappointment. i think they do much better this season.",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "their last season was rather a disappointment. i think they do much better this season.",
+        "a1_v2": "their last season was rather a disappointment. i think they do much better this season.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "why did atletico madrid struggle last year?",
+        "a2": "they finished 3rd in la liga and they just arent on barcelona or real madrid's level.",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they finished 3rd in la liga and they just arent on @entity or real madrid's level.",
+        "a2_v2": "they finished 3rd in la liga and they just arent on barcelona or real madrid's level.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "atletico madrid"
+    },
+    {
+        "q3": "are they an under-estimated side? ",
+        "a3": "yes, they get overshadowed by real madrid, but they're very good. ",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "yes, they get overshadowed by @entity but they're very good. ",
+        "a3_v2": "yes, they get overshadowed by real madrid, but they're very good. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what transfers can they make to improve enough to beat real madrid",
+        "a4": "they should sign kylian mbappe",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "they should sign @object",
+        "a4_v2": "they should sign kylian mbappe",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "mailbag: psg weaknesses, summer transfers, zidane\u2019s job security, improving la liga, and more ",
+        "a5": "but no more?",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "but no more?",
+        "a5_v2": "but no more?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "zinedine zidane"
+    }
+]

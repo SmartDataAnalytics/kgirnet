@@ -1,0 +1,81 @@
+[
+    {
+        "q1": "who has the most portuguese national team caps?",
+        "a1": "christiano ronaldo",
+        "kgER1": {},
+        "a1_skt": "@object",
+        "a1_v2": "christiano ronaldo",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "who even comes close to ronaldo's shine in portugal? ",
+        "a2": "no one can match him.",
+        "kgER2": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no one can match him.",
+        "a2_v2": "no one can match him.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "portugal"
+    },
+    {
+        "q3": "i totally agree no one equals a christian",
+        "a3": "portugal is lucky to have him. to bad the rest of his team wasn't that great!",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity is lucky to have him. to bad the rest of his team wasn't that great!",
+        "a3_v2": "portugal is lucky to have him. to bad the rest of his team wasn't that great!",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "christian benteke"
+    },
+    {
+        "q4": "what is wrong with the rest of portugal's team?",
+        "a4": "i do not agree with this, the portugal team is very good, but yes, christian is one of the best players",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i do not agree with this, the @entity team is very good, but yes, christian is one of the best players",
+        "a4_v2": "i do not agree with this, the portugal team is very good, but yes, christian is one of the best players",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "portugal"
+    }
+]

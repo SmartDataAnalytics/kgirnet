@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "what is the name of bayern munich 's stadium \\?",
+        "a1": "allianz arena !",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object !",
+        "a1_v2": "allianz arena !",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "how many people does it hold \\?",
+        "a2": "the capacity is 75 , 000 for domestic matches and 70 , 000 for international matches",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "the @relation is @object , 000 for domestic matches and @object , 000 for international matches",
+        "a2_v2": "the capacity is 75 , 000 for domestic matches and 70 , 000 for international matches",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what is the main shirt color of this team \\?",
+        "a3": "usually they play in a red shirt",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "usually they play in a @object shirt",
+        "a3_v2": "usually they play in a @jersey_color shirt",
+        "corr_rel3": "jersey color",
+        "obj3": "red",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "what is the color of their away game shirt \\?",
+        "a4": "red , white , blue , and grey",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object , @object , @object , and grey",
+        "a4_v2": "red , white , blue , and grey",
+        "corr_rel4": "jersey color",
+        "obj4": "red",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "who is bayern 's most expensive signing ever \\?",
+        "a5": "javi martinez is the bayern 's most expensive signing ever",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is the bayern 's most expensive signing ever",
+        "a5_v2": "javi martinez is the bayern 's most expensive signing ever",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bayern munich"
+    }
+]

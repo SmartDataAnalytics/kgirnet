@@ -1,0 +1,93 @@
+[
+    {
+        "q1": "who is the manager of spain?",
+        "a1": "luis enrique is the spain manager",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object is the @entity manager",
+        "a1_v2": "luis enrique is the spain manager",
+        "corr_rel1": "coach",
+        "obj1": "luis enrique",
+        "input_ent1": "spain"
+    },
+    {
+        "q2": "luis enrique has only been the coach of the spanish national team since july 9, 2018. before joining up with the spanish national team he was the manager of barcelona for three years. ",
+        "a2": "talking about luis enrique, is he the best option for spain ?",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "luis enrique": [
+                "coach"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "talking about @object is he the best option for @entity ?",
+        "a2_v2": "talking about luis enrique, is he the best option for spain ?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "luis enrique"
+    },
+    {
+        "q3": "what is biggest loss of spain after pique?",
+        "a3": "i don't know.maybe iniesta?",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "luis enrique": [
+                "coach"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i don't know.maybe iniesta?",
+        "a3_v2": "i don't know.maybe iniesta?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "spain"
+    }
+]

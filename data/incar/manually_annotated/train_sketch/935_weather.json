@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "what is the weather forecast for the weekend",
+        "a1": "which city would you like the weekend forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "weekend"
+        ]
+    },
+    {
+        "q2": "i am trying to find out if it will be warm in oakland this week",
+        "a2": "in oakland it will be warm on thursday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "warm",
+        "input_ent2": "oakland",
+        "kvr_entlist_qa2": [
+            "thursday",
+            "warm",
+            "oakland"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

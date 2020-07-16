@@ -1,0 +1,163 @@
+[
+    {
+        "q1": "i absolutely adore spain",
+        "a1": "i think they will disappear from the top tier level of play.",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i think they will disappear from the top tier level of play.",
+        "a1_v2": "i think they will disappear from the top tier level of play.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "spain"
+    },
+    {
+        "q2": "what do you think about isco?",
+        "a2": "i do not expect them to do much in their tier",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "isco": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "i do not expect them to do much in their tier",
+        "a2_v2": "i do not expect them to do much in their tier",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "isco"
+    },
+    {
+        "q3": "i do not expect very much from isco, but spain can handle it to hold the position",
+        "a3": "yea spain will do fine",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "isco": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "yea @entity will do fine",
+        "a3_v2": "yea spain will do fine",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "isco"
+    },
+    {
+        "q4": " isco is not very good player but spain has many players well and i do not believe that isco is failing i hope isco improve and train more hard to become a good player",
+        "a4": "for me isco is the best in spain at this time",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "isco": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "for me isco is the best in @entity at this time",
+        "a4_v2": "for me isco is the best in spain at this time",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "isco"
+    },
+    {
+        "q5": "why gerard pique retire from spain team?",
+        "a5": "he has held a record and wants to be have that as his own retirement in history. ",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "isco": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "gerard pique": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "defender"
+            ]
+        },
+        "a5_skt": "he has held a record and wants to be have that as his own retirement in history. ",
+        "a5_v2": "he has held a record and wants to be have that as his own retirement in history. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "gerard pique"
+    }
+]

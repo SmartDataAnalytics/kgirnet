@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who is athletico madrid's current manager?",
+        "a1": "diego simeone is atletico madrid's current manager.",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object is @entity current manager.",
+        "a1_v2": "@coach is @entity current manager.",
+        "corr_rel1": "coach",
+        "obj1": "diego simeone",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "he has also played for the team when he was an active player.",
+        "a2": "is it common for managers to have been players?",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "is it common for managers to have been players?",
+        "a2_v2": "is it common for managers to have been players?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "yes, plenty of former players have went on to manage.",
+        "a3": "but it is less common for them to play and manage at the same time.",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "but it is less common for them to play and manage at the same time.",
+        "a3_v2": "but it is less common for them to play and manage at the same time.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what\u2019s athleticos colours?",
+        "a4": "atletico madrid typically wears a red and white striped shirt with blue shorts as their home uniform.",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity typically wears a @object and @object striped shirt with @object shorts as their home uniform.",
+        "a4_v2": "atletico madrid typically wears a red and white striped shirt with blue shorts as their home uniform.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "do they have a secondary kit?",
+        "a5": "their secondary kit is light blue shirts with dark blue shorts.",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "their secondary kit is light @object shirts with dark @object shorts.",
+        "a5_v2": "their secondary kit is light blue shirts with dark blue shorts.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

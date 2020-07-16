@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "portugal plays very tactical and not always attractive football.",
+        "a1": "they\u2019re not bad watch imo",
+        "kgER1": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they\u2019re not bad watch imo",
+        "a1_v2": "they\u2019re not bad watch imo",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "portugal"
+    },
+    {
+        "q2": "do you think their strategy will change much in the upcoming years?",
+        "a2": "yes, they will get old and slow. so their strategy will be to complain more and play less.",
+        "kgER2": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes, they will get old and slow. so their strategy will be to complain more and play less.",
+        "a2_v2": "yes, they will get old and slow. so their strategy will be to complain more and play less.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "portugal will just need to get a few younger, excited players and it will help.",
+        "a3": "yes i think they will cristiano ronaldo is not getting any younger and won't be able to play for them forever.",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes i think they will @object is not getting any younger and won't be able to play for them forever.",
+        "a3_v2": "yes i think they will cristiano ronaldo is not getting any younger and won't be able to play for them forever.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "portugal"
+    },
+    {
+        "q4": "who is the current coach for portugal?",
+        "a4": "fernando santos",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "@coach",
+        "corr_rel4": "coach",
+        "obj4": "fernando santos",
+        "input_ent4": "portugal"
+    },
+    {
+        "q5": "who is the top scorer of all time?",
+        "a5": "pele \u2013 1,281 goals",
+        "kgER5": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "pele \u2013 1,281 @relation",
+        "a5_v2": "pele \u2013 1,281 goals",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

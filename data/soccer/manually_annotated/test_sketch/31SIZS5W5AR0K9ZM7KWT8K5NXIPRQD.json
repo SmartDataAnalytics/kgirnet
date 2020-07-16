@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "what is portugal's biggest ever loss?",
+        "a1": "portugal's biggest loss was 10-0 to england may 25th, 1947 in lisbon, portugal.",
+        "kgER1": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity biggest loss was @object to england may 25th, @object in lisbon, @entity",
+        "a1_v2": "portugal's biggest loss was 10-0 to england may 25th, 1947 in lisbon, portugal.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "portugal"
+    },
+    {
+        "q2": "will that ever happen again ?",
+        "a2": "no, portugal has improved and i'm sure they will never allow a loss like that to happen again. ",
+        "kgER2": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no, @entity has improved and i'm sure they will never allow a loss like that to happen again. ",
+        "a2_v2": "no, portugal has improved and i'm sure they will never allow a loss like that to happen again. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ever banega"
+    },
+    {
+        "q3": "no susedera hotra bes is already improved portugal",
+        "a3": "is susedera hotra bes a player for portugal?",
+        "kgER3": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "is susedera hotra bes a player for @entity",
+        "a3_v2": "is susedera hotra bes a player for portugal?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "portugal"
+    },
+    {
+        "q4": "how do portugal allow the loss?",
+        "a4": "i don't know. do you think it's cristiano's fault?",
+        "kgER4": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i don't know. do you think it's cristiano's fault?",
+        "a4_v2": "i don't know. do you think it's cristiano's fault?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "it isnt his fault",
+        "a5": "no it wasnt, he wasnt alive when they lost 10-0",
+        "kgER5": {
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "no it wasnt, he wasnt alive when they lost @object",
+        "a5_v2": "no it wasnt, he wasnt alive when they lost 10-0",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

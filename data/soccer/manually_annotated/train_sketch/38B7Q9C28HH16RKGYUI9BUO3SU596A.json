@@ -1,0 +1,147 @@
+[
+    {
+        "q1": "how many games has spain won \\?",
+        "a1": "4",
+        "kgER1": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "4",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "spain"
+    },
+    {
+        "q2": "who plays upfront for spain \\?",
+        "a2": "diego costa , alvaro morata iago aspa , rodrigo , isco , asensio",
+        "kgER2": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object , @object @object aspa , @object , isco , asensio",
+        "a2_v2": "diego costa , alvaro morata iago aspa , @midfielder , isco , asensio",
+        "corr_rel2": "midfielder",
+        "obj2": "rodri",
+        "input_ent2": "spain"
+    },
+    {
+        "q3": "is david de gea the best choice to play in goal \\?",
+        "a3": "i think he is probably the best choice",
+        "kgER3": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "david de gea": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "goalkeeper"
+            ]
+        },
+        "a3_skt": "i think he is probably the best choice",
+        "a3_v2": "i think he is probably the best choice",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "david de gea"
+    },
+    {
+        "q4": "does spain have a mascot \\?",
+        "a4": "pegan los postes spain",
+        "kgER4": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "david de gea": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "goalkeeper"
+            ]
+        },
+        "a4_skt": "pegan los postes @entity",
+        "a4_v2": "pegan los postes spain",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "spain"
+    },
+    {
+        "q5": "does the spain team have many players from catalonia \\?",
+        "a5": "of course they have",
+        "kgER5": {
+            "spain": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "david de gea": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "goalkeeper"
+            ]
+        },
+        "a5_skt": "of course they have",
+        "a5_v2": "of course they have",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "spain"
+    }
+]

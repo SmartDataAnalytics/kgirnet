@@ -1,0 +1,79 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "no, barcelona is not an international team.",
+        "kgER1": {},
+        "a1_skt": "no, @entity is not an international team.",
+        "a1_v2": "no, barcelona is not an international team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "but they will try to win the champions league.",
+        "a2": "yes, they'll probably do pretty well in that competition. ",
+        "kgER2": {},
+        "a2_skt": "yes, they'll probably do pretty well in that competition. ",
+        "a2_v2": "yes, they'll probably do pretty well in that competition. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "yes, i believe that barcelona will win the champions league",
+        "a3": "who do you think barcelona's biggest competition is?",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "who do you think @entity biggest competition is?",
+        "a3_v2": "who do you think barcelona's biggest competition is?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "barcelona"
+    },
+    {
+        "q4": "why is this  so ? ",
+        "a4": "barcelona is a very good team ",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity is a very good team ",
+        "a4_v2": "barcelona is a very good team ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "if it is one of the best in the world",
+        "a5": "i think barcelona is the best team",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i think @entity is the best team",
+        "a5_v2": "i think barcelona is the best team",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

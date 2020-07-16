@@ -1,0 +1,27 @@
+[
+    {
+        "q1": "i need information about my conference",
+        "a1": "your conference is on saturday at 7pm with hr in conference_room_50 to discuss_the_company_picnic",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,room,agenda,party",
+        "obj1": "7pm,hr,discuss_the_company_picnic,conference_room_50",
+        "input_ent1": "conference",
+        "kvr_entlist_qa1": [
+            "7pm",
+            "hr",
+            "discuss_the_company_picnic",
+            "saturday",
+            "conference",
+            "conference_room_50"
+        ]
+    },
+    {
+        "q2": "ok great",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

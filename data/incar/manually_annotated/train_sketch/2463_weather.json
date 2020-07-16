@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "will it rain this week",
+        "a1": "what city are you wanting to know if it s going to rain",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "rain"
+        ]
+    },
+    {
+        "q2": "menlo_park",
+        "a2": "it will rain on tuesday this week in menlo_park",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday",
+        "obj2": "rain",
+        "input_ent2": "menlo_park",
+        "kvr_entlist_qa2": [
+            "menlo_park",
+            "rain",
+            "tuesday",
+            "week"
+        ]
+    },
+    {
+        "q3": "okay thanks",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

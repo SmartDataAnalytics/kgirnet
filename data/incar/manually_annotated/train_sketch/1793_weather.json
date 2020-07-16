@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what is the weather forecast like in the city",
+        "a1": "what city would you like the forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "san_francisco on sunday",
+        "a2": "sunday s forecast is calling for a blizzard in san_francisco with lows near 40 and highs in the 60s",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "blizzard",
+        "input_ent2": "san_francisco",
+        "kvr_entlist_qa2": [
+            "sunday",
+            "san_francisco",
+            "blizzard"
+        ]
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re welcome anytime",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

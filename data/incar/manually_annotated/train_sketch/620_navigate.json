@@ -1,0 +1,58 @@
+[
+    {
+        "q1": "where is there a shopping_center within 5_miles",
+        "a1": "we re 2_miles away from town_and_country but there is a car_collision_nearby we might lose lot of time",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "town_and_country",
+        "input_ent1": "shopping_center",
+        "kvr_entlist_qa1": [
+            "town_and_country",
+            "car_collision_nearby",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "mmm no i wanted some route with no_traffic is it the only option",
+        "a2": "currently town_and_country is the only option",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "town_and_country",
+        "kvr_entlist_qa2": [
+            "town_and_country"
+        ]
+    },
+    {
+        "q3": "well okay i guess it will have to do then where is it located",
+        "a3": "town_and_country is at 383_university_ave but be aware there is a car collision being reported nearby",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel3": "address",
+        "obj3": "383_university_ave",
+        "input_ent3": "town_and_country",
+        "kvr_entlist_qa3": [
+            "town_and_country",
+            "383_university_ave"
+        ]
+    },
+    {
+        "q4": "ok that s fine just set the navigation",
+        "a4": "navigation set for town_and_country",
+        "input_rel4": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel4": "none",
+        "obj4": "nnone",
+        "input_ent4": "shopping_center",
+        "kvr_entlist_qa4": [
+            "town_and_country"
+        ]
+    },
+    {
+        "q5": "thanks so much",
+        "a5": "you are welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

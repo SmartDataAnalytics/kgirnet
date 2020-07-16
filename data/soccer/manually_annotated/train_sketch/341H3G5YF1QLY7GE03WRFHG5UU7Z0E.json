@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "how did mexico do in the world cup 2018?",
+        "a1": "they lost against brazil.",
+        "kgER1": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "they lost against @entity",
+        "a1_v2": "they lost against brazil.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "2018"
+    },
+    {
+        "q2": "i think he has done well but he needs a little more effort",
+        "a2": "yes, mexico definitely needs some more effort from him for the sake of the team.",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes, @entity definitely needs some more effort from him for the sake of the team.",
+        "a2_v2": "yes, mexico definitely needs some more effort from him for the sake of the team.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what are mexico's key strenghths and weaknesses?",
+        "a3": "there ability to move the ball quick",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "there ability to move the ball quick",
+        "a3_v2": "there ability to move the ball quick",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mexico"
+    },
+    {
+        "q4": "are there any areas they really fall down though? ",
+        "a4": "i do not think that they are very good in defence ",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i do not think that they are very good in @relation ",
+        "a4_v2": "i do not think that they are very good in defence ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "do they make up for it with superior attacking abilities? ",
+        "a5": "they have good attacking abilities.",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they have good attacking abilities.",
+        "a5_v2": "they have good attacking abilities.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

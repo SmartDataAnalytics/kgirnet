@@ -1,0 +1,120 @@
+[
+    {
+        "q1": "have there been any injuries on colombia's team this year?",
+        "a1": "just fake ones it seems.",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "just fake ones it seems.",
+        "a1_v2": "just fake ones it seems.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "colombia"
+    },
+    {
+        "q2": "are they the team that fakes injuries the most?",
+        "a2": "yeah always faking injuries",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yeah always faking injuries",
+        "a2_v2": "yeah always faking injuries",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what's an example of a faked injury in their history?",
+        "a3": "they are just a team that embellishes fouls on the field often.",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they are just a team that embellishes fouls on the @object often.",
+        "a3_v2": "they are just a team that embellishes fouls on the field often.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "are there any consequences if a player is found to be faking and injury during game?",
+        "a4": "yellow cards ",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object cards ",
+        "a4_v2": "yellow cards ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "white and red"
+    },
+    {
+        "q5": "what is the penalty if they get a yellow card?",
+        "a5": "other teams ball",
+        "kgER5": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "other teams ball",
+        "a5_v2": "other teams ball",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "yellow"
+    }
+]

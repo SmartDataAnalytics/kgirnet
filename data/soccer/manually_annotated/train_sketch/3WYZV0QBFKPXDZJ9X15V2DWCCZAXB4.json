@@ -1,0 +1,62 @@
+[
+    {
+        "q1": "do you like football?",
+        "a1": "yes i love football, man utd are my team. grant is my top player.",
+        "kgER1": {},
+        "a1_skt": "yes i love football, man utd are my team. grant is my top player.",
+        "a1_v2": "yes i love football, man utd are my team. grant is my top player.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "football is great! what's the largest stadium you've been to?",
+        "a2": "i've been to many but i think morumbi in sao paulo might have been the largest i've been to.",
+        "kgER2": {},
+        "a2_skt": "i've been to many but i think morumbi in sao paulo might have been the largest i've been to.",
+        "a2_v2": "i've been to many but i think morumbi in sao paulo might have been the largest i've been to.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "allianz stadium"
+    },
+    {
+        "q3": "will aston villa finally make it back into the premier league after this season?",
+        "a3": "they have to or they will suffer finacial hardship.",
+        "kgER3": {},
+        "a3_skt": "they have to or they will suffer finacial hardship.",
+        "a3_v2": "they have to or they will suffer finacial hardship.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what do you think their salaries are like?",
+        "a4": "it's rumoured that mile jedinak is on a \u00a350,000-a-week contract.",
+        "kgER4": {},
+        "a4_skt": "it's rumoured that mile jedinak is on a \u00a350,000-a-week contract.",
+        "a4_v2": "it's rumoured that mile jedinak is on a \u00a350,000-a-week contract.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "will ronaldo bring juventus to the top?",
+        "a5": "he is definitely a great addition to a strong team but it takes more than one player for a team to rise to the top.",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a5_skt": "he is definitely a great addition to a strong team but it takes more than one player for a team to rise to the top.",
+        "a5_v2": "he is definitely a great addition to a strong team but it takes more than one player for a team to rise to the top.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "juventus"
+    }
+]

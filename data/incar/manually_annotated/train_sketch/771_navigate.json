@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "please give me the address and directions via a route that avoids all heavy_traffic to a hospital around here",
+        "a1": "stanford_childrens_health is the only hospital that i can find it is located at 899_ames_ct 8_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "stanford_childrens_health,899_ames_ct",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "899_ames_ct",
+            "hospital",
+            "stanford_childrens_health",
+            "8_miles"
+        ]
+    },
+    {
+        "q2": "okay send me a route there that avoids all heavy_traffic",
+        "a2": "the current route does not have any traffic",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "hospital",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "great thank you",
+        "a3": "your welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

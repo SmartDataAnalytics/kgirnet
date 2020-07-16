@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i love arsenal",
+        "a1": "who is their current manager? ",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "who is their current manager? ",
+        "a1_v2": "who is their current manager? ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "wenger out",
+        "a2": "wenger left at the end of the 2017/18 season. unai emery is the manager now. ",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "wenger left at the end of the 2017/18 season. @object is the manager now. ",
+        "a2_v2": "wenger left at the end of the 2017/18 season. unai emery is the manager now. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "if he is the arsenal manager",
+        "a3": "no he is not anymore ",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "no he is not anymore ",
+        "a3_v2": "no he is not anymore ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "arsenal"
+    },
+    {
+        "q4": "1984\u20131994: nancy and monaco ",
+        "a4": "unai emery",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "unai emery",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "1994"
+    },
+    {
+        "q5": "who named the arsenal squad? ",
+        "a5": "they are named after the royal arsenal at woolwich",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "they are named after the royal @entity at woolwich",
+        "a5_v2": "they are named after the royal arsenal at woolwich",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "arsenal"
+    }
+]

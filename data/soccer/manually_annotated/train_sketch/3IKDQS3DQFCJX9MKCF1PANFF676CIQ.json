@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who 's nigeria 's all time most capped player \\?",
+        "a1": "very good team",
+        "kgER1": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "nigeria"
+    },
+    {
+        "q2": "what do you like about them \\?",
+        "a2": "nice flowing football , can be a little lethargic at times",
+        "kgER2": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "nice flowing football , can be a little lethargic at times",
+        "a2_v2": "nice flowing football , can be a little lethargic at times",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "who would you say is their best current player \\?",
+        "a3": "i 'd say the really tall defense guy ca n't remember his name al neria \\? it rhymes with nigeria i think",
+        "kgER3": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i 'd say the really tall @relation guy ca n't remember his name al neria \\? it rhymes with @entity i think",
+        "a3_v2": "i 'd say the really tall defense guy ca n't remember his name al neria \\? it rhymes with nigeria i think",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who currently manages the national team \\?",
+        "a4": "gernot rohr is the current head coach",
+        "kgER4": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object is the current head @relation",
+        "a4_v2": "@coach is the current head coach",
+        "corr_rel4": "coach",
+        "obj4": "gernot rohr",
+        "input_ent4": "nigeria"
+    },
+    {
+        "q5": "that 's true",
+        "a5": "whose your favorite nigerian player \\?",
+        "kgER5": {
+            "nigeria": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Round of 16",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "whose your favorite @entity player \\?",
+        "a5_v2": "whose your favorite nigerian player \\?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

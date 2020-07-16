@@ -1,0 +1,148 @@
+[
+    {
+        "q1": "has bayern munich ever won the uefa champions league?",
+        "a1": "yes, several times.",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes, several times.",
+        "a1_v2": "yes, several times.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "how many times?",
+        "a2": "5 times",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object times",
+        "a2_v2": "5 times",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what is the best move munich has?",
+        "a3": "thiago has the best moves and skills for bayern munich.",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object has the best moves and skills for @entity",
+        "a3_v2": "thiago has the best moves and skills for bayern munich.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "if thiago is a good player, but for my best player of the bayern is james rodriguez",
+        "a4": "so far if i think",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "thiago": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "james rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "so far if i think",
+        "a4_v2": "so far if i think",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "james rodriguez"
+    },
+    {
+        "q5": "what makes james rodriguez a better player than thiago?",
+        "a5": "the vision of the game and its hit to the goal ",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "thiago": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "james rodriguez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "rodri": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "the vision of the game and its hit to the @relation ",
+        "a5_v2": "the vision of the game and its hit to the goal ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "james rodriguez"
+    }
+]

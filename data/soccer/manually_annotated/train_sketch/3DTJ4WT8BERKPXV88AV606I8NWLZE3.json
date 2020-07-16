@@ -1,0 +1,144 @@
+[
+    {
+        "q1": "who is the goalkeeper for belgium?",
+        "a1": "thibaut courtois is the current belgium goalkeeper.",
+        "kgER1": {
+            "goalkeeper": [
+                "position"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object is the current @entity @relation",
+        "a1_v2": "thibaut courtois is the current belgium goalkeeper.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "belgium"
+    },
+    {
+        "q2": "who is their best defender? ",
+        "a2": "definitely not hazard.",
+        "kgER2": {
+            "goalkeeper": [
+                "position"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a2_skt": "definitely not hazard.",
+        "a2_v2": "definitely not hazard.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "defender"
+    },
+    {
+        "q3": "who is the striker?",
+        "a3": "romelu lukaku",
+        "kgER3": {
+            "goalkeeper": [
+                "position"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "romelu lukaku",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "overall who is the best player on the belgium team?",
+        "a4": "roberto martinez ",
+        "kgER4": {
+            "goalkeeper": [
+                "position"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a4_skt": "@object ",
+        "a4_v2": "roberto martinez ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "belgium"
+    },
+    {
+        "q5": "but is he more valuable to the team than hazard?",
+        "a5": "yes he sure is.",
+        "kgER5": {
+            "goalkeeper": [
+                "position"
+            ],
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a5_skt": "yes he sure is.",
+        "a5_v2": "yes he sure is.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "eden hazard"
+    }
+]

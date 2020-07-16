@@ -1,0 +1,146 @@
+[
+    {
+        "q1": "world cup champion 2018. is it fair?",
+        "a1": "france may have had a fair share of luck but they also have a team of young, promising players, so they do deserve to be the champions.",
+        "kgER1": {
+            "richarlison": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "@entity may have had a fair share of luck but they also have a team of young, promising players, so they do deserve to be the champions.",
+        "a1_v2": "france may have had a fair share of luck but they also have a team of young, promising players, so they do deserve to be the champions.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "2018"
+    },
+    {
+        "q2": "what record-setting quarterback was the nfl's 82nd draft pick in 1979?  a: joe montana.   ",
+        "a2": "is france's biggest rival liverpool?",
+        "kgER2": {
+            "richarlison": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "is france's biggest rival @entity",
+        "a2_v2": "is france's biggest rival liverpool?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "joe gomez"
+    },
+    {
+        "q3": "who are the best player in this team?",
+        "a3": "mbappe",
+        "kgER3": {
+            "richarlison": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "mbappe",
+        "a3_v2": "mbappe",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "mbappe and antoine griezmann are the best players in france",
+        "a4": "how many teams are int france top league?",
+        "kgER4": {
+            "richarlison": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "antoine griezmann": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a4_skt": "how many teams are int @entity top league?",
+        "a4_v2": "how many teams are int france top league?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "antoine griezmann"
+    },
+    {
+        "q5": "20! what are the french team colors?",
+        "a5": "blue, white and red",
+        "kgER5": {
+            "richarlison": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "antoine griezmann": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object @object and @object",
+        "a5_v2": "blue, white and red",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

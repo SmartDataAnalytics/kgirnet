@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "who is f c porto 's best player \\?",
+        "a1": "i like alex telles",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i like @object",
+        "a1_v2": "i like alex telles",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "who is their manager \\?",
+        "a2": "sergio conceicao is",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "sergio conceicao is",
+        "a2_v2": "sergio conceicao is",
+        "corr_rel2": "coach",
+        "obj2": "sergio conceicao",
+        "input_ent2": "fc. porto"
+    },
+    {
+        "q3": "who is in their group in the champions league \\?",
+        "a3": "the other clubs in group d are galatasaray , lokomotiv moscow , and schalke 04",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a3_skt": "the other clubs in @relation are galatasaray , lokomotiv moscow , and schalke @object",
+        "a3_v2": "the other clubs in group d are galatasaray , lokomotiv moscow , and schalke 04",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "who is their mascot \\?",
+        "a4": "i am not sure",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i am not sure",
+        "a4_v2": "i am not sure",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is the captain of fc porto \\?",
+        "a5": "hector herrera is the captain",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is the @relation",
+        "a5_v2": "hector herrera is the captain",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "fc. porto"
+    }
+]

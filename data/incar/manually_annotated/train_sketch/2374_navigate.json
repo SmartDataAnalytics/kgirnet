@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "car is there any grocery_store near me",
+        "a1": "sigona_farmers_market and safeway are near",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "sigona_farmers_market,safeway",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "safeway",
+            "sigona_farmers_market"
+        ]
+    },
+    {
+        "q2": "which has less traffic",
+        "a2": "safeway has less traffic",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "moderate_traffic",
+        "input_ent2": "safeway",
+        "kvr_entlist_qa2": [
+            "safeway"
+        ]
+    },
+    {
+        "q3": "then let s go there thank you car",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

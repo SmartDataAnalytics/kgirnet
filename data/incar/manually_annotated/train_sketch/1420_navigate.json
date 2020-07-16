@@ -1,0 +1,52 @@
+[
+    {
+        "q1": "find nearest coffee shop",
+        "a1": "the nearest coffee shop is palo alto coffee",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "palo_alto_cafe",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "could you give me the address please and the distance from here",
+        "a2": "palo_alto_cafe is 4_miles away at 436_alger_drive",
+        "input_rel2": "address",
+        "corr_rel2": "address",
+        "obj2": "436_alger_drive",
+        "input_ent2": "palo_alto_cafe",
+        "kvr_entlist_qa2": [
+            "4_miles",
+            "palo_alto_cafe"
+        ]
+    },
+    {
+        "q3": "thank you how is the traffic there",
+        "a3": "there is currently moderate_traffic on the route",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "traffic_info",
+        "obj3": "moderate_traffic",
+        "input_ent3": "palo_alto_cafe",
+        "kvr_entlist_qa3": [
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q4": "ok please set gps and navigate there",
+        "a4": "gps is set and we are now enroute",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    },
+    {
+        "q5": "thank you car",
+        "a5": "you re welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

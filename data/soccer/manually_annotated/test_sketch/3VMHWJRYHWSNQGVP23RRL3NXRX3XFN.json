@@ -1,0 +1,112 @@
+[
+    {
+        "q1": "did mexico do better than expected in the last world cup? ",
+        "a1": "i think finishing in round of 16 was expected.",
+        "kgER1": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i think finishing in @relation of @object was expected.",
+        "a1_v2": "i think finishing in round of 16 was expected.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "mexico"
+    },
+    {
+        "q2": "is mexico one of the worst teams in the league?",
+        "a2": "no they are very average and were.expected to get through the qualifying group.",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no they are very average and were.expected to get through the qualifying group.",
+        "a2_v2": "no they are very average and were.expected to get through the qualifying group.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "mexico"
+    },
+    {
+        "q3": "they had quite a tough group though didn't they? ",
+        "a3": "not really if you consider germany's performance",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "not really if you consider germany's performance",
+        "a3_v2": "not really if you consider germany's performance",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what is the name of the captain of mexico? ",
+        "a4": "andr\u00e9s guardado (captain)",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object @relation",
+        "a4_v2": "@captain captain",
+        "corr_rel4": "captain",
+        "obj4": "andres guardado",
+        "input_ent4": "mexico"
+    },
+    {
+        "q5": "how long has he been captain?",
+        "a5": "since 2012",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "since @object",
+        "a5_v2": "since 2012",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

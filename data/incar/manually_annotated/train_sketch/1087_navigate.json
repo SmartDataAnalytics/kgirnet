@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "directions to a hotel please",
+        "a1": "the_westin is located 4_miles away and the hotel_keen 6_miles away would you like directions to one of those",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi",
+        "obj1": "hotel_keen,the_westin",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "hotel_keen",
+            "6_miles",
+            "4_miles",
+            "the_westin"
+        ]
+    },
+    {
+        "q2": "give me the quickest route to the_westin please",
+        "a2": "there is moderate_traffic would you like me to put it on your screen",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "moderate_traffic",
+        "input_ent2": "the_westin",
+        "kvr_entlist_qa2": [
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q3": "yes please",
+        "a3": "setting route now",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "thank you car please pick the shortest distance",
+        "a4": "i did enjoy your trip now you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

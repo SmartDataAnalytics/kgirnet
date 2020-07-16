@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "find directions to nearest starbucks",
+        "a1": "there is no starbucks in your area but there are other coffee places near by would you like more info",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "yes",
+        "a2": "the nearest coffee shop is 2_miles away and the name of it is philz would you like the address",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "distance",
+        "obj2": "2_miles",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "2_miles",
+            "philz"
+        ]
+    },
+    {
+        "q3": "yes please",
+        "a3": "philz is 2_miles away at 583_alester_ave anything else",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "583_alester_ave",
+        "input_ent3": "philz",
+        "kvr_entlist_qa3": [
+            "2_miles",
+            "philz",
+            "583_alester_ave"
+        ]
+    },
+    {
+        "q4": "no that s it for now thanks",
+        "a4": "great glad to help",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

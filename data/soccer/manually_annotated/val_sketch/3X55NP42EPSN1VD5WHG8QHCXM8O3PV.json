@@ -1,0 +1,82 @@
+[
+    {
+        "q1": "who is juventus's all time top-scorer?",
+        "a1": "alessandro del piero",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "alessandro del piero",
+        "a1_v2": "alessandro del piero",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "what are the options for juventus?",
+        "a2": "to name a few...  luca clemenza, cristiano ronaldo, vincenzo iaquinta, stefano beltrame, andrea favilli, nicolo fagioli ",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "to name a few...  luca clemenza, @object vincenzo iaquinta, stefano beltrame, andrea favilli, nicolo fagioli ",
+        "a2_v2": "to name a few...  luca clemenza, cristiano ronaldo, vincenzo iaquinta, stefano beltrame, andrea favilli, nicolo fagioli ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "juventus"
+    },
+    {
+        "q3": "what stadium does juventus play at?",
+        "a3": "allianz stadium",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "allianz stadium",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "juventus"
+    },
+    {
+        "q4": "what did you think about the mls all star game against juventus?",
+        "a4": "it deserved to be a draw.",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a4_skt": "it deserved to be a draw.",
+        "a4_v2": "it deserved to be a draw.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "juventus"
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "q1": "does manchester united still dominate british football?",
+        "a1": "manchester united has not dominated english football since the sir alex ferguson days.",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@entity has not dominated english football since the sir alex ferguson days.",
+        "a1_v2": "manchester united has not dominated english football since the sir alex ferguson days.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "can they get back to their glory days?",
+        "a2": "i think so.  morinho is very confident.",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i think so.  @object is very confident.",
+        "a2_v2": "i think so.  morinho is very confident.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "when did morinho start coaching for manchester united?",
+        "a3": "may of 2016 is when he signed his 3 year contract i believe. ",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "may of 2016 is when he signed his @object year contract i believe. ",
+        "a3_v2": "may of 2016 is when he signed his 3 year contract i believe. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "manchester united"
+    },
+    {
+        "q4": "the arrival of alexis sanchez to this team is good ",
+        "a4": "what position does alexis sanchez play?",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "alexis sanchez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "what @relation does @object play?",
+        "a4_v2": "what position does alexis sanchez play?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "alexis sanchez"
+    },
+    {
+        "q5": "he is a forward.",
+        "a5": "just like lukaku",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "alexis sanchez": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a5_skt": "just like lukaku",
+        "a5_v2": "just like lukaku",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "forward"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "take me to the nearest hotel",
+        "a1": "i am setting gps for the nearest hotel which is a travelers_lodge 4_miles away at 333_arbol_dr and there is a nearby road block",
+        "input_rel1": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel1": "poi,address",
+        "obj1": "travelers_lodge,333_arbol_dr",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "travelers_lodge",
+            "4_miles",
+            "333_arbol_dr"
+        ]
+    },
+    {
+        "q2": "please direct me via a route with the least heavy_traffic",
+        "a2": "the current route is the only one that i have available to travelers_lodge",
+        "input_rel2": "distance,car_collision_nearby,poi,address,moderate_traffic,traffic_info,no_traffic,road_block_nearby,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "travelers_lodge",
+        "input_ent2": "rest_stop",
+        "kvr_entlist_qa2": [
+            "travelers_lodge"
+        ]
+    },
+    {
+        "q3": "then let s go there through this route thank you car",
+        "a3": "current route plotted to traveler s lodge is there anything else you need",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    },
+    {
+        "q4": "i need some sleep but i will get it there thank you car",
+        "a4": "you are welcome driver drive safely",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

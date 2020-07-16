@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "brazil champion of the next world cup?",
+        "a1": "1958",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "1958",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "brazil"
+    },
+    {
+        "q2": "if he can be a champion",
+        "a2": "that is not a question, so i don't even know how to answer that or who \"he\" is.",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "that is not a question, so i don't even know how to answer that or who \"he\" is.",
+        "a2_v2": "that is not a question, so i don't even know how to answer that or who \"he\" is.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "when did brazil last win the world cup?",
+        "a3": "brazil won world cup in 2002",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity won world cup in @object",
+        "a3_v2": "@entity won world cup in @world_cup_champions",
+        "corr_rel3": "world cup champions",
+        "obj3": "2002",
+        "input_ent3": "brazil"
+    },
+    {
+        "q4": "when is brazil's next match?",
+        "a4": "in a weeks time.",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "in a weeks time.",
+        "a4_v2": "in a weeks time.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "brazil"
+    },
+    {
+        "q5": "do they deserve to win?",
+        "a5": "mano a mano es gol brazil",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "mano a mano es gol @entity",
+        "a5_v2": "mano a mano es gol brazil",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

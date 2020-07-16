@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "car i d like to have a coffee somewhere within 5_miles show me a quick route too please",
+        "a1": "here is a route to starbucks 4_miles away",
+        "input_rel1": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel1": "distance",
+        "obj1": "starbucks",
+        "input_ent1": "5_miles",
+        "kvr_entlist_qa1": [
+            "4_miles",
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "make sure it is the quickest please",
+        "a2": "there isn t any traffic heading to 792_bedoin_street",
+        "input_rel2": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel2": "address",
+        "obj2": "792_bedoin_street",
+        "input_ent2": "starbucks",
+        "kvr_entlist_qa2": [
+            "792_bedoin_street"
+        ]
+    },
+    {
+        "q3": "great thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

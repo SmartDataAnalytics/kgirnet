@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "what is the name of ac milan 's manager \\?",
+        "a1": "gennaro gattuso is their manager",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object is their manager",
+        "a1_v2": "@coach is their manager",
+        "corr_rel1": "coach",
+        "obj1": "gennaro gattuso",
+        "input_ent1": "ac milan"
+    },
+    {
+        "q2": "what has happened to the great ac milan from the 90s \\?",
+        "a2": "they most retire from futbol",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they most retire from futbol",
+        "a2_v2": "they most retire from futbol",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "ac milan"
+    },
+    {
+        "q3": "who is the most valuable player on ac milan 's team \\?",
+        "a3": "all of the players are good",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "all of the players are good",
+        "a3_v2": "all of the players are good",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ac milan"
+    },
+    {
+        "q4": "what are their total number of trophies",
+        "a4": "probably around 5",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "probably around @object",
+        "a4_v2": "probably around 5",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "ac milan have won 50 trophies in their history",
+        "a5": "probably around 18",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "probably around @object",
+        "a5_v2": "probably around 18",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ac milan"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "where can i find a parking_garage",
+        "a1": "we re 1_miles away from dish_parking and 4_miles away from palo_alto_garage_r i suggest you the closest option since there is no_traffic on our route too",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi",
+        "obj1": "dish_parking,palo_alto_garage_r",
+        "input_ent1": "parking_garage",
+        "kvr_entlist_qa1": [
+            "no_traffic",
+            "4_miles",
+            "palo_alto_garage_r",
+            "dish_parking",
+            "1_miles"
+        ]
+    },
+    {
+        "q2": "okay thank you dish_parking it is then",
+        "a2": "understood dish_parking is located on 550_alester_ave",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "550_alester_ave",
+        "input_ent2": "dish_parking",
+        "kvr_entlist_qa2": [
+            "550_alester_ave",
+            "dish_parking"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

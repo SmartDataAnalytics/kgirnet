@@ -1,0 +1,108 @@
+[
+    {
+        "q1": "hello",
+        "a1": "how do you think chelsea will do this season?",
+        "kgER1": {
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a1_skt": "how do you think @entity will do this season?",
+        "a1_v2": "how do you think chelsea will do this season?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "why are you asking about chelsea?",
+        "a2": "they will finish 4th. it's all scripted.",
+        "kgER2": {
+            "yellow": [
+                "jersey color"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "they will finish 4th. it's all scripted.",
+        "a2_v2": "they will finish 4th. it's all scripted.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "chelsea"
+    },
+    {
+        "q3": "the chelsea will pass to the next round?",
+        "a3": "i think chelsea will go far in the europa league and maybe win it, and i think they will probably finish 3rd-4th in the league. i'm disappointed with the way they sacked antonio conte, though.",
+        "kgER3": {
+            "yellow": [
+                "jersey color"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "i think @entity will go far in the europa league and maybe win it, and i think they will probably finish 3rd-4th in the league. i'm disappointed with the way they sacked antonio conte, though.",
+        "a3_v2": "i think chelsea will go far in the europa league and maybe win it, and i think they will probably finish 3rd-4th in the league. i'm disappointed with the way they sacked antonio conte, though.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "chelsea"
+    },
+    {
+        "q4": "chelsea is a contender.",
+        "a4": "i think chelsea will win the league this year.",
+        "kgER4": {
+            "yellow": [
+                "jersey color"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "i think @entity will win the league this year.",
+        "a4_v2": "i think chelsea will win the league this year.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "chelsea"
+    },
+    {
+        "q5": "  chelsea can win the league is a competitive team and with good players",
+        "a5": "do you think jorginho will do well in england?",
+        "kgER5": {
+            "yellow": [
+                "jersey color"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "do you think @object will do well in england?",
+        "a5_v2": "do you think jorginho will do well in england?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "chelsea"
+    }
+]

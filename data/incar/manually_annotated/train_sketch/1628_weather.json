@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "will it drizzle in san_mateo this weekend",
+        "a1": "no it s supposed to be hot and sunny on saturday and clear on sunday in san_mateo",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "saturday,sunday",
+        "obj1": "hot",
+        "input_ent1": "san_mateo",
+        "kvr_entlist_qa1": [
+            "sunday",
+            "saturday",
+            "hot",
+            "san_mateo"
+        ]
+    },
+    {
+        "q2": "sounds wonderful thank you so much for your help",
+        "a2": "happy to help",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

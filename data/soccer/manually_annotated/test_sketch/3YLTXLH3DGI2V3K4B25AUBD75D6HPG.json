@@ -1,0 +1,104 @@
+[
+    {
+        "q1": "i really like this team",
+        "a1": "uruguay is okay but none of the players stand out. ",
+        "kgER1": {},
+        "a1_skt": "@entity is okay but none of the players stand out. ",
+        "a1_v2": "uruguay is okay but none of the players stand out. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "with cavani and suarez i think they are a great team, i like uruguays team",
+        "a2": "uruguay is a good team that could have done more in this 2018 world cup",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@entity is a good team that could have done more in this @object world cup",
+        "a2_v2": "uruguay is a good team that could have done more in this 2018 world cup",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "luis suarez"
+    },
+    {
+        "q3": "do you think suarez will ever win a world cup with uruguay ?",
+        "a3": "yes, if it is available to win the world cup",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "yes, if it is available to win the world cup",
+        "a3_v2": "yes, if it is available to win the world cup",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "uruguay"
+    },
+    {
+        "q4": "how is suarez currently?",
+        "a4": "i wonder how he is too since he's in contract till 2021",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i wonder how he is too since he's in contract till @object",
+        "a4_v2": "i wonder how he is too since he's in contract till 2021",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "luis suarez"
+    },
+    {
+        "q5": "who is the uruguay manager?",
+        "a5": "oscar tabarez is their manager.",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object is their manager.",
+        "a5_v2": "@coach is their manager.",
+        "corr_rel5": "coach",
+        "obj5": "oscar tabarez",
+        "input_ent5": "uruguay"
+    }
+]

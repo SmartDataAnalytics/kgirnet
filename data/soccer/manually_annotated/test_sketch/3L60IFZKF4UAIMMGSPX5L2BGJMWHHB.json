@@ -1,0 +1,106 @@
+[
+    {
+        "q1": "is it tiring to say bvb dortmund all the time?",
+        "a1": "it can be tiring, but te team is commonly refered to as just dortmund.",
+        "kgER1": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "it can be tiring, but te team is commonly refered to as just dortmund.",
+        "a1_v2": "it can be tiring, but te team is commonly refered to as just dortmund.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": "who is the goal keeper for bvb dortmund?",
+        "a2": "roman weidenfeller",
+        "kgER2": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "roman weidenfeller",
+        "a2_v2": "roman weidenfeller",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bvb dortmund"
+    },
+    {
+        "q3": "roman b\u00fcrki is the current goalkeeper of dortmund",
+        "a3": "that is correct, burki is their goalkeeper.",
+        "kgER3": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "that is correct, burki is their @relation",
+        "a3_v2": "that is correct, burki is their goalkeeper.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "roman burki"
+    },
+    {
+        "q4": "does weidenfeller still play for dortmund?",
+        "a4": "yes, he still plays but he is not a goalkeeper",
+        "kgER4": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "yes, he still plays but he is not a @relation",
+        "a4_v2": "yes, he still plays but he is not a goalkeeper",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bvb dortmund"
+    },
+    {
+        "q5": "does weidenfeller still live at home?",
+        "a5": "yeah with uncle and nephew.",
+        "kgER5": {
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "yeah with uncle and nephew.",
+        "a5_v2": "yeah with uncle and nephew.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

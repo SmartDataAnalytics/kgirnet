@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "what is today s weather forecast",
+        "a1": "what city would you like the forecast for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "durham",
+        "a2": "today s forecast says durham is humid the low temperature is 60f and the high is 80f",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "80f,60f,humid",
+        "input_ent2": "durham",
+        "kvr_entlist_qa2": [
+            "80f",
+            "60f",
+            "humid",
+            "today",
+            "durham"
+        ]
+    },
+    {
+        "q3": "perfect thanks",
+        "a3": "you re welcome glad i could help",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

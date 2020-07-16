@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "how many world cups has france won in total so far?",
+        "a1": "france has won two world cups. ",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity has won two world cups. ",
+        "a1_v2": "france has won two world cups. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "france"
+    },
+    {
+        "q2": "what year was the first year that they won?",
+        "a2": "they won their first world cup title in 1998.",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they won their first world cup title in @object",
+        "a2_v2": "they won their first world cup title in 1998.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who was the key player for france?",
+        "a3": "was 98 the year that they hosted? ",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "was @object the year that they hosted? ",
+        "a3_v2": "was 98 the year that they hosted? ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "france"
+    },
+    {
+        "q4": "how long is frances training season?",
+        "a4": "frances training season is three months.",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity training season is three months.",
+        "a4_v2": "frances training season is three months.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "do you like mbappe?",
+        "a5": "i love mbappe he run so fast",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i love mbappe he run so fast",
+        "a5_v2": "i love mbappe he run so fast",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "kylian mbappe"
+    }
+]

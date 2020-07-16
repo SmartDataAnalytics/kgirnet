@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who is the oldest player on the liverpool team \\?",
+        "a1": "ragnar klavan , he is 31",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "ragnar klavan , he is @object",
+        "a1_v2": "ragnar klavan , he is 31",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "wow 31 is not even all that old liverpool must have a young squad",
+        "a2": "they have a great attacking team with mohamed salah and firmino",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they have a great attacking team with @object and firmino",
+        "a2_v2": "they have a great attacking team with mohamed salah and firmino",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "liverpool has a versed team young stars that are guided by older wisdom",
+        "a3": "anniversary monument honours heysel dead",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "anniversary monument honours heysel dead",
+        "a3_v2": "anniversary monument honours heysel dead",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "what is the name of the liverpool coach \\?",
+        "a4": "jurgen klopp",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "@coach",
+        "corr_rel4": "coach",
+        "obj4": "jurgen klopp",
+        "input_ent4": "liverpool"
+    },
+    {
+        "q5": "who will be the liverpool captain this season \\?",
+        "a5": "it 'll still be jordan henderson",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "it 'll still be @object",
+        "a5_v2": "it 'll still be jordan henderson",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

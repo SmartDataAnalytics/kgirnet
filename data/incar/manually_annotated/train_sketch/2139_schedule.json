@@ -1,0 +1,28 @@
+[
+    {
+        "q1": "what day is the football_activity and who is coming",
+        "a1": "you currently have three football_activity scheduled one is on monday and martha will be attending the other i on sunday and you sister will be attending the last is on the_8th and your aunt will be attending",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "date,party",
+        "obj1": "the_8th,aunt,martha,sister",
+        "input_ent1": "football_activity",
+        "kvr_entlist_qa1": [
+            "the_8th",
+            "monday",
+            "football_activity",
+            "sunday",
+            "aunt",
+            "martha",
+            "sister"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

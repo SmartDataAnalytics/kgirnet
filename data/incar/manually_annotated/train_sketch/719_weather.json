@@ -1,0 +1,27 @@
+[
+    {
+        "q1": "check the next 48 hours and tell me is alameda will be misty",
+        "a1": "no it s not gonna be misty in alameda in next 48 hours today there is rain and tomorrow it will be hot",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday",
+        "obj1": "hot",
+        "input_ent1": "alameda",
+        "kvr_entlist_qa1": [
+            "misty",
+            "today",
+            "rain",
+            "alameda",
+            "hot",
+            "tomorrow"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "no problem i m here for you",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

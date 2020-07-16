@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "what time is my next football_activity and who will be attending",
+        "a1": "your next football_activity is with jeff at 4pm do you need the date as well",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "time,party",
+        "obj1": "4pm,jeff",
+        "input_ent1": "football_activity",
+        "kvr_entlist_qa1": [
+            "4pm",
+            "football_activity",
+            "jeff"
+        ]
+    },
+    {
+        "q2": "no that will be all",
+        "a2": "happy to help",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

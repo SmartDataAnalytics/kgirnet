@@ -1,0 +1,48 @@
+[
+    {
+        "q1": "i need to know my conference agenda date and who is attending",
+        "a1": "your conference is set for monday with your boss to go_over_budget",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "agenda,party",
+        "obj1": "boss,go_over_budget",
+        "input_ent1": "conference",
+        "kvr_entlist_qa1": [
+            "go_over_budget",
+            "boss",
+            "monday",
+            "conference"
+        ]
+    },
+    {
+        "q2": "great and who all will be there",
+        "a2": "the conference is with your boss",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "boss",
+            "conference"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you re welcome don t forget it s held in conference_room_102",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "conference_room_102"
+        ]
+    },
+    {
+        "q4": "thank you",
+        "a4": "no problem",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "q1": "what will the highest_temperature in san_jose be in the next 7 days",
+        "a1": "in san_mateo the day with the highest_temperature of the next_week will be friday with 90f",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "friday",
+        "obj1": "90f,next_week,",
+        "input_ent1": "san_jose",
+        "kvr_entlist_qa1": [
+            "90f",
+            "san_mateo",
+            "next_week",
+            "highest_temperature",
+            "friday"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "anytime",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

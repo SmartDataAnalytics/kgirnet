@@ -1,0 +1,144 @@
+[
+    {
+        "q1": "is this american football or futbol?",
+        "a1": "its supposed to be soccer questions, but your messing around. who is switzerland's best player?",
+        "kgER1": {},
+        "a1_skt": "its supposed to be soccer questions, but your messing @relation who is @entity best player?",
+        "a1_v2": "its supposed to be soccer questions, but your messing around. who is switzerland's best player?",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "xherdan shaqiri, he is the midfielder right? ",
+        "a2": "no he is a winger",
+        "kgER2": {
+            "xherdan shaqiri": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "midfielder": [
+                "position"
+            ]
+        },
+        "a2_skt": "no he is a winger",
+        "a2_v2": "no he is a winger",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "xherdan shaqiri"
+    },
+    {
+        "q3": "how many appearances has he made for switzerland? ",
+        "a3": "he has made 74 caps",
+        "kgER3": {
+            "xherdan shaqiri": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "midfielder": [
+                "position"
+            ],
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "he has made @object @relation",
+        "a3_v2": "he has made 74 caps",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "switzerland"
+    },
+    {
+        "q4": "who is switzerland's best player of all time?",
+        "a4": "switzerlands best player is maybe xherdan",
+        "kgER4": {
+            "xherdan shaqiri": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "midfielder": [
+                "position"
+            ],
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity @relation is maybe xherdan",
+        "a4_v2": "switzerlands best player is maybe xherdan",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "switzerland"
+    },
+    {
+        "q5": "have switzerland ever won the world cup?",
+        "a5": "switzerland has not won the world cup.",
+        "kgER5": {
+            "xherdan shaqiri": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ],
+            "midfielder": [
+                "position"
+            ],
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity has not won the world cup.",
+        "a5_v2": "switzerland has not won the world cup.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "switzerland"
+    }
+]

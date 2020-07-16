@@ -1,0 +1,162 @@
+[
+    {
+        "q1": "what was the midfielder's performance for the sweden soccer team, this year? ",
+        "a1": "larsson",
+        "kgER1": {
+            "midfielder": [
+                "position"
+            ],
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "larsson",
+        "a1_v2": "larsson",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "sweden"
+    },
+    {
+        "q2": "who is the goal keeper of sweden soccer team",
+        "a2": "robin olsen is their no. 1",
+        "kgER2": {
+            "midfielder": [
+                "position"
+            ],
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object is their no. @object",
+        "a2_v2": "@jersey is their no. @jersey",
+        "corr_rel2": "goalkeeper",
+        "obj2": "robin olsen",
+        "input_ent2": "sweden"
+    },
+    {
+        "q3": "do you think olsen will live up to the hype replacing alisson at roma?",
+        "a3": "i think he'll do okay. ",
+        "kgER3": {
+            "midfielder": [
+                "position"
+            ],
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "alisson": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "goalkeeper"
+            ]
+        },
+        "a3_skt": "i think he'll do okay. ",
+        "a3_v2": "i think he'll do okay. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "alisson"
+    },
+    {
+        "q4": "do you think sweden will win the next world cup?",
+        "a4": "quite possibly, their records are pointing towards that goal.",
+        "kgER4": {
+            "midfielder": [
+                "position"
+            ],
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "alisson": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "goalkeeper"
+            ]
+        },
+        "a4_skt": "quite possibly, their records are pointing towards that @relation",
+        "a4_v2": "quite possibly, their records are pointing towards that goal.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "sweden"
+    },
+    {
+        "q5": "when was the last time they won the world cup?",
+        "a5": "they have never won a world cup yet.",
+        "kgER5": {
+            "midfielder": [
+                "position"
+            ],
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "alisson": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "goalkeeper"
+            ]
+        },
+        "a5_skt": "they have never won a world cup yet.",
+        "a5_v2": "they have never won a world cup yet.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

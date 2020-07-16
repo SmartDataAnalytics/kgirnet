@@ -1,0 +1,132 @@
+[
+    {
+        "q1": "who has played the most games for sweden?",
+        "a1": "berg",
+        "kgER1": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "berg",
+        "a1_v2": "berg",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "sweden"
+    },
+    {
+        "q2": "is he a good player? ",
+        "a2": "he was good enough to be picked for sweden's 2018 fifa world cup. ",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "he was good enough to be picked for sweden's @object fifa world cup. ",
+        "a2_v2": "he was good enough to be picked for sweden's 2018 fifa world cup. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "sure, but compared to players from other countries? ",
+        "a3": "it was good enough, but not as good as comparing others",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "it was good enough, but not as good as comparing others",
+        "a3_v2": "it was good enough, but not as good as comparing others",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "if i agree what happens for the world",
+        "a4": "what colours sweden\u2019s kit",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "what colours sweden\u2019s kit",
+        "a4_v2": "what colours sweden\u2019s kit",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "yellow and blue ",
+        "a5": "who is the coach for sweden? ",
+        "kgER5": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "yellow": [
+                "jersey color"
+            ],
+            "blue": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "who is the @relation for @entity ",
+        "a5_v2": "who is the coach for sweden? ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "yellow"
+    }
+]

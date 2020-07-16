@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who was colombia's captain for the 2018 world cup?",
+        "a1": "rodriguez",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "rodriguez",
+        "a1_v2": "rodriguez",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "2018"
+    },
+    {
+        "q2": "how old is he?",
+        "a2": "27",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "27",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "old trafford"
+    },
+    {
+        "q3": "will colombia be a less dirty team than in 2018 as vs england they were commiting fouls all game and playing dirty.",
+        "a3": "it so difficult to predict something like that, but the colombian coach believed the officiating favored england. ",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "it so difficult to predict something like that, but the @entity @relation believed the officiating favored england. ",
+        "a3_v2": "it so difficult to predict something like that, but the colombian coach believed the officiating favored england. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "2018"
+    },
+    {
+        "q4": "i think the officiating picked up all of the dirty tricks colombia were using and they didn't like being found out !",
+        "a4": "not ",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "not ",
+        "a4_v2": "not ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "colombia"
+    },
+    {
+        "q5": "what are the colors of columbia's team?",
+        "a5": "can colombia be better next time in wc?",
+        "kgER5": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "can @entity be better next time in wc?",
+        "a5_v2": "can colombia be better next time in wc?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

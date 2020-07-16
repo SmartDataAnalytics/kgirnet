@@ -1,0 +1,143 @@
+[
+    {
+        "q1": "who is the goalkeeper for portugal?",
+        "a1": "i'm not sure, but he is good.",
+        "kgER1": {
+            "goalkeeper": [
+                "position"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i'm not sure, but he is good.",
+        "a1_v2": "i'm not sure, but he is good.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "goalkeeper"
+    },
+    {
+        "q2": "how did portugal do in the world cup?",
+        "a2": "they got out the group stages",
+        "kgER2": {
+            "goalkeeper": [
+                "position"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "they got out the group stages",
+        "a2_v2": "they got out the group stages",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "do you think they can compete next euro for the title?",
+        "a3": "no , i think this portugal team had what it took to get rudthrr  in tournament . now i believe they will lose ronaldo and start from scratch g . ",
+        "kgER3": {
+            "goalkeeper": [
+                "position"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "no , i think this @entity team had what it took to get rudthrr  in tournament . now i believe they will lose ronaldo and start from scratch g . ",
+        "a3_v2": "no , i think this portugal team had what it took to get rudthrr  in tournament . now i believe they will lose ronaldo and start from scratch g . ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    },
+    {
+        "q4": "i do not agree with that ronaldo was good in everything",
+        "a4": "didn't ronaldo say he won't be playing for portugal anymore?",
+        "kgER4": {
+            "goalkeeper": [
+                "position"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "didn't ronaldo say he won't be playing for @entity anymore?",
+        "a4_v2": "didn't ronaldo say he won't be playing for portugal anymore?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "cristiano ronaldo"
+    },
+    {
+        "q5": "can portugal do something without cristiano ronaldo?",
+        "a5": "is ronaldo the best player of portugal team?",
+        "kgER5": {
+            "goalkeeper": [
+                "position"
+            ],
+            "portugal": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "is ronaldo the @relation of @entity team?",
+        "a5_v2": "is ronaldo the best player of portugal team?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "cristiano ronaldo"
+    }
+]

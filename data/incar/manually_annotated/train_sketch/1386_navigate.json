@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "i need directions to a grocery_store",
+        "a1": "there are two grocery_stores near you would you like safeway or whole_foods",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "whole_foods",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "whole_foods",
+            "safeway"
+        ]
+    },
+    {
+        "q2": "i need the one with the quickest route that is within 3_miles of me please",
+        "a2": "there is heavy_traffic but whole_foods is just 2_miles away at 819_alma_st",
+        "input_rel2": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,address",
+        "corr_rel2": "address,distance",
+        "obj2": "819_alma_st,2_miles",
+        "input_ent2": "whole_foods",
+        "kvr_entlist_qa2": [
+            "819_alma_st",
+            "whole_foods",
+            "2_miles",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "thank you very much car let s go",
+        "a3": "you re welcome on our way",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

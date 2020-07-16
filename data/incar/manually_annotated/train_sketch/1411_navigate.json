@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "i need to find the fastest route to the nearest gas_station",
+        "a1": "chevron is 5_miles away with moderate_traffic you want that address",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "chevron",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "chevron",
+            "5_miles",
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q2": "yes sounds good",
+        "a2": "chevron is located at 783_arcadia_pl do you want me to set the gps",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "",
+        "obj2": "783_arcadia_pl",
+        "input_ent2": "chevron",
+        "kvr_entlist_qa2": [
+            "chevron",
+            "783_arcadia_pl"
+        ]
+    },
+    {
+        "q3": "yes please",
+        "a3": "gps set to 783_arcadia_pl",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "783_arcadia_pl"
+        ]
+    },
+    {
+        "q4": "thanks so much for all your help",
+        "a4": "you re welcome glad to help",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

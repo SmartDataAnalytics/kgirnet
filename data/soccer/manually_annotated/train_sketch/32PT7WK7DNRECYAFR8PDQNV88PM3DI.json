@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "i like the team chelsea",
+        "a1": "i admire chelsea",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a1_skt": "i admire @entity",
+        "a1_v2": "i admire chelsea",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "what color are their uniforms \\?",
+        "a2": "chelsea 's home kit is usually blue and white",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a2_skt": "@entity 's home kit is usually @object and @object",
+        "a2_v2": "chelsea 's home kit is usually blue and white",
+        "corr_rel2": "jersey color",
+        "obj2": "blue",
+        "input_ent2": "chelsea"
+    },
+    {
+        "q3": "are they a great team \\?",
+        "a3": "i really love the team chelsea",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "i really love the team @entity",
+        "a3_v2": "i really love the team chelsea",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what number would you rank chelsea in their league",
+        "a4": "second place lacks more training and strategies",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "second place lacks more training and strategies",
+        "a4_v2": "second place lacks more training and strategies",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "chelsea"
+    },
+    {
+        "q5": "this team is very good one of the best in history",
+        "a5": "i think liverpool will finish higher up on the table this year than chelsea",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "i think @entity will finish higher up on the table this year than @entity",
+        "a5_v2": "i think liverpool will finish higher up on the table this year than chelsea",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

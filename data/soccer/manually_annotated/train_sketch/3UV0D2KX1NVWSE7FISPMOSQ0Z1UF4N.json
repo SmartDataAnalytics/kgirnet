@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "what is the biggest upset of real madrid?",
+        "a1": "more recently, it is probably during the 2016 champagne where they fell very low on the table after losing many games and players not getting along.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "more recently, it is probably during the 2016 champagne where they fell very low on the table after losing many games and players not getting along.",
+        "a1_v2": "more recently, it is probably during the 2016 champagne where they fell very low on the table after losing many games and players not getting along.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "was it when zidane arrived to direct him? ",
+        "a2": "zidane is not just real madrid good coach but a legend",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "zidane is not just @entity good @relation but a legend",
+        "a2_v2": "zidane is not just real madrid good coach but a legend",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "zinedine zidane"
+    },
+    {
+        "q3": "do you think zidane is the best coach they've ever had?",
+        "a3": "i think he did pretty good for the team.",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think he did pretty good for the team.",
+        "a3_v2": "i think he did pretty good for the team.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "ever banega"
+    },
+    {
+        "q4": "is real madrid your favorite team?",
+        "a4": "no, i prefer arsenal.",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "no, i prefer @entity",
+        "a4_v2": "no, i prefer arsenal.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "will real madrid do the unthinkable and win a 4th ucl in a row?",
+        "a5": "i hope not",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i hope not",
+        "a5_v2": "i hope not",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

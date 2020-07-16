@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "do you think chelsea can finish in the top 4 of the premier league this year?",
+        "a1": "i think they will really struggle to make top 4. ",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "5 \\( first in 1998 \\)": [
+                "world cup appearance"
+            ]
+        },
+        "a1_skt": "i think they will really struggle to make top 4. ",
+        "a1_v2": "i think they will really struggle to make top 4. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "will the new manager last more than two seasons at the club?",
+        "a2": "i think maurizio sarri will last quite a few seasons with chelsea. he seems to be doing well.",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "5 \\( first in 1998 \\)": [
+                "world cup appearance"
+            ]
+        },
+        "a2_skt": "i think @object will last quite a few seasons with @entity he seems to be doing well.",
+        "a2_v2": "i think maurizio sarri will last quite a few seasons with chelsea. he seems to be doing well.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "do you think chelsea will finish top 4?",
+        "a3": "i'm not sure chelsea will be able to finish top 4 this year.",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "5 \\( first in 1998 \\)": [
+                "world cup appearance"
+            ]
+        },
+        "a3_skt": "i'm not sure @entity will be able to finish top @object this year.",
+        "a3_v2": "i'm not sure chelsea will be able to finish top 4 this year.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "chelsea"
+    },
+    {
+        "q4": "i'm not sure, it could be second or second",
+        "a4": "maybe they will do well, chelsea had 14 players at the world cup this summer.",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "5 \\( first in 1998 \\)": [
+                "world cup appearance"
+            ]
+        },
+        "a4_skt": "maybe they will do well, @entity had @object players at the world cup this summer.",
+        "a4_v2": "maybe they will do well, chelsea had 14 players at the world cup this summer.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who's their biggest star now?",
+        "a5": "hazard is the star of the team",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "5 \\( first in 1998 \\)": [
+                "world cup appearance"
+            ]
+        },
+        "a5_skt": "hazard is the star of the team",
+        "a5_v2": "hazard is the star of the team",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

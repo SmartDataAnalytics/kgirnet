@@ -1,0 +1,103 @@
+[
+    {
+        "q1": "what's the name of real madrid's stadium?",
+        "a1": "it is santiago bernab\u00e9u stadium.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "it is @object",
+        "a1_v2": "it is santiago bernab\u00e9u stadium.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "real madrid has won 13 champions league ",
+        "a2": "yes, real madrid has won 13 european cups, more than any other team.",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes, @entity has won @object european cups, more than any other team.",
+        "a2_v2": "yes, real madrid has won 13 european cups, more than any other team.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "who is the captain of real madrid team?",
+        "a3": "sergioa ramos",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "sergioa ramos",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "who is the goalkeeper of real madrid now?",
+        "a4": "keylor navas",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "@object",
+        "a4_v2": "keylor navas",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "what's his jersey number?",
+        "a5": "he is currently wearing jersey no. 1",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "he is currently wearing jersey no. @object",
+        "a5_v2": "he is currently wearing jersey no. @jersey",
+        "corr_rel5": "jersey",
+        "obj5": "1",
+        "input_ent5": "real madrid"
+    }
+]

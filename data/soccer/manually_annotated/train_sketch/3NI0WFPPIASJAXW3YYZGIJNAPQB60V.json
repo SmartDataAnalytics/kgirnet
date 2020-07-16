@@ -1,0 +1,145 @@
+[
+    {
+        "q1": "name the owner of atletico madrid?",
+        "a1": "enrique cerezo is a owner",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object is a owner",
+        "a1_v2": "@chairman is a owner",
+        "corr_rel1": "chairman",
+        "obj1": "enrique cerezo",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "do you think that atletico madrid could win champions league this year?",
+        "a2": "i think they have a chance, they always compete on the highest level and their draw for this season is very favorable. ",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i think they have a chance, they always compete on the @relation level and their draw for this season is very favorable. ",
+        "a2_v2": "i think they have a chance, they always compete on the highest level and their draw for this season is very favorable. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "atletico madrid"
+    },
+    {
+        "q3": "will atletico madrid win la liga this year, ended the run of real madrid and barcelona winning it? ",
+        "a3": "i think they have a shot.  they've really came together these last few games.",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think they have a shot.  they've really came together these last few games.",
+        "a3_v2": "i think they have a shot.  they've really came together these last few games.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "are you going to the game?",
+        "a4": "no i am not.",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "no i am not.",
+        "a4_v2": "no i am not.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "are you watching the games though? ",
+        "a5": "yes i will watch",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes i will watch",
+        "a5_v2": "yes i will watch",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

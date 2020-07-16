@@ -1,0 +1,106 @@
+[
+    {
+        "q1": "what was barcelona's attendance last season?",
+        "a1": "average home league attendance\u200e: \u200e69,256",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "average home league attendance\u200e: \u200e69,256",
+        "a1_v2": "average home league attendance\u200e: \u200e69,256",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "what was the last competition barcelona won?",
+        "a2": "barcelona beat sevilla 2 to 1 today, 13 august 2018.",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@entity beat sevilla @object to @object today, @object3 august @object0@object8.",
+        "a2_v2": "barcelona beat sevilla 2 to 1 today, 13 august 2018.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "barcelona"
+    },
+    {
+        "q3": "how do you think they rate compared to the rest of the spanish teams?",
+        "a3": "i think they are the best spanish side of all ",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "i think they are the best spanish side of all ",
+        "a3_v2": "i think they are the best spanish side of all ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "what do think are the chances barcelona will make into the finals?",
+        "a4": "there is a very high chance!",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "there is a very @relation chance!",
+        "a4_v2": "there is a very high chance!",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "how many points do you think barcelona will have at the end of the season?",
+        "a5": "90 points are what the barcelona has to do this tenporada",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "@object points are what the @entity has to do this tenporada",
+        "a5_v2": "90 points are what the barcelona has to do this tenporada",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "barcelona"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "find me a gas_station that i can get to the quickest without any traffic",
+        "a1": "the nearest gas_station is located at 91_el_camino_real but there is a roadblock nearby",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "address",
+        "obj1": "91_el_camino_real",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "91_el_camino_real",
+            "gas_station"
+        ]
+    },
+    {
+        "q2": "anything else around",
+        "a2": "i m sorry but this is the only option in a 6_miles range",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel2": "distance",
+        "obj2": "6_miles",
+        "input_ent2": "76",
+        "kvr_entlist_qa2": [
+            "6_miles"
+        ]
+    },
+    {
+        "q3": "ok please give me directions via the fastest route",
+        "a3": "there is a road_block_nearby i sent on your screen a slightly longer road that will allow you to reach faster",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel3": "traffic_info",
+        "obj3": "road_block_nearby",
+        "input_ent3": "gas_station",
+        "kvr_entlist_qa3": [
+            "road_block_nearby"
+        ]
+    },
+    {
+        "q4": "thank you",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

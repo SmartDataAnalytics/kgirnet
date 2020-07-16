@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "please give me a list of hotels that are near me in the direction",
+        "a1": "i have two rest_stops near you one is 4_miles away with no_traffic and one is 5_miles away with heavy_traffic do you have a preference",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "distance",
+        "obj1": "4_miles,5_miles",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "no_traffic",
+            "4_miles",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q2": "i need the quickest route please",
+        "a2": "i will begin the directions now",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "q1": "do you think manchester united can beat real madrid on wednesday?",
+        "a1": "at fhe moment i think madrid are beatable.",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "at fhe moment i think madrid are beatable.",
+        "a1_v2": "at fhe moment i think madrid are beatable.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "with ronaldo gone now, united have a much better shot.",
+        "a2": "lukaku has a real shot to shine this season and guide manchester united to win.",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "lukaku has a real shot to shine this season and guide @entity to win.",
+        "a2_v2": "lukaku has a real shot to shine this season and guide manchester united to win.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "manchester united"
+    },
+    {
+        "q3": "what happens if renaldo gets off the injured list?",
+        "a3": "i think the game will disturb and he is  a good player",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "i think the game will disturb and he is  a good player",
+        "a3_v2": "i think the game will disturb and he is  a good player",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "did you think the manchester united vs real madrid game was exciting?",
+        "a4": "i would've liked to see more of the starters, but there were plenty of goals in the first half to enjoy.",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "i would've liked to see more of the starters, but there were plenty of @relation in the first half to enjoy.",
+        "a4_v2": "i would've liked to see more of the starters, but there were plenty of goals in the first half to enjoy.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "who's your favorite player on the manchester united?",
+        "a5": "pogba is one of my favourites, and so is lukaku.",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "pogba is one of my favourites, and so is lukaku.",
+        "a5_v2": "pogba is one of my favourites, and so is lukaku.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "manchester united"
+    },
+    {
+        "q6": "can i talk to you tomorrow? i really have to go so goodbye",
+        "a6": "sure, we can talk tomorrow. bye!",
+        "kgER6": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a6_skt": "sure, we can talk tomorrow. bye!",
+        "a6_v2": "sure, we can talk tomorrow. bye!",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "emre can"
+    }
+]

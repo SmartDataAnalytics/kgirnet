@@ -1,0 +1,122 @@
+[
+    {
+        "q1": "do you think bayern munich is the all-time best german football club?",
+        "a1": "yes! i can't wait to see how they perform under niko kovac.",
+        "kgER1": {
+            "german pezzella": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes! i can't wait to see how they perform under niko kovac.",
+        "a1_v2": "yes! i can't wait to see how they perform under niko kovac.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "who are the best team players for bayern munich?",
+        "a2": "i think arturo vidal and arjen robben are very important players for bayern munich. ",
+        "kgER2": {
+            "german pezzella": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i think @object and @object are very important players for @entity ",
+        "a2_v2": "i think arturo vidal and arjen robben are very important players for bayern munich. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bayern munich"
+    },
+    {
+        "q3": "do you think bayern munich can compete for the champions league title?",
+        "a3": "they can win the champions league, but there a few things that need to go their way before doing that. with the squad bayern have and ancelotti at the helm i see them going very far this year!",
+        "kgER3": {
+            "german pezzella": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "ground",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they can win the champions league, but there a few things that need to go their way before doing that. with the squad bayern have and ancelotti at the helm i see them going very far this year!",
+        "a3_v2": "they can win the champions league, but there a few things that need to go their way before doing that. with the squad bayern have and ancelotti at the helm i see them going very far this year!",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bayern munich"
+    }
+]

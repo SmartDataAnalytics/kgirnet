@@ -1,0 +1,123 @@
+[
+    {
+        "q1": "what is sweden 's best performance at a world cup 2018 \\?",
+        "a1": "the quarterfinals",
+        "kgER1": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "the quarterfinals",
+        "a1_v2": "the quarterfinals",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "sweden"
+    },
+    {
+        "q2": "who was their captain for that tournament \\?",
+        "a2": "andreas granqvist was the captain of sweden in world cup 2018",
+        "kgER2": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object was the @relation of @entity in world cup @object",
+        "a2_v2": "@number_of_world_cup_champion was the captain of @entity in world cup @number_of_world_cup_champion",
+        "corr_rel2": "captain",
+        "obj2": "andreas granqvist",
+        "input_ent2": "sweden"
+    },
+    {
+        "q3": "do you think zlatan will return to the sweden team \\?",
+        "a3": "it depends on what other opportunities he has i think",
+        "kgER3": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "it depends on what other opportunities he has i think",
+        "a3_v2": "it depends on what other opportunities he has i think",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "sweden"
+    },
+    {
+        "q4": "who is the goalkeeper of sweden \\?",
+        "a4": "ikkason",
+        "kgER4": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a4_skt": "ikkason",
+        "a4_v2": "ikkason",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "sweden"
+    },
+    {
+        "q5": "is sweden a good team \\?",
+        "a5": "in my opinion , yes",
+        "kgER5": {
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a5_skt": "in my opinion , yes",
+        "a5_v2": "in my opinion , yes",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "sweden"
+    }
+]

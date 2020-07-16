@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "give me directions to my friends_house",
+        "a1": "jill lives at 347_alta_mesa_ave which is 5_miles away",
+        "input_rel1": "car_collision_nearby,moderate_traffic,poi,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel1": "address",
+        "obj1": "347_alta_mesa_ave",
+        "input_ent1": "friends_house",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "347_alta_mesa_ave"
+        ]
+    },
+    {
+        "q2": "ok please give me route details with no_traffic",
+        "a2": "in this moment there is moderate_traffic on our way but the house is only 5_miles far you should be able to reach it fast enough",
+        "input_rel2": "car_collision_nearby,moderate_traffic,poi,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel2": "distance",
+        "obj2": "5_miles",
+        "input_ent2": "jills_house",
+        "kvr_entlist_qa2": [
+            "5_miles",
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q3": "thank you very much car",
+        "a3": "you re welcome drive safely",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "q1": "locate a place that serves pizza",
+        "a1": "there is a pizza_chicago and round_table",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "round_table,pizza_chicago",
+        "input_ent1": "pizza_restaurant",
+        "kvr_entlist_qa1": [
+            "round_table",
+            "pizza_chicago"
+        ]
+    },
+    {
+        "q2": "which is closer",
+        "a2": "pizza_chicago is just 2_miles away but there is heavy_traffic on our way",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi, traffic_info,distance",
+        "obj2": "pizzza_chicago",
+        "input_ent2": "pizza_restaurant",
+        "kvr_entlist_qa2": [
+            "pizza_chicago",
+            "2_miles",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "how s the traffic for round_table",
+        "a3": "round_table has moderate_traffic noted",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "round_table",
+        "kvr_entlist_qa3": [
+            "round_table",
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q4": "ok let s go to pizza_chicago then since it s closest",
+        "a4": "i sent the info on your gps please drive carefully",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    },
+    {
+        "q5": "thanks for the help",
+        "a5": "you re welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "q1": "what time is my lab_appointment and what parties are attending",
+        "a1": "your lab_appointment is on saturday at 4pm and sunday at 6pm martha is attending on saturday and ana is attending on sunday",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "time,party",
+        "obj1": "4pm,6pm,martha,ana",
+        "input_ent1": "lab_appointment",
+        "kvr_entlist_qa1": [
+            "lab_appointment",
+            "4pm",
+            "sunday",
+            "saturday",
+            "6pm",
+            "martha",
+            "ana"
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "q1": "give me directions to a coffee place",
+        "a1": "navigating to cafe_venetia",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "cafe_venetia",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "cafe_venetia"
+        ]
+    },
+    {
+        "q2": "please pick the fastest route and bring me there thank you",
+        "a2": "i only have one listed and it s got heavy_traffic do you still want to go there",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "i guess what is the address",
+        "a3": "cafe_venetia is located at 269_alger_drive",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "269_alger_drive",
+        "input_ent3": "cafe_venetia",
+        "kvr_entlist_qa3": [
+            "cafe_venetia"
+        ]
+    },
+    {
+        "q4": "pick the fastest route for me car thank you",
+        "a4": "setting your gps for the fastest route to cafe_venetia now",
+        "input_rel4": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel4": "",
+        "obj4": "none",
+        "input_ent4": "coffee_or_tea_place",
+        "kvr_entlist_qa4": [
+            "cafe_venetia"
+        ]
+    },
+    {
+        "q5": "thank you for all your help",
+        "a5": "you re very welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

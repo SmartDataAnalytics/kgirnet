@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "where is there a parking_garage",
+        "a1": "i have located a parking_garage 2_miles away at 880_ames_ct called webster_garage",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "address",
+        "obj1": "880_ames_ct",
+        "input_ent1": "webster_garage",
+        "kvr_entlist_qa1": [
+            "880_ames_ct",
+            "parking_garage",
+            "webster_garage",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "what is the quickest route there",
+        "a2": "it is located 2_miles away with moderate_traffic en route",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "2_miles",
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q3": "okay perfect thanks",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

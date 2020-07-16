@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "who plays in left back for fc. porto?",
+        "a1": "very good team",
+        "kgER1": {},
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "how will fc porto plays?",
+        "a2": "they use a 4-4-2",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they use a 4-4-2",
+        "a2_v2": "they use a 4-4-2",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "fc. porto"
+    },
+    {
+        "q3": "the top flights of portuguese football.",
+        "a3": "the club supporters are called portistas. since 2003, porto have played their home matches at the est\u00e1dio do drag\u00e3o, which replaced the previous 52-year-old ground, the est\u00e1dio das antas.",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a3_skt": "the club supporters are called portistas. since 2003, porto have played their home matches at the est\u00e1dio do drag\u00e3o, which replaced the previous 52-year-old @relation the est\u00e1dio das antas.",
+        "a3_v2": "the club supporters are called portistas. since 2003, porto have played their home matches at the est\u00e1dio do drag\u00e3o, which replaced the previous 52-year-old ground, the est\u00e1dio das antas.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "in which city does fc. porto play in?",
+        "a4": "porto, portugal",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a4_skt": "porto, @entity",
+        "a4_v2": "porto, portugal",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "fc. porto"
+    },
+    {
+        "q5": "really? ",
+        "a5": "yes, porto (oporto in english). 2nd largest city in portugal.",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes, porto (oporto in english). 2nd largest city in @entity",
+        "a5_v2": "yes, porto (oporto in english). 2nd largest city in portugal.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

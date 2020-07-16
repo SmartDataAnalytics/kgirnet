@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "what's your prediction for chelsea in the epl?",
+        "a1": "i predict that chelsea will win 2 to 1 against liverpool.",
+        "kgER1": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a1_skt": "i predict that @entity will win @object to @object against @entity",
+        "a1_v2": "i predict that chelsea will win 2 to 1 against liverpool.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "chelsea"
+    },
+    {
+        "q2": "have you ever played for chelsea?",
+        "a2": "i wish, i have never plated at the professional level. ",
+        "kgER2": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "i wish, i have never plated at the professional level. ",
+        "a2_v2": "i wish, i have never plated at the professional level. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "chelsea"
+    },
+    {
+        "q3": "chelsea would be a good team to play for",
+        "a3": "what team will chelsea play next?",
+        "kgER3": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "what team will @entity play next?",
+        "a3_v2": "what team will chelsea play next?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "chelsea"
+    },
+    {
+        "q4": "aresnal this saturday",
+        "a4": "what was their last result?",
+        "kgER4": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "what was their last result?",
+        "a4_v2": "what was their last result?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "the result is de 3-0",
+        "a5": "do you think they will beat arsenal?",
+        "kgER5": {
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "do you think they will beat @entity",
+        "a5_v2": "do you think they will beat arsenal?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "david de gea"
+    }
+]

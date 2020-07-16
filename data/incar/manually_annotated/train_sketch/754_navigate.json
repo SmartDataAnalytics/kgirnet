@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "car i need to buy groceries is there any grocery_store on our way",
+        "a1": "the hacienda_market is 2_miles away in heavy_traffic would you like directions there alternately there is the sigona_farmers_market 3_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "hacienda_market",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "hacienda_market",
+            "sigona_farmers_market",
+            "3_miles",
+            "heavy_traffic",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "is there traffic on the route to sigona_farmers_market if not please direct me there",
+        "a2": "there is no_traffic at all i sent its position and the route to follow on your screen",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "no_traffic",
+        "input_ent2": "sigona_farmers_market",
+        "kvr_entlist_qa2": [
+            "no_traffic"
+        ]
+    },
+    {
+        "q3": "ok that works thank you car assistant",
+        "a3": "you re very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

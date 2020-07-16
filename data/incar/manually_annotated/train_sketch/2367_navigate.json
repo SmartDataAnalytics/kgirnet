@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "get me directions to the closest starbucks",
+        "a1": "i have no starbucks listed as close to you",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "starbucks"
+        ]
+    },
+    {
+        "q2": "how about any coffee shop",
+        "a2": "the closest coffee shop to you is 5_miles away at 436_alger_dr",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "distance",
+        "obj2": "poi",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "5_miles",
+            "436_alger_dr"
+        ]
+    },
+    {
+        "q3": "does this route contain traffic i need to go there with no_traffic",
+        "a3": "there is no_traffic now i ve already set the gps so you can get there",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "traffic_info",
+        "obj3": "no_traffic",
+        "input_ent3": "starbucks",
+        "kvr_entlist_qa3": [
+            "no_traffic"
+        ]
+    },
+    {
+        "q4": "thank you",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "car i need to get to a gas_station please show me the nearest one",
+        "a1": "there is valero 7_miles away with moderate_traffic on our way",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "valero",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": [
+            "7_miles",
+            "moderate_traffic",
+            "valero"
+        ]
+    },
+    {
+        "q2": "alright where is it located",
+        "a2": "valero is at 200_alester_ave",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "address",
+        "obj2": "200_alester_ave",
+        "input_ent2": "valero",
+        "kvr_entlist_qa2": [
+            "200_alester_ave",
+            "valero"
+        ]
+    },
+    {
+        "q3": "please pick the fastest route to get there",
+        "a3": "there is moderate_traffic on our way i sent the route on your screen",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q4": "thank you car",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

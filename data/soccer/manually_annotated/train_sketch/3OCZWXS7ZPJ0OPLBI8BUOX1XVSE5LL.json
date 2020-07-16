@@ -1,0 +1,109 @@
+[
+    {
+        "q1": "who is liverpool's manager?",
+        "a1": "j\u00fcrgen klopp",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "j\u00fcrgen klopp",
+        "a1_v2": "j\u00fcrgen klopp",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "a really nice tactical strategy from jurgen klopp in the previous game. he will manage liverpool for a long time.",
+        "a2": "agreed. he's done well",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "jurgen klopp": [
+                "coach"
+            ]
+        },
+        "a2_skt": "agreed. he's done well",
+        "a2_v2": "agreed. he's done well",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "jurgen klopp"
+    },
+    {
+        "q3": "do you think liverpool can win the league this year?",
+        "a3": "yes, they have good footbal",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "jurgen klopp": [
+                "coach"
+            ]
+        },
+        "a3_skt": "yes, they have good footbal",
+        "a3_v2": "yes, they have good footbal",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "liverpool"
+    },
+    {
+        "q4": "do you think about?",
+        "a4": "they have amazing attacking options and are a consistent threat to score.",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "jurgen klopp": [
+                "coach"
+            ]
+        },
+        "a4_skt": "they have amazing attacking options and are a consistent threat to score.",
+        "a4_v2": "they have amazing attacking options and are a consistent threat to score.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "i would agree with that actually",
+        "a5": "who do you think is the worst player for liverpool?",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "jurgen klopp": [
+                "coach"
+            ]
+        },
+        "a5_skt": "who do you think is the worst player for @entity",
+        "a5_v2": "who do you think is the worst player for liverpool?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

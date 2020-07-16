@@ -1,0 +1,120 @@
+[
+    {
+        "q1": "how many times has italy won the world cup \\?",
+        "a1": "4",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object",
+        "a1_v2": "@number_of_world_cup_champion",
+        "corr_rel1": "number of world cup champion",
+        "obj1": "4",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "when did italy last win \\?",
+        "a2": "in 2004",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "in @object",
+        "a2_v2": "in 2004",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "which place did italy finish in the 2006 world cup \\?",
+        "a3": "in the first place , he was the champion of this year",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "in the first place , he was the champion of this year",
+        "a3_v2": "in the first place , he was the champion of this year",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "2006"
+    },
+    {
+        "q4": "who italys all time top scorer \\?",
+        "a4": "luigi riva",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "luigi riva",
+        "a4_v2": "luigi riva",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "all time top goal scorers of the national football team of italy as of july 2018 , by goals scored",
+        "a5": "i think it 's luigi riva the best scorer and best in italy",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "i think it 's luigi riva the best scorer and best in @entity",
+        "a5_v2": "i think it 's luigi riva the best scorer and best in italy",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "2018"
+    }
+]

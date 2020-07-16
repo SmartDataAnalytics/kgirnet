@@ -1,0 +1,104 @@
+[
+    {
+        "q1": "how many goals in average does your team make per game?",
+        "a1": "almost two goals per game.",
+        "kgER1": {
+            "avram glazer": [
+                "chairman"
+            ]
+        },
+        "a1_skt": "almost two @relation per game.",
+        "a1_v2": "almost two goals per game.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "is manchester united a good team",
+        "a2": "yes but arsenal is better",
+        "kgER2": {
+            "avram glazer": [
+                "chairman"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes but @entity is better",
+        "a2_v2": "yes but arsenal is better",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "manchester united"
+    },
+    {
+        "q3": "i'm cheering only for fulham fc.",
+        "a3": "cheer away, but you will likely leave sad and empty handed.",
+        "kgER3": {
+            "avram glazer": [
+                "chairman"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "cheer away, but you will likely leave sad and empty handed.",
+        "a3_v2": "cheer away, but you will likely leave sad and empty handed.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "when did alex ferguson join manchester united?",
+        "a4": "november 1986",
+        "kgER4": {
+            "avram glazer": [
+                "chairman"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "november @object",
+        "a4_v2": "november 1986",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "did alex ferguson play for manchester united or was he just the manager?",
+        "a5": "he was just the manager. ",
+        "kgER5": {
+            "avram glazer": [
+                "chairman"
+            ],
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "he was just the manager. ",
+        "a5_v2": "he was just the manager. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "manchester united"
+    }
+]

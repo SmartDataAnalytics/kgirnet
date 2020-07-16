@@ -1,0 +1,125 @@
+[
+    {
+        "q1": "i am a big fan of this team",
+        "a1": "i think belgium need to do more to be successful on the international stage.",
+        "kgER1": {},
+        "a1_skt": "i think @entity need to do more to be successful on the international stage.",
+        "a1_v2": "i think belgium need to do more to be successful on the international stage.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "what would be one thing belgium's team could improve on?",
+        "a2": "i think the need to play a more structured european game.",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i think the need to play a more structured european game.",
+        "a2_v2": "i think the need to play a more structured european game.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "belgium"
+    },
+    {
+        "q3": "who was the top scorer in the world cup for belgium?",
+        "a3": "eden hazard",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object",
+        "a3_v2": "eden hazard",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "belgium"
+    },
+    {
+        "q4": "was he belgium's best player?",
+        "a4": "yes he is a belgum's best player?",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "yes he is a belgum's best player?",
+        "a4_v2": "yes he is a belgum's best player?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "belgium"
+    },
+    {
+        "q5": "who perform well in world cup eden hazard or romelu lukaku?",
+        "a5": "romelu frmo belguim is the man.",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "eden hazard": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "romelu lukaku": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "forward"
+            ]
+        },
+        "a5_skt": "romelu frmo belguim is the man.",
+        "a5_v2": "romelu frmo belguim is the man.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "romelu lukaku"
+    }
+]

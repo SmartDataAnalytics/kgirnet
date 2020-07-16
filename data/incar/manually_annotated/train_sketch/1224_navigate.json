@@ -1,0 +1,23 @@
+[
+    {
+        "q1": "navigate me to the nearest grocery_store",
+        "a1": "we re 2_miles away from sigona_farmers_market is it be okay to go there",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi,distance",
+        "obj1": "sigona_farmers_market,2_miles",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "sigona_farmers_market",
+            "2_miles"
+        ]
+    },
+    {
+        "q2": "sure please just pick the fastest route and send me the address on screen thank you car",
+        "a2": "you re welcome the info are on the screen drive carefully",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

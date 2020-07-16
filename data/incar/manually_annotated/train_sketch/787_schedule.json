@@ -1,0 +1,46 @@
+[
+    {
+        "q1": "who is going to play tennis with me",
+        "a1": "alex will be attending your tennis_activity",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "party",
+        "obj1": "alex",
+        "input_ent1": "tennis_activity",
+        "kvr_entlist_qa1": [
+            "tennis_activity",
+            "alex"
+        ]
+    },
+    {
+        "q2": "what time will we be meeting for this",
+        "a2": "at 7pm",
+        "input_rel2": "room,date,time,agenda,party",
+        "corr_rel2": "time",
+        "obj2": "7pm",
+        "input_ent2": "meeting",
+        "kvr_entlist_qa2": [
+            "7pm"
+        ]
+    },
+    {
+        "q3": "where is it located",
+        "a3": "don t forget that it s on sunday with alex i don t have a location for this event however",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "sunday",
+            "alex"
+        ]
+    },
+    {
+        "q4": "thank you",
+        "a4": "you are welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

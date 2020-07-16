@@ -1,0 +1,55 @@
+[
+    {
+        "q1": "where can i get gas",
+        "a1": "i have a couple gas_stations listed which one would you like to know about",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "",
+        "obj1": "none",
+        "input_ent1": "gas_station",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "pick the quickest one to reach the one in the shortest distance",
+        "a2": "chevron is the closest gas_station",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "chevron",
+        "input_ent2": "gas_station",
+        "kvr_entlist_qa2": [
+            "chevron",
+            "gas_station"
+        ]
+    },
+    {
+        "q3": "where is chevron",
+        "a3": "chevron is located 7_miles away from here at 783_arcadia_pi would you like to set the gps to go there",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "783_arcadia_pi",
+        "input_ent3": "chevron",
+        "kvr_entlist_qa3": [
+            "chevron",
+            "7_miles"
+        ]
+    },
+    {
+        "q4": "yes set the gps to that with route details and the quickest route and shortest time",
+        "a4": "there is a car_collision_nearby but i found another route and i sent the info on your screen drive carefully",
+        "input_rel4": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel4": "traffic_info",
+        "obj4": "car_collision_nearby",
+        "input_ent4": "chevron",
+        "kvr_entlist_qa4": [
+            "car_collision_nearby"
+        ]
+    },
+    {
+        "q5": "thank you car",
+        "a5": "you re welcome",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

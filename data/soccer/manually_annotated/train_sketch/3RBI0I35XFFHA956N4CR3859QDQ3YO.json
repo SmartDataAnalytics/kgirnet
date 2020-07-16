@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "did you root for or against france in the 2018 world cup?",
+        "a1": "neither, but i was amazed by mbappe!",
+        "kgER1": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "neither, but i was amazed by mbappe!",
+        "a1_v2": "neither, but i was amazed by mbappe!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "2018"
+    },
+    {
+        "q2": "i was really rooting for france myself.",
+        "a2": "i was pleased that they did well ",
+        "kgER2": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i was pleased that they did well ",
+        "a2_v2": "i was pleased that they did well ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "france"
+    },
+    {
+        "q3": "what is the average age of their players?",
+        "a3": "26 years old",
+        "kgER3": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@object years old",
+        "a3_v2": "26 years old",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "should france be the favorites for the 2022 world cup?",
+        "a4": "france should be considered to be the favorites in 2022 due to their ambitious sportsmanship.",
+        "kgER4": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@entity should be considered to be the favorites in @object due to their ambitious sportsmanship.",
+        "a4_v2": "france should be considered to be the favorites in 2022 due to their ambitious sportsmanship.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "france"
+    },
+    {
+        "q5": "how will france perform in the euro championship/",
+        "a5": "they'll be near the top of the food chain.",
+        "kgER5": {
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "they'll be near the top of the food chain.",
+        "a5_v2": "they'll be near the top of the food chain.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "france"
+    }
+]

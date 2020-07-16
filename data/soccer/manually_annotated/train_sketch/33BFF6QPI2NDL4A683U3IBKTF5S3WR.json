@@ -1,0 +1,83 @@
+[
+    {
+        "q1": "i completely love italy",
+        "a1": "mario balotelli is my favorite player on the italian team.",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "mario balotelli is my favorite player on the italian team.",
+        "a1_v2": "mario balotelli is my favorite player on the italian team.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "does he still play?",
+        "a2": "yes, he currently plays for ligue 1 side ",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "yes, he currently plays for ligue @object side ",
+        "a2_v2": "yes, he currently plays for ligue 1 side ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "i do not like italy for what they did to france.",
+        "a3": "okay",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "okay",
+        "a3_v2": "okay",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "france"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "could you tell me what day and time my meeting is on",
+        "a1": "your meeting is set for the_5th at 4pm",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time,date",
+        "obj1": "the_5th,4pm",
+        "input_ent1": "meeting",
+        "kvr_entlist_qa1": [
+            "the_5th",
+            "meeting",
+            "4pm"
+        ]
+    },
+    {
+        "q2": "what is the agenda",
+        "a2": "the purpose of your meeting on the_5th at 4pm is to go over the quarterly report",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "the_5th",
+            "meeting",
+            "4pm"
+        ]
+    },
+    {
+        "q3": "great thanks",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "q1": "i love liverpool ",
+        "a1": "that's not a question. but i am sure you like liverpool just fine.",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "that's not a question. but i am sure you like @entity just fine.",
+        "a1_v2": "that's not a question. but i am sure you like liverpool just fine.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "what do you think about the defenders of the liverpool?",
+        "a2": "onlo mo salah is great",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a2_skt": "onlo mo salah is great",
+        "a2_v2": "onlo mo salah is great",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "what is the net worth of mo salah?",
+        "a3": "28 million",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a3_skt": "@object million",
+        "a3_v2": "28 million",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mohamed salah"
+    },
+    {
+        "q4": "does mo salah get paid the most?",
+        "a4": "malos movimiento liverpool",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "defender": [
+                "position"
+            ]
+        },
+        "a4_skt": "malos movimiento @entity",
+        "a4_v2": "malos movimiento liverpool",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "mohamed salah"
+    },
+    {
+        "q5": "mo salah or sadio mane?",
+        "a5": "mo salah",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "defender": [
+                "position"
+            ],
+            "sadio mane": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "mo salah",
+        "a5_v2": "mo salah",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "sadio mane"
+    }
+]

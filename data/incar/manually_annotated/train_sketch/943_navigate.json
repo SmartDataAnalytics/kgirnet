@@ -1,0 +1,47 @@
+[
+    {
+        "q1": "navigate me to the nearest hotel",
+        "a1": "we re 8_miles away from the_westin and there is also a car_collision_nearby it s not going to be fast",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "the_westin",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "car_collision_nearby",
+            "the_westin",
+            "8_miles"
+        ]
+    },
+    {
+        "q2": "any other options",
+        "a2": "the_westin at 329_el_camino_real is the only option i have available",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "329_el_camino_real",
+        "input_ent2": "the_westin",
+        "kvr_entlist_qa2": [
+            "329_el_camino_real",
+            "the_westin"
+        ]
+    },
+    {
+        "q3": "ok please give me directions via the shortest distance",
+        "a3": "setting navigation to the_westin now",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "",
+        "obj3": "none",
+        "input_ent3": "the_westin",
+        "kvr_entlist_qa3": [
+            "the_westin"
+        ]
+    },
+    {
+        "q4": "thank you car assistant",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

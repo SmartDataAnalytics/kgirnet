@@ -1,0 +1,70 @@
+[
+    {
+        "q1": "i really like the subject",
+        "a1": "me too",
+        "kgER1": {},
+        "a1_skt": "me too",
+        "a1_v2": "me too",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "i disagree",
+        "a2": "what do you not like about barcelona?",
+        "kgER2": {},
+        "a2_skt": "what do you not like about @entity",
+        "a2_v2": "what do you not like about barcelona?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "where is the world cup held this year?",
+        "a3": "there is no world cup this year",
+        "kgER3": {},
+        "a3_skt": "there is no world cup this year",
+        "a3_v2": "there is no world cup this year",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "but if there was barcelona would win it",
+        "a4": "barcelona cannot win it they are not a country. ",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity cannot win it they are not a country. ",
+        "a4_v2": "barcelona cannot win it they are not a country. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "barcelona"
+    },
+    {
+        "q5": "how long do you think messi will play in barcelona?",
+        "a5": "messi extend contract with barcelona until 2022",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "messi extend contract with @entity until @object",
+        "a5_v2": "messi extend contract with barcelona until 2022",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "barcelona"
+    }
+]

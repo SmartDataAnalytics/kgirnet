@@ -1,0 +1,142 @@
+[
+    {
+        "q1": "i love mexico",
+        "a1": "mexico has a very good soccer team. they are fighters! mexico always steps up to the challenge and when they are on, they can beat any team!",
+        "kgER1": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@entity has a very good soccer team. they are fighters! @entity always steps up to the challenge and when they are on, they can beat any team!",
+        "a1_v2": "mexico has a very good soccer team. they are fighters! mexico always steps up to the challenge and when they are on, they can beat any team!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "mexico"
+    },
+    {
+        "q2": "but can they ever compete for a world cup?",
+        "a2": "who's the best player on team mexico?",
+        "kgER2": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "who's the @relation on team @entity",
+        "a2_v2": "who's the best player on team mexico?",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "carlos vela",
+        "a3": "he\u2019s the best player they have.",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "carlos vela": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ]
+        },
+        "a3_skt": "he\u2019s the @relation they have.",
+        "a3_v2": "he\u2019s the best player they have.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "carlos vela"
+    },
+    {
+        "q4": "why is carlos vela considered to be the best player on team mexico?",
+        "a4": "he's highly skilled as a striker.",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "carlos vela": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "he's highly skilled as a striker.",
+        "a4_v2": "he's highly skilled as a striker.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "carlos vela"
+    },
+    {
+        "q5": "does mexico have any usa players ont heir team?",
+        "a5": "yes, other than carlos vela, there's jonathan dos santos.",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "carlos vela": [
+                "forward",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "yes, other than @object there's @object",
+        "a5_v2": "yes, other than carlos vela, there's jonathan dos santos.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "mexico"
+    }
+]

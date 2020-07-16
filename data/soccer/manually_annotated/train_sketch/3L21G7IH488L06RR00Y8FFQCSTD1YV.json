@@ -1,0 +1,88 @@
+[
+    {
+        "q1": "personally i don't really follow what f.c porto is doing. they are not a team on my constant radar.",
+        "a1": "yes i only watch when they play champions league games against big teams like psg",
+        "kgER1": {},
+        "a1_skt": "yes i only watch when they play champions league games against big teams like psg",
+        "a1_v2": "yes i only watch when they play champions league games against big teams like psg",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "is there a reason why you do not follow f.c porto?",
+        "a2": "i think that they should join",
+        "kgER2": {},
+        "a2_skt": "i think that they should join",
+        "a2_v2": "i think that they should join",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "fc. porto"
+    },
+    {
+        "q3": "has this team ever played mexico?",
+        "a3": "he has never played in mexico",
+        "kgER3": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "he has never played in @entity",
+        "a3_v2": "he has never played in mexico",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mexico"
+    },
+    {
+        "q4": "when was the last time porto won a championship?",
+        "a4": "porto last won a championship in 2004.",
+        "kgER4": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "porto last won a championship in 2004.",
+        "a4_v2": "porto last won a championship in 2004.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "fc. porto"
+    },
+    {
+        "q5": "where is fc. porto stadium based?",
+        "a5": "their stadium is in the city of porto, which is located in the northern part of portugal. ",
+        "kgER5": {
+            "mexico": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "their stadium is in the city of porto, which is located in the northern part of @entity ",
+        "a5_v2": "their stadium is in the city of porto, which is located in the northern part of portugal. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "fc. porto"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "q1": "what is the temperature going to be like this week",
+        "a1": "what city are you in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "danville",
+        "a2": "the temperature forecast for this week for danville is highs near 100 and lows in the 30s",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "100f, 30f",
+        "input_ent2": "danville",
+        "kvr_entlist_qa2": [
+            "week",
+            "danville"
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "q1": "find out the parties joining me and date for my doctor_appointment",
+        "a1": "you have 4 doctor_appointment scheduled marie on the_15th your brother on wednesday your mother on the_20th and ana on the_12th",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "date,party",
+        "obj1": "mother,the_12th,marie,the_15th,brother, the_20th,ana",
+        "input_ent1": "doctor_appointment",
+        "kvr_entlist_qa1": [
+            "mother",
+            "the_12th",
+            "doctor_appointment",
+            "marie",
+            "the_15th",
+            "wednesday",
+            "brother",
+            "the_20th",
+            "ana"
+        ]
+    },
+    {
+        "q2": "cool thanks",
+        "a2": "my pleasure goodbye",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

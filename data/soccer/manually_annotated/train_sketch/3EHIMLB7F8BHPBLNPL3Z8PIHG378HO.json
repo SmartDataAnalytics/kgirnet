@@ -1,0 +1,64 @@
+[
+    {
+        "q1": "if you'd had to choose between watching wimbledon or the world cup, which would you have chosen? ",
+        "a1": "i would choose wimbledon. ",
+        "kgER1": {},
+        "a1_skt": "i would choose wimbledon. ",
+        "a1_v2": "i would choose wimbledon. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "world cup without a doubt.",
+        "a2": "agreed. i think the world cup has more going on.",
+        "kgER2": {},
+        "a2_skt": "agreed. i think the world cup has more going on.",
+        "a2_v2": "agreed. i think the world cup has more going on.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what would the world cup look like if every time you scored a goal you gave up a player for the rest of the game?",
+        "a3": "it would be weird, it does not seem like the most common ",
+        "kgER3": {
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "it would be weird, it does not seem like the most common ",
+        "a3_v2": "it would be weird, it does not seem like the most common ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "no doubt the world cup is the best championship",
+        "a4": "i think if it's the best",
+        "kgER4": {
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "i think if it's the best",
+        "a4_v2": "i think if it's the best",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "i like the world championship of hot dog eating",
+        "a5": "do you ever wonder what would happen if the world cup teams competed in a hot dog eating competition?",
+        "kgER5": {
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "do you ever wonder what would happen if the @relation competed in a hot dog eating competition?",
+        "a5_v2": "do you ever wonder what would happen if the world cup teams competed in a hot dog eating competition?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

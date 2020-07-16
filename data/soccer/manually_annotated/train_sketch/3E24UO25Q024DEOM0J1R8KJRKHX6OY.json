@@ -1,0 +1,83 @@
+[
+    {
+        "q1": "do you think barcelona will win la liga next season?",
+        "a1": "no, i think real madrid will win next year.",
+        "kgER1": {
+            "kevin de bruyne": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "ola aina": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "no, i think @entity will win next year.",
+        "a1_v2": "no, i think real madrid will win next year.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "do you think barcelona will keep lionel messi for his entire career?",
+        "a2": "i know barcelona will keep lionel messi for his entire career. they have recently agreed on a contract to keep him until the summer of 2021. which it looks like thats all the man wants for the rest of career is just them few more years.",
+        "kgER2": {
+            "kevin de bruyne": [
+                "midfielder",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "ola aina": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age"
+            ],
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a2_skt": "i know @entity will keep @object for his entire career. they have recently agreed on a contract to keep him until the summer of 2021. which it looks like thats all the man wants for the rest of career is just them few more years.",
+        "a2_v2": "i know barcelona will keep lionel messi for his entire career. they have recently agreed on a contract to keep him until the summer of 2021. which it looks like thats all the man wants for the rest of career is just them few more years.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "lionel messi"
+    }
+]

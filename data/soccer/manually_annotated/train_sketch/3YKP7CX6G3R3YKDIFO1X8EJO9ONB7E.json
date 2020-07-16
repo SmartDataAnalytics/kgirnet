@@ -1,0 +1,212 @@
+[
+    {
+        "q1": "another one of the south american rough teams.  have a few gems but don't seem to be able to gel as a team.",
+        "a1": "a midfield is most what's missing. it doesn't get too much better than suarez-cavani & godin-jimenez.",
+        "kgER1": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "a @relation is most what's missing. it doesn't get too much better than suarez-cavani & godin-jimenez.",
+        "a1_v2": "a midfield is most what's missing. it doesn't get too much better than suarez-cavani & godin-jimenez.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "a midfild is most missing. it doesn't get too much better than suarez-cavani & godin-jimenez.",
+        "a2": "they definitely need more midfield development before the next world cup.",
+        "kgER2": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "they definitely need more @relation development before the next world cup.",
+        "a2_v2": "they definitely need more midfield development before the next world cup.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "luis suarez"
+    },
+    {
+        "q3": "for uruguay to work their way into a world power they need to focus on developing some solid midfielders. ",
+        "a3": "seriously  uruguay need more than suarez and cavani, see what happened to them at the world cup, cavani was out due to injury and the team was trashed 4-1 by france as sqarez was the only one doing the runnings",
+        "kgER3": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "midfielder": [
+                "position"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "seriously  @entity need more than suarez and cavani, see what happened to them at the world cup, cavani was out due to injury and the team was trashed @object by @entity as sqarez was the only one doing the runnings",
+        "a3_v2": "seriously  uruguay need more than suarez and cavani, see what happened to them at the world cup, cavani was out due to injury and the team was trashed 4-1 by france as sqarez was the only one doing the runnings",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "uruguay"
+    },
+    {
+        "q4": "in the game against france in the world cup, what player from the bench or reserves would have made a difference if they had been playing in this match?",
+        "a4": "giorgian de arrascaeta could have had a chance to really make an impact, but was never put into the game. his aggressive play could have helped uruguay make a comeback.",
+        "kgER4": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "midfielder": [
+                "position"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "@object could have had a chance to really make an impact, but was never put into the game. his aggressive play could have helped @entity make a comeback.",
+        "a4_v2": "giorgian de arrascaeta could have had a chance to really make an impact, but was never put into the game. his aggressive play could have helped uruguay make a comeback.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "france"
+    },
+    {
+        "q5": "do you think uruguay is a contender for the next world cup? ",
+        "a5": "i think it is unlikely. suarez is such an important part of that team, and with him aging, and countries like peru and venezuela getting better, they may not even make the world cup in 2022. ",
+        "kgER5": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "midfielder": [
+                "position"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think it is unlikely. suarez is such an important part of that team, and with him aging, and countries like peru and venezuela getting better, they may not even make the world cup in 2022. ",
+        "a5_v2": "i think it is unlikely. suarez is such an important part of that team, and with him aging, and countries like peru and venezuela getting better, they may not even make the world cup in 2022. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "uruguay"
+    },
+    {
+        "q6": "i have to go now i'll talk to you later bye",
+        "a6": "bye have a nice day!",
+        "kgER6": {
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "midfielder": [
+                "position"
+            ],
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "france": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a6_skt": "bye have a nice day!",
+        "a6_v2": "bye have a nice day!",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "andres guardado"
+    }
+]

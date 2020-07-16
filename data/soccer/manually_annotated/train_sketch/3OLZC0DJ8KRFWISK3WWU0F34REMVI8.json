@@ -1,0 +1,65 @@
+[
+    {
+        "q1": "what is the italian name of the national football team \\?",
+        "a1": "italians",
+        "kgER1": {},
+        "a1_skt": "italians",
+        "a1_v2": "italians",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "oh , you can be a little more creative than that",
+        "a2": "well that is their name",
+        "kgER2": {},
+        "a2_skt": "well that is their name",
+        "a2_v2": "well that is their name",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "emre can"
+    },
+    {
+        "q3": "when was the italian football team founded \\?",
+        "a3": "the italian national football team were founded in 1898 their nickname is the azure",
+        "kgER3": {},
+        "a3_skt": "the italian national football team were @relation in @object their nickname is the azure",
+        "a3_v2": "the italian national football team were founded in 1898 their nickname is the azure",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "have they ever won a world cup \\?",
+        "a4": "if france won the world cup in 1934",
+        "kgER4": {},
+        "a4_skt": "if @entity won the world cup in @object",
+        "a4_v2": "if @entity won the world cup in @world_cup_champions",
+        "corr_rel4": "world cup champions",
+        "obj4": "1934",
+        "input_ent4": "italy"
+    },
+    {
+        "q5": "why did italy fail to qualify for the 2018 world cup \\?",
+        "a5": "because they had a very poor coach",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "because they had a very poor @relation",
+        "a5_v2": "because they had a very poor coach",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "2018"
+    }
+]

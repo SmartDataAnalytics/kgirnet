@@ -1,0 +1,49 @@
+[
+    {
+        "q1": "tell me the weather for this week",
+        "a1": "alright what location are you asking about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i am in durham",
+        "a2": "this week in durham there will be clear_skies fog rain overcast and snow",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday,wednesday,saturday,sunday",
+        "obj2": "clear,skies,snow,rain,overcast",
+        "input_ent2": "durham",
+        "kvr_entlist_qa2": [
+            "clear_skies",
+            "snow",
+            "rain",
+            "week",
+            "durham",
+            "overcast"
+        ]
+    },
+    {
+        "q3": "so this week in durham will it be humid at all",
+        "a3": "it s not gonna be humid this week in durham",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "humid",
+            "week",
+            "durham"
+        ]
+    },
+    {
+        "q4": "thank you",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

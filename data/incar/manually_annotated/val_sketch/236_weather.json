@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "which days will be cloudy this week",
+        "a1": "what city are you wanting to know if it s going to be cloudy",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "cloudy"
+        ]
+    },
+    {
+        "q2": "give me info for san_mateo plese",
+        "a2": "it will be cloudy in san_mateo on friday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "friday",
+        "obj2": "cloudy",
+        "input_ent2": "san_mateo",
+        "kvr_entlist_qa2": [
+            "friday",
+            "cloudy",
+            "san_mateo"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

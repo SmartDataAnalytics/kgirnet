@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "please give me the address and directions via a route that avoids all heavy_traffic to a hospital around me",
+        "a1": "palo_alto_medical_foundation at 611_ames_ave is 4_miles away but there is no_traffic on the way setting navigation now",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel1": "address",
+        "obj1": "611_ames_ave,4_miles",
+        "input_ent1": "palo_alto_medical_foundation",
+        "kvr_entlist_qa1": [
+            "611_ames_ave",
+            "no_traffic",
+            "4_miles",
+            "palo_alto_medical_foundation"
+        ]
+    },
+    {
+        "q2": "thank you very much car",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

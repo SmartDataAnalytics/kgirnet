@@ -1,0 +1,44 @@
+[
+    {
+        "q1": "where can i get groceries",
+        "a1": "sigona_farmers_market sells groceries",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "sigona_farmers_market"
+        ]
+    },
+    {
+        "q2": "is it within 5_miles by chance",
+        "a2": "yes it is only 3_miles away",
+        "input_rel2": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic",
+        "corr_rel2": "distance",
+        "obj2": "3_miles",
+        "input_ent2": "5_miles",
+        "kvr_entlist_qa2": [
+            "3_miles"
+        ]
+    },
+    {
+        "q3": "is there any traffic",
+        "a3": "there is moderate_traffic is that ok",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "moderate_traffic"
+        ]
+    },
+    {
+        "q4": "yes that will work set the gps for there please",
+        "a4": "setting gps we will arrive shortly",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

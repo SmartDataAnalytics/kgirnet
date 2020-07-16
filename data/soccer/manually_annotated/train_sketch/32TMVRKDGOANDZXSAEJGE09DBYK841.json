@@ -1,0 +1,88 @@
+[
+    {
+        "q1": "what stadium does psg play their home games?",
+        "a1": "parc des princes is their home ground",
+        "kgER1": {},
+        "a1_skt": "@object is their home @relation",
+        "a1_v2": "parc des princes is their home ground",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "allianz stadium"
+    },
+    {
+        "q2": "who founded paris sg?",
+        "a2": "paris sg wasn't founded by a single person.",
+        "kgER2": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "paris sg wasn't @relation by a single person.",
+        "a2_v2": "paris sg wasn't founded by a single person.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "paris sg"
+    },
+    {
+        "q3": "who were the founders?",
+        "a3": "the founders were guy crescent, henri patrelle, and pierre-\u00e9tienne guyot.",
+        "kgER3": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "the founders were guy crescent, henri patrelle, and pierre-\u00e9tienne guyot.",
+        "a3_v2": "the founders were guy crescent, henri patrelle, and pierre-\u00e9tienne guyot.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who owns paris sg?",
+        "a4": "qatar investment authority  have been paris sg's owner since 2011.",
+        "kgER4": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "qatar investment authority  have been paris sg's owner since 2011.",
+        "a4_v2": "qatar investment authority  have been paris sg's owner since 2011.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "paris sg"
+    },
+    {
+        "q5": "with the quality of players psg has now, will they be able to win the champions league this season?",
+        "a5": "they have the quality to do it, but there are strong competitors.",
+        "kgER5": {
+            "paris sg": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "they have the quality to do it, but there are strong competitors.",
+        "a5_v2": "they have the quality to do it, but there are strong competitors.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

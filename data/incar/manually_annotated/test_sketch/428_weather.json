@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "what s the temperature going to be this week",
+        "a1": "what city would you like weather information about",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "san_jose please",
+        "a2": "in san_jose it is expected to be between 40f - 60f monday and tuesday 70f - 80f wednesday 90f - 100f thursday 70f - 90f friday 30f - 40f saturday and 40f - 60f on sunday",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "obj2": "30f,40f,60f,70f,80f,90f,100f",
+        "input_ent2": "san_jose",
+        "kvr_entlist_qa2": [
+            "90f",
+            "70f",
+            "thursday",
+            "saturday",
+            "30f",
+            "san_jose",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "sunday",
+            "monday",
+            "60f",
+            "100f",
+            "80f",
+            "40f"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

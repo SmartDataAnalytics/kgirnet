@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "do you think bayern munich are a good football team?",
+        "a1": "yes, they seem to dominate their league. ",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "yes, they seem to dominate their league. ",
+        "a1_v2": "yes, they seem to dominate their league. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "they are a great team, not top 3 but easily top 10 and top 5 occasionally but they are not consistent atall and dont have a real domestic challenge.",
+        "a2": "i tend to agree with tis assesment of bayern munich.",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "i tend to agree with tis assesment of @entity",
+        "a2_v2": "i tend to agree with tis assesment of bayern munich.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "white and red"
+    },
+    {
+        "q3": "will munich ever recover from their last loss?",
+        "a3": "if he recovered",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "if he recovered",
+        "a3_v2": "if he recovered",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "what training do they need to get better?",
+        "a4": "will they win the bundesliga the following season?",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "will they win the bundesliga the following season?",
+        "a4_v2": "will they win the bundesliga the following season?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "what positions are they weakest at?",
+        "a5": "who plays against bayern munich?",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "who plays against @entity",
+        "a5_v2": "who plays against bayern munich?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

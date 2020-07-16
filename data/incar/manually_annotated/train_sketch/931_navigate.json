@@ -1,0 +1,46 @@
+[
+    {
+        "q1": "car i wanna eat at some chinese_restaurant please pick a route with least traffic better if there will be no_traffic at all",
+        "a1": "tai_pan is 1_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi,distance",
+        "obj1": "tai_pan,1_miles",
+        "input_ent1": "chinese_restaurant",
+        "kvr_entlist_qa1": [
+            "1_miles",
+            "tai_pan"
+        ]
+    },
+    {
+        "q2": "what is the address",
+        "a2": "tai_pan is located at 830_almanor_lane",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "830_almanor_lane",
+        "input_ent2": "tai_pan",
+        "kvr_entlist_qa2": [
+            "tai_pan"
+        ]
+    },
+    {
+        "q3": "okay great could i have some details about the traffic there",
+        "a3": "there is moderate_traffic on our way but since it s just 1_miles away it shouldn t take too long to reach",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,traffic_info",
+        "corr_rel3": "traffic_info",
+        "obj3": "moderate_traffic",
+        "input_ent3": "tai_pan",
+        "kvr_entlist_qa3": [
+            "moderate_traffic",
+            "1_miles"
+        ]
+    },
+    {
+        "q4": "sounds great thank you",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

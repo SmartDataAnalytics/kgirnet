@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "what is atletico madrid's new stadium called?",
+        "a1": "the new stadium is called wanda metropolitano.",
+        "kgER1": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "the new stadium is called @object",
+        "a1_v2": "the new stadium is called wanda metropolitano.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "atletico madrid"
+    },
+    {
+        "q2": "when was the new stadium completed?",
+        "a2": "1994",
+        "kgER2": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "1994",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "allianz stadium"
+    },
+    {
+        "q3": "wanda is the new one of the great atletico madrid",
+        "a3": "not sure",
+        "kgER3": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "not sure",
+        "a3_v2": "not sure",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "atletico madrid"
+    },
+    {
+        "q4": "what's the capacity of the wanda stadium?",
+        "a4": "i think that 67,703 spectators",
+        "kgER4": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i think that @object spectators",
+        "a4_v2": "i think that @capacity spectators",
+        "corr_rel4": "capacity",
+        "obj4": "67,703",
+        "input_ent4": "wanda metropolitano"
+    },
+    {
+        "q5": "who sponsors madrid? ",
+        "a5": "emirates and addidas",
+        "kgER5": {
+            "atletico madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "emirates and addidas",
+        "a5_v2": "emirates and addidas",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "real madrid"
+    }
+]

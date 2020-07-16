@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is your favourite player for uruguay \\?",
+        "a1": "diego forlan for uruguay",
+        "kgER1": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "diego forlan for @entity",
+        "a1_v2": "diego forlan for uruguay",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "uruguay"
+    },
+    {
+        "q2": "is he the team captain \\?",
+        "a2": "\\( 1 \\) france , uruguay my favourites lothar matthaeus \\( 2 \\) diego godin",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "\\( @object \\) @entity , @entity my favourites lothar matthaeus \\( @object \\) @object",
+        "a2_v2": "\\( @captain \\) @entity , @entity my favourites lothar matthaeus \\( @captain \\) @captain",
+        "corr_rel2": "captain",
+        "obj2": "diego godin",
+        "input_ent2": "uruguay"
+    },
+    {
+        "q3": "does uruguay have influence in europe \\?",
+        "a3": "what your cue team \\? uruguay",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "what your cue team \\? @entity",
+        "a3_v2": "what your cue team \\? uruguay",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "uruguay"
+    },
+    {
+        "q4": "no , it has no reference in europe",
+        "a4": "it does have some influence considering diego suarez plays for barcelona",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "it does have some influence considering diego suarez plays for @entity",
+        "a4_v2": "it does have some influence considering diego suarez plays for barcelona",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "yes , it is a player with more experiences in that type of leagues",
+        "a5": "who was injured from uruguay in the world cup \\?",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "who was injured from @entity in the world cup \\?",
+        "a5_v2": "who was injured from uruguay in the world cup \\?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

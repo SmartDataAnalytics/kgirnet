@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "how warm is it outside right now",
+        "a1": "in which city are you right now",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i m in redwood_city",
+        "a2": "it is 80f - 90f in redwood_city right now",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "80f,90f",
+        "input_ent2": "redwood_city",
+        "kvr_entlist_qa2": [
+            "90f",
+            "redwood_city",
+            "80f"
+        ]
+    },
+    {
+        "q3": "great thanks",
+        "a3": "no problem",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

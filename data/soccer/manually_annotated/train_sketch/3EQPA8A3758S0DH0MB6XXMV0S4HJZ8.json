@@ -1,0 +1,78 @@
+[
+    {
+        "q1": "do you think this team will qualify for the next world cup?",
+        "a1": "i think there's a good chance. ",
+        "kgER1": {},
+        "a1_skt": "i think there's a good chance. ",
+        "a1_v2": "i think there's a good chance. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q2": "what stage did they get to in the 2018 world cup?",
+        "a2": "they made it all the way to the end, winning the third place playoff game. ",
+        "kgER2": {},
+        "a2_skt": "they made it all the way to the end, winning the third place playoff game. ",
+        "a2_v2": "they made it all the way to the end, winning the third place playoff game. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2018"
+    },
+    {
+        "q3": "they will definitely qualify they're a very strong team. ",
+        "a3": "yes they will be qualified ",
+        "kgER3": {},
+        "a3_skt": "yes they will be qualified ",
+        "a3_v2": "yes they will be qualified ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "will belgium make it to the finals in 2022?",
+        "a4": "they will qualify for sure, but i don't think they will win the trophy. ",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they will qualify for sure, but i don't think they will win the trophy. ",
+        "a4_v2": "they will qualify for sure, but i don't think they will win the trophy. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "belgium"
+    },
+    {
+        "q5": "anything can happen in soccer.",
+        "a5": "romelu lukaku is a very good player from belgium ",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object is a very good player from @entity ",
+        "a5_v2": "romelu lukaku is a very good player from belgium ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "emre can"
+    }
+]

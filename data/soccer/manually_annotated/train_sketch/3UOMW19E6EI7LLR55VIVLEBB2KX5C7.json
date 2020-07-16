@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "what is bayern munichs new coach \\?",
+        "a1": "they have a niko kovac",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they have a niko kovac",
+        "a1_v2": "they have a niko kovac",
+        "corr_rel1": "coach",
+        "obj1": "niko kovac",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "who is the latest bayern munich 's goalie \\?",
+        "a2": "manuel neuer",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "manuel neuer",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bayern munich"
+    },
+    {
+        "q3": "who is bayern munich best striker \\?",
+        "a3": "robert lewarndowski is bayern munich 's best striker",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "@object is @entity 's best striker",
+        "a3_v2": "robert lewarndowski is bayern munich 's best striker",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "who is the bayern munich captain \\?",
+        "a4": "manuel neuer is the captain",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@object is the @relation",
+        "a4_v2": "manuel neuer is the captain",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "what is the name of their stadium \\?",
+        "a5": "allianz arena is the home ground",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is the home @relation",
+        "a5_v2": "allianz arena is the home ground",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "allianz stadium"
+    }
+]

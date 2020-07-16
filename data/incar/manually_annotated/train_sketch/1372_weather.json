@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "will it be humid in san_jose next_week",
+        "a1": "it will be humid on tuesday and sunday in san_jose",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday, sunday",
+        "obj1": "humid",
+        "input_ent1": "san_jose",
+        "kvr_entlist_qa1": [
+            "humid",
+            "sunday",
+            "san_jose",
+            "tuesday"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "you are welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

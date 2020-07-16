@@ -1,0 +1,177 @@
+[
+    {
+        "q1": "sweden's goalkeeper is currently robin olsen",
+        "a1": "you are  right but that is no question",
+        "kgER1": {
+            "goalkeeper": [
+                "position"
+            ],
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "robin olsen": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "you are  right but that is no question",
+        "a1_v2": "you are  right but that is no question",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "robin olsen"
+    },
+    {
+        "q2": "who is sweden's goalkeeper?",
+        "a2": "looks like sweden's goalkeeper is robin olsen.",
+        "kgER2": {
+            "goalkeeper": [
+                "position"
+            ],
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "robin olsen": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "looks like sweden's @relation is @object",
+        "a2_v2": "looks like sweden's goalkeeper is @goalkeeper",
+        "corr_rel2": "goalkeeper",
+        "obj2": "robin olsen",
+        "input_ent2": "sweden"
+    },
+    {
+        "q3": "how many goals did olsen save in the 2018 world cup?",
+        "a3": "i don't know, but sweden did reasonably well.",
+        "kgER3": {
+            "goalkeeper": [
+                "position"
+            ],
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "robin olsen": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "i don't know, but @entity did reasonably well.",
+        "a3_v2": "i don't know, but sweden did reasonably well.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "2018"
+    },
+    {
+        "q4": "done",
+        "a4": "where did sweden finish in the 2018 world cup?",
+        "kgER4": {
+            "goalkeeper": [
+                "position"
+            ],
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "robin olsen": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a4_skt": "where did @entity finish in the @object world cup?",
+        "a4_v2": "where did sweden finish in the 2018 world cup?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "they lost in the quarterfinal match to england",
+        "a5": "by how many points?",
+        "kgER5": {
+            "goalkeeper": [
+                "position"
+            ],
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "robin olsen": [
+                "goalkeeper",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a5_skt": "by how many points?",
+        "a5_v2": "by how many points?",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

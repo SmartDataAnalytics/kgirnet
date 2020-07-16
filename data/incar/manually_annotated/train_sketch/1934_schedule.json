@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "what time is dinner and who is coming",
+        "a1": "you have 3 dinners scheduled one on the_20th 13th and tuesday",
+        "input_rel1": "time,party,date",
+        "corr_rel1": "date",
+        "obj1": "13th,the_20th",
+        "input_ent1": "dinner",
+        "kvr_entlist_qa1": [
+            "13th",
+            "the_20th",
+            "tuesday"
+        ]
+    },
+    {
+        "q2": "the one on the_20th",
+        "a2": "dinner on the_20th is at 5pm with your mother",
+        "input_rel2": "date",
+        "corr_rel2": "date, party, time",
+        "obj2": "dinner,mother,the_20th,5pm",
+        "input_ent2": "dinner",
+        "kvr_entlist_qa2": [
+            "dinner",
+            "mother",
+            "the_20th",
+            "5pm"
+        ]
+    },
+    {
+        "q3": "thanks for your help",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

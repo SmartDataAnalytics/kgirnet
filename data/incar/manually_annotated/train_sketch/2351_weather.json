@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "what is the weather forecast in the city",
+        "a1": "which city are you interested in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "redwood_city what s the forecast for today and tomorrow",
+        "a2": "today in redwood_city it is overcast low 90f and high is 100f tomorrow there is a blizzard predicted",
+        "input_rel2": "party",
+        "corr_rel2": "",
+        "obj2": "100f,blizzard,90f,today,overcast,tomorrow",
+        "input_ent2": "redwood_city",
+        "kvr_entlist_qa2": [
+            "100f",
+            "blizzard",
+            "90f",
+            "redwood_city",
+            "today",
+            "overcast",
+            "tomorrow"
+        ]
+    },
+    {
+        "q3": "okay thank you car",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

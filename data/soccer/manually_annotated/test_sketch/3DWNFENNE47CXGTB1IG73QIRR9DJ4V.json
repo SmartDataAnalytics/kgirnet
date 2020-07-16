@@ -1,0 +1,122 @@
+[
+    {
+        "q1": "surprised at their performance given zlatans recent retirement",
+        "a1": "so am i - they scored a series of surprising wins during the world cup.",
+        "kgER1": {},
+        "a1_skt": "so am i - they scored a series of surprising wins during the world cup.",
+        "a1_v2": "so am i - they scored a series of surprising wins during the world cup.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "do you think their win over germany was just luck?",
+        "a2": "totally, couldn't agree more.",
+        "kgER2": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "totally, couldn't agree more.",
+        "a2_v2": "totally, couldn't agree more.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "germany"
+    },
+    {
+        "q3": "they're one of the better northern european countries ",
+        "a3": "do you think they are better off without zlatan?",
+        "kgER3": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "do you think they are better off without zlatan?",
+        "a3_v2": "do you think they are better off without zlatan?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "perhaps zlatan is considered a distraction for his teamates?",
+        "a4": "he is a strong act to live up to. ",
+        "kgER4": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "he is a strong act to live up to. ",
+        "a4_v2": "he is a strong act to live up to. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who is the coach of sweden?",
+        "a5": "janne andersson",
+        "kgER5": {
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ],
+            "sweden": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Runners-up",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@coach",
+        "corr_rel5": "coach",
+        "obj5": "janne andersson",
+        "input_ent5": "sweden"
+    }
+]

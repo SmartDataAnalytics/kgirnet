@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "find the quickest way to my friends_house around here",
+        "a1": "jacks_house is 1_miles away at 864_almanor_ln but there is a road_block_nearby",
+        "input_rel1": "car_collision_nearby,moderate_traffic,poi,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel1": "poi,address",
+        "obj1": "jacks_house,864_almanor_ln",
+        "input_ent1": "friends_house",
+        "kvr_entlist_qa1": [
+            "jacks_house",
+            "road_block_nearby",
+            "1_miles",
+            "864_almanor_ln"
+        ]
+    },
+    {
+        "q2": "ok please give me directions via the quickest route",
+        "a2": "setting navigation now",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "thank you car",
+        "a3": "you re welcome drive carefully",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

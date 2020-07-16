@@ -1,0 +1,78 @@
+[
+    {
+        "q1": "will they finish in the top four?",
+        "a1": "yes",
+        "kgER1": {},
+        "a1_skt": "yes",
+        "a1_v2": "yes",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "do you think they'll win?",
+        "a2": "no i don't think they will win in near future, maybe in couple of years.",
+        "kgER2": {},
+        "a2_skt": "no i don't think they will win in near future, maybe in couple of years.",
+        "a2_v2": "no i don't think they will win in near future, maybe in couple of years.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "why you think so?",
+        "a3": "the premier is very competitive and there are better teams",
+        "kgER3": {},
+        "a3_skt": "the premier is very competitive and there are better teams",
+        "a3_v2": "the premier is very competitive and there are better teams",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "what makes arsenal be a strong competitor for league title this year?",
+        "a4": "nothing probably :)",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "nothing probably :)",
+        "a4_v2": "nothing probably :)",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "arsenal"
+    },
+    {
+        "q5": "liverpool beats arsenal almost every time. ",
+        "a5": "of course not everytime.",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "of course not everytime.",
+        "a5_v2": "of course not everytime.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

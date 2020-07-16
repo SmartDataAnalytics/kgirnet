@@ -1,0 +1,24 @@
+[
+    {
+        "q1": "please give me the address and directions to my friend s house within 5_miles of here avoiding all heavy_traffic",
+        "a1": "jacks_house is at 864_almanor_ln 4_miles away setting navigation now",
+        "input_rel1": "distance,car_collision_nearby,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,address",
+        "corr_rel1": "address,distance",
+        "obj1": "864_almanor_ln,jacks_house",
+        "input_ent1": "5_miles",
+        "kvr_entlist_qa1": [
+            "jacks_house",
+            "4_miles",
+            "864_almanor_ln"
+        ]
+    },
+    {
+        "q2": "thanks",
+        "a2": "you re welcome",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

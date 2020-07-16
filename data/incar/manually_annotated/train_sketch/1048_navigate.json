@@ -1,0 +1,56 @@
+[
+    {
+        "q1": "where can i get tea",
+        "a1": "i have two locations you could purchase some tea at which would you prefer",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "i d like to give a name to these two \" locations \" and maybe an address thanks",
+        "a2": "okay both palo_alto_cafe and teavana are near",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "poi",
+        "obj2": "teavana,palo_alto_cafe",
+        "input_ent2": "coffee_or_tea_place",
+        "kvr_entlist_qa2": [
+            "teavana",
+            "palo_alto_cafe"
+        ]
+    },
+    {
+        "q3": "which one has no_traffic on our way",
+        "a3": "palo alto would be better as it only has moderate_traffic and teavana is heavy_traffic",
+        "input_rel3": "car_collision_nearby,moderate_traffic,poi,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel3": "",
+        "obj3": "none",
+        "input_ent3": "palo_alto_cafe",
+        "kvr_entlist_qa3": [
+            "teavana",
+            "moderate_traffic",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q4": "would you give me the address for the palo_alto_cafe and set the quickest route there please",
+        "a4": "the quickest route noted is to 436_alger_dr do you want me to set the navigation",
+        "input_rel4": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel4": "address",
+        "obj4": "436_alger_dr",
+        "input_ent4": "palo_alto_cafe",
+        "kvr_entlist_qa4": [
+            "436_alger_dr"
+        ]
+    },
+    {
+        "q5": "yes please thank you",
+        "a5": "you re welcome have a good day",
+        "input_rel5": "",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "",
+        "kvr_entlist_qa5": []
+    }
+]

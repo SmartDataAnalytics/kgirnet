@@ -1,0 +1,76 @@
+[
+    {
+        "q1": "what rank is bayern in the world?",
+        "a1": "bayern munich's current ranking in the world is 4.",
+        "kgER1": {},
+        "a1_skt": "@entity current ranking in the world is 4.",
+        "a1_v2": "bayern munich's current ranking in the world is 4.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "bayern mucich aree the german champions",
+        "a2": "yes they are german.",
+        "kgER2": {},
+        "a2_skt": "yes they are german.",
+        "a2_v2": "yes they are german.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "bayern munich"
+    },
+    {
+        "q3": "when was the last time bayern munich did not win the bundesliga title?",
+        "a3": "the 2011-12 season.",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "the 2011-12 season.",
+        "a3_v2": "the 2011-12 season.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "bayern munich"
+    },
+    {
+        "q4": "what is the color of the uniform of bayer munich? ",
+        "a4": "all red. ",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "all @object ",
+        "a4_v2": "all @jersey_color ",
+        "corr_rel4": "jersey color",
+        "obj4": "red",
+        "input_ent4": "bayern munich"
+    },
+    {
+        "q5": "do you think bayern munich should be investigated for corruption?",
+        "a5": "no, not at all. ",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "no, not at all. ",
+        "a5_v2": "no, not at all. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bayern munich"
+    }
+]

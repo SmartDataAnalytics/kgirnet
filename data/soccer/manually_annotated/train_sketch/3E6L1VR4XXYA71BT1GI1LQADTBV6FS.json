@@ -1,0 +1,158 @@
+[
+    {
+        "q1": "brazil is to international soccer as the lakers are to nba: they wear yellow, they play a flashy game, and they haven't won a championship in 8 years.",
+        "a1": "their ownership does spend money on them",
+        "kgER1": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a1_skt": "their ownership does spend money on them",
+        "a1_v2": "their ownership does spend money on them",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "yellow"
+    },
+    {
+        "q2": "why do you think they haven't won in so long?",
+        "a2": "brazil has many talented player but neymar falls over too much",
+        "kgER2": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a2_skt": "@entity has many talented player but @object falls over too much",
+        "a2_v2": "brazil has many talented player but neymar falls over too much",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "i don't think that's why they haven't won. there seems to be a mental lapse for the players in big games.",
+        "a3": "i think they have too many players with big opinions of themselves.",
+        "kgER3": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "i think they have too many players with big opinions of themselves.",
+        "a3_v2": "i think they have too many players with big opinions of themselves.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q4": "who is their coach ?",
+        "a4": " i think in this time a new coach will come and trained because we are loosing last matches ",
+        "kgER4": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": " i think in this time a new @relation will come and trained because we are loosing last matches ",
+        "a4_v2": " i think in this time a new coach will come and trained because we are loosing last matches ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "does brazil need a good manager to win matches?",
+        "a5": "yes and no, managers get new players.",
+        "kgER5": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "yes and no, managers get new players.",
+        "a5_v2": "yes and no, managers get new players.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "brazil"
+    },
+    {
+        "q6": "who is their most talented player?",
+        "a6": "the greatest  player of brazil was pel\u00e9.  anyways, it was great talking to you about brazil but i have to go goodbye.",
+        "kgER6": {
+            "brazil": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "yellow": [
+                "jersey color"
+            ]
+        },
+        "a6_skt": "the greatest  player of @entity was pel\u00e9.  anyways, it was great talking to you about @entity but i have to go goodbye.",
+        "a6_v2": "the greatest  player of brazil was pel\u00e9.  anyways, it was great talking to you about brazil but i have to go goodbye.",
+        "corr_rel6": "",
+        "obj6": "",
+        "input_ent6": "andres guardado"
+    }
+]

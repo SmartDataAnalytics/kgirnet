@@ -1,0 +1,33 @@
+[
+    {
+        "q1": "what is the weather supposed to be like for the next_week",
+        "a1": "what city should i check the weekly weather report for",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "san_francisco will there be a blizzard anytime this week",
+        "a2": "there will not be a blizzard in san_francisco this week",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "san_francisco",
+        "kvr_entlist_qa2": [
+            "san_francisco",
+            "week",
+            "blizzard"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

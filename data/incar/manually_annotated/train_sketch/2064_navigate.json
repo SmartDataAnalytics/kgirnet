@@ -1,0 +1,34 @@
+[
+    {
+        "q1": "find me a nearby coffee shop where i can sit and have some coffee",
+        "a1": "the nearest coffee shop is cafe_venetia located at 269_alger_drive about 7_miles from you",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "cafe_venetia",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "7_miles",
+            "cafe_venetia"
+        ]
+    },
+    {
+        "q2": "please pick a quick route and let s go there",
+        "a2": "setting navigation to 269_alger_dr now",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "269_alger_dr",
+        "input_ent2": "cafe_venetia",
+        "kvr_entlist_qa2": [
+            "269_alger_dr"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

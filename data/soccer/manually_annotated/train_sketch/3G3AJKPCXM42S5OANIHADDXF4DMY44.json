@@ -1,0 +1,129 @@
+[
+    {
+        "q1": "did drogba play in this team?",
+        "a1": "yes drogba played for chelsea.",
+        "kgER1": {
+            "mesut ozil": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "yes drogba played for @entity",
+        "a1_v2": "yes drogba played for chelsea.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "15 (first in 1930)"
+    },
+    {
+        "q2": "drogba started at marseille",
+        "a2": "yes he scored a goal against bayern munich in the champions league final in 2012 which lead to chelsea's win.",
+        "kgER2": {
+            "mesut ozil": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "yes he scored a @relation against @entity in the champions league final in @object which lead to chelsea's win.",
+        "a2_v2": "yes he scored a goal against bayern munich in the champions league final in 2012 which lead to chelsea's win.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "when will chelsea make some noise on the champions league again? they always seem to be a clear out. ",
+        "a3": "chelsea needs a few more rebuilding years.",
+        "kgER3": {
+            "mesut ozil": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a3_skt": "@entity needs a few more rebuilding years.",
+        "a3_v2": "chelsea needs a few more rebuilding years.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "chelsea"
+    },
+    {
+        "q4": "what was chelsea's record last year?",
+        "a4": "the chelsea record last year was that in 30 games they had 93 points",
+        "kgER4": {
+            "mesut ozil": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a4_skt": "the @entity record last year was that in @object games they had @object points",
+        "a4_v2": "the chelsea record last year was that in 30 games they had 93 points",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "chelsea"
+    },
+    {
+        "q5": "do you think they'll improve this year from that score?",
+        "a5": "no ",
+        "kgER5": {
+            "mesut ozil": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ],
+            "chelsea": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "has abbreviation"
+            ]
+        },
+        "a5_skt": "no ",
+        "a5_v2": "no ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

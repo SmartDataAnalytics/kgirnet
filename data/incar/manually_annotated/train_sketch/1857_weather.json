@@ -1,0 +1,32 @@
+[
+    {
+        "q1": "what s the weather like today",
+        "a1": "which city are you interested in",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "brentwood please what is today s temperature",
+        "a2": "today s temperatures will be highs in the 60s with lows in the 50s for brentwood",
+        "input_rel2": "",
+        "corr_rel2": "monday",
+        "obj2": "60f, 50f",
+        "input_ent2": "brentwood",
+        "kvr_entlist_qa2": [
+            "today",
+            "brentwood"
+        ]
+    },
+    {
+        "q3": "thanks for the information",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

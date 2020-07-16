@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "love barcelona",
+        "a1": "best team in europe!",
+        "kgER1": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "best team in europe!",
+        "a1_v2": "best team in europe!",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "barcelona"
+    },
+    {
+        "q2": "who is their starting goalie ?",
+        "a2": "ter stegen is their starting goalie, and cillessen features sometimes as well.",
+        "kgER2": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "ter stegen is their starting goalie, and cillessen features sometimes as well.",
+        "a2_v2": "ter stegen is their starting goalie, and cillessen features sometimes as well.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "if ter stegen is the owner and cillessen sometimes",
+        "a3": "is it soccer or football?",
+        "kgER3": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "is it soccer or football?",
+        "a3_v2": "is it soccer or football?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "marc-andre ter stegen"
+    },
+    {
+        "q4": "soccer",
+        "a4": "which is the best goalkeeper?",
+        "kgER4": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "which is the best @relation",
+        "a4_v2": "which is the best goalkeeper?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "that is john wayne",
+        "a5": "john wayne is one of the greatest goalkeepers.",
+        "kgER5": {
+            "barcelona": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "john wayne is one of the greatest @relation",
+        "a5_v2": "john wayne is one of the greatest goalkeepers.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "john ogu"
+    }
+]

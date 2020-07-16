@@ -1,0 +1,111 @@
+[
+    {
+        "q1": "what is fc.porto?",
+        "a1": "fc porto is a soccer team that recently competed against the chaves.",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "fc porto is a soccer team that recently competed against the chaves.",
+        "a1_v2": "fc porto is a soccer team that recently competed against the chaves.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "what league does fc porto currently compete in?",
+        "a2": "fc. porto currently compete in the primeira liga. ",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "fc. porto currently compete in the primeira liga. ",
+        "a2_v2": "fc. porto currently compete in the primeira liga. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "fc. porto"
+    },
+    {
+        "q3": "are they considered a force to be reckoned with? ",
+        "a3": "yes, they are a team to keep an eye on.",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a3_skt": "yes, they are a team to keep an eye on.",
+        "a3_v2": "yes, they are a team to keep an eye on.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "why should i keep an eye on them?",
+        "a4": "as one of the biggest clubs in portugal, they almost always challenge for the title. ",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "as one of the biggest clubs in @entity they almost always challenge for the title. ",
+        "a4_v2": "as one of the biggest clubs in portugal, they almost always challenge for the title. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "what else they got going on? ",
+        "a5": "they're 1st in their league right now",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "they're 1st in their league right now",
+        "a5_v2": "they're 1st in their league right now",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

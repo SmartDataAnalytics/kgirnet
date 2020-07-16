@@ -1,0 +1,167 @@
+[
+    {
+        "q1": "will lionel messi play with argentina in the next world cup?",
+        "a1": "probably not. it seems that he will be retiring.",
+        "kgER1": {
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "probably not. it seems that he will be retiring.",
+        "a1_v2": "probably not. it seems that he will be retiring.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "lionel messi"
+    },
+    {
+        "q2": "do you think anyone can replace messi in argentina?",
+        "a2": "no, messi is irreplaceable but i'm ready to see some new talent.",
+        "kgER2": {
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no, messi is irreplaceable but i'm ready to see some new talent.",
+        "a2_v2": "no, messi is irreplaceable but i'm ready to see some new talent.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "argentina"
+    },
+    {
+        "q3": "if he played the next world cup and bere better talent",
+        "a3": "if lionel messi play on the next world cup, argentina have more probabilites to win the final.",
+        "kgER3": {
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "if @object play on the next world cup, @entity have more probabilites to win the final.",
+        "a3_v2": "if lionel messi play on the next world cup, argentina have more probabilites to win the final.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "white and red"
+    },
+    {
+        "q4": "do you think they will even qualify for the world cup 2022 without messi. ",
+        "a4": "their situation is dire without him",
+        "kgER4": {
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "their situation is dire without him",
+        "a4_v2": "their situation is dire without him",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "lionel messi"
+    },
+    {
+        "q5": "how do they structure their team and system without him?",
+        "a5": "by playing together as a team ",
+        "kgER5": {
+            "lionel messi": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ],
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "by playing together as a team ",
+        "a5_v2": "by playing together as a team ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

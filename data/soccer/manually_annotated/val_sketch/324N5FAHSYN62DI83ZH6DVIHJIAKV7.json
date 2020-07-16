@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "did you see manchester united play when you were in england? ",
+        "a1": "very good team",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "very good team",
+        "a1_v2": "very good team",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "how good is manchester united?",
+        "a2": "manchester united is one of the best teams ever.",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@entity is one of the best teams ever.",
+        "a2_v2": "manchester united is one of the best teams ever.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "manchester united"
+    },
+    {
+        "q3": "how many times have they won the league?",
+        "a3": "they've won the premier league title 13 times since the league began in 1992. they've won the first division title a total of 20 times. ",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they've won the premier league title @object times since the league began in 1992. they've won the first division title a total of @object times. ",
+        "a3_v2": "they've won the premier league title 13 times since the league began in 1992. they've won the first division title a total of 20 times. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "have they ever went undefeated in the league?",
+        "a4": "rarely ",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "rarely ",
+        "a4_v2": "rarely ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ever banega"
+    },
+    {
+        "q5": "which player should manchester united buy next?",
+        "a5": "manu should buy some awesome striker who can head well.",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "manu should buy some awesome striker who can head well.",
+        "a5_v2": "manu should buy some awesome striker who can head well.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "manchester united"
+    }
+]

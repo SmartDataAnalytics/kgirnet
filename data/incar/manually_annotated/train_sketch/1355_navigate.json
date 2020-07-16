@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "locate any hospitals in the area",
+        "a1": "the nearest hospital is called palo_alto_medical_foundation and is 6_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi,distance",
+        "obj1": "palo_alto_medical_foundation,6_miles",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "palo_alto_medical_foundation",
+            "hospital",
+            "6_miles"
+        ]
+    },
+    {
+        "q2": "does it have the least amount of traffic",
+        "a2": "yes",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "what is the address",
+        "a3": "palo_alto_medical_foundation is located at 611_ames_ave do you want me to set the gps",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "611_ames_ave",
+        "input_ent3": "palo_alto_medical_foundation",
+        "kvr_entlist_qa3": [
+            "palo_alto_medical_foundation",
+            "611_ames_ave"
+        ]
+    },
+    {
+        "q4": "yes thanks",
+        "a4": "navigating there now",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

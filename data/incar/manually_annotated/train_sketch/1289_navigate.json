@@ -1,0 +1,50 @@
+[
+    {
+        "q1": "bring me to the nearest starbucks",
+        "a1": "there are no starbucks nearby but we could go to palo_alto_cafe it s 2_miles away",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "palo_alto_cafe",
+        "input_ent1": "coffee_or_tea_place",
+        "kvr_entlist_qa1": [
+            "2_miles",
+            "starbucks",
+            "palo_alto_cafe"
+        ]
+    },
+    {
+        "q2": "sure pick the quickest route and bring me there please",
+        "a2": "palo_alto_cafe has heavy_traffic would you like the address anyway",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "traffic_info",
+        "obj2": "palo_alto_cafe",
+        "input_ent2": "palo_alto_cafe",
+        "kvr_entlist_qa2": [
+            "palo_alto_cafe",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "yes give me the address please",
+        "a3": "palo_alto_cafe is located at 436_alger_drive with heavy_traffic is that going to be a problem",
+        "input_rel3": "address",
+        "corr_rel3": "address",
+        "obj3": "436_alger_drive",
+        "input_ent3": "palo_alto_cafe",
+        "kvr_entlist_qa3": [
+            "palo_alto_cafe",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q4": "no set the gps for palo_alto_cafe please",
+        "a4": "ok palo_alto_cafe it is",
+        "input_rel4": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel4": "",
+        "obj4": "none",
+        "input_ent4": "palo_alto_cafe",
+        "kvr_entlist_qa4": [
+            "palo_alto_cafe"
+        ]
+    }
+]

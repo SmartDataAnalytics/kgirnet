@@ -1,0 +1,108 @@
+[
+    {
+        "q1": "who is the coach of manchester united",
+        "a1": "jose mourinho is the manager on manchester united",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "@object is the manager on @entity",
+        "a1_v2": "@coach is the manager on @entity",
+        "corr_rel1": "coach",
+        "obj1": "jose mourinho",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "who else is on manchester united 's staff \\?",
+        "a2": "the assistant manager is kieran mckenna",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "the assistant manager is kieran mckenna",
+        "a2_v2": "the assistant manager is kieran mckenna",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "manchester united"
+    },
+    {
+        "q3": "did kieran mckenna play professionally \\?",
+        "a3": "no , he was a childhood fan of manchester united though , and has a growing coaching career at a very young age",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "no , he was a childhood fan of @entity though , and has a growing coaching career at a very young @relation",
+        "a3_v2": "no , he was a childhood fan of manchester united though , and has a growing coaching career at a very young age",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "when did paul scholes retire from playing for manchester united \\?",
+        "a4": "a few seasons ago , he was an excellent player",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "a few seasons ago , he was an excellent player",
+        "a4_v2": "a few seasons ago , he was an excellent player",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "manchester united"
+    },
+    {
+        "q5": "when he started from united cristiano ronaldo \\?",
+        "a5": "yes , ronaldo was an excellent player when he debuted with manchester united",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes , ronaldo was an excellent player when he debuted with @entity",
+        "a5_v2": "yes , ronaldo was an excellent player when he debuted with manchester united",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "cristiano ronaldo"
+    }
+]

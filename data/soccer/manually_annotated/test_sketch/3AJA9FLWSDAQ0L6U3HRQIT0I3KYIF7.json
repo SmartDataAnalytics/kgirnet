@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i love real madrid",
+        "a1": "i'm not really a fan.",
+        "kgER1": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i'm not really a fan.",
+        "a1_v2": "i'm not really a fan.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "real madrid"
+    },
+    {
+        "q2": "who is real madrid's best player?",
+        "a2": "the best player of all time has been voted ronoaldo ",
+        "kgER2": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "the @relation of all time has been voted ronoaldo ",
+        "a2_v2": "the best player of all time has been voted ronoaldo ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "real madrid"
+    },
+    {
+        "q3": "indeed real madrid's best player was ronaldo to bad he left. ",
+        "a3": "they have toni kroos now",
+        "kgER3": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they have @object now",
+        "a3_v2": "they have toni kroos now",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "real madrid"
+    },
+    {
+        "q4": "will he do it for real madrid?",
+        "a4": "the best player currently in real madrid is modric ",
+        "kgER4": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "the @relation currently in @entity is modric ",
+        "a4_v2": "the best player currently in real madrid is modric ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "real madrid"
+    },
+    {
+        "q5": "are they the best in their league?",
+        "a5": "yes, they are all-time best in their league.",
+        "kgER5": {
+            "real madrid": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "yes, they are all-time best in their league.",
+        "a5_v2": "yes, they are all-time best in their league.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "15 (first in 1930)"
+    }
+]

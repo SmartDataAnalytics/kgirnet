@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "car i need a hospital please send me a quick route to the one near me in the direction we re driving",
+        "a1": "stanford_express_care is on the way",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "stanford_express_care",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "stanford_express_care"
+        ]
+    },
+    {
+        "q2": "please pick a quick route and let s go there thank you",
+        "a2": "navigating to stanford_express_care at 214_el_camino_real there is heavy_traffic on the way there however",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "address",
+        "obj2": "214_el_camino_real",
+        "input_ent2": "stanford_express_care",
+        "kvr_entlist_qa2": [
+            "heavy_traffic",
+            "stanford_express_care",
+            "214_el_camino_real"
+        ]
+    },
+    {
+        "q3": "ok thanks car",
+        "a3": "you re very welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

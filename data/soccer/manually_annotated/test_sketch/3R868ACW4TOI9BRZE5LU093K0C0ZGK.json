@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "who is the capital of the colombia football team/",
+        "a1": "radamel falcao is the captain of colombia. ",
+        "kgER1": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object is the @relation of @entity ",
+        "a1_v2": "radamel falcao is the captain of colombia. ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "colombia"
+    },
+    {
+        "q2": "is he a good player?",
+        "a2": " if he is a good player, he had an injury that complicated him but he was one of the best strikers in the world",
+        "kgER2": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": " if he is a good player, he had an injury that complicated him but he was one of the best strikers in the world",
+        "a2_v2": " if he is a good player, he had an injury that complicated him but he was one of the best strikers in the world",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "because of talented players like falcao, colombia is ranked 16th in the world for football. ",
+        "a3": "will rise from 16th place colombia?",
+        "kgER3": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "will rise from 16th place @entity",
+        "a3_v2": "will rise from 16th place colombia?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "colombia"
+    },
+    {
+        "q4": "do you think columbia has a chance to win the gold cup?",
+        "a4": "they are always competitive so yeah!",
+        "kgER4": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "they are always competitive so yeah!",
+        "a4_v2": "they are always competitive so yeah!",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q5": "who are their main opponents?",
+        "a5": "arsenal when they travel down south.",
+        "kgER5": {
+            "colombia": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity when they travel down south.",
+        "a5_v2": "arsenal when they travel down south.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "who is the owner of fc. porto?",
+        "a1": "jorge nuno pinto da costa",
+        "kgER1": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a1_skt": "jorge nuno pinto da costa",
+        "a1_v2": "jorge nuno pinto da costa",
+        "corr_rel1": "chairman",
+        "obj1": "jorge nuno pinto da costa",
+        "input_ent1": "fc. porto"
+    },
+    {
+        "q2": "what league do they play in?",
+        "a2": "in the portuguese league.",
+        "kgER2": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a2_skt": "in the portuguese league.",
+        "a2_v2": "in the portuguese league.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "do you think fc porto is good enough to win the world series?",
+        "a3": "yes i believe it ",
+        "kgER3": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a3_skt": "yes i believe it ",
+        "a3_v2": "yes i believe it ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "fc. porto"
+    },
+    {
+        "q4": "sometimes second can be the top prize in the champions league",
+        "a4": "they are the one toping the league right now",
+        "kgER4": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a4_skt": "they are the one toping the league right now",
+        "a4_v2": "they are the one toping the league right now",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "emre can"
+    },
+    {
+        "q5": "when is fc. porto's next match?",
+        "a5": "on september 18 with schalke 04",
+        "kgER5": {
+            "fc porto": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "home jersey",
+                "away jersey",
+                "founded on"
+            ]
+        },
+        "a5_skt": "on september @object with schalke @object",
+        "a5_v2": "on september 18 with schalke 04",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "fc. porto"
+    }
+]

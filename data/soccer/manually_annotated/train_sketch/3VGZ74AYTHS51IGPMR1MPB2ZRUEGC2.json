@@ -1,0 +1,132 @@
+[
+    {
+        "q1": "who scored the most goals for germany ever?",
+        "a1": "miroslav kloseis germany's all-time top scorer with 71 goals",
+        "kgER1": {
+            "red": [
+                "jersey color"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "miroslav kloseis germany's all-time top scorer with @object @relation",
+        "a1_v2": "miroslav kloseis germany's all-time top scorer with 71 goals",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "germany"
+    },
+    {
+        "q2": "who was the second highest scorer? ",
+        "a2": "gerd muller.",
+        "kgER2": {
+            "red": [
+                "jersey color"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "gerd muller.",
+        "a2_v2": "gerd muller.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how many world cups have germany won?",
+        "a3": "they've won it four times.  ",
+        "kgER3": {
+            "red": [
+                "jersey color"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "they've won it four times.  ",
+        "a3_v2": "they've won it four times.  ",
+        "corr_rel3": "number of world cup champion",
+        "obj3": "4",
+        "input_ent3": "germany"
+    },
+    {
+        "q4": "why did germany break down this year?",
+        "a4": "the pressure was on for them.",
+        "kgER4": {
+            "red": [
+                "jersey color"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "the pressure was on for them.",
+        "a4_v2": "the pressure was on for them.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "germany"
+    },
+    {
+        "q5": "and the players are older now. ",
+        "a5": "i believe they lacked motivation which seems to be a pattern for recent defending champs.",
+        "kgER5": {
+            "red": [
+                "jersey color"
+            ],
+            "germany": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "i believe they lacked motivation which seems to be a pattern for recent defending champs.",
+        "a5_v2": "i believe they lacked motivation which seems to be a pattern for recent defending champs.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "white and red"
+    }
+]

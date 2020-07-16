@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "what is the belgium soccer team workout before attending the soccer game? ",
+        "a1": "100 push-ups, 100 sit-ups, 100 squats, 10 kilometer run, no ac.",
+        "kgER1": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "@object push-ups, @object sit-ups, @object squats, @object kilometer run, no ac.",
+        "a1_v2": "100 push-ups, 100 sit-ups, 100 squats, 10 kilometer run, no ac.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "belgium"
+    },
+    {
+        "q2": "that's a lot - no wonder they did so well! ",
+        "a2": "a german-speaking community exists in eastern wallonia.[11][12] belgium's linguistic diversity and related political conflicts are reflected in its political history and complex system of governance, made up of six different governments.[13][14]",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "a german-speaking community exists in eastern wallonia.[11][12] belgium's linguistic diversity and related political conflicts are reflected in its political history and complex system of governance, made up of six different governments.[13][14]",
+        "a2_v2": "a german-speaking community exists in eastern wallonia.[11][12] belgium's linguistic diversity and related political conflicts are reflected in its political history and complex system of governance, made up of six different governments.[13][14]",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "do you think belgium will be in the running for the world cup in 2019?",
+        "a3": "belgium has a good chance with a strong team",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "@entity has a good chance with a strong team",
+        "a3_v2": "belgium has a good chance with a strong team",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "belgium"
+    },
+    {
+        "q4": "who is belgium's primary rival?",
+        "a4": "probably france, as they are the only team they lost against in the last world cup.",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "probably @entity as they are the only team they lost against in the last world cup.",
+        "a4_v2": "probably france, as they are the only team they lost against in the last world cup.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "belgium"
+    },
+    {
+        "q5": "did you rember if belgium was in the last workd cup?",
+        "a5": "yes. belgium's best finish in the world cup is third, at the russia 2018 tournament.",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "yes. belgium's best finish in the world cup is third, at the russia @object tournament.",
+        "a5_v2": "yes. belgium's best finish in the world cup is third, at the russia @number_of_world_cup_champion tournament.",
+        "corr_rel5": "world cup third place",
+        "obj5": "2018",
+        "input_ent5": "belgium"
+    }
+]

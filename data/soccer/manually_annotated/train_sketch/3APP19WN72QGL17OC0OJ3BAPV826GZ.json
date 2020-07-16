@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "has italy ever won the world cup?",
+        "a1": "yes, italy has won the world cup four times, in 1934, 1938, 1982 and 2006.",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "yes, @entity has won the world cup four times, in @object @object @object and @object",
+        "a1_v2": "yes, italy has won the world cup four times, in 1934, 1938, 1982 and 2006.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "all of this years italy has won",
+        "a2": "nothing!",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "nothing!",
+        "a2_v2": "nothing!",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "i think that they got complacent ",
+        "a3": "it's hard to get complacent when you've gone decades between wins.",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "it's hard to get complacent when you've gone decades between wins.",
+        "a3_v2": "it's hard to get complacent when you've gone decades between wins.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "does team italy practice in italy?",
+        "a4": "the major training ground is in florence.",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "the major training @relation is in florence.",
+        "a4_v2": "the major training ground is in florence.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "italy"
+    },
+    {
+        "q5": "how often is the team able to practice with player commitments to their league clubs.",
+        "a5": "italy won in the 2006 world cup and it is a good team but today it lacks ",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity won in the @object world cup and it is a good team but today it lacks ",
+        "a5_v2": "italy won in the 2006 world cup and it is a good team but today it lacks ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

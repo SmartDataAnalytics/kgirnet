@@ -1,0 +1,92 @@
+[
+    {
+        "q1": "bayern munich has a lot of potential to win the champions league",
+        "a1": "they have a new coach but they also sold important players.",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "they have a new @relation but they also sold important players.",
+        "a1_v2": "they have a new coach but they also sold important players.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bayern munich"
+    },
+    {
+        "q2": "which players do you wish they hadn't sold?",
+        "a2": "arturo vidal and douglas costa.",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "@object and @object",
+        "a2_v2": "arturo vidal and douglas costa.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "estadio do dragaoporto, portugal"
+    },
+    {
+        "q3": "why are they getting rid of players anyways?",
+        "a3": "player one: the gamers who only want to play with themselves",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "player one: the gamers who only want to play with themselves",
+        "a3_v2": "player one: the gamers who only want to play with themselves",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "did you watch their last game ?",
+        "a4": "i watched their last game, they can do better.",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i watched their last game, they can do better.",
+        "a4_v2": "i watched their last game, they can do better.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "who do you think was their mvp for the last game?",
+        "a5": "i haven't watched the last game.",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i haven't watched the last game.",
+        "a5_v2": "i haven't watched the last game.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "estadio do dragaoporto, portugal"
+    }
+]

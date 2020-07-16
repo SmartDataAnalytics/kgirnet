@@ -1,0 +1,104 @@
+[
+    {
+        "q1": "why is their defence so good?",
+        "a1": "mexico beat germany 1-0, while iceland held argentina to a 1-1 draw",
+        "kgER1": {},
+        "a1_skt": "@entity beat @entity 1-0, while @entity held @entity to a @object draw",
+        "a1_v2": "mexico beat germany 1-0, while iceland held argentina to a 1-1 draw",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "is uruguay the best team in south america?",
+        "a2": "no, there's brazil",
+        "kgER2": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "no, there's @entity",
+        "a2_v2": "no, there's brazil",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "uruguay"
+    },
+    {
+        "q3": "uruguay were eliminated in the quarter-finals in russia but their approach to football \u2013 and life \u2013 should be applauded.",
+        "a3": "i agree, they showed good games in the last cup",
+        "kgER3": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i agree, they showed good games in the last cup",
+        "a3_v2": "i agree, they showed good games in the last cup",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "uruguay"
+    },
+    {
+        "q4": "cavani and suarez are forces to be reckoned with.",
+        "a4": "i agree, although it was eliminated, it's a great team",
+        "kgER4": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "i agree, although it was eliminated, it's a great team",
+        "a4_v2": "i agree, although it was eliminated, it's a great team",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "luis suarez"
+    },
+    {
+        "q5": "which player has the lot of spirit?",
+        "a5": "uruguay has good players are brave and they give everything in the field as luis suarez",
+        "kgER5": {
+            "uruguay": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@entity has good players are brave and they give everything in the @object as @object",
+        "a5_v2": "uruguay has good players are brave and they give everything in the field as luis suarez",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

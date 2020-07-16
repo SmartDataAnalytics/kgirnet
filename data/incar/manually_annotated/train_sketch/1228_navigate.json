@@ -1,0 +1,48 @@
+[
+    {
+        "q1": "what s the quickest route to a pizza_restaurant",
+        "a1": "there are currently 2 that are 4_miles from your location papa_johns and pizza_hut",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi,distance",
+        "obj1": "4_miles,papa_johns,pizza_hut",
+        "input_ent1": "pizza_restaurant",
+        "kvr_entlist_qa1": [
+            "papa_johns",
+            "pizza_hut",
+            "4_miles"
+        ]
+    },
+    {
+        "q2": "which one is it the quickest to reach",
+        "a2": "both are 4_miles away in heavy_traffic unfortunately to which would you like directions",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "4_miles",
+            "heavy_traffic"
+        ]
+    },
+    {
+        "q3": "let s go a pizza_hut please send the indications on my map",
+        "a3": "ok mapping a route to pizza_hut at 704_el_camino_real",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "address",
+        "obj3": "704_el_camino_real",
+        "input_ent3": "pizza_hut",
+        "kvr_entlist_qa3": [
+            "704_el_camino_real",
+            "pizza_hut"
+        ]
+    },
+    {
+        "q4": "thanks car",
+        "a4": "you re welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

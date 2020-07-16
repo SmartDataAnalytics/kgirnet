@@ -1,0 +1,118 @@
+[
+    {
+        "q1": "hey, who is the manager of your team now?",
+        "a1": "jose mourinho is the current nanager at manchester united ",
+        "kgER1": {
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a1_skt": "@object is the current nanager at @entity ",
+        "a1_v2": "jose mourinho is the current nanager at manchester united ",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "how is he doing as a manager?",
+        "a2": "it feels good in the team",
+        "kgER2": {
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a2_skt": "it feels good in the team",
+        "a2_v2": "it feels good in the team",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how has it been going for you guys this season?",
+        "a3": "the season has not started yet but is about to start in the next weeks.",
+        "kgER3": {
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ]
+        },
+        "a3_skt": "the season has not started yet but is about to start in the next weeks.",
+        "a3_v2": "the season has not started yet but is about to start in the next weeks.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "who do you think is ac milans best player?",
+        "a4": "i think it's gianluigi donnarumma!",
+        "kgER4": {
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "i think it's @object",
+        "a4_v2": "i think it's gianluigi donnarumma!",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "ac milan"
+    },
+    {
+        "q5": "and who is ac milans worst player?",
+        "a5": "gianluigi can't be that one too.",
+        "kgER5": {
+            "fagner": [
+                "defender",
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey"
+            ],
+            "ac milan": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "gianluigi can't be that one too.",
+        "a5_v2": "gianluigi can't be that one too.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "ac milan"
+    }
+]

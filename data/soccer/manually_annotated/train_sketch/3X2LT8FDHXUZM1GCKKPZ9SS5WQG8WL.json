@@ -1,0 +1,132 @@
+[
+    {
+        "q1": "will dortmund sell pulisic?",
+        "a1": "i sure hope so",
+        "kgER1": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "i sure hope so",
+        "a1_v2": "i sure hope so",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "bvb dortmund"
+    },
+    {
+        "q2": " his best player is reus",
+        "a2": "definitely reus its the best player",
+        "kgER2": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "definitely reus its the @relation",
+        "a2_v2": "definitely reus its the best player",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "marco reus"
+    },
+    {
+        "q3": "can dortmund challenge to win bundesliga this year?",
+        "a3": "yes dortmund is a strong team right now",
+        "kgER3": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "yes dortmund is a strong team right now",
+        "a3_v2": "yes dortmund is a strong team right now",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "emre can"
+    },
+    {
+        "q4": "capacity of dortmund stadium?",
+        "a4": "bvb dortmund's stadium can fit 81,000 people ",
+        "kgER4": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "bvb dortmund's stadium can fit 81,000 people ",
+        "a4_v2": "bvb dortmund's stadium can fit 81,000 people ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "bvb dortmund"
+    },
+    {
+        "q5": "who is the captain of dortmund?",
+        "a5": "marco reus is dortmunds captain",
+        "kgER5": {
+            "bayern munich": [
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "bvb dortmund": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object is dortmunds @relation",
+        "a5_v2": "marco reus is dortmunds captain",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "bvb dortmund"
+    }
+]

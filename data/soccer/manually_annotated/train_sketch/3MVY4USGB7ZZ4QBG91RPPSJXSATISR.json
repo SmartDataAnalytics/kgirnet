@@ -1,0 +1,124 @@
+[
+    {
+        "q1": "i completely love liverpool",
+        "a1": "my too",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "my too",
+        "a1_v2": "my too",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "who will be their highest goal scorer this season?",
+        "a2": "probably mohamed salah. he's a very exciting player to watch. ",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "probably @object he's a very exciting player to watch. ",
+        "a2_v2": "probably mohamed salah. he's a very exciting player to watch. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "what is mohamed salah strategy to make so many goals? ",
+        "a3": "mohamed salah has great power on his kicks ",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "mohamed salah": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "@object has great power on his kicks ",
+        "a3_v2": "mohamed salah has great power on his kicks ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "mohamed salah"
+    },
+    {
+        "q4": "do you think naby is any good?",
+        "a4": "naby is the best in liverpool",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "mohamed salah": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "naby is the best in @entity",
+        "a4_v2": "naby is the best in liverpool",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "naby keita"
+    },
+    {
+        "q5": "why is it so?",
+        "a5": "naby has good skills.",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ],
+            "mohamed salah": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "naby has good skills.",
+        "a5_v2": "naby has good skills.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

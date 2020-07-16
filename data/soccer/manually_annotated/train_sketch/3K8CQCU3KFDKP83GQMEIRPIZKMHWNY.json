@@ -1,0 +1,64 @@
+[
+    {
+        "q1": "how many players are on a team? ",
+        "a1": "18 players on a team, 11 players per team on the field",
+        "kgER1": {},
+        "a1_skt": "@object players on a team, @object players per team on the @object",
+        "a1_v2": "18 players on a team, 11 players per team on the field",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "how many on the bench?",
+        "a2": "7",
+        "kgER2": {},
+        "a2_skt": "@object",
+        "a2_v2": "7",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "how many substitutions are allowed per game?",
+        "a3": "usually its 3 per game",
+        "kgER3": {},
+        "a3_skt": "usually its @object per game",
+        "a3_v2": "usually its 3 per game",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "seven the most",
+        "a4": "who did juventus recently acquire?",
+        "kgER4": {},
+        "a4_skt": "who did @entity recently acquire?",
+        "a4_v2": "who did juventus recently acquire?",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": " cristiano ronaldo",
+        "a5": "i think ronaldo scores many goals this season ",
+        "kgER5": {
+            "cristiano ronaldo": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "forward"
+            ]
+        },
+        "a5_skt": "i think ronaldo scores many @relation this season ",
+        "a5_v2": "i think ronaldo scores many goals this season ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "cristiano ronaldo"
+    }
+]

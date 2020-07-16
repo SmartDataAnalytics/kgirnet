@@ -1,0 +1,108 @@
+[
+    {
+        "q1": "love juventus",
+        "a1": "a lot of people do.",
+        "kgER1": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a1_skt": "a lot of people do.",
+        "a1_v2": "a lot of people do.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "juventus"
+    },
+    {
+        "q2": "do you think they'll get a lot of new fans now that ronaldo has joined them?",
+        "a2": "i think thats quite the understatement",
+        "kgER2": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a2_skt": "i think thats quite the understatement",
+        "a2_v2": "i think thats quite the understatement",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "cristiano ronaldo"
+    },
+    {
+        "q3": "who is the main competition for juventus in serie a?",
+        "a3": "who is the main forward in juventus?",
+        "kgER3": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ]
+        },
+        "a3_skt": "who is the main @relation in @entity",
+        "a3_v2": "who is the main forward in juventus?",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "juventus"
+    },
+    {
+        "q4": "is the forward for juventus ronaldo?",
+        "a4": "yes, he is.",
+        "kgER4": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a4_skt": "yes, he is.",
+        "a4_v2": "yes, he is.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "juventus"
+    },
+    {
+        "q5": "is he the only forward on the team?",
+        "a5": "no he isn't, there are others ",
+        "kgER5": {
+            "juventus": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on",
+                "captain"
+            ],
+            "forward": [
+                "position"
+            ]
+        },
+        "a5_skt": "no he isn't, there are others ",
+        "a5_v2": "no he isn't, there are others ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "forward"
+    }
+]

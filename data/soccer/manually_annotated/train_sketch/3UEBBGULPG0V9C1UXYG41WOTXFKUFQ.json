@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "i am not a fan of manchester united",
+        "a1": "neither am i , but we have to talk about them",
+        "kgER1": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "neither am i , but we have to talk about them",
+        "a1_v2": "neither am i , but we have to talk about them",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "manchester united"
+    },
+    {
+        "q2": "what do you dislike about manchester united \\?",
+        "a2": "a2 all",
+        "kgER2": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "a2 all",
+        "a2_v2": "a2 all",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "manchester united"
+    },
+    {
+        "q3": "and what specific \\?",
+        "a3": "they hold the record for most english top flight titles , and it 's easy to hate teams that win too much they have n't done so well recently , though",
+        "kgER3": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "they hold the record for most english top flight titles , and it 's easy to hate teams that win too much they have n't done so well recently , though",
+        "a3_v2": "they hold the record for most english top flight titles , and it 's easy to hate teams that win too much they have n't done so well recently , though",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "white and red"
+    },
+    {
+        "q4": "for me if they have done well",
+        "a4": "manchester united is a team that really stands out and therefore makes fans who love them and hate them but from which they do well it must be said",
+        "kgER4": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity is a team that really stands out and therefore makes fans who love them and hate them but from which they do well it must be said",
+        "a4_v2": "manchester united is a team that really stands out and therefore makes fans who love them and hate them but from which they do well it must be said",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "andres guardado"
+    },
+    {
+        "q5": "is there a player that does particularly well \\?",
+        "a5": "romelu lukaku",
+        "kgER5": {
+            "manchester united": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@has_player",
+        "corr_rel5": "has player",
+        "obj5": "romelu lukaku",
+        "input_ent5": "manchester united"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "what parties are on the calendar what time are they and where are they being held",
+        "a1": "there are no parties scheduled",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": []
+    },
+    {
+        "q2": "what time is my meeting where is it and who will be there",
+        "a2": "you have two meeting scheduled on the calendar the first meeting is on the_13th at 11am with the vice_president in conference_room_100 the second meeting is at 4pm with management in conference_room_50",
+        "input_rel2": "room,date,time,agenda,party",
+        "corr_rel2": "time,room,party,date",
+        "obj2": "management,the_13th,11am,4pm,conference_room_100, vice_president,meeting,conference_room_50",
+        "input_ent2": "meeting",
+        "kvr_entlist_qa2": [
+            "management",
+            "the_13th",
+            "11am",
+            "4pm",
+            "conference_room_100",
+            "vice_president",
+            "meeting",
+            "conference_room_50"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you are welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

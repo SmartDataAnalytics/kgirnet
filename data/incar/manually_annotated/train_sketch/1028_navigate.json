@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "what hospital is close",
+        "a1": "stanford_childrens_health is 3_miles away",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi, distance",
+        "obj1": "stanford_childrens_health,3_miles",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "stanford_childrens_health",
+            "3_miles"
+        ]
+    },
+    {
+        "q2": "please avoid all heavy_traffic and send me the route to get there thank you",
+        "a2": "im sorry stanford_childrens_health is the only hospital i can find it is 3_miles away through heavy_traffic at 899_ames_ct",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "",
+        "obj2": "none",
+        "input_ent2": "hospital",
+        "kvr_entlist_qa2": [
+            "3_miles",
+            "hospital",
+            "heavy_traffic",
+            "899_ames_ct",
+            "stanford_childrens_health"
+        ]
+    },
+    {
+        "q3": "ok sounds good set the navigation there please",
+        "a3": "you re welcome and the navigation has been set",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

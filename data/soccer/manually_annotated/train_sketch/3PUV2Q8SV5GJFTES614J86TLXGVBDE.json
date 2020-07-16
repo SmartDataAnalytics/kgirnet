@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "arsenal win the premier league?",
+        "a1": "no, arsenal placed 9th in the premier league.",
+        "kgER1": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "no, @entity placed 9th in the premier league.",
+        "a1_v2": "no, arsenal placed 9th in the premier league.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "arsenal"
+    },
+    {
+        "q2": "does wenger leave the team? ",
+        "a2": "yes wenger has left, unai emery is the new coach.",
+        "kgER2": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes wenger has left, @object is the new @relation",
+        "a2_v2": "yes wenger has left, unai emery is the new coach.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "is he any better than wenger? ",
+        "a3": "i think their old coach was better",
+        "kgER3": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "i think their old @relation was better",
+        "a3_v2": "i think their old coach was better",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "why did arsenal's old coach leave?",
+        "a4": "he went to man city with guardiola.",
+        "kgER4": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "he went to man city with guardiola.",
+        "a4_v2": "he went to man city with guardiola.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "arsenal"
+    },
+    {
+        "q5": "who is arsenals top scorer?",
+        "a5": "thierry henry has the most goals for arsenal, 228.",
+        "kgER5": {
+            "arsenal": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "thierry henry has the most @relation for @entity @object",
+        "a5_v2": "thierry henry has the most goals for arsenal, 228.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

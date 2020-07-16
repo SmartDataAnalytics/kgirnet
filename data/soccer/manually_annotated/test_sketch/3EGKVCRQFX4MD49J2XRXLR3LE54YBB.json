@@ -1,0 +1,132 @@
+[
+    {
+        "q1": "i like the team belgium",
+        "a1": "me too",
+        "kgER1": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "me too",
+        "a1_v2": "me too",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "belgium"
+    },
+    {
+        "q2": "where did they finish in the world cup in 2018?",
+        "a2": "2nd placed ",
+        "kgER2": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "2nd placed ",
+        "a2_v2": "2nd placed ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "2018"
+    },
+    {
+        "q3": "who is their goalkeeper now?",
+        "a3": "thibaut courtois is the belgium goalkeeper",
+        "kgER3": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ]
+        },
+        "a3_skt": "@object is the @entity @relation",
+        "a3_v2": "@goalkeeper is the belgium goalkeeper",
+        "corr_rel3": "goalkeeper",
+        "obj3": "thibaut courtois",
+        "input_ent3": "belgium"
+    },
+    {
+        "q4": "which belgian striker scored the most goals in the 2018 world cup?",
+        "a4": "lukaku scored the most goals for belgium ",
+        "kgER4": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "@object scored the most @relation for @entity ",
+        "a4_v2": "@forward scored the most forward for @entity ",
+        "corr_rel4": "forward",
+        "obj4": "romelu lukaku",
+        "input_ent4": "belgium"
+    },
+    {
+        "q5": "you think that belgium make it to the cup?",
+        "a5": "yes, i think they will be able to qualify.",
+        "kgER5": {
+            "belgium": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Third place",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "goalkeeper": [
+                "position"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "yes, i think they will be able to qualify.",
+        "a5_v2": "yes, i think they will be able to qualify.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "belgium"
+    }
+]

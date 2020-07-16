@@ -1,0 +1,32 @@
+[
+    {
+        "q1": "car there should be my friends_house around here do you see it on the map",
+        "a1": "jills_house is nearby at 347_alta_mesa_ave",
+        "input_rel1": "car_collision_nearby,moderate_traffic,poi,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "jills_house",
+        "input_ent1": "friends_house",
+        "kvr_entlist_qa1": [
+            "jills_house",
+            "347_alta_mesa_ave"
+        ]
+    },
+    {
+        "q2": "ok please direct me there via a route that avoids all heavy_traffic",
+        "a2": "setting navigation now",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    },
+    {
+        "q3": "thank you car assitant",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "q1": "i need a shopping_center within 2_miles",
+        "a1": "stanford is the only shopping_center listed at 7_miles away do you want the address",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,distance",
+        "corr_rel1": "poi",
+        "obj1": "stanford_shopping_center",
+        "input_ent1": "shopping_center",
+        "kvr_entlist_qa1": [
+            "7_miles",
+            "shopping_center"
+        ]
+    },
+    {
+        "q2": "yes and set the gps thank you",
+        "a2": "its address is 773_alger_dr now you can see it on the map with the route to follow",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type,address",
+        "corr_rel2": "address",
+        "obj2": "773_alger_dr",
+        "input_ent2": "stanford_shopping_center",
+        "kvr_entlist_qa2": [
+            "773_alger_dr"
+        ]
+    },
+    {
+        "q3": "did you pick a route with no_traffic",
+        "a3": "i picked the route with the least traffic to stanford_shopping_center",
+        "input_rel3": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel3": "none",
+        "obj3": "none",
+        "input_ent3": "stanford_shopping_center",
+        "kvr_entlist_qa3": [
+            "stanford_shopping_center"
+        ]
+    },
+    {
+        "q4": "thank you car",
+        "a4": "you re very welcome",
+        "input_rel4": "",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "",
+        "kvr_entlist_qa4": []
+    }
+]

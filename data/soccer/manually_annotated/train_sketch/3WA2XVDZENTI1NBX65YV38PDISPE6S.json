@@ -1,0 +1,102 @@
+[
+    {
+        "q1": "friends would be a good team to play against with another team",
+        "a1": "france will be a good team due to young and promising players such as mbappe and ousmane dembele.",
+        "kgER1": {
+            "fred": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a1_skt": "@entity will be a good team due to young and promising players such as mbappe and @object",
+        "a1_v2": "france will be a good team due to young and promising players such as mbappe and ousmane dembele.",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "andres guardado"
+    },
+    {
+        "q2": "i hope they win the next euro cup",
+        "a2": "they have a chance to be dominant over the next few years, with the young players they have ",
+        "kgER2": {
+            "fred": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a2_skt": "they have a chance to be dominant over the next few years, with the young players they have ",
+        "a2_v2": "they have a chance to be dominant over the next few years, with the young players they have ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "yes, i totally agree with this conversation",
+        "a3": "i think they will have great opportunities",
+        "kgER3": {
+            "fred": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a3_skt": "i think they will have great opportunities",
+        "a3_v2": "i think they will have great opportunities",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "whos their best current player in the team?",
+        "a4": "zizou is one of their best.",
+        "kgER4": {
+            "fred": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a4_skt": "zizou is one of their best.",
+        "a4_v2": "zizou is one of their best.",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "15 (first in 1930)"
+    },
+    {
+        "q5": "frabce is a good team",
+        "a5": "yes, france is a good team.",
+        "kgER5": {
+            "fred": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height"
+            ]
+        },
+        "a5_skt": "yes, @entity is a good team.",
+        "a5_v2": "yes, france is a good team.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

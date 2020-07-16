@@ -1,0 +1,195 @@
+[
+    {
+        "q1": "who is the best forward from switzerland \\?",
+        "a1": "not sure switzerland needs to improve a lot",
+        "kgER1": {
+            "forward": [
+                "position"
+            ],
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "not sure @entity needs to improve a lot",
+        "a1_v2": "not sure switzerland needs to improve a lot",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "switzerland"
+    },
+    {
+        "q2": "who is the captain of the swiss team \\?",
+        "a2": "stephan lichtsteiner",
+        "kgER2": {
+            "forward": [
+                "position"
+            ],
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "@object",
+        "a2_v2": "@captain",
+        "corr_rel2": "captain",
+        "obj2": "stephan lichtsteiner",
+        "input_ent2": "switzerland"
+    },
+    {
+        "q3": "xherdan shaqiri stephan lichtsteiner",
+        "a3": "captain is stephan lichtsteiner , but both are good players",
+        "kgER3": {
+            "forward": [
+                "position"
+            ],
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "stephan lichtsteiner": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "defender"
+            ],
+            "xherdan shaqiri": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a3_skt": "@relation is @object , but both are good players",
+        "a3_v2": "captain is stephan lichtsteiner , but both are good players",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "stephan lichtsteiner"
+    },
+    {
+        "q4": "who is the best forward from switzerland \\?",
+        "a4": "they have a couple good guys",
+        "kgER4": {
+            "forward": [
+                "position"
+            ],
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "stephan lichtsteiner": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "defender"
+            ],
+            "xherdan shaqiri": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a4_skt": "they have a couple good guys",
+        "a4_v2": "they have a couple good guys",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "switzerland"
+    },
+    {
+        "q5": "switzerlands best player is \\?",
+        "a5": "maybe xherdan shaqiri",
+        "kgER5": {
+            "forward": [
+                "position"
+            ],
+            "switzerland": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Quarter-finals",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ],
+            "stephan lichtsteiner": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "captain",
+                "defender"
+            ],
+            "xherdan shaqiri": [
+                "has player",
+                "position",
+                "goals",
+                "caps",
+                "age",
+                "jersey",
+                "height",
+                "midfielder"
+            ]
+        },
+        "a5_skt": "maybe @object",
+        "a5_v2": "maybe xherdan shaqiri",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "andres guardado"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "i need to find a hospital quickly without any heavy_traffic",
+        "a1": "stanford_express_care is 5_miles away with no_traffic would you like directions there",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "stanford_express_care",
+        "input_ent1": "hospital",
+        "kvr_entlist_qa1": [
+            "5_miles",
+            "stanford_express_care",
+            "no_traffic"
+        ]
+    },
+    {
+        "q2": "yes where is it",
+        "a2": "its address is 214_el_camino_real i sent its position on your screen",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": [
+            "214_el_camino_real"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

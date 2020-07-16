@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "what s today s and tomorrow s forecast",
+        "a1": "what city would you like weather information about today and tomorrow",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "today",
+            "tomorrow"
+        ]
+    },
+    {
+        "q2": "i want to know about grand_rapids and if it s going to be hot or not",
+        "a2": "today in grand_rapids the high should be in the 70fs tomorrow s high should be in the 90fs",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "70f,90f",
+        "input_ent2": "grand_rapids",
+        "kvr_entlist_qa2": [
+            "grand_rapids",
+            "today",
+            "tomorrow"
+        ]
+    },
+    {
+        "q3": "okay so the next 48 hours are going to be kind of hot thanks",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

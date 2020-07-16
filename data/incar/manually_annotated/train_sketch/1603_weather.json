@@ -1,0 +1,35 @@
+[
+    {
+        "q1": "can i get the two_day weather report",
+        "a1": "what city would you like to hear the two_day weather report from",
+        "input_rel1": "",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "",
+        "kvr_entlist_qa1": [
+            "two_day"
+        ]
+    },
+    {
+        "q2": "new_york will it be humid",
+        "a2": "yes today s forecast states that it is humid in new_york",
+        "input_rel2": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel2": "monday",
+        "obj2": "humid",
+        "input_ent2": "new_york",
+        "kvr_entlist_qa2": [
+            "humid",
+            "today",
+            "new_york"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

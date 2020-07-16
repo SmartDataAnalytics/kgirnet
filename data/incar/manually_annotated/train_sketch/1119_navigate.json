@@ -1,0 +1,38 @@
+[
+    {
+        "q1": "find me a hotel nearby",
+        "a1": "there are 2 hotels nearby the_clement_hotel and four_seasons",
+        "input_rel1": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "the_clement_hotel,four_seasons",
+        "input_ent1": "rest_stop",
+        "kvr_entlist_qa1": [
+            "four_seasons",
+            "the_clement_hotel"
+        ]
+    },
+    {
+        "q2": "tell me the one that i can get to the quickest",
+        "a2": "you will be able to get to four_seasons the quickest it is located at 465_arcadia_pl and is 6_miles away",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address, distance",
+        "obj2": "465_arcadia_pl, 6_miles",
+        "input_ent2": "rest_stop",
+        "kvr_entlist_qa2": [
+            "four_seasons",
+            "6_miles",
+            "465_arcadia_pl"
+        ]
+    },
+    {
+        "q3": "thanks for directions via the quickest route",
+        "a3": "there is moderate_traffic on our way but it won t take too long i sent everything on your screen you re welcome",
+        "input_rel3": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": [
+            "moderate_traffic"
+        ]
+    }
+]

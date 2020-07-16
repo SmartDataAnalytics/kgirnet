@@ -1,0 +1,118 @@
+[
+    {
+        "q1": "what is argentina's top domestic league called?",
+        "a1": "superliga argentina de f\u00fatbol",
+        "kgER1": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "superliga @entity de f\u00fatbol",
+        "a1_v2": "superliga argentina de f\u00fatbol",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "argentina"
+    },
+    {
+        "q2": "decent side",
+        "a2": "i always wondered how good the superliga from argentina truly is. ",
+        "kgER2": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "i always wondered how good the superliga from @entity truly is. ",
+        "a2_v2": "i always wondered how good the superliga from argentina truly is. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "andres guardado"
+    },
+    {
+        "q3": "who is the top team in the superliga?",
+        "a3": "i am not sure.",
+        "kgER3": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i am not sure.",
+        "a3_v2": "i am not sure.",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "15 (first in 1930)"
+    },
+    {
+        "q4": "how many goals has messi scored for argentina?",
+        "a4": "65 goals",
+        "kgER4": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a4_skt": "@object @relation",
+        "a4_v2": "@caps goals",
+        "corr_rel4": "goals",
+        "obj4": "65",
+        "input_ent4": "lionel messi"
+    },
+    {
+        "q5": "when will messi retire from football?",
+        "a5": "i hope he will play one more world championship.",
+        "kgER5": {
+            "argentina": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "defender",
+                "has player",
+                "midfielder",
+                "forward"
+            ],
+            "red": [
+                "jersey color"
+            ]
+        },
+        "a5_skt": "i hope he will play one more @relation",
+        "a5_v2": "i hope he will play one more world championship.",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "lionel messi"
+    }
+]

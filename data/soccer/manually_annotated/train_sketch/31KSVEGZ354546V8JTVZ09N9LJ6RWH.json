@@ -1,0 +1,97 @@
+[
+    {
+        "q1": "who is the parent organization for liverpool?",
+        "a1": "fenway sports group",
+        "kgER1": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a1_skt": "fenway sports group",
+        "a1_v2": "fenway sports group",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "liverpool"
+    },
+    {
+        "q2": "is liverpool a good team?",
+        "a2": "yes, liverpool has won many titles. ",
+        "kgER2": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a2_skt": "yes, @entity has won many titles. ",
+        "a2_v2": "yes, liverpool has won many titles. ",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "liverpool"
+    },
+    {
+        "q3": "will they they win the championship this season?",
+        "a3": "maybe. they're very good but so are manchester city. ",
+        "kgER3": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a3_skt": "maybe. they're very good but so are manchester city. ",
+        "a3_v2": "maybe. they're very good but so are manchester city. ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "although manchester city against liverpool is a good game for their tactics",
+        "a4": "liverpool will be up against it to win that one. ",
+        "kgER4": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a4_skt": "@entity will be up against it to win that one. ",
+        "a4_v2": "liverpool will be up against it to win that one. ",
+        "corr_rel4": "",
+        "obj4": "",
+        "input_ent4": "liverpool"
+    },
+    {
+        "q5": "liverpool 3-0 manchester city, champions league: tactical analysis ",
+        "a5": "i think they can win the league if salah plays well and doesn't get injured. ",
+        "kgER5": {
+            "liverpool": [
+                "ground",
+                "chairman",
+                "coach",
+                "has player",
+                "jersey color",
+                "founded on"
+            ]
+        },
+        "a5_skt": "i think they can win the league if salah plays well and doesn't get injured. ",
+        "a5_v2": "i think they can win the league if salah plays well and doesn't get injured. ",
+        "corr_rel5": "",
+        "obj5": "",
+        "input_ent5": "liverpool"
+    }
+]

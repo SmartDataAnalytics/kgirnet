@@ -1,0 +1,25 @@
+[
+    {
+        "q1": "what will the lowest temperture be in downtown_chicago next_week",
+        "a1": "next_week the lowest_temperature will be 20f in downtown_chicago",
+        "input_rel1": "tuesday,monday,thursday,friday,saturday,sunday,wednesday",
+        "corr_rel1": "tuesday",
+        "obj1": "20f",
+        "input_ent1": "downtown_chicago",
+        "kvr_entlist_qa1": [
+            "next_week",
+            "20f",
+            "lowest_temperature",
+            "downtown_chicago"
+        ]
+    },
+    {
+        "q2": "great thank you for helping me out",
+        "a2": "happy to help",
+        "input_rel2": "",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "",
+        "kvr_entlist_qa2": []
+    }
+]

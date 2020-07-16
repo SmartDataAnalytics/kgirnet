@@ -1,0 +1,117 @@
+[
+    {
+        "q1": "i really love the team italy",
+        "a1": "i admire italy",
+        "kgER1": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a1_skt": "i admire @entity",
+        "a1_v2": "i admire italy",
+        "corr_rel1": "",
+        "obj1": "",
+        "input_ent1": "italy"
+    },
+    {
+        "q2": "what do you like about italy?",
+        "a2": "in my opinion, they have the best defense till date.",
+        "kgER2": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a2_skt": "in my opinion, they have the best @relation till date.",
+        "a2_v2": "in my opinion, they have the best defense till date.",
+        "corr_rel2": "",
+        "obj2": "",
+        "input_ent2": "italy"
+    },
+    {
+        "q3": "how would you rate their the current state of their team?",
+        "a3": "i feel that they have had a very bad level ",
+        "kgER3": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a3_skt": "i feel that they have had a very bad level ",
+        "a3_v2": "i feel that they have had a very bad level ",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "andres guardado"
+    },
+    {
+        "q4": "how many world cup victories do they have?",
+        "a4": "only one this century. a total of 4 but.",
+        "kgER4": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a4_skt": "only one this century. a total of @object but.",
+        "a4_v2": "only one this century. a total of @number_of_world_cup_champion but.",
+        "corr_rel4": "number of world cup champion",
+        "obj4": "4",
+        "input_ent4": "italy"
+    },
+    {
+        "q5": "when was that win?",
+        "a5": "2006",
+        "kgER5": {
+            "italy": [
+                "coach",
+                "captain",
+                "world cup appearance",
+                "number of world cup champion",
+                "world cup Champions",
+                "goalkeeper",
+                "has player",
+                "defender",
+                "midfielder",
+                "forward"
+            ]
+        },
+        "a5_skt": "@object",
+        "a5_v2": "@world_cup_champions",
+        "corr_rel5": "world cup champions",
+        "obj5": "2006",
+        "input_ent5": "italy"
+    }
+]

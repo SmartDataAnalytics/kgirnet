@@ -1,0 +1,36 @@
+[
+    {
+        "q1": "where is the closest grocery_store",
+        "a1": "we are 4_miles away from whole_foods and from safeway which one do you prefer",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "whole_foods,safeway",
+        "input_ent1": "grocery_store",
+        "kvr_entlist_qa1": [
+            "whole_foods",
+            "safeway",
+            "4_miles"
+        ]
+    },
+    {
+        "q2": "safeway",
+        "a2": "safeway is located at 452_arcadia_pl",
+        "input_rel2": "distance,poi,address,traffic_info,poi_type",
+        "corr_rel2": "address",
+        "obj2": "452_arcadia_pl",
+        "input_ent2": "safeway",
+        "kvr_entlist_qa2": [
+            "safeway",
+            "452_arcadia_pl"
+        ]
+    },
+    {
+        "q3": "pick the quickest route to go there and send the info on my screen please",
+        "a3": "you re all set drive carefully",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

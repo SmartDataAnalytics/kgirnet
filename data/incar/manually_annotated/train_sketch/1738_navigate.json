@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "find me chinese food",
+        "a1": "there is a mandarin_roots near",
+        "input_rel1": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel1": "poi",
+        "obj1": "mandarin_roots",
+        "input_ent1": "chinese_restaurant",
+        "kvr_entlist_qa1": [
+            "mandarin_roots"
+        ]
+    },
+    {
+        "q2": "how close is it to me",
+        "a2": "mandarin_roots chinese_restaurant is 4_miles away with heavy_traffic it is located at 271_springer_street",
+        "input_rel2": "car_collision_nearby,poi,moderate_traffic,road_block_nearby,no_traffic,heavy_traffic,poi_type",
+        "corr_rel2": "distance",
+        "obj2": "4_miles",
+        "input_ent2": "mandarin_roots",
+        "kvr_entlist_qa2": [
+            "4_miles",
+            "mandarin_roots",
+            "heavy_traffic",
+            "chinese_restaurant",
+            "271_springer_street"
+        ]
+    },
+    {
+        "q3": "thank you",
+        "a3": "you re welcome happy to help",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]

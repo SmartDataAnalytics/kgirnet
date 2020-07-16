@@ -1,0 +1,37 @@
+[
+    {
+        "q1": "what is the date and location for my conference and who is attending",
+        "a1": "for which one i have two one at 6pm and one at 3pm",
+        "input_rel1": "room,date,time,agenda,party",
+        "corr_rel1": "time",
+        "obj1": "6pm,3pm",
+        "input_ent1": "conference",
+        "kvr_entlist_qa1": [
+            "6pm",
+            "3pm"
+        ]
+    },
+    {
+        "q2": "the one at 6pm please",
+        "a2": "the event is on sunday at 6pm in conference_room_102 and management will be attending",
+        "input_rel2": "time,date",
+        "corr_rel2": "time,date",
+        "obj2": "6pm,sunday",
+        "input_ent2": "conference",
+        "kvr_entlist_qa2": [
+            "conference_room_102",
+            "6pm",
+            "sunday",
+            "management"
+        ]
+    },
+    {
+        "q3": "thanks",
+        "a3": "no problem goodbye",
+        "input_rel3": "",
+        "corr_rel3": "",
+        "obj3": "",
+        "input_ent3": "",
+        "kvr_entlist_qa3": []
+    }
+]
