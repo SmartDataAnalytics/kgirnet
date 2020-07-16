@@ -7,6 +7,7 @@ def get_args():
     parser = ArgumentParser(description="Soccer chatbot")
     parser.add_argument('--no_cuda', action='store_false', help='do not use cuda', dest='cuda')
     parser.add_argument('--gpu', type=bool, default=False)
+    parser.add_argument('--evaluate', type=bool, default=False)
     parser.add_argument('--unk_tok', type=str, default='<unk>')
     parser.add_argument('--sos_tok', type=str, default='<sos>')
     parser.add_argument('--eos_tok', type=str, default='<eos>')

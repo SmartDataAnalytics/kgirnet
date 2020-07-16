@@ -288,6 +288,8 @@ def _test(model, k=10):
 
 
 if __name__ == '__main__':
-    train()
-    # test_convo(model)
-    _test(model)
+    if args.evaluate:
+        train()
+        _test(model)
+    else: # Only evaluate the model
+        _test(model)
