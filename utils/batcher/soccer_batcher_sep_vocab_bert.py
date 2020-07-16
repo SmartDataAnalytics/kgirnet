@@ -108,7 +108,7 @@ class SoccerBatcher:
         for d in dataset:
             for w in d['q'].split():
                 self.src_vocab[w] += 1.0
-            for w in d['_a'].split():
+            for w in d['a'].split():
                 self.trg_vocab[w] += 1.0
 
     @staticmethod
