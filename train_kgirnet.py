@@ -23,7 +23,7 @@ print (args)
 np.random.seed(args.randseed)
 torch.manual_seed(args.randseed)
 wewpi_eval=0.0 # initialize with int and only once
-fasttext_emb= os.getcwd()+'/data/wiki.simple.bin'
+fasttext_emb= os.path.join(os.getcwd(),'data/wiki.simple.bin')
 # fasttext_emb='data/wiki.simple.bin'
 if args.gpu:
     torch.cuda.manual_seed(args.randseed)
