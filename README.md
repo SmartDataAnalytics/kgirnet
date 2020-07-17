@@ -1,4 +1,4 @@
-# KGIRNET: Grounding DIalogue Systems via Knowledge Graph Aware Decoding with Pre-trained Transformers
+# KGIRNET: Grounding Dialogue Systems via Knowledge Graph Aware Decoding with Pre-trained Transformers
 
 
 ### Requirements
