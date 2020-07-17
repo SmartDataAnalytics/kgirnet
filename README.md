@@ -1,12 +1,12 @@
 # KGIRNET: Grounding DIalogue Systems via Knowledge Graph Aware Decoding with Pre-trained Transformers
 
 
-#Requirements
+### Requirements
 * python==3.6
 * torch==1.3.1
 
 
-#Installation
+### Installation
 First download the Fasttext word embedding from here ([download](https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.simple.zip)), extract and put the wiki.simple.bin file inside ```data/``` directory.
 
 
@@ -26,6 +26,7 @@ To train the model from scratch run the following command:
 python -u ./train_kgirnet.py --batch_size 20 --hidden_size 256 --rnn_dropout 0.2 --dropout 0.3 --decoder_lr 10 --epochs 10 --teacher_forcing 10 --resp_len 20 --lr 0.0001 --use_bert 1 --dataset incar
 ```
 
+### Evaluation
 To get the METEOR score of the saved predictions run:
 ```python
 python evaluators/METEOR_score.py
