@@ -14,13 +14,13 @@ Now run the following command to install the requirements:
 ```python
 pip install -r requirements.txt
 ```
-
+### Test
 To test the already trained model download the saved model form here ([download](https://gofile.io/d/2v3Kyo)) and put it inside ```saved_models/``` directory. Now run the following command:
 ```python
 python -u ./train_kgirnet.py --batch_size 20 --hidden_size 256 --rnn_dropout 0.2 --dropout 0.3 --decoder_lr 10 --epochs 10 --teacher_forcing 10 --resp_len 20 --lr 0.0001 --use_bert 1 --dataset incar --evaluate 1
 ```
 
-
+### Train
 To train the model from scratch run the following command:
 ```python
 python -u ./train_kgirnet.py --batch_size 20 --hidden_size 256 --rnn_dropout 0.2 --dropout 0.3 --decoder_lr 10 --epochs 10 --teacher_forcing 10 --resp_len 20 --lr 0.0001 --use_bert 1 --dataset incar
