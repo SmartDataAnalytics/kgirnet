@@ -12,3 +12,16 @@ for fl in files:
                 sc.append(single_meteor_score(info[1],info[2]))
 
     print(fl," ::  METEOR score: ",round(np.average(sc)*100,2))
+
+
+
+# files = ['kgcopy_incar.tsv','kgcopy_soccer.tsv']
+# for fl in files:
+#     sc = []
+#     with open(fl) as f:
+#         for i, aline in enumerate(f.readlines()):
+#             if i:
+#                 info = aline.strip().split("\t")
+#                 sc.append(single_meteor_score(info[0],info[1]))
+#
+#     print(fl," ::  METEOR score: ",round(np.average(sc)*100,2))

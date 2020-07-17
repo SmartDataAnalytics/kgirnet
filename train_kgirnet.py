@@ -27,7 +27,6 @@ fasttext_emb= os.path.join(os.getcwd(),'data/wiki.simple.bin')
 # fasttext_emb='data/wiki.simple.bin'
 if args.gpu:
     torch.cuda.manual_seed(args.randseed)
-    # fasttext_emb='/data/home1/deep/soccerbot_acl/vocab/cc.en.300.bin'
     fasttext_emb='data/wiki.simple.bin'
 
 
