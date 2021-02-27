@@ -4,7 +4,8 @@ Generating knowledge grounded responses in both goal and non-goal oriented dialo
 
 ### Requirements
 * python==3.6
-* torch==1.3.1
+* torch==1.5.1
+* [Anaconda](https://www.anaconda.com/products/individual)
 
 
 ### Installation
@@ -12,7 +13,7 @@ First download the Fasttext word embedding from here ([download](https://dl.fbai
 
 
 Now run the following command to install the requirements:
-```python
+```commandline
 pip install -r requirements.txt
 ```
 ## Test
