@@ -10,22 +10,16 @@ Generating knowledge grounded responses in both goal and non-goal oriented dialo
 
 
 ### Installation
-First download the Fasttext word embedding from here ([download](https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.simple.zip)), extract and put the wiki.simple.bin file inside ```data/``` directory.
-
-
-Now run the following command to install the requirements:
+Run the following command to install the requirements:
 ```commandline
+conda create -n kgirnet -y python=3.6 && source activate kgirnet
 pip install -r requirements.txt
-```
-## Test
-To test the pre-trained model download the saved model form here ([in-car model](https://gofile.io/d/2v3Kyo), [soccer model](https://gofile.io/d/ZqoNwM)) and put them inside the ```saved_models/``` directory. Now run the following commands:
-#### For in-car dataset:
-```python
-python -u ./train_kgirnet.py --batch_size 20 --hidden_size 256 --rnn_dropout 0.2 --dropout 0.3 --decoder_lr 10 --epochs 10 --teacher_forcing 10 --resp_len 20 --lr 0.0001 --use_bert 1 --dataset incar --evaluate 1
-```
-#### For soccer dataset:
-```python
-python -u ./train_kgirnet.py --batch_size 20 --hidden_size 256 --rnn_dropout 0.2 --dropout 0.3 --decoder_lr 10 --epochs 10 --teacher_forcing 10 --resp_len 20 --lr 0.0001 --use_bert 1 --dataset soccer --evaluate 1
+
+wget https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.simple.zip
+unzip wiki.simple.zip
+mv wiki.simple.bin data/
+rm wiki.simple.vec
+rm wiki.simple.zip
 ```
 
 ## Train
@@ -37,6 +31,18 @@ python -u ./train_kgirnet.py --batch_size 20 --hidden_size 256 --rnn_dropout 0.2
 #### For soccer dataset
 ```python
 python -u ./train_kgirnet.py --batch_size 20 --hidden_size 256 --rnn_dropout 0.2 --dropout 0.3 --decoder_lr 10 --epochs 10 --teacher_forcing 10 --resp_len 20 --lr 0.0001 --use_bert 1 --dataset soccer
+```
+
+
+## Test
+To test the pre-trained model download the saved model form here ([in-car model](https://gofile.io/d/2v3Kyo), [soccer model](https://gofile.io/d/ZqoNwM)) and put them inside the ```saved_models/``` directory. Now run the following commands:
+#### For in-car dataset:
+```python
+python -u ./train_kgirnet.py --batch_size 20 --hidden_size 256 --rnn_dropout 0.2 --dropout 0.3 --decoder_lr 10 --epochs 10 --teacher_forcing 10 --resp_len 20 --lr 0.0001 --use_bert 1 --dataset incar --evaluate 1
+```
+#### For soccer dataset:
+```python
+python -u ./train_kgirnet.py --batch_size 20 --hidden_size 256 --rnn_dropout 0.2 --dropout 0.3 --decoder_lr 10 --epochs 10 --teacher_forcing 10 --resp_len 20 --lr 0.0001 --use_bert 1 --dataset soccer --evaluate 1
 ```
 
 ## Evaluation
