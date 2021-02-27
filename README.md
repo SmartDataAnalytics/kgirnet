@@ -32,12 +32,14 @@ python -u ./train_kgirnet.py --batch_size 20 --hidden_size 256 --rnn_dropout 0.2
 ```python
 python -u ./train_kgirnet.py --batch_size 20 --hidden_size 256 --rnn_dropout 0.2 --dropout 0.3 --decoder_lr 10 --epochs 10 --teacher_forcing 10 --resp_len 20 --lr 0.0001 --use_bert 1 --dataset soccer
 ```
+Running the above command will train and then test the trained model. Then a *.csv file will be generated which will contain the test predictions.
+
 
 ## Test
-To test the pre-trained model download the saved model form here ([in-car model](https://ndownloader.figshare.com/files/26645240), [soccer model](https://ndownloader.figshare.com/files/26645699)) and put them inside the ```saved_models/``` directory. Now run the following commands:
+To test the pre-trained model download the saved model form here ([in-car model](https://ndownloader.figshare.com/files/26645885), [soccer model](https://ndownloader.figshare.com/files/26645699)) and put them inside the ```saved_models/``` directory. Now run the following commands:
 #### For in-car dataset:
 ```python
-python -u ./train_kgirnet.py --batch_size 20 --hidden_size 256 --rnn_dropout 0.2 --dropout 0.3 --decoder_lr 10 --epochs 10 --teacher_forcing 10 --resp_len 20 --lr 0.0001 --use_bert 1 --dataset incar --evaluate 1
+python -u ./train_kgirnet.py --batch_size 20 --hidden_size 128 --rnn_dropout 0.2 --dropout 0.3 --decoder_lr 10 --epochs 10 --teacher_forcing 10 --resp_len 20 --lr 0.0001 --use_bert 1 --dataset incar --evaluate 1
 ```
 #### For soccer dataset:
 ```python
