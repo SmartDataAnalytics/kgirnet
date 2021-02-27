@@ -33,7 +33,7 @@ if args.gpu:
 # Define variables
 if args.dataset == 'incar':
     data_path = 'data/incar/'
-    model_name = 'IR_KG_Net_incar_sep_dec'
+    model_name = 'IR_KG_Net_incar'
     test_results = 'test_predicted_ir_kg_net_incar'
 else:
     data_path = 'data/soccer/'
