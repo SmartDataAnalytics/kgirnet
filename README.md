@@ -50,3 +50,9 @@ To get the METEOR score of the saved predictions run:
 ```python
 python evaluators/METEOR_score.py
 ```
+
+## License
+MIT
+
+## Citation
+Coming soon
