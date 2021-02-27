@@ -176,7 +176,6 @@ def train():
         moses_bleu, bleu1, bleu2, bleu3, bleu4 = get_moses_multi_bleu(predicted_s, orig_s, lowercase=True)
 
         print ('Length of pred:' + str(len(orig_s)) + ' moses bleu: '+ str(moses_bleu))
-        print("Entity F1-score (mem2seq): ", m2s_f1)
         print("Entity F1-score (ours): ", f1_ent)
         # print("Entity accuracy: ", np.average(ent_acc))
         # if moses_bleu > best_sc:
@@ -274,7 +273,6 @@ def _test(model, k=10):
     print ('BLEU scores', bleu1, bleu2, bleu3, bleu4)
     print ("Moses Bleu:" + str(moses_bleu))
     print("F1 score (ours): ", f1)
-    print("F1 score (mem2seq): ", m2s_f1)
     # print("WE_WPI score: ", we_wpi_score)
     test_out['Input_query'] = input_q
     test_out['original_response'] = orig_s
