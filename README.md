@@ -3,13 +3,13 @@ Generating knowledge grounded responses in both goal and non-goal oriented dialo
 
 ![](https://github.com/DeepInEvil/kgirnet/blob/master/model_diagram.png)
 
-### Requirements
+## ✅ Requirements
 * python==3.6
 * torch==1.5.1
 * [Anaconda](https://www.anaconda.com/products/individual)
 
 
-### 🔧 Installation
+## 🔧 Installation
 Run the following command to install the requirements:
 ```commandline
 conda create -n kgirnet -y python=3.6 && source activate kgirnet
