@@ -47,7 +47,7 @@ python -u ./train_kgirnet.py --batch_size 20 --hidden_size 256 --rnn_dropout 0.2
 ```
 
 ## ⚖️ Evaluation
-To get the METEOR score of the saved predictions run:
+Evaluation scores are mostly obtained by running the test scripts mentioned in the above section. However,to get the METEOR score of the saved predictions run:
 ```python
 python evaluators/METEOR_score.py
 ```
