@@ -35,7 +35,7 @@ python -u ./train_kgirnet.py --batch_size 20 --hidden_size 256 --rnn_dropout 0.2
 Running the above command will train and then test the trained model. Then a *.csv file will be generated which will contain the test predictions.
 
 
-## 🎯 Test and ⚖️ Evaluation
+## 🎯 Test and Evaluation ⚖️
 To test the pre-trained model download the saved model form here ([in-car model](https://ndownloader.figshare.com/files/26645885), [soccer model](https://ndownloader.figshare.com/files/26645699)) and put them inside the ```saved_models/``` directory. Now run the following commands:
 #### For in-car dataset:
 ```python
