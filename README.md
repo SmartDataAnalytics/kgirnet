@@ -35,7 +35,7 @@ python -u ./train_kgirnet.py --batch_size 20 --hidden_size 256 --rnn_dropout 0.2
 Running the above command will train and then test the trained model. Then a *.csv file will be generated which will contain the test predictions.
 
 
-## 🎯 Test
+## 🎯 Test and ⚖️ Evaluation
 To test the pre-trained model download the saved model form here ([in-car model](https://ndownloader.figshare.com/files/26645885), [soccer model](https://ndownloader.figshare.com/files/26645699)) and put them inside the ```saved_models/``` directory. Now run the following commands:
 #### For in-car dataset:
 ```python
@@ -45,12 +45,7 @@ python -u ./train_kgirnet.py --batch_size 20 --hidden_size 128 --rnn_dropout 0.2
 ```python
 python -u ./train_kgirnet.py --batch_size 20 --hidden_size 256 --rnn_dropout 0.2 --dropout 0.3 --decoder_lr 10 --epochs 10 --teacher_forcing 10 --resp_len 20 --lr 0.0001 --use_bert 1 --dataset soccer --evaluate 1
 ```
-
-## ⚖️ Evaluation
-Evaluation scores are mostly obtained by running the test scripts mentioned in the above section. However,to get the METEOR score of the saved predictions run:
-```python
-python evaluators/METEOR_score.py
-```
+Evaluation scores are generated at the end of testing.
 
 ## 📜 License
 MIT
